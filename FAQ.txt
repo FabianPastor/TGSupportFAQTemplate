@@ -165,10 +165,10 @@ When user is posting personal stuff, as if this was a 'favourites' folder
 {KEYS}
 nothere
 {VALUE}
-Por favor, ten en cuenta que este chat se usa para asistencia tÃ©cnica. Nuestros voluntarios leen todo lo que envÃ­as aquÃ­. Si necesitas un sitio para almacenar datos, puedes usar el "chat contigo" de almacenamiento de Telegram.
+Por favor, ten en cuenta que este chat se usa para asistencia tÃ©cnica. Nuestros voluntarios leen todo lo que envÃ­as aquÃ­. Si necesitas un sitio para almacenar datos, puedes usar el â€œchat contigoâ€ de almacenamiento de Telegram.
 iOS: Contactos > Toca sobre tu nÃºmero de telÃ©fono en la parte superior.
 Android: MenÃº principal > Toca sobre tu nÃºmero de telÃ©fono en la parte superior.
-Windows Phone: Chats > Nuevo chat > Toca sobre "TÃº".
+Windows Phone: Chats > Nuevo chat > Toca sobre â€œTÃºâ€.
 Puedes acceder a todo lo que envÃ­es en ese chat de almacenamiento desde cualquier dispositivo al que te conectes, incluyendo tu PC.
 {QUESTION}
 When user is insulting us
@@ -349,8 +349,8 @@ encryption
 encrypted
 {VALUE}
 Soportamos dos capas de cifrado seguro (servidor-cliente y cliente-cliente). Nuestro cifrado estÃ¡ basado en el 256-bit symmetric AES, el RSA 2048 y las claves de intercambio seguro Diffie-Hellman.
-Cuando se crea un chat secreto, los dispositivos participantes intercambian las claves de cifrado, las tambiÃ©n llamadas claves de intercambio Diffie-Hellman. DespuÃ©s de que la conexiÃ³n segura "end-to-end" se haya llevado a cabo, generamos una imagen que representa la clave de cifrado para tu chat.
-Puedes comparar esta imagen con la que tiene tu amigo: si las dos imÃ¡genes son iguales, puedes tener la certeza de que el chat secreto es seguro y ningÃºn ataque "man-in-the-middle" puede tener Ã©xito.
+Cuando se crea un chat secreto, los dispositivos participantes intercambian las claves de cifrado, las tambiÃ©n llamadas claves de intercambio Diffie-Hellman. DespuÃ©s de que la conexiÃ³n segura â€œend-to-endâ€ se haya llevado a cabo, generamos una imagen que representa la clave de cifrado para tu chat.
+Puedes comparar esta imagen con la que tiene tu amigo: si las dos imÃ¡genes son iguales, puedes tener la certeza de que el chat secreto es seguro y ningÃºn ataque â€œman-in-the-middleâ€ puede tener Ã©xito.
 Puedes encontrar mÃ¡s informaciÃ³n en las preguntas frecuentes avanzadas: https://core.telegram.org/techfaq
 {QUESTION}
 How many users does Telegram have?
@@ -384,7 +384,7 @@ canyouseemessages
 {VALUE}
 SÃ³lo leemos los mensajes que nos envÃ­as directamente a nosotros, como por ejemplo en este chat de soporte. Telegram no es una compaÃ±Ã­a comercial, sino un proyecto de cÃ³digo abierto sin Ã¡nimo de lucro, que se sustenta gracias a una donaciÃ³n.
 Creamos Telegram para hacer la mensajerÃ­a segura y gratuita disponible para todos. Nuestra reputaciÃ³n y tu privacidad son las Ãºnicas cosas que nos preocupan.
-De hecho, ni siquiera tienes por quÃ© confiar en nosotros. Si usas el chat secreto cifrado "end-to-end", es tÃ©cnicamente imposible para cualquiera, excepto el destinatario, leer tus mensajes.
+De hecho, ni siquiera tienes por quÃ© confiar en nosotros. Si usas el chat secreto cifrado â€œend-to-endâ€, es tÃ©cnicamente imposible para cualquiera, excepto el destinatario, leer tus mensajes.
 Mira tambiÃ©n: https://telegram.org/privacy
 {QUESTION}
 When is the next update coming?
@@ -421,7 +421,7 @@ cloudsafe
 safecloud
 {VALUE}
 La seguridad es una de las mayores atracciones de Telegram: todo lo que envÃ­as y recibes estÃ¡ fuertemente cifrado. Los datos de tus chats en la nube son almacenados cifrados en la Nube de Telegram.
-Y si no te gusta la idea de sincronizar tus chats a travÃ©s de mÃºltiples dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado "end-to-end" y sÃ³lo pueden ser descifrados por los dispositivos tuyo y del destinatario. No son parte de la nube y sÃ³lo puede accederse a ellos desde el dispositivo en que lo creaste. Y si cierras la sesiÃ³n en ese dispositivo, ellos desaparecen.
+Y si no te gusta la idea de sincronizar tus chats a travÃ©s de mÃºltiples dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado â€œend-to-endâ€ y sÃ³lo pueden ser descifrados por los dispositivos tuyo y del destinatario. No son parte de la nube y sÃ³lo puede accederse a ellos desde el dispositivo en que lo creaste. Y si cierras la sesiÃ³n en ese dispositivo, ellos desaparecen.
 {QUESTION}
 Why did you call this Telegram?
 {KEYS}
@@ -484,7 +484,7 @@ inv
 invisible
 hidelastseen
 {VALUE}
-Puedes seleccionar quiÃ©n puede ver tu "Ãºltima conexiÃ³n" en los ajustes de Privacidad y seguridad.
+Puedes seleccionar quiÃ©n puede ver tu â€œÃºltima conexiÃ³nâ€ en los ajustes de Privacidad y seguridad.
 No verÃ¡s la Ãºltima conexiÃ³n de las personas con las que no compartes la tuya. PodrÃ¡s, sin embargo, ver un valor aproximado. Esto mantiene a los acosadores a raya y ademÃ¡s te permite ver con facilidad si puedes contactar con una persona mediante Telegram. Hay cuatro valores aproximados posibles:
 - Ãšltima vez recientemente: cubre todo entre 1 segundo y 2-3 dÃ­as
 - Ãšltima vez hace unos dÃ­as: entre 2-3 y 7 dÃ­as
@@ -516,7 +516,7 @@ onecheck
 {VALUE}
 1 tick = mensaje entregado a la nube de Telegram (y estÃ¡ a la espera de que tu compaÃ±ero de chat lo vea en Telegram), notificaciÃ³n enviada (si el destinatario acepta notificaciones).
 2 ticks = mensaje leÃ­do (el destinatario abriÃ³ Telegram y la conversaciÃ³n con tu mensaje).
-No tenemos un estado adicional de "mensaje entregado en el dispositivo", porque puedes usar Telegram en mÃºltiples dispositivos simultÃ¡neamente. Como no puedes saber quÃ© dispositivo estÃ¡ usando actualmente una persona, la entrega a uno de esos equipos se hace irrelevante.
+No tenemos un estado adicional de â€œmensaje entregado en el dispositivoâ€, porque puedes usar Telegram en mÃºltiples dispositivos simultÃ¡neamente. Como no puedes saber quÃ© dispositivo estÃ¡ usando actualmente una persona, la entrega a uno de esos equipos se hace irrelevante.
 {QUESTION}
 Can I hide my online status?
 {KEYS}
@@ -525,7 +525,7 @@ hidestatus
 hideonlinestatus
 hideonline
 {VALUE}
-Tu estado en lÃ­nea se muestra sÃ³lo a las personas que pueden ver tu Ãºltima conexiÃ³n. Si no compartes tu Ãºltima conexiÃ³n con ellos, sÃ³lo te verÃ¡n "en lÃ­nea" cuando les estÃ©s escribiendo un mensaje, o acabes de enviarles uno.
+Tu estado en lÃ­nea se muestra sÃ³lo a las personas que pueden ver tu Ãºltima conexiÃ³n. Si no compartes tu Ãºltima conexiÃ³n con ellos, sÃ³lo te verÃ¡n â€œen lÃ­neaâ€ cuando les estÃ©s escribiendo un mensaje, o acabes de enviarles uno.
 {QUESTION}
 I deleted a chat by accident, can I restore it?
 {KEYS}
@@ -557,7 +557,7 @@ newfriends
 makefriends
 {VALUE}
 En Telegram, puedes crear un grupo con tus amigos, y luego pedirles que aÃ±adan a sus amigos tambiÃ©n: una forma fÃ¡cil de conocer gente nueva. AvÃ­same si quieres aprender cÃ³mo crear grupos.
-TambiÃ©n hay bots no oficiales diseÃ±ados para poner en contacto usuarios con los mismos intereses. Prueba buscando en internet "Telegram bots new friends", obtendrÃ¡s muchos resultados.
+TambiÃ©n hay bots no oficiales diseÃ±ados para poner en contacto usuarios con los mismos intereses. Prueba buscando en internet â€œTelegram bots new friendsâ€, obtendrÃ¡s muchos resultados.
 Recuerda: Puedes usar la bÃºsqueda de Telegram para encontrar a gente si sabes su alias, pero no es una herramienta para encontrar amigos nuevos. A la gente no le gusta que los desconocidos les contacten mediante su alias, asÃ­ que puede ser que te acaben reportando como spam.
 {QUESTION}
 Will you have video calls?
@@ -606,7 +606,7 @@ No recibes una notificaciÃ³n cuando otra persona te bloquea. Tus mensajes simp
 Las personas bloqueadas:
 - No pueden enviarte mensajes, iniciar chats secretos contigo ni aÃ±adirte a grupos.
 - No pueden ver tu foto de perfil
-- No pueden ver tu estado en lÃ­nea o tu Ãºltima conexiÃ³n; siempre les apareces como "Ãºltima vez hace mucho tiempo" (o "fuera de lÃ­nea" en versiones antiguas de la aplicaciÃ³n).
+- No pueden ver tu estado en lÃ­nea o tu Ãºltima conexiÃ³n; siempre les apareces como â€œÃºltima vez hace mucho tiempoâ€ (o â€œfuera de lÃ­neaâ€ en versiones antiguas de la aplicaciÃ³n).
 {QUESTION}
 What are gifs?
 {KEYS}
@@ -617,8 +617,8 @@ jifs
 jif
 {VALUE}
 Los GIF son imÃ¡genes animadas. EnvÃ­alos como Archivo adjunto (no como foto) si quieres que se reproduzcan.
-Puedes usar la bÃºsqueda incorporada de GIF o el bot integrado: prueba a escribir "@gif cats" en el campo de texto. El bot te ofrecerÃ¡ GIF relevantes a tu bÃºsqueda, en este caso, Â¡gatos!
-TambiÃ©n puedes reutilizar los GIF que hayas recibido de tus amigos: toca encima de ellos y elige "Guardar". PodrÃ¡s encontrarlos en la pestaÃ±a especÃ­fica para los GIF en el panel de Stickers.
+Puedes usar la bÃºsqueda incorporada de GIF o el bot integrado: prueba a escribir â€œ@gif catsâ€ en el campo de texto. El bot te ofrecerÃ¡ GIF relevantes a tu bÃºsqueda, en este caso, Â¡gatos!
+TambiÃ©n puedes reutilizar los GIF que hayas recibido de tus amigos: toca encima de ellos y elige â€œGuardarâ€. PodrÃ¡s encontrarlos en la pestaÃ±a especÃ­fica para los GIF en el panel de Stickers.
 {QUESTION}
 How can I use emoticons? (iOS)
 {KEYS}
@@ -648,7 +648,7 @@ What does 'name hidden' mean?
 namehidden
 hiddenname
 {VALUE}
-"Nombre oculto" o "Desconocido", en lugar del nombre, significa que esa persona ha eliminado su cuenta de Telegram.
+â€œNombre oculto" o "Desconocidoâ€, en lugar del nombre, significa que esa persona ha eliminado su cuenta de Telegram.
 {QUESTION}
 How can I use stickers? (iOS)
 {KEYS}
@@ -683,10 +683,10 @@ findstickers
 buystickers
 {VALUE}
 No tenemos una tienda oficial de stickers, la plataforma es abierta para quien quiera usarla. Si quieres tener mÃ¡s stickers, hay unas cuantas maneras:
-1) Escribe "@sticker" en el cuadro de texto, deja un espacio, y luego escribe uno o mÃ¡s emojis: el bot te ofrecerÃ¡ algunas sugerencias para que elijas el sticker adecuado.
+1) Escribe â€œ@stickerâ€ en el cuadro de texto, deja un espacio, y luego escribe uno o mÃ¡s emojis: el bot te ofrecerÃ¡ algunas sugerencias para que elijas el sticker adecuado.
 2) Si recibes un sticker que te gusta, toca sobre Ã©l: se abrirÃ¡ el paquete de stickers relacionado y podrÃ¡s aÃ±adirlo a tu colecciÃ³n.
 3) Echa un vistazo y aÃ±ade los stickers que estÃ¡n de moda en este momento en Telegram, yendo a los Ajustes de Telegram > Stickers > Stickers destacados.
-4) Si eso no te parece suficiente, puedes probar a buscar en Internet "Telegram Stickers": te aparecerÃ¡n muchos resultados.
+4) Si eso no te parece suficiente, puedes probar a buscar en Internet â€œTelegram Stickersâ€: te aparecerÃ¡n muchos resultados.
 {QUESTION}
 Even more stickers (NSFW risk)
 {COMMENT}
@@ -705,7 +705,7 @@ managestickers
 {VALUE}
 Puedes eliminar packs de stickers asÃ­:
 iOS: Ajustes de Telegram > Stickers > Editar
-Android: Ajustes de Telegram > Stickers > "..."
+Android: Ajustes de Telegram > Stickers > â€œ...â€
 WP: Ajustes de Telegram > Stickers > MantÃ©n pulsado > Eliminar
 Escritorio: Panel de stickers > Icono del engranaje > Eliminar
 {QUESTION}
@@ -717,9 +717,9 @@ channelsare
 Los Canales son una herramienta para difundir tus mensajes a grandes audiencias: comparte noticias importantes, cosas divertidas, o lo que quieras. A diferencia de los grupos, los destinatarios no sabrÃ¡n los unos de los otros y sÃ³lo los administradores del canal podrÃ¡n enviar mensajes.
 Los canales pueden tener un nÃºmero ilimitado de miembros, y pueden ser pÃºblicos, con una URL permanente para que cualquiera pueda encontrarlo y unirse. Si quieres un ejemplo, Ãºnete a nuestro canal oficial de Telegram para recibir notificaciones sobre las actualizaciones: https://telegram.me/telegram
 Para crear un canal:
-iOS: Toca el botÃ³n de la parte superior derecha de la pantalla de Chats, y luego "Nuevo canal".
-Android: Toca sobre el icono del lÃ¡piz en la lista de chats. DespuÃ©s elige "Nuevo canal".
-Windows Phone: Pulsa el signo "+" en el menÃº principal. DespuÃ©s elige "Nuevo canal".
+iOS: Toca el botÃ³n de la parte superior derecha de la pantalla de Chats, y luego â€œNuevo canalâ€.
+Android: Toca sobre el icono del lÃ¡piz en la lista de chats. DespuÃ©s elige â€œNuevo canalâ€.
+Windows Phone: Pulsa el signo â€œ+â€ en el menÃº principal. DespuÃ©s elige "Nuevo canal".
 {QUESTION}
 Where do I find new channels?
 {KEYS}
@@ -728,7 +728,7 @@ morechannels
 findchannels
 getchannels
 {VALUE}
-Lo siento, no tenemos una lista oficial de canales en Telegram. La mejor forma de encontrarlos en este momento serÃ­a con una bÃºsqueda en internet de "Telegram channels".
+Lo siento, no tenemos una lista oficial de canales en Telegram. La mejor forma de encontrarlos en este momento serÃ­a con una bÃºsqueda en internet de â€œTelegram channelsâ€.
 {QUESTION}
 How are supergroups different from groups?
 {KEYS}
@@ -739,11 +739,11 @@ Los grupos de Telegram son perfectos para compartir cosas con amigos y familia, 
 Los supergrupos pueden tener hasta 5000 miembros. Tienen un historial unificado, de forma que los mensajes eliminados desaparecerÃ¡n para todos, y los miembros normales sÃ³lo pueden eliminar los suyos propios.
 AquÃ­ tienes informaciÃ³n extra sobre cÃ³mo funcionan los supergrupos:
 - Los nuevos miembros que se unan al chat podrÃ¡n ver el historial de mensajes completo.
-- EstÃ¡n silenciados por defecto y envÃ­an menos notificaciones de "se ha unido" o "ha abandonado el grupo".
+- EstÃ¡n silenciados por defecto y envÃ­an menos notificaciones de â€œse ha unidoâ€ o â€œha abandonado el grupoâ€.
 - Los administradores pueden anclar mensajes, que se muestran en la parte superior del chat, para informar a los miembros sobre novedades importantes que de otra forma se perderÃ­an.
 - Se pueden hacer pÃºblicos estableciendo un alias, como en los canales.
 - Si se hacen pÃºblicos, los miembros pueden invitar a gente nueva; si no, sÃ³lo se pueden unir vÃ­a enlace de invitaciÃ³n o si los aÃ±aden los administradores.
-Si quieres actualizar tu grupo a un supergrupo, ve a la informaciÃ³n del grupo y elige "Actualizar a supergrupo". Esta acciÃ³n es irreversible, asÃ­ que ten en cuenta todas las diferencias y pregÃºntame si algo no te ha quedado claro, antes de actualizar.
+Si quieres actualizar tu grupo a un supergrupo, ve a la informaciÃ³n del grupo y elige â€œActualizar a supergrupoâ€. Esta acciÃ³n es irreversible, asÃ­ que ten en cuenta todas las diferencias y pregÃºntame si algo no te ha quedado claro, antes de actualizar.
 {QUESTION}
 How can I pin a message?
 {KEYS}
@@ -751,9 +751,9 @@ pin
 pinned
 {VALUE}
 Los administradores de los supergrupos pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrÃ­an perderse.
-iOS, WP: MantÃ©n presionado un mensaje, luego selecciona la opciÃ³n "Anclar". Para desanclar el mensaje, presiona el icono "x" de su derecha.
-Android: Toca el mensaje, luego selecciona la opciÃ³n "Anclar". Para desanclar el mensaje, presiona el icono "x" de su derecha.
-Escritorio: Haz clic derecho en el mensaje, luego selecciona la opciÃ³n "Anclar". Para desanclar el mensaje, presiona el icono "x" de su derecha.
+iOS, WP: MantÃ©n presionado un mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
+Android: Toca el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
+Escritorio: Haz clic derecho en el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
 {QUESTION}
 Where do I find bots?
 {COMMENT}
@@ -769,7 +769,7 @@ No contamos con una lista oficial de bots, la plataforma estÃ¡ abierta para to
 @hangbot â€“ Juega al ahorcado online o aÃ±Ã¡delo a grupos para competir con tus amigos.
 @AlertBot â€“ Crea alertas y este bot te enviarÃ¡ un aviso.
 Los bots integrados son aÃºn mÃ¡s fÃ¡ciles de usar. No tienes que enviarles ningÃºn mensaje o aÃ±adirlos al grupo: solamente escribe su @alias en el campo de texto de cualquier chat, despuÃ©s algunas palabras clave y el bot te mostrarÃ¡ informaciÃ³n relevante. AquÃ­ tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @bing, @wiki, @imdb, @bold y @automemebot.
-Si quieres conocer mÃ¡s bots, puedes intentar buscar en internet "Telegram Bots", encontrarÃ¡s muchos resultados.
+Si quieres conocer mÃ¡s bots, puedes intentar buscar en internet â€œTelegram Botsâ€, encontrarÃ¡s muchos resultados.
 {QUESTION}
 Where can I find / How can I use game bots?
 {KEYS}
@@ -830,7 +830,7 @@ number
 {VALUE}
 Tu nÃºmero de telÃ©fono estÃ¡ oculto a otros usuarios. Solamente podrÃ¡n verlo en los siguientes casos:
 - Si ya tienen tu nÃºmero de telÃ©fono guardado en su agenda.
-- Si tÃº mismo compartes tu nÃºmero (usando "Compartir mi nÃºmero")
+- Si tÃº mismo compartes tu nÃºmero (usando â€œCompartir mi nÃºmeroâ€)
 - Si tienes su nÃºmero guardado en tu agenda y tÃº le envÃ­as un mensaje (como si recibieran un SMS de tu parte).
 No verÃ¡n tu nÃºmero en otras circunstancias. por ejemplo, si te encuentran usando nuestra bÃºsqueda global o en un chat grupal.
 {QUESTION}
@@ -841,10 +841,10 @@ editing
 editmsg
 editmessage
 {VALUE}
-En Telegram, puedes editar tus mensajes durante 2 dÃ­as despuÃ©s de enviarlos. Los mensajes mostrarÃ¡n una pequeÃ±a etiqueta "editado" para que se vea claramente cuÃ¡les han sido editados.
-iOS, WP: toca y mantÃ©n en un mensaje, luego pulsa 'editar'.
-Android: toca un mensaje, luego pulsa 'editar'.
-Escritorio: clic derecho en el mensaje y selecciona "Editar". TambiÃ©n puedes pulsar la tecla "Flecha arriba" para editar tu Ãºltimo mensaje.
+En Telegram, puedes editar tus mensajes durante 2 dÃ­as despuÃ©s de enviarlos. Los mensajes mostrarÃ¡n una pequeÃ±a etiqueta â€œeditadoâ€ para que se vea claramente cuÃ¡les han sido editados.
+iOS, WP: toca y mantÃ©n en un mensaje, luego toca 'editar'.
+Android: toca un mensaje, luego toca 'editar'.
+Escritorio: clic derecho en el mensaje y selecciona â€œEditarâ€. TambiÃ©n puedes pulsar la tecla â€œFlecha arribaâ€ para editar tu Ãºltimo mensaje.
 {QUESTION}
 How do I delete messages from supergroups?
 {KEYS}
@@ -865,8 +865,8 @@ cachea
 cacheandroid
 {VALUE}
 Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu cachÃ© local, se volverÃ¡n a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderÃ¡s nada y Telegram siempre ocuparÃ¡ el mÃ­nimo espacio en tu dispositivo.
-Simplemente ve a Ajustes â€” Ajustes de cachÃ© y configura cuÃ¡nto tiempo permanecerÃ¡n en tu dispositivo los archivos multimedia que no uses. TambiÃ©n puedes vaciar la cachÃ© manualmente desde ese menÃº.
-TambiÃ©n es posible vaciar la cache de supergrupos o canales individualmente: Mantenlos pulsados en la lista de chats y elige "Eliminar de la cachÃ©"
+Simplemente ve a Ajustes > Ajustes de cachÃ© y configura cuÃ¡nto tiempo permanecerÃ¡n en tu dispositivo los archivos multimedia que no uses. TambiÃ©n puedes vaciar la cachÃ© manualmente desde ese menÃº.
+TambiÃ©n es posible vaciar la cache de supergrupos o canales individualmente: Mantenlos pulsados en la lista de chats y elige â€œEliminar de la cachÃ©â€
 {QUESTION}
 How do I manage cache? (iOS)
 {KEYS}
@@ -874,7 +874,7 @@ cachei
 cacheios
 {VALUE}
 Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu cachÃ© local, se volverÃ¡n a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderÃ¡s nada y Telegram siempre ocuparÃ¡ el mÃ­nimo espacio en tu dispositivo.
-Para gestionar la memoria cachÃ©, ve a los Ajustes de Telegram â€” Ajustes de chat â€” Ajustes de cachÃ©. AhÃ­ puedes configurar cuÃ¡nto tiempo se mantienen en tu dispositivo los archivos multimedia que no uses, o vaciarla manualmente, tanto por tipo como chat por chat.
+Para gestionar la memoria cachÃ©, ve a los Ajustes de Telegram > Ajustes de chat > Ajustes de cachÃ©. AhÃ­ puedes configurar cuÃ¡nto tiempo se mantienen en tu dispositivo los archivos multimedia que no uses, o vaciarla manualmente, tanto por tipo como chat por chat.
 {QUESTION}
 How do I manage cache? (Windows Phone)
 {KEYS}
@@ -882,7 +882,7 @@ cachewp
 cachewindowsphone
 {VALUE}
 Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu cachÃ© local, se volverÃ¡n a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderÃ¡s nada y Telegram siempre ocuparÃ¡ el mÃ­nimo espacio en tu dispositivo.
-Para gestionar la memoria cachÃ©, ve a Ajustes de Telegram â€” CachÃ©.
+Para gestionar la memoria cachÃ©, ve a Ajustes de Telegram > CachÃ©.
 {QUESTION}
 I want Telegram to store media on the SD card (Android)
 {KEYS}
@@ -903,7 +903,7 @@ secretchats
 {VALUE}
 Los chats secretos:
 - Son perfectos para un chat temporal
-- Usan cifrado "end-to-end"
+- Usan cifrado â€œend-to-endâ€
 - Tienen un temporizador de autodestrucciÃ³n opcional
 - No tienen sincronizaciÃ³n en la nube
 - Se pueden acceder sÃ³lo desde un dispositivo
@@ -939,7 +939,7 @@ secrectcahtvscloudchats
 secretvscloud
 {VALUE}
 Los chats en la nube de Telegram (y los grupos) estÃ¡n cifrados de forma segura en la nube de Telegram para que puedas acceder a ellos desde cualquiera de tus dispositivos, incluso si reinstalas la aplicaciÃ³n. SÃ³lo si eliminas algo en los chats, se pierde para siempre (a menos que tu compaÃ±ero te lo envÃ­e de vuelta).
-Los chats secretos usan cifrado "end-to-end" y sÃ³lo pueden ser descifrados en los dos dispositivos que participan. Lo malo: no puedes acceder a ellos desde tus otros dispositivos y si reinstalas Telegram, o incluso cierras sesiÃ³n, tus chats secretos se perderÃ¡n.
+Los chats secretos usan cifrado â€œend-to-endâ€ y sÃ³lo pueden ser descifrados en los dos dispositivos que participan. Lo malo: no puedes acceder a ellos desde tus otros dispositivos y si reinstalas Telegram, o incluso cierras sesiÃ³n, tus chats secretos se perderÃ¡n.
 Los chats secretos tambiÃ©n tienen un temporizador opcional (desde 1 segundo hasta 1 semana) que te permite enviar mensajes, fotos, vÃ­deos e incluso archivos que se autodestruyen.
 {QUESTION}
 How can I send self-destructing messages? (iOS)
@@ -949,7 +949,7 @@ timerios
 selfdestructios
 {VALUE}
 El temporizador de autodestrucciÃ³n estÃ¡ disponible en los chats secretos. La cuenta atrÃ¡s empieza tan pronto como tu contacto lee el mensaje. Cuando el tiempo se acaba, los mensajes se eliminan de ambos dispositivos. El temporizador sÃ³lo se aplica a los mensajes que se enviaron despuÃ©s de que Ã©ste se configure.
-Para activar el temporizador en iOS, pulsa sobre el pequeÃ±o cronÃ³metro que aparece dentro del espacio de texto, pon el tiempo deseado y pulsa "Hecho".
+Para activar el temporizador en iOS, toca sobre el pequeÃ±o cronÃ³metro que aparece dentro del espacio de texto, pon el tiempo deseado y toca â€œHechoâ€.
 {QUESTION}
 How can I send self-destructing messages? (Android)
 {KEYS}
@@ -959,7 +959,7 @@ selfdestructandroid
 selfdestructa
 {VALUE}
 El temporizador de autodestrucciÃ³n estÃ¡ disponible en los chats secretos. La cuenta atrÃ¡s empieza tan pronto como tu contacto lee el mensaje. Cuando el tiempo se acaba, los mensajes se eliminan de ambos dispositivos. El temporizador sÃ³lo se aplica a los mensajes que se enviaron despuÃ©s de que Ã©ste se configure.
-Para activar el temporizador en Android, pulsa sobre la foto de perfil del chat secreto, selecciona el tiempo deseado y pulsa "Hecho".
+Para activar el temporizador en Android, toca sobre la foto de perfil del chat secreto, selecciona el tiempo deseado y toca â€œHechoâ€.
 {QUESTION}
 How can I send self-destructing messages? (Windows Phone)
 {KEYS}
@@ -969,7 +969,7 @@ selfdestructwp
 selfdestructwindowsphone
 {VALUE}
 El temporizador de autodestrucciÃ³n estÃ¡ disponible en los chats secretos. La cuenta atrÃ¡s empieza tan pronto como tu contacto lee el mensaje. Cuando el tiempo se acaba, los mensajes se eliminan de ambos dispositivos. El temporizador sÃ³lo se aplica a los mensajes que se enviaron despuÃ©s de que Ã©ste se configure.
-Para activar el temporizador en Windows Phone, pulsa sobre la imagen de perfil en el chat secreto y selecciona el temporizador en la pÃ¡gina de informaciÃ³n.
+Para activar el temporizador en Windows Phone, toca sobre la imagen de perfil en el chat secreto y selecciona el temporizador en la pÃ¡gina de informaciÃ³n.
 {COMMENT}
 ======================
 -USERNAMES-
@@ -986,11 +986,11 @@ Los alias deben tener, como mÃ­nimo, 5 caracteres y no pueden empezar o termin
 Una vez establecido un alias, tambiÃ©n podrÃ¡s usar un enlace personal de Telegram:
 telegram.me/Username
 AbrirÃ¡ un chat contigo en Telegram, perfecto para compartirlo con amigos o ponerlo en tu sitio web o redes sociales.
-Android: Para configurar un alias, desliza la lista de chats a la derecha para abrir el menÃº, luego "Ajustes" â€” "Alias".
-iOS: Para configurar un alias, ve a Ajustes â€” Alias.
-WP: Para configurar un alias, toca sobre "..." en la lista de chats para ir a Ajustes, luego "Establecer alias".
-TDesktop: Para configurar un alias, ve a Ajustes, luego "Alias".
-Web: Para configurar un alias, ve a Ajustes, luego "Alias".
+Android: Para establecer un alias, desliza la lista de chats a la derecha para abrir el menÃº, luego Ajustes > Alias.
+iOS: Para establecer un alias, ve a Ajustes > Alias.
+WP: Para establecer un alias, toca sobre â€œ...â€ en la lista de chats para ir a Ajustes, luego Establecer alias.
+TDesktop: Para establecer un alias, ve a Ajustes, luego Alias.
+Web: Para establecer un alias, ve a Ajustes, luego Alias
 {QUESTION}
 How can I find people on Telegram by their usernames?
 {KEYS}
@@ -1004,17 +1004,17 @@ addfriend
 searchuser
 {VALUE}
 Puedes buscar a otros usuarios de Telegram por sus alias, si tienen configurado uno. Necesitas escribir, al menos, 5 caracteres para comenzar la bÃºsqueda. Lee mÃ¡s sobre los alias aquÃ­: https://telegram.org/faq/es#alias-y-telegram-me
-Android: Pulsa sobre el icono de la lupa de la esquina superior derecha, en la lista de chats, y escribe en la barra de bÃºsqueda.
+Android: Toca sobre el icono de la lupa de la esquina superior derecha, en la lista de chats, y escribe en la barra de bÃºsqueda.
 iOS: DeslÃ­zate hacia arriba en la lista de chats y luego toca en la caja de bÃºsqueda superior.
-WP: Ve a Contactos, luego pulsa sobre el icono de la lupa y escribe en la barra de bÃºsqueda.
+WP: Ve a Contactos, luego toca sobre el icono de la lupa y escribe en la barra de bÃºsqueda.
 {QUESTION}
 My username is already taken, can I get it?
 {KEYS}
 usernametaken
 {VALUE}
 Los alias de Telegram se entregan por orden de llegada, lo sentimos. Â¿Y si usas una forma alternativa de escribir tu nombre?
-Entendemos que algunos apodos son parte de una identidad en lÃ­nea para algunos de nosotros. Si tu alias deseado estÃ¡ cogido, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo alias en al menos dos de estos servicios: Facebook, Twitter, Instagram.
-Si este es tu caso, te pedimos que publiques algo en sendos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrÃ­as decir algo como "Esto es para el soporte de Telegram. Por favor, denme mi alias". Una vez que lo hayas hecho, por favor, envÃ­anos los enlaces a esas publicaciones aquÃ­ (luego puedes quitar las publicaciones, pero dÃ©janos verlas primero, por favor).
+Entendemos que algunos alias son parte de una identidad en lÃ­nea para algunos de nosotros. Si tu alias deseado estÃ¡ ocupado, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo alias en al menos dos de estos servicios: Facebook, Twitter, Instagram.
+Si este es tu caso, te pedimos que publiques algo en sendos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrÃ­as decir algo como â€œEsto es para el soporte de Telegram. Por favor, denme mi aliasâ€. Una vez que lo hayas hecho, por favor, envÃ­anos los enlaces a esas publicaciones aquÃ­ (luego puedes quitar las publicaciones, pero dÃ©janos verlas primero, por favor).
 {QUESTION}
 How do I verify my account?
 {KEYS}
@@ -1053,7 +1053,7 @@ passcodesetup
 locksetup
 locktelegram
 {VALUE}
-Para configurar un cÃ³digo de acceso, ve a Ajustes de Telegram â€“ Privacidad y seguridad â€“ CÃ³digo de acceso.
+Para establecer un cÃ³digo de acceso, ve a Ajustes de Telegram â€“ Privacidad y seguridad â€“ CÃ³digo de acceso.
 Una vez que establezcas un cÃ³digo de acceso, un candado aparecerÃ¡ en la lista de chats. Pulsa sobre Ã©l para bloquear la aplicaciÃ³n: se requerirÃ¡ tu cÃ³digo de acceso la prÃ³xima vez que abras Telegram.
 Cuando la aplicaciÃ³n estÃ¡ bloqueada, el texto y el nombre del destinatario se ocultan en las notificaciones. Puedes activar el bloqueo automÃ¡tico para el cÃ³digo de acceso en los Ajustes, si no quieres bloquear la aplicaciÃ³n manualmente.
 {QUESTION}
@@ -1063,7 +1063,7 @@ lock
 greenlock
 chatlock
 {VALUE}
-Este icono aparece cuando estableces un cÃ³digo de acceso. Pulsa sobre Ã©l para bloquear la aplicaciÃ³n: se requerirÃ¡ el cÃ³digo de acceso cuando abras Telegram la prÃ³xima vez.
+Este icono aparece cuando estableces un cÃ³digo de acceso. Toca sobre Ã©l para bloquear la aplicaciÃ³n: se requerirÃ¡ el cÃ³digo de acceso cuando abras Telegram la prÃ³xima vez.
 Cuando la aplicaciÃ³n estÃ¡ bloqueada, el texto y el nombre del destinatario se ocultan en las notificaciones. Puedes activar el bloqueo automÃ¡tico para el cÃ³digo de acceso en los Ajustes, si no quieres bloquear la aplicaciÃ³n manualmente.
 Si quieres, puedes desactivar este cÃ³digo via Ajustes de Telegram > Privacidad y seguridad > CÃ³digo de acceso.
 {QUESTION}
@@ -1107,8 +1107,8 @@ changebackgroundi
 chatbackgroundios
 chatbackgroundi
 {VALUE}
-Para cambiar tu fondo, ve a Ajustes â€“ "Fondo de chat" y elige el que mÃ¡s te guste.
-Para establecer tus propias fotos como fondo, tan sÃ³lo pulsa sobre "Biblioteca de fotos".
+Para cambiar tu fondo, ve a Ajustes > Fondo de chat y elige el que mÃ¡s te guste.
+Para establecer tus propias fotos como fondo, tan sÃ³lo toca sobre â€œBiblioteca de fotosâ€.
 {QUESTION}
 How do I change my background? (Android)
 {KEYS}
@@ -1120,8 +1120,8 @@ changebackgrounda
 chatbackgroundandroid
 chatbackgrounda
 {VALUE}
-Desliza hacia la derecha en la pantalla de chats para abrir el menÃº, luego ve a Ajustes â€“ "Fondo de chat".
-Si quieres establecer tu propia imagen como fondo, pulsa sobre la primera para acceder a la galerÃ­a.
+Desliza hacia la derecha en la pantalla de chats para abrir el menÃº, luego ve a Ajustes > Fondo de chat.
+Si quieres establecer tu propia imagen como fondo, toca sobre la primera para acceder a la galerÃ­a.
 {QUESTION}
 How do I change my profile picture? (iOS)
 {KEYS}
@@ -1153,7 +1153,7 @@ changeprofilepica
 profilepicandroid
 ppandroid
 {VALUE}
-Para cambiar tu foto de perfil, desliza hacia la derecha en la lista de chats â€“ Ajustes â€“ y pulsa sobre el icono de la cÃ¡mara para poner una imagen nueva.
+Para cambiar tu foto de perfil, desliza hacia la derecha en la lista de chats > Ajustes > y toca sobre el icono de la cÃ¡mara para poner una imagen nueva.
 {QUESTION}
 How do I change my profile picture? (Windows Phone)
 {KEYS}
@@ -1169,7 +1169,7 @@ changeprofilepicw
 profilepicwindowsphone
 ppwindowsphone
 {VALUE}
-Para cambiar la foto de perfil, pulsa "..." en la pantalla de Chats, luego Ajustes â€“ pulsa sobre la foto de perfil.
+Para cambiar la foto de perfil, toca â€œ...â€ en la pantalla de Chats, luego Ajustes â€“ pulsa sobre la foto de perfil.
 {QUESTION}
 How do I delete my profile picture? (iOS)
 {KEYS}
@@ -1203,7 +1203,7 @@ delprofpica
 dppa
 dppandroid
 {VALUE}
-Desliza hacia la derecha en la lista de Chats > Ajustes > pulsa sobre la foto de perfil > pulsa sobre "..." > Eliminar.
+Desliza hacia la derecha en la lista de Chats > Ajustes > toca sobre tu foto de perfil > toca â€œ...â€ > Eliminar.
 {QUESTION}
 How do I delete my profile picture? (Windows Phone)
 {KEYS}
@@ -1221,7 +1221,7 @@ delprofpicwp
 dppwp
 dppwindowsphone
 {VALUE}
-En la vista de chats, pulsa "..." > Ajustes > Pulsa sobre la foto de perfil > Eliminar.
+En la vista de chats, toca â€œ...â€ > Ajustes > toca sobre tu foto de perfil > Eliminar.
 {QUESTION}
 How do I hide my profile picture?
 {KEYS}
@@ -1233,7 +1233,7 @@ hideprofilepic
 hideprofilepicture
 {VALUE}
 De momento no se puede ocultar tu foto de perfil en Telegram. Si no quieres que la gente la vea, lo mejor es quitarla completamente.
-TambiÃ©n puedes bloquear a los usuarios que no quieres que vean tu foto de perfil. Ten en cuenta que los bloqueados no pueden enviarte mensajes, iniciar chats secretos contigo o aÃ±adirte a grupos. AdemÃ¡s, siempre aparecerÃ¡s para ellos como "visto hace mucho tiempo".
+TambiÃ©n puedes bloquear a los usuarios que no quieres que vean tu foto de perfil. Ten en cuenta que los bloqueados no pueden enviarte mensajes, iniciar chats secretos contigo o aÃ±adirte a grupos. AdemÃ¡s, siempre aparecerÃ¡s para ellos como â€œÃºlt. vez hace mucho tiempoâ€.
 {QUESTION}
 Can I send a message to myself?
 {KEYS}
@@ -1247,7 +1247,7 @@ star
 Puedes abrir un chat contigo desde nuestras aplicaciones para mÃ³viles:
 iOS: PestaÃ±a de contactos > Toca sobre tu nÃºmero de telÃ©fono en la parte superior.
 Android: MenÃº principal > Toca sobre tu nÃºmero de telÃ©fono en la parte superior.
-Windows Phone: Chats > Nuevo chat > Toca sobre "TÃº".
+Windows Phone: Chats > Nuevo chat > Toca sobre â€œTÃºâ€.
 Tras enviar un mensaje ahÃ­, el chat aparecerÃ¡ en tu lista de chats, asÃ­ que podrÃ¡s acceder a Ã©l desde cualquiera de nuestras aplicaciones.
 Si tienes un alias, el siguiente enlace tambiÃ©n abrirÃ¡ un chat contigo en Telegram:
 telegram.me/Username
@@ -1266,7 +1266,7 @@ gettingspam
 strangers
 strangerdanger
 {VALUE}
-Si recibes publicidad o cualquier otro tipo de mensajes molestos de extraÃ±os, repÃ³rtalos con el botÃ³n "Reportar Spam".
+Si recibes publicidad o cualquier otro tipo de mensajes molestos de extraÃ±os, repÃ³rtalos con el botÃ³n â€œReportar Spamâ€.
 Ten en cuenta que cuando estableces un alias, activas la bÃºsqueda global para tu cuenta. Esto significa que las personas pueden encontrarte y enviarte mensajes, incluso si no tienen tu nÃºmero (tu nÃºmero de telÃ©fono permanecerÃ¡ oculto a menos que lo compartas con ellos o los aÃ±adas a tus contactos).
 Si no quieres que la gente te contacte, es mejor quitar el alias. TambiÃ©n, podrÃ­as bloquear a las personas que te envÃ­an mensajes no deseados.
 {QUESTION}
@@ -1280,7 +1280,7 @@ makegroupa
 formgroupa
 formgroupandroid
 {VALUE}
-Para crear un grupo en Android, pulsa sobre el icono del lÃ¡piz en la lista de chats, luego elige "Nuevo grupo".
+Para crear un grupo en Android, toca sobre el icono del lÃ¡piz en la lista de chats, luego elige â€œNuevo grupoâ€.
 Cada grupo puede tener hasta 5000 miembros en Telegram.
 {QUESTION}
 How do I create a group? (iOS)
@@ -1293,7 +1293,7 @@ makegroupi
 formgroupi
 formgroupios
 {VALUE}
-Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botÃ³n de la parte superior derecha de la pantalla de Chats), y luego elige "Nuevo grupo".
+Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botÃ³n de la parte superior derecha de la pantalla de Chats), y luego elige â€œNuevo grupoâ€.
 Cada grupo puede tener hasta 5000 miembros en Telegram.
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1307,7 +1307,7 @@ creategroupwindowsphone
 makegroupwindowsphone
 creategroupwindowsphone
 {VALUE}
-Para crear un grupo en Windows Phone, pulsa el signo "+" en el menÃº principal de chats y elige "Nuevo grupo".
+Para crear un grupo en Windows Phone, toca el signo â€œ+â€ en el menÃº principal de chats y elige â€œNuevo grupoâ€.
 Cada grupo puede tener hasta 5000 miembros en Telegram.
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1321,7 +1321,7 @@ creategroupdesk
 makegroupdesk
 creategroupdesk
 {VALUE}
-Para crear un grupo mediante la aplicaciÃ³n de escritorio, haz clic sobre el icono del lÃ¡piz al lado del cuadro de bÃºsqueda, y luego "Nuevo grupo".
+Para crear un grupo en la aplicaciÃ³n de escritorio, haz clic en el icono del lÃ¡piz, que estÃ¡ junto al campo de bÃºsqueda, y elige â€œNuevo grupoâ€.
 Cada grupo puede tener hasta 5000 miembros en Telegram.
 {QUESTION}
 How do I create a Channel? (Android)
@@ -1334,7 +1334,7 @@ makechannela
 formchannela
 formchannelandroid
 {VALUE}
-Para crear un canal en Android, toca el icono del lÃ¡piz en la lista de chats y selecciona "Nuevo canal".
+Para crear un canal en Android, toca el icono del lÃ¡piz en la lista de chats y selecciona â€œNuevo canalâ€.
 Los canales pueden tener un nÃºmero de miembros ilimitado.
 {QUESTION}
 How do I create a Channel? (iOS)
@@ -1347,7 +1347,7 @@ makechanneli
 formchanneli
 formchannelios
 {VALUE}
-Para crear un canal en iOS, inicia un nuevo mensaje (toca sobre el icono de la esquina superior derecha en Chats), y luego "Nuevo canal".
+Para crear un canal en iOS, inicia un nuevo mensaje (toca sobre el icono de la esquina superior derecha en Chats), y luego â€œNuevo canalâ€.
 Los canales pueden tener un nÃºmero de miembros ilimitado.
 {QUESTION}
 How do I create a Channel? (Windows Phone)
@@ -1361,7 +1361,7 @@ createchannelwindowsphone
 makechannelwindowsphone
 createchannelwindowsphone
 {VALUE}
-Para crear un canal en Windows Phone, toca el signo "+" en el menÃº principal y luego "Nuevo canal".
+Para crear un canal en Windows Phone, toca el signo â€œ+â€ en el menÃº principal y luego â€œNuevo canalâ€.
 Los canales pueden tener un nÃºmero de miembros ilimitado.
 {QUESTION}
 How do I create a Channel? (Desktop)
@@ -1375,7 +1375,7 @@ createchanneldesk
 makechanneldesk
 createchanneldesk
 {VALUE}
-Para crear un canal en la aplicaciÃ³n de escritorio, toca el icono del lÃ¡piz al lado del campo de bÃºsqueda, y luego "Nuevo canal".
+Para crear un canal en la aplicaciÃ³n de escritorio, toca el icono del lÃ¡piz al lado del campo de bÃºsqueda, y luego â€œNuevo canalâ€.
 Los canales pueden tener un nÃºmero de miembros ilimitado.
 {QUESTION}
 How do I write a new message?
@@ -1388,7 +1388,7 @@ writemessage
 sendmessage
 {VALUE}
 Para enviar un mensaje nuevo, asegÃºrate de tener el nÃºmero de tus amigos guardado en los contactos de tu dispositivo, y que ellos tambiÃ©n usan Telegram.
-Pulsa el botÃ³n de "Mensaje nuevo" en la vista de chats y elige un contacto de la lista.
+Toca el botÃ³n de â€œMensaje nuevoâ€ en la pantalla de chats y elige un contacto de la lista.
 TambiÃ©n puedes enviarle mensajes a la gente si conoces sus alias en Telegram. En ese caso, ve a Contactos y escribe el alias en el espacio de bÃºsqueda para encontrar a tu amigo.
 {QUESTION}
 How do I block somebody?
@@ -1401,7 +1401,7 @@ Para bloquear y desbloquear personas, ve a los Ajustes de Telegram â€“ Priv
 Las personas bloqueadas:
 - No pueden enviarte mensajes, iniciar chats secretos contigo o aÃ±adirte a grupos.
 - No pueden ver tu foto de perfil
-- No pueden ver tu estado en lÃ­nea o tu Ãºltima conexiÃ³n; siempre les apareces como "Ãºltima vez hace mucho tiempo" (o "fuera de lÃ­nea" en versiones antiguas de la aplicaciÃ³n).
+- No pueden ver tu estado en lÃ­nea o tu Ãºltima conexiÃ³n; siempre les apareces como â€œÃºltima vez hace mucho tiempoâ€ (o â€œfuera de lÃ­neaâ€ en versiones antiguas de la aplicaciÃ³n).
 {QUESTION}
 How do I block a non-contact? (Android)
 {KEYS}
@@ -1413,7 +1413,7 @@ blockncandroid
 blocknoncontacta
 blocknon-contactandroid
 {VALUE}
-Abre un chat con dicho usuario, pulsa el encabezado del chat y ve a su pantalla de perfil. Pulsa los "..." en la esquina superior derecha, y luego "Bloquear".
+Abre un chat con dicho usuario, toca el encabezado del chat y ve a su pantalla de perfil. Toca â€œ...â€ en la esquina superior derecha, y luego â€œBloquearâ€.
 {QUESTION}
 How do I block a non-contact? (Windows Phone)
 {KEYS}
@@ -1425,7 +1425,7 @@ blockncwindowsphone
 blocknoncontactwp
 blocknon-contactwindowsphone
 {VALUE}
-Abre un chat con dicho usuario, luego pulsa el encabezado del chat y ve a su pantalla de perfil. Pulsa los "..." en el fondo derecho, y luego "Bloquear".
+Abre un chat con dicho usuario, luego toca el encabezado del chat y ve a su pantalla de perfil. Pulsa los â€œ...â€ en el fondo derecho, y luego â€œBloquearâ€.
 {QUESTION}
 How do I delete a contact? (iOS)
 {KEYS}
@@ -1434,7 +1434,7 @@ deletecontactios
 deletecontacti
 delcontactios
 {VALUE}
-Para eliminar un contacto, abre un chat con esa persona, pulsa sobre su foto de perfil, luego Editar y "Eliminar contacto". Importante: Eso tambiÃ©n lo eliminarÃ¡ de los contactos de tu dispositivo.
+Para eliminar un contacto, abre un chat con esa persona, toca sobre su foto de perfil, luego Editar y â€œEliminar contactoâ€. Importante: Eso tambiÃ©n lo eliminarÃ¡ de los contactos de tu dispositivo.
 {QUESTION}
 How do I delete a contact? (Android)
 {KEYS}
@@ -1443,7 +1443,7 @@ deletecontactandroid
 deletecontacta
 delcontactandroid
 {VALUE}
-Para eliminar un contacto, abre un chat con esa persona, pulsa su foto de perfil, luego en los "..." de la esquina superior derecha y pulsa "Eliminar".
+Para eliminar un contacto, abre un chat con esa persona, toca su foto de perfil, luego en los â€œ...â€ de la esquina superior derecha y toca â€œEliminarâ€.
 Si quieres eliminar el contacto completamente, asegÃºrate de quitarlo tambiÃ©n de los contactos del telÃ©fono, ya que si no, Telegram se mantiene sincronizada y lo aÃ±adirÃ­a de nuevo.
 {QUESTION}
 How do I delete a contact? (Windows Phone)
@@ -1453,7 +1453,7 @@ deletecontactwindowsphone
 deletecontactwp
 delcontactwindowsphone
 {VALUE}
-Para eliminar un contacto, abre un chat con esa persona, pulsa su foto de perfil, y luego los "..." â€“ "Eliminar".
+Para eliminar un contacto, abre un chat con esa persona, toca su foto de perfil, y luego los â€œ...â€ > â€œEliminarâ€.
 Si quieres eliminar el contacto completamente, asegÃºrate de quitarlo tambiÃ©n de los contactos del telÃ©fono, ya que si no, Telegram se mantiene sincronizada y lo aÃ±adirÃ­a de nuevo.
 {QUESTION}
 How do I share a contact? (Android)
@@ -1463,8 +1463,8 @@ sharecontactandroid
 sharecontacta
 shareca
 {VALUE}
-En Android, abre un chat con el contacto que quieras compartir, pulsa sobre el nombre en la parte superior del chat, luego en la pantalla de informaciÃ³n pulsa "...", en la esquina superior derecha, despuÃ©s en "Compartir" y selecciona el destinatario.
-Puedes compartir contactos que no tienen Telegram desde tu aplicaciÃ³n de contactos, tan sÃ³lo selecciona "Compartir" y luego "Telegram".
+En Android, abre un chat con el contacto que quieras compartir, toca sobre el nombre en la parte superior del chat, luego en la pantalla de informaciÃ³n toca â€œ...â€, en la esquina superior derecha, despuÃ©s en â€œCompartirâ€ y selecciona el destinatario.
+Puedes compartir contactos que no tienen Telegram desde tu aplicaciÃ³n de contactos, tan sÃ³lo selecciona â€œCompartirâ€ y luego â€œTelegramâ€.
 {QUESTION}
 How do I delete a chat? (iOS)
 {KEYS}
@@ -1473,7 +1473,7 @@ deletechati
 deletechatios
 delchatios
 {VALUE}
-Para eliminar un chat, desliza hacia la izquierda el chat, en la pantalla de Chats, y luego "Eliminar". O, en la lista de chats, pulsa "Editar", y luego el sÃ­mbolo rojo junto al chat.
+Para eliminar un chat, desliza hacia la izquierda el chat, en la pantalla de Chats, y luego â€œEliminarâ€. O, en la lista de chats, toca â€œEditarâ€, y luego el sÃ­mbolo rojo junto al chat.
 {QUESTION}
 How do I delete a chat? (Android)
 {KEYS}
@@ -1482,7 +1482,7 @@ delchatandroid
 deletechatandroid
 deletechata
 {VALUE}
-Para eliminar el chat, mantÃ©n pulsado sobre el mismo, en la lista de Chats, y luego "Eliminar", para eliminar el chat de tu Nube de Telegram.
+Para eliminar el chat, mantÃ©n pulsado sobre el mismo, en la lista de Chats, y luego â€œEliminarâ€, para eliminar el chat de tu Nube de Telegram.
 {QUESTION}
 How do I delete a chat? (Windows Phone)
 {KEYS}
@@ -1491,7 +1491,7 @@ deletechatwindowsphone
 deletechatwp
 delchatwindowsphone
 {VALUE}
-Para eliminar un chat, mantÃ©n pulsado sobre el chat en la pantalla de Chats â€“ luego "Eliminar".
+Para eliminar un chat, mantÃ©n pulsado sobre el chat en la pantalla de Chats > luego â€œEliminarâ€.
 {QUESTION}
 General permissions template
 {KEYS}
@@ -1505,8 +1505,8 @@ Telegram necesita acceder a datos en tu telÃ©fono para poder trabajar adecuada
 - CÃMARA (para tomar fotos y vÃ­deos)
 - SERVICIOS DE UBICACIÃ“N (para enviar mapas de ubicaciÃ³n)
 - MICRÃ“FONO (para grabar mensajes de voz)
-iOS 7: Ajustes de iOS > Privacidad > Selecciona "ON" para los permisos necesarios.
-iOS 8. iOS 9: En los Ajustes de iOS, desliza hacia abajo hasta que encuentres "Telegram", y activa los permisos necesarios en sus ajustes de privacidad.
+iOS 7: Ajustes de iOS > Privacidad > Selecciona â€œONâ€ para los permisos necesarios.
+iOS 8. iOS 9: En los Ajustes de iOS, desliza hacia abajo hasta que encuentres â€œTelegramâ€, y activa los permisos necesarios en sus ajustes de privacidad.
 Android 6+ (Samsung): Ajustes de Android > Aplicaciones > Telegram > Permisos, y activa los permisos necesarios.
 Android 6+ (LG): Ajustes de Android > General > Aplicaciones > Telegram > Permisos, y activa los permisos necesarios.
 Android 6+ (Nexus): Ajustes de Android > Aplicaciones > Telegram > Permisos, y activa los permisos necesarios.
@@ -1529,13 +1529,17 @@ Windows Phone: Ajustes del telÃ©fono - Accesibilidad - TamaÃ±o de texto
 How do I delete my account?
 {KEYS}
 del
+delete
 deleteaccount
-deactivateaccount
 deactivate
+deactivateaccount
 {VALUE}
 Puedes desactivar tu cuenta de Telegram aquÃ­:
 https://telegram.org/deactivate
-Ten en cuenta que se te enviarÃ¡ un cÃ³digo vÃ­a Telegram (no por SMS). Recomendamos usar navegadores web que no sean de dispositivos mÃ³viles para este proceso.
+Para este proceso recomendamos usar navegadores web que no sean de dispositivos mÃ³viles.
+Ten en cuenta que:
+- Se te enviarÃ¡ un cÃ³digo de confirmaciÃ³n vÃ­a Telegram (no en un SMS).
+- Si eliminas tu cuenta ahora, es posible que no puedas registrarte de nuevo inmediatamente.
 Por cierto, Â¿podemos preguntarte por quÃ© nos dejas? Â¿Alguna caracterÃ­stica que eches de menos? Â¿O algÃºn otro problema?
 {QUESTION}
 Please delete my account!
@@ -1573,7 +1577,7 @@ keepsamenumber
 updatenumber
 {VALUE}
 Es importante mantener tu nÃºmero de Telegram actualizado, porque tu proveedor puede reasignar tu nÃºmero a una persona diferente cuando dejas de usar tu SIM vieja. Y, en el sistema actual, el dueÃ±o del nÃºmero es el dueÃ±o de la cuenta de Telegram, tambiÃ©n.
-Para cambiar tu nÃºmero en Telegram, ve a Ajustes, pulsa sobre tu nÃºmero y elige "Cambiar nÃºmero".
+Para cambiar tu nÃºmero en Telegram, ve a Ajustes, toca en tu nÃºmero y elige â€œCambiar nÃºmeroâ€.
 Ten en cuenta que, cuando cambias tu nÃºmero, a tus contactos se les aÃ±adirÃ¡ el nÃºmero nuevo en sus agendas, considerando que ellos tenÃ­an tu nÃºmero viejo y no los has bloqueado en Telegram.
 {QUESTION}
 I try to change my phone number in Telegram but it says my new number is already connected to an account.
@@ -1606,9 +1610,9 @@ How do I log out of Telegram?
 logout
 {VALUE}
 De normal, no es necesario cerrar sesiÃ³n cuando estÃ¡s usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. Â¿SabÃ­as que cuando inicias sesiÃ³n de nuevo, puedes obtener el cÃ³digo en cualquier otra aplicaciÃ³n de Telegram en vez de en un SMS? Si dicha aplicaciÃ³n ha estado activa recientemente. Puedes hacer esto cuando inicies la sesiÃ³n y ahorrar tiempo.
-Android: Desliza hacia la derecha en la lista de Chats para abrir el menÃº, luego ve a Ajustes â€“ pulsa "..." en la esquina superior derecha â€“ "Cerrar sesiÃ³n".
-iOS: Ajustes â€” Editar â€” deslÃ­zate hasta abajo, y luego Â«Cerrar sesiÃ³nÂ».
-WP: Pulsa los "..." en la vista de Chats â€” Ajustes â€” deslÃ­zate hasta abajo, y luego "Cerrar sesiÃ³n".
+Android: Desliza hacia la derecha en la lista de Chats para abrir el menÃº, luego ve a Ajustes > toca â€œ...â€ en la esquina superior derecha > â€œCerrar sesiÃ³nâ€.
+iOS: Ajustes > Editar > deslÃ­zate hasta abajo, y luego Â«Cerrar sesiÃ³nÂ».
+WP: Toca â€œ...â€ en la pantalla de Chats > Ajustes > deslÃ­zate hasta abajo, y luego â€œCerrar sesiÃ³nâ€.
 Recuerda que si cierras tu sesiÃ³n, perderÃ¡s todos tus chats secretos.
 {COMMENT}
 ===================
@@ -1626,8 +1630,8 @@ lastseenincorrect
 wrongtimestamp
 {VALUE}
 Por favor, prueba esto:
-iPhone: Ajustes de iOS > General > Fecha y hora > Activa "Ajuste automÃ¡tico".
-Android: Ajustes de Android > Opciones/Sistema > Fecha y hora > activa "Zona horaria automÃ¡tica".
+iPhone: Ajustes de iOS > General > Fecha y hora > Activa â€œAjuste automÃ¡ticoâ€.
+Android: Ajustes de Android > Opciones/Sistema > Fecha y hora > activa â€œZona horaria automÃ¡ticaâ€.
 {QUESTION}
 Can I set up a status message?
 {KEYS}
@@ -1635,7 +1639,7 @@ status
 setupstatus
 statusmessage
 {VALUE}
-No es posible configurar un estado, por ahora. Por suerte, en Telegram existen otras formas de notificar a la gente sobre cosas importantes. Por ejemplo, puedes crear un canal, donde la gente puede unirse y leer los mensajes que envÃ­es a travÃ©s de Ã©l. Los canales, ademÃ¡s, pueden tener una cantidad ilimitada de miembros.
+No es posible establecer un estado, por ahora. Por suerte, en Telegram existen otras formas de notificar a la gente sobre cosas importantes. Por ejemplo, puedes crear un canal, donde la gente puede unirse y leer los mensajes que envÃ­es a travÃ©s de Ã©l. Los canales, ademÃ¡s, pueden tener una cantidad ilimitada de miembros.
 {QUESTION}
 Notifications don't work (Android)
 {KEYS}
@@ -1717,7 +1721,7 @@ Si las notificaciones no funcionan por alguna razÃ³n, por favor, revisa lo sig
 - En Telegram, ve a Ajustes > Notificaciones y sonidos, asegÃºrate de que las notificaciones estÃ¡n activadas.
 - Revisa que las notificaciones estÃ©n activas en los Ajustes del telÃ©fono.
 - Comprueba si el contacto o grupo estÃ¡ silenciado.
-- Intenta este truco: cierra Telegram (ve a la pantalla principal, pulsa dos veces el botÃ³n principal, desliza hacia arriba Telegram), luego ve a los Ajustes de iOS, activa la alerta de Telegram a NADA. Vuelve a abrir Telegram, ve a los ajustes del telÃ©fono y activa las alertas nuevamente en tiras.
+- Intenta este truco: cierra Telegram (ve a la pantalla principal, toca dos veces el botÃ³n principal, desliza hacia arriba Telegram), luego ve a los Ajustes de iOS, activa la alerta de Telegram a NADA. Vuelve a abrir Telegram, ve a los ajustes del telÃ©fono y activa las alertas nuevamente en tiras.
 {QUESTION}
 Notifications don't work (Windows Phone)
 {KEYS}
@@ -1734,10 +1738,10 @@ Please also make sure the user has the latest version of Telegram installed.
 Hay varias razones por las que las notificaciones pueden no funcionar, asÃ­ que nos disculpamos de antemano por este largo texto.
 Por favor, revisa lo siguiente:
 - En Telegram, ve a Ajustes > Notificaciones y sonidos, asegÃºrate de que las notificaciones estÃ¡n activadas.
-- Ve a los Ajustes del telÃ©fono â€” Centro de notificaciones â€” Telegram, y asegÃºrate de que las notificaciones estÃ¡n activadas para Telegram.
+- Ve a los Ajustes del telÃ©fono > Centro de notificaciones > Telegram, y asegÃºrate de que las notificaciones estÃ¡n activadas para Telegram.
 - Comprueba si el contacto o grupo estÃ¡ silenciado.
-- Prueba este truco: Ve a Ajustes de Telegram â€” Notificaciones y sonidos â€” Restablecer todas las notificaciones. Luego, cierra Telegram (mantÃ©n presionada la flecha hacia atrÃ¡s, desliza hacia abajo) y vuelve a abrirla.
-Durante la instalaciÃ³n de Telegram, el sistema te pedirÃ¡ que confirmes las "notificaciones push". Si lo rechazas, las notificaciones no funcionarÃ¡n. TendrÃ¡s que reinstalar la aplicaciÃ³n para activarlas. Lo sentimos, pero Windows Phone no ofrece un modo alternativo de momento.
+- Prueba este truco: Ve a Ajustes de Telegram > Notificaciones y sonidos > Restablecer todas las notificaciones. Luego, cierra Telegram (mantÃ©n presionada la flecha hacia atrÃ¡s, desliza hacia abajo) y vuelve a abrirla.
+Durante la instalaciÃ³n de Telegram, el sistema te pedirÃ¡ que confirmes las â€œnotificaciones pushâ€. Si lo rechazas, las notificaciones no funcionarÃ¡n. TendrÃ¡s que reinstalar la aplicaciÃ³n para activarlas. Lo sentimos, pero Windows Phone no ofrece un modo alternativo de momento.
 Ten en cuenta que perderÃ¡s los chats secretos tras reinstalar. Los demÃ¡s chats se guardan cifrados en la Nube de Telegram, asÃ­ que los tendrÃ¡s ahÃ­ cuando reinstales Telegram.
 P.D.: Recuerda que no recibirÃ¡s notificaciones si cierras la sesiÃ³n en Telegram.
 {QUESTION}
@@ -1802,7 +1806,7 @@ wontconnect
 {VALUE}
 Lamentamos que tengas problemas de conexiÃ³n. Â¿PodrÃ­as, por favor, ayudarnos a investigarlo? AquÃ­ hay unas pocas preguntas importantes:
 0. Â¿Otras aplicaciones funcionan bien?
-1. Â¿QuÃ© ocurre exactamente? (siempre "conectando..." / siempre "actualizando..." / parece bien pero los mensajes no se envÃ­an / no se entregan etc.).
+1. Â¿QuÃ© ocurre exactamente? (siempre â€œconectando...â€ / siempre â€œactualizando...â€ / parece bien pero los mensajes no se envÃ­an / no se entregan etc.).
 2. Â¿CuÃ¡ndo comenzÃ³ a ocurrir? Â¿Sigue pasando?
 3. Â¿Esto pasa siempre o algunas veces?
 4. Â¿Ocurre con todas las aplicaciones de Telegram o sÃ³lo en uno de tus dispositivos?
@@ -1862,7 +1866,7 @@ Pueden haber varias razones por las que Telegram estÃ¡ usando mucha baterÃ­a
 Por favor, revisa lo siguiente:
 - Si tienes un Optimizador de BaterÃ­a, un Gestor de Tareas, un Task Killer o alguna aplicaciÃ³n similar instalada: por a Telegram en la lista de aplicaciones permitidas (lista blanca). Si no estÃ¡ en esa lista, el proceso de Telegram se reiniciarÃ¡ una y otra vez cuando la cierres, y eso usa mucha de la energÃ­a del dispositivo.
 - Telegram usa las Google Cloud Notifications (GCM, notificaciones en la nube de Google), para despertar la aplicaciÃ³n y notificarte cuando hayan nuevos mensajes. AsegÃºrate de que los Servicios de Google Play estÃ¡n instalados en tu dispositivo.
-Como las GCM no soy muy de fiar, hemos aÃ±adido un sistema extra para ayudar a que recibas notificaciones cuando lleguen mensajes nuevos. Puedes gestionar este sistema activando las opciones "Servicio keep-alive" y "ConexiÃ³n en segundo plano", en la parte inferior de los Ajustes de Telegram > Notificaciones y sonidos.
+Como las GCM no soy muy de fiar, hemos aÃ±adido un sistema extra para ayudar a que recibas notificaciones cuando lleguen mensajes nuevos. Puedes gestionar este sistema activando las opciones â€œServicio keep-aliveâ€ y â€œConexiÃ³n en segundo planoâ€, en la parte inferior de los Ajustes de Telegram > Notificaciones y sonidos.
 Ambos ajustes pueden afectar a la baterÃ­a de tu dispositivo. Si los apagas ambos y usas sÃ³lo las Google Cloud Notifications, puede resultar en notificaciones poco fiables.
 {COMMENT}
 =======================
@@ -1884,7 +1888,7 @@ lastseenlogger
 invisblemetadata
 lastseenhoax
 {VALUE}
-Esta "investigaciÃ³n" no es mÃ¡s que un bulo. La Ãºltima conexiÃ³n del usuario en Telegram sÃ³lo es visible para aquellos que el usuario especificÃ³ en los Ajustes de Privacidad â€” Ãšltima conexiÃ³n, sin importar las aplicaciones usadas para ver esta informaciÃ³n. Todas las referencias del artÃ­culo sobre "aÃ±adir a contactos", "Cliente Telegram CLI", "Metadatos invisibles", etc. son irrelevantes y han sido aÃ±adidos con el Ãºnico fin de confundir al lector con un lenguaje pseudo-cientÃ­fico.
+Esta â€œinvestigaciÃ³nâ€ no es mÃ¡s que un bulo. La Ãºltima conexiÃ³n del usuario en Telegram sÃ³lo es visible para aquellos que el usuario especificÃ³ en los Ajustes de Privacidad > Ãšltima conexiÃ³n, sin importar las aplicaciones usadas para ver esta informaciÃ³n. Todas las referencias del artÃ­culo sobre â€œaÃ±adir a contactosâ€, â€œCliente Telegram CLIâ€, â€œMetadatos invisiblesâ€, etc. son irrelevantes y han sido aÃ±adidos con el Ãºnico fin de confundir al lector con un lenguaje pseudo-cientÃ­fico.
 MÃ¡s informaciÃ³n en:
 https://telegram.org/faq/es#p-puedo-esconder-mi-ltima-conexin
 {QUESTION}
@@ -1896,7 +1900,7 @@ indcca
 Lo esencial, para lectores no especializados, es esto: Alguien puede coger un mensaje ya cifrado despuÃ©s de ser enviado (sin conocer su contenido), aÃ±adir algunos sÃ­mbolos a ese texto cifrado (sin poder de ningÃºn modo alterar el contenido) y enviÃ¡rtelo. Tras descifrarlo, recibirÃ¡s el mismo mensaje que se enviÃ³ y sÃ³lo tÃº y el emisor sabrÃ©is lo que pone.
 Las propiedades del tipo del IND-CCA son prÃ¡cticas para definiciones teÃ³ricas e investigaciÃ³n cientÃ­fica, pero no estÃ¡n directamente relacionadas con la propia seguridad de la comunicaciÃ³n.
 Por poner un ejemplo en tÃ©rminos familiares:
-Un cartero puede escribir "Jaja" (Â¡usando tinta invisible!) en el exterior de un paquete sellado que luego te entrega. Esto no hace que el paquete no se entregue, ni le permite cambiar su contenido, ni le permite ver lo que hay dentro.
+Un cartero puede escribir â€œJajaâ€ (Â¡usando tinta invisible!) en el exterior de un paquete sellado que luego te entrega. Esto no hace que el paquete no se entregue, ni le permite cambiar su contenido, ni le permite ver lo que hay dentro.
 AquÃ­ tienes un enlace a nuestras Preguntas Frecuentes TÃ©cnicas, por si te interesa:
 https://core.telegram.org/techfaq#what-about-ind-cca
 {QUESTION}
@@ -1915,8 +1919,8 @@ terminatesessions
 activesessions
 {VALUE}
 Cuando inicias sesiÃ³n en Telegram, te enviamos un mensaje con un cÃ³digo para iniciar sesiÃ³n. NO ENTREGUES ESTE CÃ“DIGO A NADIE. Si lo compartes, otras personas podrÃ¡n iniciar sesiÃ³n en tu cuenta.
-Para ver todas las sesiones activas en tu cuenta, ve a Ajustes â€” Privacidad y Seguridad â€” Sesiones Activas. Si ves algo sospechoso, puedes finalizar la sesiÃ³n allÃ­.
-TambiÃ©n puedes establecer una contraseÃ±a para tu cuenta. Para hacerlo, accede a Ajustes â€” Privacidad y Seguridad â€” VerificaciÃ³n en dos pasos. Una vez activado, necesitarÃ¡s esa contraseÃ±a y el cÃ³digo que te enviemos para iniciar sesiÃ³n en Telegram.
+Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Privacidad y Seguridad > Sesiones Activas. Si ves algo sospechoso, puedes finalizar la sesiÃ³n allÃ­.
+TambiÃ©n puedes establecer una contraseÃ±a para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > VerificaciÃ³n en dos pasos. Una vez activado, necesitarÃ¡s esa contraseÃ±a y el cÃ³digo que te enviemos para iniciar sesiÃ³n en Telegram.
 {COMMENT}
 =======================
 -ARCHIVE-
@@ -1928,7 +1932,7 @@ zimp
 zimperium
 {VALUE}
 Me temo que es un artÃ­culo hecho para hacerse publicidad. Nada fue hackeado, el autor simplemente buscaba publicitar su producto. El artÃ­culo suena ridÃ­culo para cualquier especialista de seguridad (por ejemplo, echa un vistazo a los comentarios en Hacker News: https://news.ycombinator.com/item?id=9095059).
-En resumidas cuentas dice algo asÃ­ como: "Si tuviera las llaves de tu casa, podrÃ­a abrir tu puerta".
+En resumidas cuentas dice algo asÃ­ como: â€œSi tuviera las llaves de tu casa, podrÃ­a abrir tu puertaâ€.
 AsÃ­ que no tienes de quÃ© preocuparte si no le das a nadie tus llaves. Para mantener tu dispositivo a salvo, evita acceder a enlaces sospechosos, mantÃ©n siempre tu sistema actualizado con la Ãºltima versiÃ³n, y no hagas 'root' a tu equipo.
 Y nunca confÃ­es en aquellos que intente asustarte para hacerte comprar sus programas.
 {QUESTION}
