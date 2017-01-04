@@ -16,10 +16,10 @@ For screenshots in secret chats, see â€˜screensecretaâ€™.
 {KEYS}
 screena
 noscreena
-noscreenshota
-noscreenshotandroid
 screenshota
+noscreenshota
 screenshotandroid
+noscreenshotandroid
 {VALUE}
 With the recent updates to Telegram, screenshots are disabled by default, if you have the passcode lock enabled.
 You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable Allow Screen Capture and restart the app.
@@ -27,41 +27,25 @@ When this option is enabled, you will be able to take screenshots of the app, bu
 {QUESTION}
 Why doesnâ€™t Telegram prevent cheating in games built on our platform?
 {KEYS}
-cheating
 cheat
 cheats
+cheating
 cheaters
 {VALUE}
 Telegram's gaming platform enables bot developers to create in-chat games, but the Telegram team doesnâ€™t control the way each game works, so cheating can occur. In order to prevent this, we would need to sync not only the results, but every action players take in every game, with the developer's server â€” which would be hard for developers to set up and maintain.
 Cheating is a problem for many games, including those that are published on the App Store or Google Play. In each case, it is up to the game developers to catch any cheaters. As more and more games are published by third-party developers over time, we hope you will be able to find games that work just as you want them to.
 {QUESTION}
-Phantom grey chat that canâ€™t be deleted (iOS)
-{COMMENT}
-https://trello.com/c/EJOgrKQa/
-{KEYS}
-offline
-offlinebug
-grey
-greychat
-greychatbug
-emptychat
-emptychatbug
-{VALUE}
-We're currently aware of this issue. It's being looked into right now, and we are hoping to get it fixed as soon as possible.
-In case youâ€™d like a few details, this bug just causes you to see an extra phantom chat that doesnâ€™t actually exist. Nothing to worry about in terms of lost chats or your account security. Sorry for the inconvenience!
-We'll get back to you as soon as we have any news. Hereâ€™s a technical hashtag that will help us find your question: #issue_EJOgrKQa
-{QUESTION}
 Unread counter shows an extra +1
 {COMMENT}
 https://trello.com/c/pzfSzLxW/
 {KEYS}
+1notif
+1unread
 notification
 notifications
+1notification
 notificationbug
 notificationsbug
-1notif
-1notification
-1unread
 {VALUE}
 We're currently aware of this issue. It's being looked into right now, and we are hoping to get it fixed as soon as possible.
 If you don't wish to wait for the fix, we can suggest a workaround: log in with our desktop app (desktop.telegram.org), find the group chat with an unread message there and open it to get rid of the extra notification.
@@ -82,17 +66,18 @@ Please add this feature
 na
 idea
 sugg
+suggestion
+addfeature
 suggestions
 featurerequest
-addfeature
 {VALUE}
 Thank you, we will consider this. Telegram evolves quickly and new features are added every month. We can't promise anything or give an exact timeframe, but suggestions are always welcome.
 {QUESTION}
 User using outdated app (iOS)
 {KEYS}
 updi
-updateios
 updatei
+updateios
 {VALUE}
 Please update your app, we've noticed you're using an outdated version. You can find the latest Telegram for iOS here:
 https://telegram.org/dl/ios
@@ -100,8 +85,8 @@ https://telegram.org/dl/ios
 User using outdated app (Android)
 {KEYS}
 upda
-updateandroid
 updatea
+updateandroid
 {VALUE}
 Please update your app, we've noticed you're using an outdated version. You can find the latest Telegram for Android here:
 https://telegram.org/dl/android
@@ -151,7 +136,7 @@ promotetelegram
 {VALUE}
 To invite your friends to Telegram just send them this download link: https://telegram.org/dl
 They need to know your phone number or username to find you. If you're using a username, you can just send them a username link, like this:
-https://telegram.me/YourUsername.
+https://t.me/YourUsername.
 {QUESTION}
 Hello? Are you there?
 {KEYS}
@@ -183,8 +168,8 @@ When user is insulting us
 Only use this template if the user told us nothing but insults. Don't use this, if the user has a question on top of the insults (some start swearing when they think the answer takes too long, that's ok). If there is indeed a question - just ignore the insults and answer the question, this usually works in a sobering way for the offender.
 {KEYS}
 insult
-insulting
 insulted
+insulting
 stopinsulting
 {VALUE}
 Hi, we ignore insults, as we are human beings, not computers, and we don't think we should be treated like that. Sorry about this. Please get back to us when you have a question regarding Telegram. Bye!
@@ -192,19 +177,20 @@ Hi, we ignore insults, as we are human beings, not computers, and we don't think
 When user is sending voice messages
 {KEYS}
 vm
-voicemessage
-pleasewrite
+voice
 pleasetype
+pleasewrite
+voicemessage
 {VALUE}
-Unfortunately we can't respond to voice messages. Please write down your question, so we may help you as soon as possible.
+Unfortunately we can't respond to voice messages. Please write down your question, so we can help you as soon as possible.
 {QUESTION}
 What's your name? How old are you? Do you like men with beards?
 {KEYS}
-name
 age
-iam
-weare
 asl
+iam
+name
+weare
 {VALUE}
 That's our little secret... This is a collective account - while you're chatting with us you may encounter many different people. This way we can ensure that all questions are answered in a timely manner. The only important thing about us is that we're all Telegram volunteers, here to help you with your problems in a human way.
 But, if you really need a name, just call me Telegram.
@@ -213,6 +199,7 @@ When user reports illegal content
 {KEYS}
 abuse
 legal
+illegal
 {VALUE}
 I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases involving illegal content.
 Please use the in-app option to send a report to the Telegram abuse department or contact them at abuse@telegram.org with all the details and links. Bots and Channels can be reported via the "Report" button at the bottom of their profile.
@@ -224,12 +211,12 @@ Thank you!
 {QUESTION}
 Which country is Telegram from?
 {KEYS}
-country
-countryfrom
-origin
-telegramfrom
 base
 based
+origin
+country
+countryfrom
+telegramfrom
 {VALUE}
 Telegram does not belong to any country in particular. It is a global project with contributors from all over the world. We move around often and rarely stay long in one place.
 Our goal is to allow everyone to get back their right to privacy. The project is distributed â€” Telegram's servers, companies and people are spread all around the planet to minimize potential interference to its operations.
@@ -240,10 +227,12 @@ http://telegram.org/press
 {QUESTION}
 What is Telegram?
 {KEYS}
+about
 whatis
-whatistelegram
+telegram
 telegramis
 telegramcan
+whatistelegram
 {VALUE}
 With Telegram you can send messages, photos, videos and files to your friends anywhere - for free. You can use it simultaneously on all your devices (mobile, tablet, computer):
 https://telegram.org/apps
@@ -252,7 +241,7 @@ And here's a brief overview of what else you can do on Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
 - Create groups with up to 5000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
-- Subscribe to news channels on whatever topic you like - from @vanGoghArt to @CatsChannel.
+- Subscribe to news channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
 You can read about our latest changes here:
 https://telegram.org/blog
@@ -261,12 +250,12 @@ https://twitter.com/telegram
 {QUESTION}
 Is this the same as WA?
 {KEYS}
-whatsapp
 wa
+versus
+whatsapp
+whatsappcompare
 whatsappdifference
 whatsappcomparison
-whatsappcompare
-versus
 telegramvswhatsapp
 whatsappvstelegram
 {VALUE}
@@ -280,31 +269,34 @@ To name a few unique features:
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
 Here's a list of Telegram apps for all platforms:
 https://telegram.org/apps
-If you want to learn more about Telegram, ask me more. Or take a look at this link as pictures are better than a 1000 words:
+If you want to learn more about Telegram, ask me more. Or take a look at this link as pictures are better than 1000 words:
 https://telegram.org/#what-can-you-do-with-Telegram
 {QUESTION}
 Desktop reminder | Is there a desktop app?
 {KEYS}
+pc
+web
+webapp
 desktop
 computer
 desktopapp
 computerapp
-webapp
 {VALUE}
 Telegram is also available for your computer. You can choose between a web interface (a website in your browser) and a program to install on your machine.
 Our official web client: https://web.telegram.org
-Our official desktop app for Windows, Linux and OSX: https://desktop.telegram.org
-Our official native OSX app: https://telegram.org/dl/osx
+Our official desktop app for Windows, Linux and macOS: https://desktop.telegram.org
+Our official native macOS app: https://telegram.org/dl/macOS
 You can always visit https://telegram.org/apps for direct links.
 {QUESTION}
 How do you make money?
 {KEYS}
+money
+profit
 noncom
 makemoney
-profit
 profitable
 {VALUE}
-Unlike other messengers (e.g. WhatsApp, Facebook, etc.), Telegram is not a commercial organization, our goal is not to earn money, but to offer fast, secure, and private messaging without any costs for the user or ads.
+Unlike other messengers (e.g. WhatsApp, Facebook, etc.), Telegram's goal is not to earn money, but to offer fast, secure, and private messaging without any costs for the user or intrusive ads.
 You can read more about our position on this in our FAQ:
 https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
 {QUESTION}
@@ -319,17 +311,18 @@ But notice that Telegram requires an internet connection to work. Your mobile pr
 {QUESTION}
 Where can I find the source code?
 {KEYS}
-sourcecode
 source
 github
+sourcecode
 {VALUE}
 You can visit https://telegram.org/apps#source-code for links to the source code for each of our apps.
 {QUESTION}
 Why is Telegram fast?
 {KEYS}
-faster
 fast
+speed
 sofast
+faster
 telegramfast
 fasttelegram
 {VALUE}
@@ -338,8 +331,9 @@ We also have a unique server infrastructure that allows you to communicate using
 {QUESTION}
 How does Telegram encryption work?
 {KEYS}
-encryption
+crypto
 encrypted
+encryption
 {VALUE}
 We support two layers of secure encryption (server-client and client-client). Our encryption is based on 256-bit symmetric AES encryption, RSA 2048 encryption and Diffieâ€“Hellman secure key exchange.
 When a secret chat is created, the participating devices exchange encryption keys using the so called Diffie-Hellman key exchange. After the secure end-to-end connection has been established, we generate a picture that visualizes the encryption key for your chat.
@@ -348,11 +342,12 @@ You can find more info in the Advanced FAQ https://core.telegram.org/techfaq
 {QUESTION}
 How many users does Telegram have?
 {KEYS}
-howmany
 users
-useramount
-howmanyusers
+howmany
 userbase
+useramount
+totalusers
+howmanyusers
 {VALUE}
 Telegram is used by more than 100 million people around the world. In February 2016 we reached 15 billion daily messages, and 350,000 new users sign up every day.
 Read more:
@@ -362,11 +357,12 @@ https://telegram.org/blog/15-billion
 When was Telegram released?
 {KEYS}
 date
-telegramreleased
+birth
+since
+appbirth
 telegramage
 telegramorigin
-appbirth
-birth
+telegramreleased
 {VALUE}
 The first Telegram app (iOS) was released in August 2013. The Android app followed in September that year.
 {QUESTION}
@@ -374,6 +370,7 @@ Does Telegram read my messages? Do you?
 {KEYS}
 doyouread
 canyouseemessages
+canyoureadmessages
 {VALUE}
 We only read the messages that you send directly to us - for example, in this support chat. Telegram is not a commercial company, but a non-profit open source project that lives off a donation.
 We created Telegram to make safe and free messaging available for everybody. Our reputation and your privacy are the only things that we care about.
@@ -385,12 +382,15 @@ When is the next update coming?
 noupdate
 nextupdate
 whenupdate
-whennextupdatecoming
+updatewhen
+updatewhen
+updatedate
 whennewfeatures
+whennextupdatecoming
 {VALUE}
 Sorry, but we never promise exact release dates, as life might get in the way. It's easiest if you turn automatic updates on in Google's Play Store, Apple's App Store, or Windows Phone Store respectively. This way, you'll always be one of the first to get updates.
 You can also join our official Telegram channel or follow us on Twitter:
-https://telegram.me/telegram
+https://t.me/telegram
 https://twitter.com/telegram
 We always describe significant updates to our apps there.
 {QUESTION}
@@ -400,39 +400,46 @@ sec
 safe
 secure
 safety
+privacy
 security
 {VALUE}
 We worked hard to make Telegram the most secure mass-market messenger. And we are continuously working with the community to improve the security of our protocol and clients.
-You can learn more about Telegram security here:
+You can learn more about Telegram security and privacy here:
 https://telegram.org/faq#security
+https://telegram.org/privacy
 {QUESTION}
 I'm worried about storing things in the cloud
 {KEYS}
+cloud
 cloudsec
-cloudsecurity
 cloudsafe
 safecloud
+cloudsecurity
+telegramcloud
 {VALUE}
 Security is one of Telegram's main attractions; everything you send and receive is heavily encrypted. Your cloud chat data is stored encrypted in the Telegram Cloud.
-And if you don't like the idea of syncing chats across many devices, try our Secret Chats. Messages in secret chats use end-to-end encryption and can only be deciphered on your and your recipient's devices. They are not part of the cloud and can only be accessed on the device that you started them on. And if you log out on that device, they are gone.
+And if you don't like the idea of syncing chats across many devices, try our Secret Chats. Messages in secret chats use end-to-end encryption and can only be deciphered on you and your recipient's devices. They are not part of the cloud and can only be accessed on the device that you started them on. And if you log out on that device, they are gone.
 {QUESTION}
 Why did you call this Telegram?
 {KEYS}
+whyname
+namewhy
+whytelegram
 telegramname
 calledtelegram
 why"telegram"?
-whytelegram
 whytelegramname
 {VALUE}
-The old-school telegram used to be the fastest, safest, and cheapest way for long-distance communication once; it brought people around the globe closer together than ever before (check out http://en.m.wikipedia.org/wiki/Telegraphy).
+The old-school telegram used to be the fastest, safest, and cheapest way for long-distance communication once; it brought people around the globe closer together than ever before (check out https://en.wikipedia.org/wiki/Telegraphy).
 That sounded a lot like us.
 {QUESTION}
 You need more users! Advertise more!
 {KEYS}
+adverts
+outreach
 recommend
 moreusers
 advertise
-outreach
 marketing
 advertising
 {VALUE}
@@ -445,9 +452,10 @@ Bring one or two people you're close with, then watch the chain reaction.
 Can I join you? Are you hiring?
 {KEYS}
 join
-hiring
 jobs
+hiring
 duties
+vacancies
 nothiring
 {VALUE}
 We are always looking for real all-rounders to join our voluntary support force.
@@ -463,7 +471,9 @@ Can I hide my last seen time?
 {KEYS}
 inv
 invisible
+lastseen
 hidelastseen
+lastseenrecently
 {VALUE}
 You can set who can see your 'last seen time' in Privacy and Security settings.
 You wonâ€˜t see 'Last Seen' timestamps for people with whom you donâ€™t share your own. You will, however, see an approximate 'last seen' value. This keeps stalkers away but makes it easy to see whether a person is reachable over Telegram. There are four possible approximate values:
@@ -476,9 +486,10 @@ As you can see, these stages are not clearly separated, so you cannot calculate 
 Can I hide my last seen time? (Desktop)
 {KEYS}
 invdesk
+invdesktop
+lastseendesk
 invisibledesk
 hidelastseendesk
-invdesktop
 invisibledesktop
 hidelastseendesktop
 {VALUE}
@@ -486,14 +497,15 @@ Our desktop version doesnâ€˜t currently have the option to set who can see y
 {QUESTION}
 What do the green checks mean?
 {KEYS}
-check
-tick
 2
-checks
 two
+tick
+check
+ticks
+checks
+onecheck
 twochecks
 greenchecks
-onecheck
 {VALUE}
 1 check = message delivered to the Telegram cloud (and is waiting for your chat partner to see it in Telegram), notification sent (if the recipient is accepting notifications).
 2 checks = message read (recipient opened Telegram and the conversation with your message).
@@ -502,39 +514,45 @@ We don't have an additional status for 'message delivered to device', because yo
 Can I hide my online status?
 {KEYS}
 online
+hideonline
 hidestatus
 hideonlinestatus
-hideonline
 {VALUE}
 Your online status is only shown to those people that can see your last seen. If you don't share your last seen with them, they will only see you 'Online' when you're typing a message to them â€” or just sent one.
 {QUESTION}
 I deleted a chat by accident, can I restore it?
 {KEYS}
 restorechat
-deletedchataccident
+recoverchat
 accidentdelete
 deletedmessage
+restoremessage
+recovermessage
 deletedmessages
+restoremessages
+recovermessages
+deletedchataccident
 {VALUE}
-Sorry, there is no way to restore chats if you deleted them.
+Sorry, there is no way to restore chats or messages if you deleted them.
 But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could manually forward you specific chat messages you need. And if it was a secret chat, they may be able to take screenshots for you or just copy the text if screenshots are disabled on their device.
 {QUESTION}
 How do I know who is using Telegram?
 {KEYS}
 who
-whosonline
-who'sonline
-whosusing
-who'susing
 whoshere
 who'shere
+onlinenow
+whosusing
+whosonline
+who'susing
+who'sonline
 {VALUE}
 Telegram regularly checks your device for new contacts. Your contacts who have Telegram are shown at the top of your Telegram contacts page, if they have set a Profile Picture that will also be shown there.
 {QUESTION}
 How can I make new friends here?
 {KEYS}
-meetfriends
 newfriends
+meetfriends
 makefriends
 {VALUE}
 In Telegram, you can create a group with your friends, and then ask them to add their friends as well â€” an easy way to meet new people. Tell me if you'd like to learn how to create groups.
@@ -543,20 +561,21 @@ Please remember: You can use Telegram search to find people you know by their us
 {QUESTION}
 Will you have video calls?
 {KEYS}
+tel
 videocall
 videocalls
-tel
 {VALUE}
 We are not working on this feature at the moment. For now, you can send a recorded video or a voice message to your Telegram friends.
 {QUESTION}
 Will you have calls?
 {KEYS}
 call
+voip
+calls
 calling
+telephone
 calloption
 callingoption
-telephone
-calls
 callingability
 {VALUE}
 We specialize in sending messages, large media and files to unlimited audiences â€” and we do this better than anyone out there. For the moment we see many things that could still be revolutionized in messaging. And messaging is obviously trending at the moment, so our focus remains in that area, at least for now. Stay tuned for our next updates.
@@ -578,8 +597,9 @@ https://web.telegram.org
 Will I know if somebody blocks me?
 {KEYS}
 blocked
-i'mblocked
 imblocked
+i'mblocked
+whoblocked
 userblocked
 amiblocked
 {VALUE}
@@ -592,10 +612,10 @@ Blocked people:
 What are gifs?
 {KEYS}
 gif
-gifs
-gifsare
-jifs
 jif
+gifs
+jifs
+gifsare
 {VALUE}
 GIFs are animated pictures - send them as a 'file' attachment (not as a photo) if you want them to be playable.
 You can use our built-in GIF search or the inline bot: try typing '@gif cats' in the message field. The bot will then offer you GIFs relevant to your search term, in this case, 'cats'!
@@ -605,13 +625,13 @@ How can I use emoticons? (iOS)
 {KEYS}
 emoji
 smiley
-emoticons
-emoticon
 emojis
 smilies
 smileys
-emoticonsios
 emojiios
+emoticon
+emoticons
+emoticonsios
 {VALUE}
 We support emoji emoticons. Simply enable the emoji keyboard in your iOS device's Settings (General > Keyboards > Add New Keyboard... > Emoji).
 Then just switch to that keyboard whenever you're out of words ;-)
@@ -619,6 +639,8 @@ Then just switch to that keyboard whenever you're out of words ;-)
 How can I send music from my iOS device?
 {KEYS}
 mp3
+mp3i
+musici
 musicios
 sendmusicios
 {VALUE}
@@ -629,7 +651,7 @@ What does 'name hidden' mean?
 namehidden
 hiddenname
 {VALUE}
-'Name hidden' or 'Unknown' instead of a name means that this person deleted their Telegram account.
+'Name Hidden' or 'Unknown' instead of a name means that this person deleted their Telegram account.
 {QUESTION}
 How can I use stickers? (iOS)
 {KEYS}
@@ -638,7 +660,7 @@ stickersi
 stickerios
 stickersios
 {VALUE}
-There is a button to open the stickers panel on the right-hand side of your input field. When you add sticker sets, they will appear in this panel. Try it with https://telegram.me/addstickers/animals or https://telegram.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
+There is a button to open the stickers panel on the right-hand side of your input field. When you add sticker sets, they will appear in this panel. Try it with https://t.me/addstickers/animals or https://t.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
 When you have the stickers panel enabled in your app settings, emoji have dual functions. If you start a message with an emoji, you may see a relevant sticker suggestion for it. Check ðŸ˜„ðŸ˜˜ðŸ˜¦ðŸ˜ðŸ˜ðŸ‘½ðŸ‘ðŸ‘ŒðŸ‘ˆðŸ™ŒðŸ’ª for a few sticker examples.
 If you'd like to know how to find more stickers, let me know and I'll be glad to give you some tips.
 {QUESTION}
@@ -649,7 +671,7 @@ stickersa
 stickerandroid
 stickersandroid
 {VALUE}
-There is a stickers tab in the emoji panel. When you add sticker sets, they will appear in this tab. Try it with https://telegram.me/addstickers/animals or https://telegram.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
+There is a stickers tab in the emoji panel. When you add sticker sets, they will appear in this tab. Try it with https://t.me/addstickers/animals or https://t.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
 When you have the stickers tab enabled in your app settings, emoji have dual functions. If you start a message with an emoji, you may see a relevant sticker suggestion for it. Check ðŸ˜„ðŸ˜˜ðŸ˜¦ðŸ˜ðŸ˜ðŸ‘½ðŸ‘ðŸ‘ŒðŸ‘ˆðŸ™ŒðŸ’ª for a few sticker examples.
 If you'd like to know how to find more stickers, let me know and I'll be glad to give you some tips.
 {QUESTION}
@@ -658,10 +680,10 @@ Where do I find more stickers?
 The app shouldnâ€™t be outdated for the inline bot to work
 {KEYS}
 morest
-morestickers
 getstickers
-findstickers
 buystickers
+morestickers
+findstickers
 {VALUE}
 We don't have an official store for stickers, the platform is open for anyone to use. If you'd like to get more stickers, there are a few ways:
 1) Simply type '@sticker' in the input field, leave a space, and then enter one or more emoji - the bot will offer you some sticker suggestions to choose from.
@@ -686,9 +708,10 @@ What are channels?
 {KEYS}
 channels
 channelsare
+aboutchannels
 {VALUE}
 Channels are a tool for broadcasting your messages to large audiences â€” share important news, fun stuff, or anything you want. Unlike in a group, the recipients won't know about each other and it is only the administrators of the channel that will be able to send messages there.
-Channels can have an unlimited number of members â€” and they can be public with a permanent URL so that everyone can find and join them. If you'd like an example, join our official Telegram channel to get notified about our updates: https://telegram.me/telegram
+Channels can have an unlimited number of members â€” and they can be public with a permanent URL so that everyone can find and join them. If you'd like an example, join our official Telegram channel to get notified about our updates: https://t.me/telegram
 To create a channel:
 iOS: Start a new message (tap the icon in the top-right corner in Chats). Then â€˜New Channelâ€™.
 Android: Tap the pencil icon in the chat list. Then â€˜New Channelâ€™.
@@ -697,16 +720,16 @@ Windows Phone: Tap the '+' sign in the chat main menu. Then â€˜New Channelâ
 Where do I find new channels?
 {KEYS}
 morechan
+getchannels
 morechannels
 findchannels
-getchannels
 {VALUE}
 Sorry, we don't have an official list of Telegram channels. The best way of finding them now would be to search on the web for 'Telegram channels'.
 {QUESTION}
 How are supergroups different from groups?
 {KEYS}
-supergroups
 sg
+supergroups
 {VALUE}
 Telegram groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
 Supergroups can have up to 5000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
@@ -722,8 +745,8 @@ Where do I find bots?
 {COMMENT}
 Feel free to customize these examples within reason
 {KEYS}
-morebots
 getbots
+morebots
 findbots
 botexamples
 {VALUE}
@@ -748,8 +771,8 @@ What does the LED setting mean?
 {KEYS}
 led
 lights
-lednotification
 ledsetting
+lednotification
 {VALUE}
 Some smartphones have an LED (a small light) which can flash in a specific colour as soon as a message or email is received.
 If your phone has an LED, you can set an individual colour to flash for new messages from each Telegram contact.
@@ -768,10 +791,10 @@ Where do I enter the code from your SMS? (Android)
 code
 smscode
 codesms
-codeandroid
-smscodeandroid
 wherecode
 codeandroid
+codeandroid
+smscodeandroid
 {VALUE}
 The code is automatically recognized by most Android smartphones and inserted so fast that you won't notice. If you are able to use your Telegram, everything worked just fine and you don't need it anymore.
 {QUESTION}
@@ -786,10 +809,12 @@ When you receive a confirmation call from Telegram, the phone number contains a 
 How do I hide my phone number?
 {KEYS}
 hidepn
-hidephonenumber
+number
 hidephone
 hidenumber
-number
+numberhide
+numberprivacy
+hidephonenumber
 {VALUE}
 Your phone number is hidden from other users. They can only see it in the following three cases:
 - If they already have your phone number saved in their address book.
@@ -812,12 +837,12 @@ Desktop: right-click a message and select 'edit'. You can also press the up arro
 How do I delete messages from supergroups?
 {KEYS}
 delmsgsg
-delmsgsupergroups
 delmsgsuper
-delmessagessupergroups
-deletemessagessupergroups
+delmsgsupergroups
 delhistorysupergroups
+delmessagessupergroups
 deletehistorysupergroups
+deletemessagessupergroups
 {VALUE}
 In supergroups, deleted messages disappear for all chat members, and members can only delete their own messages, unless they are administrators.
 If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about it.
@@ -828,7 +853,7 @@ cachea
 cacheandroid
 {VALUE}
 With Telegram, you don't need to store a lifetime of media history on your device. If you remove Telegram data from your device's local cache, it will re-download from the cloud whenever you want to access it again. This means, you won't lose anything and Telegram will always take the minimum amount of space.
-Simply go to Telegram Settings â€” Cache Settings and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
+Simply go to Telegram Settings > Data and Storage > Storage Usage and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
 It is possible to clear cached files from individual supergroups and channels: tap and hold them in the chats list, then 'Delete from Cache'.
 {QUESTION}
 How do I manage cache? (iOS)
@@ -837,7 +862,7 @@ cachei
 cacheios
 {VALUE}
 With Telegram, you don't need to store a lifetime of media history on your device. If you remove Telegram data from your device's local cache, it will re-download from the cloud whenever you want to access it again. This means, you won't lose anything and Telegram will always take the minimum amount of space.
-To manage cache, go to Telegram Settings â€” Chat Settings â€” Cache Settings. There you can configure how long unused media stays on your device â€” or clear it manually, either by type or on a chat-by-chat basis.
+To manage cache, go to Telegram Settings > Data and Storage > Storage Usage. Here you can configure how long unused media stays on your device â€” or clear it manually, either by type or on a chat-by-chat basis.
 {QUESTION}
 How do I manage cache? (Windows Phone)
 {KEYS}
@@ -856,9 +881,9 @@ If you are looking for a way to free your phone's memory, please note you can ea
 {QUESTION}
 Why do I see a warning about scam in botâ€™s messages?
 {KEYS}
+scam
 lara
 larabot
-scam
 scambot
 warning
 {VALUE}
@@ -890,7 +915,7 @@ Secret chats:
 - Can only be used on one device
 - Send a screenshot alert
 - Are unusable after logging out
-- Do not allow forwarding via Telegram
+- Do not allow messages to be forwarded outside of them
 - No data backup possible
 To sum it up, Secret chats are super convenient for a short chat; for permanent conversations cloud chats are more convenient. All chats on Telegram are of course always encrypted. More about secret chats here: https://telegram.org/faq#secret-chats
 {QUESTION}
@@ -913,11 +938,11 @@ How are secret chats different from cloud chats?
 {KEYS}
 diff
 schatvscchat
-secretchatsvscloudchat
+secretvscloud
 secretchatvscloudchat
 secretchatsvscloudchat
+secretchatsvscloudchat
 secrectcahtvscloudchats
-secretvscloud
 {VALUE}
 Telegram cloud chats (and groups) are securely encrypted in the Telegram cloud so that you can quickly access them from any of your devices, even if you reinstall the app. Only if you delete something in your chat is it gone forever (unless your chat partner can send it back to you).
 Secret Chats use end-to-end encryption and can only be deciphered on the two participating devices. Downside of that: you can't access them from your other devices and if you reinstall Telegram, or even log out of your account, your secret chats will be lost.
@@ -927,6 +952,7 @@ How can I send self-destructing messages? (iOS)
 {KEYS}
 timeri
 timerios
+selfdestructi
 selfdestructios
 {VALUE}
 The self-destruct timer is available in Secret Chats. Countdown starts as soon as the person on the other side reads the message. As soon as the time runs out, messages are removed from both devices. Timer only applies to messages that were sent after the timer was set.
@@ -936,8 +962,8 @@ How can I send self-destructing messages? (Android)
 {KEYS}
 timera
 timerandroid
-selfdestructandroid
 selfdestructa
+selfdestructandroid
 {VALUE}
 The self-destruct timer is available in Secret Chats. Countdown starts as soon as the person on the other side reads the message. As soon as the time runs out, messages are removed from both devices. Timer only applies to messages that were sent after the timer was set.
 To activate the timer on Android, tap the profile picture in the secret chat, set the desired time and tap 'Done'.
@@ -945,8 +971,8 @@ To activate the timer on Android, tap the profile picture in the secret chat, se
 How can I send self-destructing messages? (Windows Phone)
 {KEYS}
 timerwp
-timerwindowsphone
 selfdestructwp
+timerwindowsphone
 selfdestructwindowsphone
 {VALUE}
 The self-destruct timer is available in Secret Chats. Countdown starts as soon as the person on the other side reads the message. As soon as the time runs out, messages are removed from both devices. Timer only applies to messages that were sent after the timer was set.
@@ -958,14 +984,14 @@ To activate the timer on Windows Phone, tap the profile image in the secret chat
 {QUESTION}
 How do usernames work?
 {KEYS}
+un
 username
 usernames
-un
 {VALUE}
 You can pick a public Telegram username so that other users can find you using global search. This means that people will be able to contact you or add you to groups, even if they don't have your phone number. If you do not want that, simply don't set up a user name.
 Usernames must have at least 5 characters and cannot start or end with underscores (_).
 Once you've set up a username, you will also be able to use your personal Telegram link:
-telegram.me/YourUsername
+t.me/YourUsername
 It will open a chat with you on Telegram â€” perfect for sharing with friends or putting up on your website or social network profiles.
 Android: To set up a username, swipe the chat list to the right to open the menu, then 'Settings' â€” 'Username'.
 iOS: To set up a username, go to Settings â€” Username.
@@ -976,13 +1002,13 @@ Web: To set up a username, go to Settings, then 'Set username'.
 How can I find people on Telegram by their usernames?
 {KEYS}
 search
-findusername
-searchunsername
-findusers
-addfriends
 finduser
 addfriend
+findusers
+addfriends
 searchuser
+findusername
+searchunsername
 {VALUE}
 You can search for other Telegram users by their usernames, if they have set one up. You need to type at least 5 characters to start the search. Read more about usernames here: https://telegram.org/faq#usernames-and-telegram-me
 Android: Tap the magnifying glass icon in the top right corner in the chat list, then type in the search box.
@@ -991,7 +1017,10 @@ WP: Go to Contacts view, then tap the magnifying glass icon and type in the sear
 {QUESTION}
 My username is already taken, can I get it?
 {KEYS}
+wantusername
 usernametaken
+usernameoccupied
+usernamesquatted
 {VALUE}
 Telegram usernames are distributed on a first come - first serve basis, sorry about this. How about an alternative way of writing the name?
 We understand that certain usernames are part of an online identity for some of us. If your desired username is already taken, we will be happy to help you acquire it, provided that you have exactly the same username on at least two of these services: Facebook, Twitter, Instagram.
@@ -1016,9 +1045,9 @@ Unfortunately we currently can't guarantee verification due to the amount of req
 How can I delete my username?
 {KEYS}
 delusername
+blankusername
 deleteusername
 removeusername
-blankusername
 {VALUE}
 Go to Settings and save an empty username. This will remove your username, people will no longer be able to find you via search. This does not affect existing conversations.
 {COMMENT}
@@ -1029,20 +1058,21 @@ Go to Settings and save an empty username. This will remove your username, peopl
 How do I set up a passcode?
 {KEYS}
 passcode
-setuppasscode
-passcodesetup
 locksetup
 locktelegram
+setuppasscode
+passcodesetup
 {VALUE}
-In order to set up a passcode, go to Telegram Settings â€” Privacy & Security â€” Passcode Lock.
+In order to set up a passcode, go to Telegram Settings > Privacy and Security > Passcode Lock.
 Once you set up a passcode, a lock icon will appear in your chats list. Tap on it to lock the app â€” your passcode will be required next time you open Telegram.
 When the app is locked, text and sender's name are hidden in notifications. You can also enable auto-lock in Passcode Settings, if you don't want to lock the app manually.
 {QUESTION}
 What does the lock icon in my chats list mean?
 {KEYS}
 lock
-greenlock
+lockicon
 chatlock
+greenlock
 {VALUE}
 This icon appears when you set up a passcode. Tap on it to lock the app - your passcode will be required next time you open Telegram.
 When the app is locked, text and sender's name are hidden in notifications. You can also enable auto-lock in Passcode Settings, if you don't want to lock the app manually.
@@ -1051,9 +1081,9 @@ If you want to, you can disable this Passcode via Telegram Settings > Privacy an
 Can I make the app require my passcode immediately?
 {KEYS}
 locknow
+alwaysask
 passcodenow
 passcodeimmediately
-alwaysask
 {VALUE}
 If you don't want to lock the app manually, you can enable auto-lock in Passcode Settings.
 At the moment the smallest available setting is 1 minute, which works for most users â€” this way the app locks pretty quickly, but you don't need to key in the code if a new message arrives just as you've put the phone back in your pocket.
@@ -1063,16 +1093,9 @@ How do I unlock my app with Touch ID?
 {KEYS}
 touchid
 {VALUE}
-In order to unlock your Telegram app using Touch ID, please configure it in iOS Settings:
-Settings - Touch ID & Passcode - Add a fingerprint.
-{QUESTION}
-How do I unlock my app with touch ID? (iOS7)
-{KEYS}
-touchid7
-touchidios7
-ios7
-{VALUE}
-Unfortunately, third-party apps can only use Touch ID as of iOS 8 or higher, so your system doesn't support this function. Telegram could be unlocked using Touch ID if you decide to update your system.
+First, make sure you have Touch ID set up, you can configure it in iOS Settings:
+Settings > Touch ID & Passcode > Add a fingerprint.
+Then, go to Telegram Settings > Privacy and Security > Passcode Lock, and make sure the "Unlock with Touch ID" setting is tuned on.
 {COMMENT}
 ================================
 -FEATURES: HOW TO-
@@ -1081,12 +1104,12 @@ Unfortunately, third-party apps can only use Touch ID as of iOS 8 or higher, so 
 How do I change my background? (iOS)
 {KEYS}
 bgi
-backgroundios
 backgroundi
-changebackgroundios
+backgroundios
+chatbackgroundi
 changebackgroundi
 chatbackgroundios
-chatbackgroundi
+changebackgroundios
 {VALUE}
 To change your background, go to Settings â€” Chat Background and choose one that you like.
 To set your own photos as background, just tap on 'Photo Library'.
@@ -1094,123 +1117,133 @@ To set your own photos as background, just tap on 'Photo Library'.
 How do I change my background? (Android)
 {KEYS}
 bga
-backgroundandroid
 backgrounda
-changebackgroundandroid
-changebackgrounda
-chatbackgroundandroid
 chatbackgrounda
+changebackgrounda
+backgroundandroid
+chatbackgroundandroid
+changebackgroundandroid
 {VALUE}
 Swipe right on the chats screen to open the menu, then go to Settings â€” Chat background.
 If you want to set your own picture as a background, tap the first pic to access your gallery.
 {QUESTION}
+How do I change my background? (WP)
+{KEYS}
+bgwp
+backgroundwp
+chatbackgroundwp
+changebackgroundwp
+{VALUE}
+Tap "..." on the Chats screen, then Settings > Chat background.
+If you want to set your own picture as a background, tap the first pic to access your gallery.
+{QUESTION}
 How do I change my profile picture? (iOS)
 {KEYS}
-profilepici
 ppi
-profilepictureios
-profilepicturei
-changeprofilepictureios
-changeprofilepicturei
-changeppi
-changeprofilepicios
-changeprofilepici
-profilepicios
 ppios
+changeppi
+profilepici
+profilepicios
+profilepicturei
+changeprofilepici
+profilepictureios
+changeprofilepicios
+changeprofilepicturei
+changeprofilepictureios
 {VALUE}
 To change your profile picture, go to Telegram Settings > Set Profile Photo.
 {QUESTION}
 How do I change my profile picture? (Android)
 {KEYS}
-profilepica
 ppa
-profilepictureandroid
-profilepicturea
-changeprofilepictureandroid
-changeprofilepicturea
+ppandroid
 changeppa
-changeprofilepicandroid
+profilepica
+profilepicturea
 changeprofilepica
 profilepicandroid
-ppandroid
+changeprofilepicturea
+profilepictureandroid
+changeprofilepicandroid
+changeprofilepictureandroid
 {VALUE}
 To change your profile picture, swipe right in the chat list â€” settings â€” tap on the camera icon to set a new picture.
 {QUESTION}
 How do I change my profile picture? (Windows Phone)
 {KEYS}
-profilepicwp
 ppwp
-profilepicturewindowsphone
-profilepicturewp
-changeprofilepicturewindowsphone
-changeprofilepicturewp
 changeppwp
-changeprofilepicwindowsphone
+profilepicwp
+ppwindowsphone
+profilepicturewp
 changeprofilepicw
 profilepicwindowsphone
-ppwindowsphone
+changeprofilepicturewp
+profilepicturewindowsphone
+changeprofilepicwindowsphone
+changeprofilepicturewindowsphone
 {VALUE}
 To change your profile picture, tap "..." on the Chats screen, then Settings â€” tap on the profile picture
 {QUESTION}
 How do I delete my profile picture? (iOS)
 {KEYS}
-delppi
-delprofilepici
-deleteprofilepictureios
-deleteprofilepicturei
-deleteprofilepicios
-deleteprofilepici
-delppios
-delprofpicios
-delprofpici
 dppi
 dppios
+delppi
+delppios
+delprofpici
+delprofpicios
+delprofilepici
+deleteprofilepici
+deleteprofilepicios
+deleteprofilepicturei
+deleteprofilepictureios
 {VALUE}
 Go to Telegram Settings > Tap on your profile pic, then on the trash can in the bottom right corner.
 {QUESTION}
 How do I delete my profile picture? (Android)
 {KEYS}
+dppa
 delppa
-delprofilepica
 delppa
+dppandroid
+delprofpica
+delppandroid
 delprofilepica
-deleteprofilepictureandroid
+delprofilepica
+deleteprofilepica
+delprofpicandroid
 deleteprofilepicturea
 deleteprofilepicandroid
-deleteprofilepica
-delppandroid
-delprofpicandroid
-delprofpica
-dppa
-dppandroid
+deleteprofilepictureandroid
 {VALUE}
 Swipe right in Chats list > Settings > tap on your profile picture >  tap "..." > Delete.
 {QUESTION}
 How do I delete my profile picture? (Windows Phone)
 {KEYS}
-delppwp
-delprofilepicwp
-delppwp
-delprofilepicwp
-deleteprofilepicturewindowsphone
-deleteprofilepicturewp
-deleteprofilepicwindowsphone
-deleteprofilepicwp
-delppwindowsphone
-delprofpicwindowsphone
-delprofpicwp
 dppwp
+delppwp
+delppwp
+delprofpicwp
+delprofilepicwp
+delprofilepicwp
 dppwindowsphone
+delppwindowsphone
+deleteprofilepicwp
+deleteprofilepicturewp
+delprofpicwindowsphone
+deleteprofilepicwindowsphone
+deleteprofilepicturewindowsphone
 {VALUE}
 In chat view, tap "..." > Settings > tap on your profile pic > delete.
 {QUESTION}
 How do I hide my profile picture?
 {KEYS}
-profilepichide
 pphide
-profilepicturehide
 hidepp
+profilepichide
 hideprofilepic
+profilepicturehide
 hideprofilepicture
 {VALUE}
 Telegram doesn't currently support hiding your profile picture from other users. If you don't want people to see it, it's best to remove it completely.
@@ -1219,11 +1252,11 @@ Alternatively, you could block users to hide your profile picture from them. Ple
 Can I send a message to myself?
 {KEYS}
 self
+star
 msgself
+favorites
 messageself
 messagemyself
-favorites
-star
 {VALUE}
 You can easily open a chat with yourself from our mobile apps:
 iOS: Contacts tab > Tap on your phone number at the top.
@@ -1231,21 +1264,21 @@ Android: Main menu > Tap on your phone number at the top.
 Windows Phone: Chats > New chat > tap on "You".
 After you send a message there, the chat will be shown in your chat list, so you will always be able to access it from any app.
 If you have a username, the following link will also open a chat with you on Telegram:
-telegram.me/YourUsername
+t.me/YourUsername
 {QUESTION}
 I'm getting unwanted messages from people I don't know!
 {KEYS}
 annoy
+found
 findme
 annoyed
-annoying
-found
 foundme
-unwantedmessages
-receivingspam
-gettingspam
+annoying
 strangers
+gettingspam
+receivingspam
 strangerdanger
+unwantedmessages
 {VALUE}
 If you receive ads or other kinds of annoying messages from strangers, kindly report them by pressing the â€˜Report Spamâ€™ button.
 Please also note that when you set up a username, you enable global search for your account. This means that people can find you and send you messages, even if they don't have your number. (Your phone number will be hidden from them unless you share it yourself or add them to your contacts.)
@@ -1254,12 +1287,12 @@ If you don't want people to contact you, it's best to remove the username. Alter
 How do I create a group? (Android)
 {KEYS}
 groupa
-creategroupa
-creategroupandroid
-makegroupandroid
 makegroupa
 formgroupa
+creategroupa
+makegroupandroid
 formgroupandroid
+creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 Each group can have up to 5000 members in Telegram.
@@ -1267,12 +1300,12 @@ Each group can have up to 5000 members in Telegram.
 How do I create a group? (iOS)
 {KEYS}
 groupi
-creategroupi
-creategroupios
-makegroupios
 makegroupi
 formgroupi
+creategroupi
+makegroupios
 formgroupios
+creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 Each group can have up to 5000 members in Telegram.
@@ -1280,12 +1313,12 @@ Each group can have up to 5000 members in Telegram.
 How do I create a group? (Windows Phone)
 {KEYS}
 groupwp
-groupwindowsphone
-creategroupwp
 makegroupwp
 formgroupwp
-creategroupwindowsphone
+creategroupwp
+groupwindowsphone
 makegroupwindowsphone
+creategroupwindowsphone
 creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
@@ -1293,14 +1326,14 @@ Each group can have up to 5000 members in Telegram.
 {QUESTION}
 How do I create a group? (Desktop)
 {KEYS}
-groupdesktop
 groupdesk
-creategroupdesktop
-makegroupdesktop
-formgroupdesktop
-creategroupdesk
+groupdesktop
 makegroupdesk
 creategroupdesk
+creategroupdesk
+makegroupdesktop
+formgroupdesktop
+creategroupdesktop
 {VALUE}
 To create a group via the desktop app, tap the pencil icon near the search field, then 'New Group'.
 Each group can have up to 5000 members in Telegram.
@@ -1308,12 +1341,12 @@ Each group can have up to 5000 members in Telegram.
 How do I create a Channel? (Android)
 {KEYS}
 channela
-createchannela
-createchannelandroid
-makechannelandroid
 makechannela
 formchannela
+createchannela
+makechannelandroid
 formchannelandroid
+createchannelandroid
 {VALUE}
 To create a channel on Android, tap the pencil icon in the chats list, then select 'New Channel'.
 Channels can have an unlimited number of members.
@@ -1321,12 +1354,12 @@ Channels can have an unlimited number of members.
 How do I create a Channel? (iOS)
 {KEYS}
 channeli
-createchanneli
-createchannelios
-makechannelios
 makechanneli
 formchanneli
+createchanneli
+makechannelios
 formchannelios
+createchannelios
 {VALUE}
 To create a channel on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Channel'.
 Channels can have an unlimited number of members.
@@ -1334,12 +1367,12 @@ Channels can have an unlimited number of members.
 How do I create a Channel? (Windows Phone)
 {KEYS}
 channelwp
-channelwindowsphone
-createchannelwp
 makechannelwp
 formchannelwp
-createchannelwindowsphone
+createchannelwp
+channelwindowsphone
 makechannelwindowsphone
+createchannelwindowsphone
 createchannelwindowsphone
 {VALUE}
 To create a channel on Windows Phone, tap the '+' sign in the chat main menu, then 'New Channel'.
@@ -1347,14 +1380,14 @@ Channels can have an unlimited number of members.
 {QUESTION}
 How do I create a Channel? (Desktop)
 {KEYS}
-channeldesktop
 channeldesk
-createchanneldesktop
-makechanneldesktop
-formchanneldesktop
-createchanneldesk
+channeldesktop
 makechanneldesk
 createchanneldesk
+createchanneldesk
+makechanneldesktop
+formchanneldesktop
+createchanneldesktop
 {VALUE}
 To create a channel via the desktop app, tap the pencil icon near the search field, then 'New Channel'.
 Channels can have an unlimited number of members.
@@ -1363,12 +1396,12 @@ How to convert my group to supergroup?
 {KEYS}
 upgrade
 upgradesg
-upgradetosg
-upgradegroup
-upgradetosupergroup
 convertsg
+upgradetosg
 converttosg
+upgradegroup
 convertgroup
+upgradetosupergroup
 converttosupergroup
 {VALUE}
 You can only upgrade a group to a supergroup if you are the creator of it.
@@ -1382,7 +1415,7 @@ How can I pin a message?
 pin
 pinned
 {VALUE}
-Supergroup admins can pin a message to the top of the chat to inform members about important news that might otherwise be missed.
+Supergroup admins can pin a message to the top of the chat to inform members about important news that might otherwise be missed. Please also note that you canâ€™t pin the messages sent before your group was upgraded to supergroup.
 iOS, WP: press and hold on a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 Android: tap a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 Desktop: right-click a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
@@ -1391,10 +1424,10 @@ How do I write a new message?
 {KEYS}
 new
 newm
-newmessage
 compose
-writemessage
+newmessage
 sendmessage
+writemessage
 {VALUE}
 To send a new message, make sure you have your friends' phone number saved in your contacts on the device, and that they also use Telegram.
 Tap the button for "new message" in the chat overview and pick a contact from the list.
@@ -1415,11 +1448,11 @@ Blocked people:
 How do I block a non-contact? (Android)
 {KEYS}
 blocknca
+blockncandroid
+blocknoncontacta
 blockstrangerandroid
 blocknoncontactandroid
 blocknon-contactandroid
-blockncandroid
-blocknoncontacta
 blocknon-contactandroid
 {VALUE}
 Open the chat with the user, then tap the chat header to go to their Profile page. Tap the '...' in the top right corner, then 'Block'.
@@ -1427,11 +1460,11 @@ Open the chat with the user, then tap the chat header to go to their Profile pag
 How do I block a non-contact? (Windows Phone)
 {KEYS}
 blockncwp
+blocknoncontactwp
+blockncwindowsphone
 blockstrangerwindowsphone
 blocknoncontactwindowsphone
 blocknon-contactwindowsphone
-blockncwindowsphone
-blocknoncontactwp
 blocknon-contactwindowsphone
 {VALUE}
 Open the chat with the user, then tap the chat header to go to their Profile page. Tap the '...' in the bottom right corner, then 'Block'.
@@ -1439,18 +1472,18 @@ Open the chat with the user, then tap the chat header to go to their Profile pag
 How do I delete a contact? (iOS)
 {KEYS}
 delcontacti
-deletecontactios
-deletecontacti
 delcontactios
+deletecontacti
+deletecontactios
 {VALUE}
 To delete a contact, open a chat with the person, tap on their profile pic, then Edit and 'Delete contact'. Important: This will also delete the contact from your device's contacts.
 {QUESTION}
 How do I delete a contact? (Android)
 {KEYS}
 delcontacta
-deletecontactandroid
 deletecontacta
 delcontactandroid
+deletecontactandroid
 {VALUE}
 To delete a contact, open a chat with the person, tap on their profile pic, then on '...' in the top right corner and tap 'Delete'.
 If you want to delete the contact completely, make sure you also do that in your phone contacts, as Telegram stays in sync and will add it again otherwise.
@@ -1458,9 +1491,9 @@ If you want to delete the contact completely, make sure you also do that in your
 How do I delete a contact? (Windows Phone)
 {KEYS}
 delcontactwp
-deletecontactwindowsphone
 deletecontactwp
 delcontactwindowsphone
+deletecontactwindowsphone
 {VALUE}
 To delete a contact, open a chat with the person, tap on their profile pic, and then on the pen icon â€” 'Delete'.
 If you want to delete the contact completely, make sure you also do that in your phone contacts, as Telegram stays in sync and will add it again otherwise.
@@ -1468,9 +1501,9 @@ If you want to delete the contact completely, make sure you also do that in your
 How do I share a contact? (Android)
 {KEYS}
 sharec
-sharecontactandroid
-sharecontacta
 shareca
+sharecontacta
+sharecontactandroid
 {VALUE}
 In Android, open a chat with the contact you want to share, tap the name at the top of the chat, then on the info page tap '...' in the top right corner, then 'Share' and select the recipient.
 You can share contacts that don't have Telegram from your contacts app, just select 'Share', then 'Telegram'.
@@ -1478,35 +1511,35 @@ You can share contacts that don't have Telegram from your contacts app, just sel
 How do I delete a chat? (iOS)
 {KEYS}
 delchati
+delchatios
 deletechati
 deletechatios
-delchatios
 {VALUE}
 To delete a chat, swipe left on the chat on the Chats screen, then 'Delete'. OR: In the chats list, tap 'Edit', then on the red stop sign next to a chat.
 {QUESTION}
 How do I delete a chat? (Android)
 {KEYS}
 delchata
+deletechata
 delchatandroid
 deletechatandroid
-deletechata
 {VALUE}
 To delete a chat, tap and hold the chat on the Chats screen, then 'Delete' to erase the chat from your Telegram cloud.
 {QUESTION}
 How do I delete a chat? (Windows Phone)
 {KEYS}
 delchatwp
-deletechatwindowsphone
 deletechatwp
 delchatwindowsphone
+deletechatwindowsphone
 {VALUE}
 To delete a chat, tap and hold the chat on the Chats screen - then 'Delete'.
 {QUESTION}
 General permissions template
 {KEYS}
-permissions
-accessto
 access
+accessto
+permissions
 {VALUE}
 Telegram needs access to data on your phone in order to work properly â€” i.e., to be able to find your contacts, send them photos and other media, or share your location with them. The following permissions should be activated for Telegram:
 - CONTACTS (to access your contacts)
@@ -1522,14 +1555,14 @@ Android 6+ (Nexus): Android Settings > Apps > Telegram > Permissions, enable the
 {QUESTION}
 How do I change the font size?
 {KEYS}
+scale
 fontsize
 textsize
-scale
 {VALUE}
-Android: TELEGRAM SETTINGS - MESSAGES TEXT SIZE
-iOS7: iOS SETTINGS - GENERAL - TEXT SIZE
-iOS8, iOS9: iOS SETTINGS - DISPLAY & BRIGHTNESS - TEXT SIZE
-WP: PHONE SETTINGS - EASE OF ACCESS - TEXT SIZE
+ANDROID: TELEGRAM SETTINGS > MESSAGES TEXT SIZE
+iOS 7: iOS SETTINGS > GENERAL > TEXT SIZE
+iOS 8, 9 & 10: iOS SETTINGS > DISPLAY & BRIGHTNESS > TEXT SIZE
+WP: PHONE SETTINGS > EASE OF ACCESS > TEXT SIZE
 {COMMENT}
 ===================
 -ACCOUNT-
@@ -1539,8 +1572,8 @@ How do I delete my account?
 {KEYS}
 del
 delete
-deleteaccount
 deactivate
+deleteaccount
 deactivateaccount
 {VALUE}
 You can deactivate your Telegram account here:
@@ -1554,10 +1587,10 @@ By the way, may we ask why you are leaving? Missing a feature? Any other trouble
 Please delete my account!
 {KEYS}
 delme
-deletemyaccount
-getridofmyaccount
 deleteme
 eraseaccount
+deletemyaccount
+getridofmyaccount
 {VALUE}
 The phone number is currently the only way for us to identify a Telegram user.
 We collect no other information on you, and this means: whoever owns the number, owns the account. Unfortunately, to delete any data from an account, you need access to that account. In order to delete the account, you need to be logged in at least on one of your devices.
@@ -1578,12 +1611,12 @@ For this to work, please make sure there is no existing Telegram account connect
 Why do I need to keep my number up to date?
 {KEYS}
 whychange
-samenumberimportant
-samenumberneeded
-samenumberrequired
+updatenumber
 numberuptodate
 keepsamenumber
-updatenumber
+samenumberneeded
+samenumberrequired
+samenumberimportant
 {VALUE}
 It is important to keep your Telegram number up to date, since your provider may reassign your number to a different person when you stop using your old SIM. And in the current system the owner of the number is the owner or the Telegram account as well.
 To change your number in Telegram, go to Settings, then tap on your number and then 'Change number'.
@@ -1631,7 +1664,7 @@ logoutd
 logoutdesktop
 {VALUE}
 Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings â€” Turn on local passcode. When itâ€™s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
-To log out, go to Settings â€” Log out.
+To log out, go to Settings â€” Log Out.
 {COMMENT}
 ===================
 -TROUBLESHOOTING-
@@ -1639,13 +1672,13 @@ To log out, go to Settings â€” Log out.
 {QUESTION}
 Telegram shows the wrong time for messages and last seen
 {KEYS}
-timezone
 tz
+timezone
 wrongtime
 wrongtimezone
 wronglastseen
-lastseenincorrect
 wrongtimestamp
+lastseenincorrect
 {VALUE}
 Please try this:
 iOS: iOS Settings > General > Date & Time > Turn on "Set automatically"
@@ -1662,12 +1695,12 @@ It isnâ€™t possible to set up a status message for now. Luckily, other ways
 Notifications don't work (Android)
 {KEYS}
 nota
-brokennotificationsandroid
+nonotificationsa
 brokennotificationsa
 nonotificationsandroid
-nonotificationsa
-notificationsdontworkandroid
 notificationsdontworka
+brokennotificationsandroid
+notificationsdontworkandroid
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
 {VALUE}
@@ -1686,12 +1719,12 @@ Notifications don't work (Android 5.0)
 Please also make sure the user has the latest version of Telegram installed.
 {KEYS}
 nota5
-brokennotificationsandroid5
+nonotificationsa5
 brokennotificationsa5
 nonotificationsandroid5
-nonotificationsa5
-notificationsdontworkandroid5
 notificationsdontworka5
+brokennotificationsandroid5
+notificationsdontworkandroid5
 {VALUE}
 There can be several reasons why notifications may not work, so we apologize in advance for the long text.
 Please check the following:
@@ -1705,12 +1738,12 @@ PS: Remember, you will not get any notifications if you log out from Telegram.
 Notifications don't work (Android, older devices)
 {KEYS}
 notao
-brokennotificationsandroidold
-brokennotificationsao
-nonotificationsandroidold
 nonotificationsao
-notificationsdontworkandroidold
+brokennotificationsao
 notificationsdontworkao
+nonotificationsandroidold
+brokennotificationsandroidold
+notificationsdontworkandroidold
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
 {VALUE}
@@ -1726,12 +1759,12 @@ PS: Remember, you will not get any notifications if you log out from Telegram.
 Notifications don't work (iOS)
 {KEYS}
 noti
-brokennotificationsios
-brokennotificationsi
-nonotificationsios
 nonotificationsi
-notificationsdontworkios
+nonotificationsios
+brokennotificationsi
+brokennotificationsios
 notificationsdontworki
+notificationsdontworkios
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
 {VALUE}
@@ -1744,11 +1777,11 @@ If notifications don't work for some reason, please check the following:
 Notifications don't work (Windows Phone)
 {KEYS}
 notwp
-brokennotificationswp
-brokennotificationswindowsphone
 nonotificationswp
-nonotificationswindowsphone
+brokennotificationswp
 notificationsdontworkwp
+nonotificationswindowsphone
+brokennotificationswindowsphone
 notificationsdontworkwindowsphone
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
@@ -1773,18 +1806,18 @@ Then please try this trick: open the Telegram Settings menu, scroll all the way 
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (iOS)
 {KEYS}
-contactiphone
 coni
-contactios
 conios
-can'tseefriendios
-cantseefriendios
-can'tseecontactios
-cantseecontactios
-can'tseefriendi
+contactios
+contactiphone
 cantseefriendi
-can'tseecontacti
+can'tseefriendi
 cantseecontacti
+cantseefriendios
+can'tseecontacti
+can'tseefriendios
+cantseecontactios
+can'tseecontactios
 {VALUE}
 Could I ask you to try these two magic tricks?
 1. Temporarily change the name of the missing contact in Phone Contacts (not in Telegram) â€” add a few symbols, then change back again
@@ -1792,18 +1825,18 @@ Could I ask you to try these two magic tricks?
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (Android)
 {KEYS}
-contactandroid
 cona
-conandroid
 contacta
-can'tseefriendandroid
-cantseefriendandroid
-can'tseecontactandroid
-cantseecontactandroid
-can'tseefrienda
+conandroid
+contactandroid
 cantseefrienda
-can'tseecontacta
+can'tseefrienda
 cantseecontacta
+can'tseecontacta
+cantseefriendandroid
+can'tseefriendandroid
+cantseecontactandroid
+can'tseecontactandroid
 {VALUE}
 Could I ask you to try these two magic tricks?
 1. Please re-launch the app. To do this, go to the currently-running-apps list in your phone settings and swipe the app off the list.
@@ -1811,10 +1844,10 @@ Could I ask you to try these two magic tricks?
 {QUESTION}
 I tried everything and still don't see my friend!
 {KEYS}
-contactbug
 conb
-stillcan'tseecontact
+contactbug
 stillcantseecontact
+stillcan'tseecontact
 {VALUE}
 Looks like something is wrong. We need to look into this situation. Could you please tell me:
 1. Your friend's phone number
@@ -1824,11 +1857,11 @@ Thanks!
 Telegram doesn't connect!
 {KEYS}
 connection
-doesn'tconnect
-doesntconnect
-connectionissues
-won'tconnect
 wontconnect
+won'tconnect
+doesntconnect
+doesn'tconnect
+connectionissues
 {VALUE}
 Sorry to hear about your connection problems. Can you please help us investigate this? Here are a few important questions:
 0. Do other apps work OK?
@@ -1846,9 +1879,9 @@ How do I find my IP address?
 ip
 findip
 ipaddress
-findipaddress
-what'smyip
 whatsmyip
+what'smyip
+findipaddress
 {VALUE}
 To diagnose your issue, we need your external IP address from the network/device where you are experiencing the problem. Here's how you find it:
 1. Open the browser on the device and go to ip.telegram.wiki (you can use any other site that shows your IP as well)
@@ -1859,18 +1892,18 @@ Can't take screenshots in secret chats (Android 6.0+)
 For cloud chats, see â€˜screenaâ€™.
 {KEYS}
 screensecreta
-screenshotsecreta
-screenshotsecretandroid
 noscreensecreta
+screenshotsecreta
 noscreenshotsecreta
+screenshotsecretandroid
 noscreenshotsecretandroid
 {VALUE}
 If you are getting this error while in a secret chat, it's because it isn't possible to take screenshots there while running newer versions of Android. Secret chats are meant for people who want the highest level of secrecy. That's why it is also not possible to forward messages from secret chats, in any of our apps.
 {QUESTION}
 The badge counter is showing unread messages, but I don't have any (Samsung)
 {KEYS}
-badgesamsung
 samsung
+badgesamsung
 {VALUE}
 Unfortunately, you may have issues with the badge counter due to a known bug of Samsung devices. Until it's fixed by Samsung developers, we can suggest you a workaround: go to Application Manager - All apps - BadgeProvider - Clear Data, then restart your device.
 {QUESTION}
@@ -1880,18 +1913,18 @@ See this card for more details: https://trello.com/c/JOcDxGHR
 {KEYS}
 sb
 spam
-antispam
 spambot
 limited
+antispam
 {VALUE}
 It looks like your account may be limited by our anti-spam systems. To learn why this might happen, or to report incorrectly applied limitations, please contact @spambot.
 I am sorry to redirect you, but Telegram support is done by volunteers and we can't help you remove anti-spam limitations on your account here.
 {QUESTION}
 How can I stop Telegram from using so much battery? (Android)
 {KEYS}
+drain
 battery
 savebattery
-drain
 {VALUE}
 There could be several reasons why Telegram is using a lot of battery on your Android device.
 Please check the following:
@@ -1908,16 +1941,16 @@ Your app is leaking online statuses!
 {COMMENT}
 See this card for more details on usage: https://trello.com/c/isItsZGT
 {KEYS}
-onlpriv
-onlineprivacy
-leakingonlinestatuses
-informationleak
-leaks
-leaking
 leak
-lastseenlogger
-invisblemetadata
+leaks
+onlpriv
+leaking
 lastseenhoax
+onlineprivacy
+lastseenlogger
+informationleak
+invisblemetadata
+leakingonlinestatuses
 {VALUE}
 This "research" is a hoax. A user's online/last seen status in Telegram is always visible exactly to those that the user specifies in their Privacy Settings, regardless of which apps are used to view this information. All the references in this article to "adding to contacts," "CLI Telegram client," "invisible metadata" etc. are irrelevant and were added only to confuse readers with pseudoscientific lingo.
 See also:
@@ -1940,14 +1973,14 @@ I think I was hacked, what do I do?
 Some social engineers were tricking users into 'sharing screenshots' that would feature the login code, etc.
 {KEYS}
 accsec
+hacked
 wasihacked
 iwashacked
 maybehacked
-hacked
 donotsharecode
+activesessions
 terminatesession
 terminatesessions
-activesessions
 {VALUE}
 When you log in to Telegram, we send you a message with a login code. DO NOT GIVE THIS CODE TO ANYONE. If you give your code to people, they will be able to log in to your account.
 To see all active sessions for your Telegram account, go to Settings â€” Privacy and Security â€” Active Sessions. If you see anything suspicious, you can terminate the session there.
