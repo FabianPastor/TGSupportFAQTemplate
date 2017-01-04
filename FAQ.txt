@@ -1622,7 +1622,16 @@ Generally, logging out is not necessary when using Telegram, since you can have 
 Android: Swipe left in Chats list to open the menu, then Settings â€” tap '...' in the top right corner â€” 'Logout'.
 iOS: Settings â€” Edit â€” scroll all the way down, then 'Logout'.
 WP: Tap '...' in the Chat view â€” Settings â€” scroll all the way down, then 'Logout'.
+macOS: File â€” Log Out.
 Remember that if you log out, you will lose all your Secret Chats.
+{QUESTION}
+How do I log out of Telegram? (Desktop)
+{KEYS}
+logoutd
+logoutdesktop
+{VALUE}
+Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings â€” Turn on local passcode. When itâ€™s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
+To log out, go to Settings â€” Log out.
 {COMMENT}
 ===================
 -TROUBLESHOOTING-
