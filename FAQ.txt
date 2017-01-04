@@ -215,7 +215,7 @@ abuse
 legal
 {VALUE}
 I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases involving illegal content.
-Please contact the Telegram abuse department at abuse@telegram.org with all the details and links.
+Please use the in-app option to send a report to the Telegram abuse department or contact them at abuse@telegram.org with all the details and links. Bots and Channels can be reported via the "Report" button at the bottom of their profile.
 Thank you!
 {COMMENT}
 ====================================
