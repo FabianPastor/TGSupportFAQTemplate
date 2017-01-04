@@ -10,6 +10,21 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 {QUESTION}
+Can't take screenshots anywhere (Android)
+{COMMENT}
+For screenshots in secret chats, see â€˜screensecretaâ€™.
+{KEYS}
+screena
+noscreena
+noscreenshota
+noscreenshotandroid
+screenshota
+screenshotandroid
+{VALUE}
+Con las recientes actualizaciones de Telegram, las capturas de pantalla estÃ¡n desactivadas por defecto si activas el cÃ³digo de acceso.
+Puedes cambiar esta configuraciÃ³n yendo a: Ajustes > Privacidad y seguridad > CÃ³digo de acceso. Luego, activa â€œPermitir captura de pantallaâ€ y reinicia la aplicaciÃ³n.
+Cuando esta opciÃ³n estÃ© activada, podrÃ¡s hacer capturas de pantalla en la aplicaciÃ³n, pero el sistema mostrarÃ¡ tus chats en la multitarea aunque estÃ© en uso el cÃ³digo de acceso. Por favor, tambiÃ©n ten en cuenta que necesitas suficiente espacio en la memoria de tu dispositivo para guardar las capturas de pantalla.
+{QUESTION}
 Why doesnâ€™t Telegram prevent cheating in games built on our platform?
 {KEYS}
 cheating
@@ -19,14 +34,6 @@ cheaters
 {VALUE}
 La plataforma de juego de Telegram permite a los desarrolladores de bots crear juegos en los chats, pero el equipo de Telegram no controla cÃ³mo funciona cada juego, asÃ­ que es posible que se puedan hacer trampas. Para prevenirlo necesitarÃ­amos sincronizar con los servidores de los desarrolladores no sÃ³lo los resultados, sino cada acciÃ³n que los jugadores hacen en cada juego, lo que serÃ­a difÃ­cil de configurar y mantener.
 Hacer trampas es un problema en muchos juegos, incluyendo los que se publican en la App Store o Google Play. En cada caso, es responsabilidad de los desarrolladores del juego cazar a los tramposos. Esperamos, conforme se vayan publicando mÃ¡s y mÃ¡s juegos de desarrolladores externos, que puedas encontrar juegos que funcionen tal y como tÃº quieres.
-{QUESTION}
-What happened to Lara bot?
-{KEYS}
-lara
-larabot
-{VALUE}
-Los usuarios de Telegram han reportado el bot Lara como un timo, asÃ­ que hemos aÃ±adido un aviso a los mensajes que envÃ­a, para remarcar que ese bot no estÃ¡ relacionado con Telegram, y que deberÃ­a usarse con precauciÃ³n. Ese aviso no cambia la funcionalidad del bot en ningÃºn modo.
-Si tienes alguna preocupaciÃ³n al respecto, contacta con el departamento de abusos de Telegram en abuse@telegram.org adjuntando todos los detalles. Lo sentimos, pero el servicio de soporte de Telegram estÃ¡ hecho por voluntarios y nosotros no podemos gestionar ningÃºn caso relacionado con reportes de estafas.
 {QUESTION}
 Phantom grey chat that canâ€™t be deleted (iOS)
 {COMMENT}
@@ -221,16 +228,12 @@ country
 countryfrom
 origin
 telegramfrom
-{VALUE}
-Telegram no pertenece a ningÃºn paÃ­s en particular. Es un proyecto global con contribuyentes de todas partes del mundo. Nos vamos moviendo a menudo y no solemos quedarnos mucho tiempo en un mismo sitio.
-Nuestra meta es que todo el mundo pueda recuperar su derecho a la privacidad. Es un proyecto distribuido: los servidores de Telegram, sus compaÃ±Ã­as y las personas estÃ¡n esparcidos por todo el planeta para minimizar la posible interferencia en sus operaciones.
-{QUESTION}
-Where are you based?
-{KEYS}
 base
 based
 {VALUE}
-Telegram es un proyecto global con infraestructura alrededor de todo el mundo. Intentamos mantenerlo descentralizado y distribuido a travÃ©s de la mayor cantidad de jurisdicciones posibles. Si quieres aprender mÃ¡s sobre la gente detrÃ¡s de Telegram, por favor, revisa nuestras preguntas frecuentes:
+Telegram no pertenece a ningÃºn paÃ­s en particular. Es un proyecto global con contribuyentes de todas partes del mundo. Nos vamos moviendo a menudo y no solemos quedarnos mucho tiempo en un mismo sitio.
+Nuestra meta es que todo el mundo pueda recuperar su derecho a la privacidad. Es un proyecto distribuido: los servidores de Telegram, sus compaÃ±Ã­as y las personas estÃ¡n esparcidos por todo el planeta para minimizar la posible interferencia en sus operaciones.
+Si quieres aprender mÃ¡s sobre la gente detrÃ¡s de Telegram, por favor, revisa nuestras preguntas frecuentes:
 https://telegram.org/faq/es#p-quines-son-las-personas-que-estn-detrs-de-telegram
 Puede que encuentres interesantes estos artÃ­culos:
 http://telegram.org/press
@@ -305,15 +308,6 @@ A diferencia de otras mensajerÃ­as (como WhatsApp, Facebook, etc.), Telegram e
 Puedes leer mÃ¡s sobre nuestra postura al respecto en nuestras preguntas frecuentes:
 https://telegram.org/faq/es#p-cmo-ganarn-dinero-a-partir-de-esto
 {QUESTION}
-Will you sell Telegram to Facebook?
-{KEYS}
-buy
-bought
-bebought
-selltelegram
-{VALUE}
-Nadie puede comprar Telegram, y no aceptamos inversores. Telegram estÃ¡ estructurada como una organizaciÃ³n no comercial, asÃ­ que es imposible.
-{QUESTION}
 Is this really free?
 {KEYS}
 free
@@ -329,8 +323,7 @@ sourcecode
 source
 github
 {VALUE}
-Telegram es una aplicaciÃ³n de mensajerÃ­a no comercial y de cÃ³digo abierto, para telÃ©fonos mÃ³viles, tabletas y ordenadores.
-Por favor, revisa https://telegram.org/apps#source-code para encontrar los enlaces al cÃ³digo fuente de cada una de nuestras aplicaciones.
+Puedes visitar https://telegram.org/apps#source-code para los enlaces al cÃ³digo fuente de cada una de nuestras aplicaciones.
 {QUESTION}
 Why is Telegram fast?
 {KEYS}
@@ -448,18 +441,6 @@ Eso no nos ha impedido alcanzar los 100 millones de usuarios activos al mes, ni 
 https://telegram.org/blog/15-billion
 Si te gusta Telegram, por favor, recomiÃ©ndala a tus amigos y familiares.
 Trae a una o dos de las personas mÃ¡s cercanas a ti y verÃ¡s el efecto en cadena.
-{QUESTION}
-What's the Telegram HD app?
-{KEYS}
-hd
-telegramhdapp
-hdapp
-telegramhd
-{VALUE}
-Telegram HD fue lanzada como una aplicaciÃ³n aparte, a raÃ­z de problemas organizativos con Apple que ya han sido solucionados. La aplicaciÃ³n se eliminÃ³ de la tienda, y por lo tanto no recibirÃ¡ ninguna actualizaciÃ³n mÃ¡s.
-AsÃ­ que, si aÃºn estÃ¡s usÃ¡ndola, por favor actualiza a Telegram Messenger: https://telegram.org/dl/ios
-Todos tus chats (excepto los chats secretos) se transferirÃ¡n automÃ¡ticamente, al estar guardados en la Nube de Telegram.
-Lamentamos la confusiÃ³n.
 {QUESTION}
 Can I join you? Are you hiring?
 {KEYS}
@@ -688,14 +669,6 @@ No tenemos una tienda oficial de stickers, la plataforma es abierta para quien q
 3) Echa un vistazo y aÃ±ade los stickers que estÃ¡n de moda en este momento en Telegram, yendo a los Ajustes de Telegram > Stickers > Stickers destacados.
 4) Si eso no te parece suficiente, puedes probar a buscar en Internet â€œTelegram Stickersâ€: te aparecerÃ¡n muchos resultados.
 {QUESTION}
-Even more stickers (NSFW risk)
-{COMMENT}
-The RateStickerbot may yield some pretty juicy stickers, so please make sure that the user is old enough to risk it. If you suspect you're talking with a minor, better don't give them this template and just use 'morestickers'.
-{KEYS}
-ratebot
-{VALUE}
-TambiÃ©n hay un bot llamado @RateStickerbot que puede ayudarte a encontrar Stickers, pero ten cuidado: es un bot no oficial y es posible que te envÃ­e contenido para adultos.
-{QUESTION}
 How to remove sticker sets?
 {KEYS}
 stickr
@@ -744,16 +717,6 @@ AquÃ­ tienes informaciÃ³n extra sobre cÃ³mo funcionan los supergrupos:
 - Se pueden hacer pÃºblicos estableciendo un alias, como en los canales.
 - Si se hacen pÃºblicos, los miembros pueden invitar a gente nueva; si no, sÃ³lo se pueden unir vÃ­a enlace de invitaciÃ³n o si los aÃ±aden los administradores.
 Si quieres actualizar tu grupo a un supergrupo, ve a la informaciÃ³n del grupo y elige â€œActualizar a supergrupoâ€. Esta acciÃ³n es irreversible, asÃ­ que ten en cuenta todas las diferencias y pregÃºntame si algo no te ha quedado claro, antes de actualizar.
-{QUESTION}
-How can I pin a message?
-{KEYS}
-pin
-pinned
-{VALUE}
-Los administradores de los supergrupos pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrÃ­an perderse.
-iOS, WP: MantÃ©n presionado un mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
-Android: Toca el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
-Escritorio: Haz clic derecho en el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
 {QUESTION}
 Where do I find bots?
 {COMMENT}
@@ -890,6 +853,17 @@ sdcard
 {VALUE}
 Puedes mover la aplicaciÃ³n de Telegram a la tarjeta SD, pero los archivos multimedia se seguirÃ¡n guardando en el almacenamiento interno del telÃ©fono. No es posible cambiarlo de momento.
 Si estÃ¡s buscando una forma de vaciar la memoria de tu telÃ©fono, ten en cuenta que puedes eliminar fÃ¡cilmente los datos de Telegram de la cachÃ© de tu dispositivo. PregÃºntame si quieres mÃ¡s informaciÃ³n al respecto.
+{QUESTION}
+Why do I see a warning about scam in botâ€™s messages?
+{KEYS}
+lara
+larabot
+scam
+scambot
+warning
+{VALUE}
+La advertencia se adjunta automÃ¡ticamente en los mensajes para subrayar que el bot no estÃ¡ relacionado con Telegram y debe ser usado con precauciÃ³n. El mensaje no modifica el funcionamiento del bot de ningÃºn modo, pero significa que el bot fue reportado como una estafa por parte de los usuarios de Telegram.
+Si tienes cualquier preocupaciÃ³n sobre esto, por favor, contacta con el departamento de abusos de Telegram en abuse@telegram.org con todos los detalles. Lo sentimos, pero el soporte de Telegram estÃ¡ compuesto por voluntarios y no podemos manejar casos relacionados con reportes de estafa aquÃ­.
 {COMMENT}
 =========================
 -SECRET CHATS-
@@ -1378,6 +1352,34 @@ createchanneldesk
 Para crear un canal en la aplicaciÃ³n de escritorio, toca el icono del lÃ¡piz al lado del campo de bÃºsqueda, y luego â€œNuevo canalâ€.
 Los canales pueden tener un nÃºmero de miembros ilimitado.
 {QUESTION}
+How to convert my group to supergroup?
+{KEYS}
+upgrade
+upgradesg
+upgradetosg
+upgradegroup
+upgradetosupergroup
+convertsg
+converttosg
+convertgroup
+converttosupergroup
+{VALUE}
+SÃ³lo puedes convertir un grupo en supergrupo si eres el creador.
+iOS: Ve a la informaciÃ³n del grupo > Editar > Convertir en supergrupo
+Android, WP: InformaciÃ³n del grupo > tres puntos de la esquina superior derecha > convertir en supergrupo
+Desktop: InformaciÃ³n del grupo > 'Convertir en supergrupo'.
+Ten en cuenta que esta acciÃ³n no se puede revertir, asÃ­ que, por favor, considera todas las diferencias antes de hacer el cambio. PregÃºntame si quieres saber mÃ¡s sobre los supergrupos.
+{QUESTION}
+How can I pin a message?
+{KEYS}
+pin
+pinned
+{VALUE}
+Los administradores de los supergrupos pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrÃ­an perderse.
+iOS, WP: MantÃ©n presionado un mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
+Android: Toca el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
+Escritorio: Haz clic derecho en el mensaje, luego selecciona la opciÃ³n â€œAnclarâ€. Para desanclar el mensaje, presiona el icono â€œxâ€ de su derecha.
+{QUESTION}
 How do I write a new message?
 {KEYS}
 new
@@ -1745,6 +1747,14 @@ Durante la instalaciÃ³n de Telegram, el sistema te pedirÃ¡ que confirmes las
 Ten en cuenta que perderÃ¡s los chats secretos tras reinstalar. Los demÃ¡s chats se guardan cifrados en la Nube de Telegram, asÃ­ que los tendrÃ¡s ahÃ­ cuando reinstales Telegram.
 P.D.: Recuerda que no recibirÃ¡s notificaciones si cierras la sesiÃ³n en Telegram.
 {QUESTION}
+I canâ€™t see my contacts (Android)
+{KEYS}
+contactsa
+contactsandroid
+{VALUE}
+Primero, asegÃºrate de tener activados los permisos para que Telegram pueda acceder a tus Contactos, en los ajustes de tu telÃ©fono. Si puedes ver algunos de tus contactos en el menÃº de Contactos de Telegram, significa que el permiso estÃ¡ activado y que debes seguir con el siguiente paso.
+Prueba este truco: abre los Ajustes de Telegram, deslÃ­zate hasta el fondo de la lista y mantÃ©n presionado sobre la secciÃ³n que dice "Telegram para Android", hasta que salga un pequeÃ±o emoticono. Luego, mantÃ©n presionado sobre la misma secciÃ³n otra vez. Cuando aparezca el menÃº "Debug", pulsa sobre "Reload Contacts". Si no ayuda, abre otra vez el menÃº Debug del mismo modo e intenta con la opciÃ³n "Import Contacts".
+{QUESTION}
 I can't see my friend on Telegram, but he must be here! (iOS)
 {KEYS}
 contactiphone
@@ -1828,14 +1838,18 @@ Para diagnosticar el error, necesitamos tu direcciÃ³n IP externa de la red/dis
 1. Abre el navegador en el dispositivo y ve a ip.telegram.wiki (tambiÃ©n puedes usar cualquier otro sitio que muestre tu IP)
 2. Copia el nÃºmero largo del medio de la pÃ¡gina y envÃ­anoslo.
 {QUESTION}
-Why do I get a â€˜Couldnâ€™t take a screenshotâ€™ error? (Android 6.0+)
+Can't take screenshots in secret chats (Android 6.0+)
+{COMMENT}
+For cloud chats, see â€˜screenaâ€™.
 {KEYS}
-noscreenshota
-noscreenshotandroid
+screensecreta
+screenshotsecreta
+screenshotsecretandroid
+noscreensecreta
+noscreenshotsecreta
+noscreenshotsecretandroid
 {VALUE}
-Si estÃ¡s teniendo este error estando en un chat secreto, se debe a que no es posible tomar capturas de pantalla en ellos, en las nuevas versiones de Android.
-Los chats secretos estÃ¡n destinados a aquellos que quieran el mÃ¡s alto nivel de discreciÃ³n. Por eso tampoco se pueden reenviar mensajes desde los chats secretos, en ninguna de nuestras aplicaciones.
-Si estÃ¡s teniendo este error en tus chats en la nube, comprueba que tienes suficiente espacio de almacenamiento en tu dispositivo.
+Si tienes este error mientras estÃ¡s en un chat secreto, es porque no es posible hacer capturas de pantalla en ellos si usas versiones nuevas de Android. Los chats secretos estÃ¡n pensados para las personas que quieren altos niveles de confidencialidad. Por ese motivo, tampoco es posible reenviar mensajes desde chats secretos, en ninguna de nuestras aplicaciones.
 {QUESTION}
 The badge counter is showing unread messages, but I don't have any (Samsung)
 {KEYS}
@@ -1849,11 +1863,12 @@ I can't send messages to non-contacts
 See this card for more details: https://trello.com/c/JOcDxGHR
 {KEYS}
 sb
+spam
 antispam
 spambot
 limited
 {VALUE}
-Â¡Hola! Parece que tu cuenta puede estar limitada por nuestros sistemas contra el spam. Para aprender mÃ¡s sobre las razones, o para notificarnos que las limitaciones se te han aplicado de forma incorrecta, por favor, contacta con @spambot.
+Parece que tu cuenta puede estar limitada por nuestros sistemas contra el spam. Para saber mÃ¡s sobre las razones, o para reportar que las limitaciones fueron aplicadas de forma incorrecta, por favor, contacta a @spambot.
 Perdona por tener que redirigirte allÃ­, pero el soporte de Telegram estÃ¡ hecho por voluntarios y no podemos ayudarte a quitar las limitaciones de tu cuenta aquÃ­.
 {QUESTION}
 How can I stop Telegram from using so much battery? (Android)
