@@ -1235,13 +1235,13 @@ Once you've set up a username, you will also be able to use your personal Telegr
 t.me/YourUsername
 It will open a chat with you on Telegram — perfect for sharing with friends or putting up on your website or social network profiles.
 
-Android: To set up a username, swipe the chat list to the right to open the menu, then 'Settings' — 'Username'.
+Android: To set up a username, swipe the chat list to the right to open the menu, then 'Settings' > 'Username'.
 
-iOS: To set up a username, go to Settings — Username.
+iOS: To set up a username, go to Settings > Username.
 
 WP: To set up a username, tap '...' in the chat list to go to Settings, then 'Set Username'.
 
-TDesktop: To set up a username, go to Settings, then 'Choose Username'.
+TDesktop: To set up a username, tap the menu icon near the search field, then 'Settings' > 'Choose Username'.
 
 Web: To set up a username, go to Settings, then 'Set username'.
 
@@ -1634,7 +1634,7 @@ makegroupdesktop
 formgroupdesktop
 creategroupdesktop
 {VALUE}
-To create a group via the desktop app, tap the pencil icon near the search field, then 'New Group'.
+To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
 Each group can have up to 5000 members in Telegram.
 
@@ -1696,7 +1696,7 @@ makechanneldesktop
 formchanneldesktop
 createchanneldesktop
 {VALUE}
-To create a channel via the desktop app, tap the pencil icon near the search field, then 'New Channel'.
+To create a channel via the latest version of the desktop app, tap the menu icon near the search field, then 'New Channel'.
 
 Channels can have an unlimited number of members.
 
