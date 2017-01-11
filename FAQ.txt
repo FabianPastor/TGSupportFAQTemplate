@@ -31,6 +31,18 @@ You can change this setting by going to: Settings > Privacy and Security > Passc
 When this option is enabled, you will be able to take screenshots of the app, but the system will display your chats in the task switcher when the passcode is on. Please also note that you need to have enough space in your device’s memory to save screenshots.
 
 {QUESTION}
+I’ve heard Telegram was cracked by the FSB, is it true?
+{KEYS}
+fsb
+guardian
+{VALUE}
+These rumors come from a "report" that is likely to be fake. See: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
+
+If it's not, it probably refers to the story of SMS interception for two Russian oppositionary accounts that were not using 2-Step Verification: http://fortune.com/2016/05/06/telegram-activists-hack/. Tell me if you want to learn more about 2-Step Verification. 
+
+As for the report, bear in mind that Journalists from the Guardian, the Financial Times, and other reputable papers have had it since June 2016 and to this day they are unable to confirm a single statement from it.
+
+{QUESTION}
 Why doesn’t Telegram prevent cheating in games built on our platform?
 {KEYS}
 cheat
@@ -1129,6 +1141,44 @@ Telegram cloud chats (and groups) are securely encrypted in the Telegram cloud s
 Secret Chats use end-to-end encryption and can only be deciphered on the two participating devices. Downside of that: you can't access them from your other devices and if you reinstall Telegram, or even log out of your account, your secret chats will be lost.
 
 Secret Chats also have an optional timer (from 1 second to 1 week) that allows you to send self-destructing messages, photos, videos and even files.
+
+{QUESTION}
+Why are Secret Chats only available on their devices of origin?
+{KEYS}
+1device
+why1device
+devicespecific
+whydevicespecific
+{VALUE}
+While your Cloud Chats can be accessed from any of your devices anytime, Secret Chats are not part of the Telegram Cloud and are device-specific by design. This way you can always be sure that they are safe for as long as your phone is safe in your pocket. Secret Chats also use end-to-end encryption, so they can’t be synced in the same simple and convenient way as Cloud Chats. We may add support for multi-device Secret Chats in the future.
+
+Meanwhile, if you want your conversations to be synced across many devices, consider using Cloud Chats. Please note that they are encrypted as well and are further protected by Telegram's distributed infrastructure. Let me know if you want to learn more about security on Telegram.
+
+{QUESTION}
+Why are there no Secret Chats on desktop apps?
+{KEYS}
+schatsd
+secretchatsd
+schatsdesktop
+secretchatsdesktop
+{VALUE}
+Secret chats require permanent storage on the device, something that Telegram Desktop and Telegram Web don’t support at the moment. We may add this in the future. Currently, both the desktop and the web app load messages from the Cloud on startup and discard them when you quit. Since secret chats are not part of the cloud, this would kill all your secret chats each time you shut down your computer.
+
+Secret chats are also device-specific and disappear if you log out — considering this, it is handier to keep them on the one device that you always carry with you. In case you are concerned about the security of your chats on desktop, please note that they are encrypted as well and are further protected by Telegram's distributed infrastructure. Let me know if you want to learn more about security on Telegram.
+
+{QUESTION}
+Tell me more about security on Telegram
+{KEYS}
+securitylm
+securitymore
+securitylearn
+securitylearnmore
+{VALUE}
+All Telegram data is encrypted and cannot be deciphered by your ISP, network administrator or random hackers. Cloud chats are stored encrypted in the Telegram Cloud, and the keys needed to decipher this data are kept in other data centers in different jurisdictions. This way, local intruders or engineers can't access this data, and several court orders from different jurisdictions are required to force us to give up anything. More on this in the FAQ: https://telegram.org/faq#q-do-you-process-data-requests
+
+Secret chats are meant for people who want even more than that. They use end-to-end encryption, so there is no way to decipher your data without accessing your device. It means you don‘t even need to trust Telegram when you use Secret Chats — their secrecy is guaranteed client-side and anyone can check the source code of Telegram clients.
+
+If you are concerned about security in general, there are other important precautions you could take. Consider protecting your account by enabling 2-Step Verification and setting up a strong passcode to lock your app, then it won’t be possible to access your chats by stealing your device or even by intercepting your SMS code. You will find both options in ‘Settings’ under ‘Privacy and Security’, ask me if you’d like more details.
 
 {QUESTION}
 How can I send self-destructing messages? (iOS)
