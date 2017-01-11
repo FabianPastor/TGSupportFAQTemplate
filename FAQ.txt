@@ -31,6 +31,18 @@ Puedes cambiar esta configuración yendo a: Ajustes > Privacidad y seguridad > C
 Cuando esta opción esté activada, podrás hacer capturas de pantalla en la aplicación, pero el sistema mostrará tus chats en la multitarea aunque esté en uso el código de acceso. Por favor, también ten en cuenta que necesitas suficiente espacio en la memoria de tu dispositivo para guardar las capturas de pantalla.
 
 {QUESTION}
+I’ve heard Telegram was cracked by the FSB, is it true?
+{KEYS}
+fsb
+guardian
+{VALUE}
+Estos rumores provienen de un “reporte” probablemente falso. Mira: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
+
+Si no, probablemente se refiere a la historia de la interceptación de SMS de dos opositores rusos que no estaban usando la verificación en dos pasos: http://fortune.com/2016/05/06/telegram-activists-hack/. Dime si quieres aprender más sobre la verificación en dos pasos. 
+
+En cuanto al reporte, ten en cuenta que periodistas de The Guardian, The Financial Times y otros reputados medios de comunicación, lo han tenido desde junio del 2016 y hasta el día de hoy no han podido confirmar ningún hecho contenido en él.
+
+{QUESTION}
 Why doesn’t Telegram prevent cheating in games built on our platform?
 {KEYS}
 cheat
@@ -38,9 +50,9 @@ cheats
 cheating
 cheaters
 {VALUE}
-La plataforma de juego de Telegram permite a los desarrolladores de bots crear juegos en los chats, pero el equipo de Telegram no controla cómo funciona cada juego, así que es posible que se puedan hacer trampas. Para prevenirlo necesitaríamos sincronizar con los servidores de los desarrolladores no sólo los resultados, sino cada acción que los jugadores hacen en cada juego, lo que sería difícil de configurar y mantener.
+La plataforma de juegos de Telegram permite a los desarrolladores crear juegos dentro de los chats, pero el equipo de Telegram no controla la manera en que estos juegos funcionan, así que es posible que se pueda hacer trampa. Para prevenir esto, tendríamos que sincronizar no sólo los resultados, sino todas las acciones realizadas por los jugadores en todos los juegos, con el servidor del desarrollador. Esto sería difícil de mantener y configurar para los desarrolladores.
 
-Hacer trampas es un problema en muchos juegos, incluyendo los que se publican en la App Store o Google Play. En cada caso, es responsabilidad de los desarrolladores del juego cazar a los tramposos. Esperamos, conforme se vayan publicando más y más juegos de desarrolladores externos, que puedas encontrar juegos que funcionen tal y como tú quieres.
+Hacer trampas es un problema para muchos juegos, incluyendo los que están publicados en el App Store o en Google Play. En cada caso, es responsabilidad de los desarrolladores del juego cazar a los tramposos. A medida que más y más juegos sean publicados por terceros en el tiempo, esperamos que puedas encontrar juegos que funcionen tal como tú lo quieres.
 
 {QUESTION}
 Unread counter shows an extra +1
@@ -55,11 +67,11 @@ notifications
 notificationbug
 notificationsbug
 {VALUE}
-Ya sabemos acerca de este error, estamos investigándolo y esperamos poder tenerlo solucionado cuanto antes. 
+Ya conocemos este error. El equipo está revisándolo y esperamos que esté solucionado lo antes posible.  
 
-Si no quieres esperar a la próxima actualización, te sugerimos una alternativa: inicia sesión en nuestra aplicación de escritorio (desktop.telegram.org), encuentra el chat que tenga el mensaje sin leer y ábrelo para deshacerte de la notificación extra.
+Si no quieres esperar hasta su reparación, te sugerimos una solución: inicia sesión en nuestra aplicación de escritorio (desktop.telegram.org), encuentra el chat grupal con un mensaje sin leer y ábrelo para deshacerte de la notificación extra.
 
-¡Perdón por las molestias! Te informaremos en cuanto sepamos algo más. Esta es la etiqueta técnica que nos ayudará a encontrar tu conversación: #issue_pzfSzLxW
+Sentimos las molestias. Te informaremos en cuanto tengamos noticias. Este es el hashtag técnico que nos ayudará a encontrar tu pregunta: #issue_pzfSzLxW
 
 {COMMENT}
 =================================
@@ -84,7 +96,7 @@ addfeature
 suggestions
 featurerequest
 {VALUE}
-Gracias, lo tendremos en cuenta. Telegram evoluciona rápidamente y cada mes se añaden nuevas características. No podemos prometer nada o dar una fecha exacta, pero las sugerencias siempre son bienvenidas.
+Gracias, lo tendremos en consideración. Telegram evoluciona rápidamente y nuevas características son añadidas cada mes. No podemos prometer algo o dar una fecha exacta, pero las sugerencias siempre son bienvenidas.
 
 {QUESTION}
 User using outdated app (iOS)
@@ -93,7 +105,7 @@ updi
 updatei
 updateios
 {VALUE}
-Por favor, actualiza tu aplicación. Nos hemos dado cuenta que estás usando una versión desfasada. Puedes encontrar la última versión de Telegram para iOS aquí:
+Por favor, actualiza tu aplicación. Nos hemos dado cuenta de que estás usando una versión desactualizada. Puedes encontrar la última versión de Telegram para iOS aquí:
 https://telegram.org/dl/ios
 
 {QUESTION}
@@ -103,7 +115,7 @@ upda
 updatea
 updateandroid
 {VALUE}
-Por favor, actualiza tu aplicación. Nos hemos dado cuenta que estás usando una versión desfasada. Puedes encontrar la última versión de Telegram para Android aquí:
+Por favor, actualiza tu aplicación. Estás usando una versión antigua. Puedes encontrar la última versión de Telegram para Android aquí:
 https://telegram.org/dl/android
 
 {QUESTION}
@@ -113,7 +125,7 @@ updwp
 updatewp
 updatewindowsphone
 {VALUE}
-Por favor, actualiza tu aplicación. Nos hemos dado cuenta que estás usando una versión desfasada. Puedes encontrar la última versión de Telegram para Windows Phone aquí:
+Por favor, actualiza tu aplicación. Estás usando una versión antigua. Puedes encontrar la última versión de Telegram para Windows Phone aquí:
 https://telegram.org/dl/wp
 
 {QUESTION}
@@ -129,13 +141,13 @@ unofficialandroid
 unofficialappandroid
 officialappandroid
 {VALUE}
-Nos hemos dado cuenta de que usas una aplicación no oficial de Telegram. Como nuestras aplicaciones son de código libre, hay un montón de aplicaciones basadas en Telegram bajo diferentes nombres y con diferentes características, hechas por desarrolladores de todo el mundo.
+Hemos notado que estás usando una aplicación no oficial de Telegram. Como Telegram es de código abierto, hay muchas aplicaciones basadas en ella bajo diferentes nombres y con diferentes características, hechas por desarrolladores de todo el mundo.
 
-Eres totalmente libre de elegir la que prefieras. Sin embargo, para que podamos ayudarte, tendrás que descargar la aplicación oficial de la Google Play Store:
+Eres totalmente libre de decidir cuál usar. Sin embargo, para que podamos ayudarte, tendrás que descargar la aplicación oficial desde Google Play:
 https://telegram.org/dl/android
 
 Es gratis, no tiene publicidad y es la primera en tener las nuevas características.
-Todos tus chats (excepto los chats secretos) se transferirán automáticamente, al estar guardados en la Nube de Telegram.
+Todos tus chats, que no sean chats secretos, se transferirán automáticamente, al estar almacenados en la nube de Telegram.
 
 Dime si quieres más información al respecto.
 
@@ -145,7 +157,7 @@ Do you have a Symbian app?
 symbian
 symbianapp
 {VALUE}
-No hay una aplicación oficial de Telegram para dispositivos Symbian. A estos dispositivos les suele faltar poder de procesamiento y otras capacidades que necesitamos para poder ofrecer las características de seguridad de Telegram. Telegram se enfoca en la velocidad y la seguridad, y no podemos comprometer estos aspectos para dar soporte a Symbian. ¡Lo sentimos!
+Estos dispositivos carecen de la velocidad de procesamiento y otras capacidades que necesitamos para tener las características de seguridad de Telegram. Telegram está enfocada en la velocidad y la seguridad, y no podemos comprometer estas áreas para soportar Symbian. ¡Lo sentimos!
 
 {QUESTION}
 How do I invite a friend?
@@ -158,7 +170,7 @@ promotetelegram
 {VALUE}
 Para invitar a tus amigos a Telegram, tan sólo envíales este enlace de descarga: https://telegram.org/dl
 
-Éstos deben conocer tu número de teléfono o alias para encontrarte. Si tienes configurado un alias, puedes enviarles un enlace de alias, como este:
+Ellos necesitan tener tu número de teléfono o alias para encontrarte. Si tienes configurado un alias, puedes enviarles un enlace del alias, como este:
 https://t.me/YourUsername.
 
 {QUESTION}
@@ -188,7 +200,7 @@ iOS: Contactos > Toca sobre tu número de teléfono en la parte superior.
 Android: Menú principal > Toca sobre tu número de teléfono en la parte superior.
 Windows Phone: Chats > Nuevo chat > Toca sobre “Tú”.
 
-Puedes acceder a todo lo que envíes en ese chat de almacenamiento desde cualquier dispositivo al que te conectes, incluyendo tu PC.
+Puedes acceder a todo lo que envíes a este chat de almacenamiento, desde todos los dispositivos que conectes, incluyendo tu PC.
 
 {QUESTION}
 When user is insulting us
@@ -200,7 +212,7 @@ insulted
 insulting
 stopinsulting
 {VALUE}
-Hola. Ignoramos los insultos porque somos personas, no ordenadores, y no creemos que se nos deba tratar así. Lo sentimos. Por favor, vuelve cuando tengas una pregunta sobre Telegram. ¡Adiós!
+Hola, ignoramos los insultos porque somos personas, no ordenadores, y no creemos que se nos deba tratar así. Lo sentimos. Por favor, vuelve cuando tengas una pregunta sobre Telegram. ¡Adiós!
 
 {QUESTION}
 When user is sending voice messages
@@ -222,7 +234,7 @@ iam
 name
 weare
 {VALUE}
-Ese es nuestro pequeño secreto... Ésta es una cuenta colectiva: mientras conversas con nosotros puede que encuentres diferentes personas. Así nos aseguramos que todas las preguntas se respondan de forma adecuada. Lo único importante sobre nosotros es que todos somos voluntarios de Telegram y estamos aquí para ayudarte, en lo posible, con los problemas.
+Es nuestro pequeño secreto. Esta es una cuenta colectiva y puede ocurrir que, mientras conversas con nosotros, lo hagas con diferentes personas. Así nos aseguramos que todas las preguntas sean respondidas a tiempo. Lo único importante sobre nosotros es que todos somos voluntarios de Telegram y estamos aquí para ayudarte, humanamente, con los problemas.
 
 Así que, si necesitas un nombre, llámame Telegram.
 
@@ -254,9 +266,9 @@ country
 countryfrom
 telegramfrom
 {VALUE}
-Telegram no pertenece a ningún país en particular. Es un proyecto global con contribuyentes de todas partes del mundo. Nos vamos moviendo a menudo y no solemos quedarnos mucho tiempo en un mismo sitio.
+Telegram no pertenece a ningún país en particular. Es un proyecto global con contribuyentes de todas partes del mundo. Nos movemos a menudo y rara vez nos quedamos en algún lugar por largo tiempo.
 
-Nuestra meta es que todo el mundo pueda recuperar su derecho a la privacidad. Es un proyecto distribuido: los servidores de Telegram, sus compañías y las personas están esparcidos por todo el planeta para minimizar la posible interferencia en sus operaciones.
+Nuestra meta es que todo el mundo pueda recuperar su derecho a la privacidad. Es un proyecto repartido. Los servidores de Telegram, las compañías y las personas están dispersas por todo el planeta para minimizar la posible interferencia en sus operaciones.
 
 Si quieres saber más sobre las personas detrás de Telegram, por favor, revisa nuestras preguntas frecuentes:
 https://telegram.org/faq/es#p-quines-son-las-personas-que-estn-detrs-de-telegram
@@ -273,21 +285,21 @@ telegramis
 telegramcan
 whatistelegram
 {VALUE}
-Con Telegram puedes enviar mensajes, fotos, vídeos y archivos a tus amigos donde quieras, y gratis. Puedes usarlo en todos tus dispositivos simultáneamente (móvil, tableta u ordenador):
+Con Telegram puedes enviar mensajes, fotos, vídeos y archivos a tus amigos en cualquier parte, y gratis. Puedes usarla, simultáneamente, en todos tus dispositivos (móvil, tablet, ordenador):
 https://telegram.org/apps
 
-Telegram está enfocada en la velocidad y la seguridad. Todas las aplicaciones oficiales de Telegram están libres de anuncios y son de código abierto. Avísame si quieres saber más sobre la seguridad en Telegram.
+Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones oficiales de Telegram son de código abierto y no tienen publicidad. Avísame si quieres saber más sobre la seguridad en Telegram.
 
-Y aquí hay una breve descripción de todo lo que puedes hacer en Telegram:
-- Encuentra a tus amigos por su número de teléfono o alias de Telegram. Eso implica conocer gente nueva, si eres especialmente sociable.
-- Crea grupos con hasta 5000 miembros y comunícate fácilmente usando respuestas, menciones y hashtags.
-- Envía Stickers: todos son gratis e incluso puedes hacer los tuyos propios.
+Aquí hay un resumen sobre lo que puedes hacer en Telegram:
+- Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
+- Crea grupos de hasta 5000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Envía stickers. Todos son gratis e incluso puedes crear los tuyos propios.
 - Suscríbete a canales de noticias del tema que quieras.
-- Disfruta de los bots de Telegram para juegos, educación o cualquier otro tipo de información. Si quieres algún ejemplo, dímelo.
+- Disfruta de bots de Telegram personalizados para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
 
 Puedes leer sobre nuestros últimos cambios aquí:
 https://telegram.org/blog
-Y seguirnos en Twitter para ser el primero en enterarte de las actualizaciones:
+Y síguenos en Twitter para ser el primero en enterarte de las actualizaciones:
 https://twitter.com/telegram_es
 
 {QUESTION}
@@ -302,15 +314,15 @@ whatsappcomparison
 telegramvswhatsapp
 whatsappvstelegram
 {VALUE}
-Telegram es rápido y mucho más seguro, gracias a nuestra infraestructura con varios servidores y nuestro sistema de cifrado. Además, es gratis, y lo será para siempre, sin anuncios, sin suscripciones.
+Telegram es mucho más rápido y seguro, gracias a nuestra infraestructura de múltiples centros de datos y cifrado. Además, es gratis y seguirá siendo gratis para siempre, sin publicidad, sin suscripciones.
 
 Por nombrar algunas características únicas:
-- Accede a tus mensajes de Telegram desde varios dispositivos a la vez, incluyendo tabletas y ordenadores.
-- Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de todo tipo.
+- Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
+- Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
 - Chatea en grupos gigantes, de hasta 5000 miembros.
 - Edita tus mensajes después de enviarlos.
-- Usa los Chats Secretos para enviar fotos, vídeos y mensajes de audio con un temporizador de autodestrucción opcional.
-- Encuentra canales y bots personalizados del tema que quieras. Avísame si quieres algunos ejemplos.
+- Usa chats secretos para enviar fotos, vídeos y mensajes de voz con la opción de autodestrucción.
+- Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
 
 Aquí tienes una lista de las aplicaciones de Telegram para todas las plataformas:
 https://telegram.org/apps
@@ -462,7 +474,7 @@ Lo sentimos, pero nunca prometemos fechas de lanzamiento exactas, porque cualqui
 También puedes unirte a nuestro canal oficial de Telegram o seguirnos en Twitter:
 https://t.me/telegram
 https://twitter.com/telegram_es
-Siempre informamos ahí sobre las actualizaciones importantes.
+Siempre explicamos las actualizaciones de nuestras apps ahí.
 
 {QUESTION}
 Is this safe?
@@ -891,11 +903,11 @@ morebots
 findbots
 botexamples
 {VALUE}
-No contamos con una lista oficial de bots, la plataforma está abierta para todo aquel que desee usarla. Te puedo dar algunos ejemplos, pero ten en cuenta que estos bots fueron creados por desarrolladores ajenos a Telegram.
+No tenemos una tienda oficial de bots. La plataforma está abierta para todo aquel que desee usarla. Te puedo dar algunos ejemplos, pero ten en cuenta que estos bots fueron creados por desarrolladores externos, no por el equipo de Telegram.
 
-@TriviaBot – Prueba tu conocimiento o añádelo a grupos para competir con tus amigos.
-@hangbot – Juega al ahorcado online o añádelo a grupos para competir con tus amigos.
-@AlertBot – Crea alertas y este bot te enviará un aviso.
+@TriviaBot: pon a prueba tus conocimientos en la trivia o añádelo a grupos para competir con tus amigos.
+@hangbot: juega al Ahorcado en línea o añádelo a grupos para jugar con tus amigos.
+@AlertBot: establece una hora y este bot te enviará un recordatorio.
 
 Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: tan solo escribe su @alias en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @bing, @wiki, @imdb y @bold.
 
@@ -969,9 +981,9 @@ numberprivacy
 hidephonenumber
 {VALUE}
 Tu número de teléfono está oculto a otros usuarios. Solamente podrán verlo en los siguientes casos:
-- Si ya tienen tu número de teléfono guardado en su agenda.
+- Si ellos ya tienen tu número de teléfono guardado en su agenda.
 - Si tú mismo compartes tu número (usando “Compartir mi número”)
-- Si tienes su número guardado en tu agenda y tú le envías un mensaje (como si recibieran un SMS de tu parte).
+- Si tienes su número guardado en tu agenda y les envías un mensaje (como si recibieran un SMS de tu parte).
 
 No verán tu número en otras circunstancias. por ejemplo, si te encuentran usando nuestra búsqueda global o en un chat grupal.
 
@@ -1012,7 +1024,7 @@ How do I manage cache? (Android)
 cachea
 cacheandroid
 {VALUE}
-Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu caché local, se volverán a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el mínimo espacio en tu dispositivo.
+Con Telegram, no necesitas almacenar toda la multimedia de tu historial en el dispositivo. Si eliminas los datos de Telegram de la caché local del dispositivo, se volverán a descargar desde la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el espacio mínimo en tu dispositivo.
 
 Simplemente ve a Ajustes de Telegram > Datos y almacenamiento > Uso de almacenamiento y configura cuánto tiempo permanecerán en tu dispositivo los archivos multimedia que no uses. También puedes eliminar la caché manualmente desde ese menú.
 
@@ -1024,7 +1036,7 @@ How do I manage cache? (iOS)
 cachei
 cacheios
 {VALUE}
-Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu caché local, se volverán a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el mínimo espacio en tu dispositivo.
+Con Telegram, no necesitas almacenar toda la multimedia de tu historial en el dispositivo. Si eliminas los datos de Telegram de la caché local del dispositivo, se volverán a descargar desde la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el espacio mínimo en tu dispositivo.
 
 Para gestionar la caché, ve a los Ajustes de Telegram > Datos y almacenamiento > Uso de almacenamiento. Aquí puedes configurar cuánto tiempo se mantienen en tu dispositivo los archivos multimedia que no uses, o eliminarla manualmente, tanto por tipo como chat por chat.
 
@@ -1034,7 +1046,7 @@ How do I manage cache? (Windows Phone)
 cachewp
 cachewindowsphone
 {VALUE}
-Con Telegram, no necesitas almacenar todo el historial multimedia en tu dispositivo. Si eliminas los datos de Telegram de tu caché local, se volverán a descargar de la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el mínimo espacio en tu dispositivo.
+Con Telegram, no necesitas almacenar toda la multimedia de tu historial en el dispositivo. Si eliminas los datos de Telegram de la caché local del dispositivo, se volverán a descargar desde la nube cuando quieras acceder a ellos. Esto significa que no perderás nada y Telegram siempre ocupará el espacio mínimo en tu dispositivo.
 
 Para gestionar la memoria caché, ve a Ajustes de Telegram > Caché.
 
@@ -1093,7 +1105,7 @@ Los chats secretos:
 - No permiten el reenvío de mensajes fuera de ellos
 - No permiten respaldar datos
 
-En resumen, los chats secretos son súper convenientes para conversaciones cortas; para conversaciones permanentes, los chats en la nube son más apropiados. Por supuesto, todos los chats en Telegram están cifrados. Puedes leer más acerca de los chats secretos aquí: https://telegram.org/faq/es#chats-secretos
+Para resumirlo, los chats secretos son muy convenientes para chats cortos; mientras que los chats en la nube son más convenientes para conversaciones permanentes. Todos los chats en Telegram son, por supuesto, siempre cifrados. Puedes conocer más sobre los chats secretos aquí: https://telegram.org/faq/es#chats-secretos
 
 {QUESTION}
 What are cloud chats?
@@ -1129,6 +1141,44 @@ Los chats en la nube de Telegram (y los grupos) están cifrados de forma segura 
 Los chats secretos usan cifrado “end-to-end” y sólo pueden ser descifrados en los dos dispositivos que participan. Lo malo: no puedes acceder a ellos desde tus otros dispositivos y si reinstalas Telegram, o incluso cierras sesión, tus chats secretos se perderán.
 
 Los chats secretos también tienen un temporizador opcional (desde 1 segundo hasta 1 semana) que te permite enviar mensajes, fotos, vídeos e incluso archivos que se autodestruyen.
+
+{QUESTION}
+Why are Secret Chats only available on their devices of origin?
+{KEYS}
+1device
+why1device
+devicespecific
+whydevicespecific
+{VALUE}
+Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por su diseño. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado end-to-end, así que no pueden ser sincronizados de la misma forma, simple y conveniente, de los chats en la nube. Puede que incorporemos soporte para los chats secretos en múltiples dispositivos en el futuro.
+
+Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que ellos también están cifrados y están protegidos por la infraestructura distribuida de Telegram. Dime si quieres saber más sobre la seguridad en Telegram.
+
+{QUESTION}
+Why are there no Secret Chats on desktop apps?
+{KEYS}
+schatsd
+secretchatsd
+schatsdesktop
+secretchatsdesktop
+{VALUE}
+Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no soportan por ahora. Puede que incorporemos esto en el futuro. Ahora, tanto la versión de escritorio como la versión web, cargan mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagues tu PC.
+
+Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en el dispositivo que siempre llevas contigo. Si te preocupa la seguridad de tus chats en el PC, por favor, ten en cuenta que ellos son también cifrados y están protegidos por la infraestructura distribuida de Telegram. Dime si quieres saber más sobre la seguridad en Telegram.
+
+{QUESTION}
+Tell me more about security on Telegram
+{KEYS}
+securitylm
+securitymore
+securitylearn
+securitylearnmore
+{VALUE}
+Todos los datos de Telegram son cifrados y no pueden ser descifrados por tu ISP, administrador de red o hackers. Los chats en la nube son almacenados cifrados en la nube de Telegram, y las llaves necesarias para descifrar estos datos se mantienen en otros centros de datos en diferentes jurisdicciones. De este modo, intrusos locales o ingenieros no pueden acceder a estos datos, y son necesarias varias solicitudes de diferentes jurisdicciones para forzarnos a entregar algo. Puedes conocer más sobre ello aquí: https://telegram.org/faq/es#p-procesan-solicitudes-de-datos
+
+Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado end-to-end, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera necesitas confiar en Telegram cuando usas chats secretos. Su seguridad está garantizada desde la aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram. 
+
+Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo una contraseña segura para bloquear tu aplicación. De ese modo, no será posible acceder a tus chats si te roban el dispositivo o interceptando tu código SMS. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Dime si quieres saber más detalles.
 
 {QUESTION}
 How can I send self-destructing messages? (iOS)
@@ -2398,13 +2448,13 @@ I read an article that Telegram was hacked, what do you say?
 zimp
 zimperium
 {VALUE}
-Me temo que es un artículo hecho para hacerse publicidad. Nada fue hackeado, el autor simplemente buscaba publicitar su producto. El artículo suena ridículo para cualquier especialista de seguridad (por ejemplo, echa un vistazo a los comentarios en Hacker News: https://news.ycombinator.com/item?id=9095059).
+Me temo que es un artículo para hacerse publicidad. Nada fue hackeado; el autor simplemente buscaba publicitar su producto. Este artículo suena ridículo para cualquier especialista de seguridad (por ejemplo, echa un vistazo a los comentarios en Hacker News: https://news.ycombinator.com/item?id=9095059).
 
-En resumidas cuentas dice algo así como: “Si tuviera las llaves de tu casa, podría abrir tu puerta”.
+En palabras simples, dice algo como: “Si tuviera las llaves de tu casa, podría abrir tu puerta”. 
 
-Así que no tienes de qué preocuparte si no le das a nadie tus llaves. Para mantener tu dispositivo a salvo, evita acceder a enlaces sospechosos, mantén siempre tu sistema actualizado con la última versión, y no hagas 'root' a tu equipo.
+Así que no tienes que preocuparte si no has entregado tus llaves. Para mantener tu dispositivo a salvo, evita acceder a enlaces sospechosos, mantén siempre tu sistema actualizado con la última versión, y no hagas “root” a tu equipo.
 
-Y nunca confíes en aquellos que intente asustarte para hacerte comprar sus programas.
+Y nunca confíes en las personas que tratan de asustarte para que compres su software.
 
 {QUESTION}
 q_extra_1
