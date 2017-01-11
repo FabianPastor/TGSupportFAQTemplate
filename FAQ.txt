@@ -340,7 +340,7 @@ computer
 desktopapp
 computerapp
 {VALUE}
-Telegram también está disponible para tu ordenador. Puedes elegir entre una interfaz web (un sitio web en tu navegador) o un programa para instalar en tu máquina. 
+Telegram también está disponible para tu ordenador. Puedes elegir entre una interfaz web (un sitio web en tu navegador) y un programa para instalar en tu máquina. 
 
 Nuestra aplicación web oficial: https://web.telegram.org
 
@@ -348,7 +348,7 @@ Nuestra aplicación oficial de escritorio para Windows, Linux y macOS: https://d
 
 Nuestra aplicación oficial nativa para macOS: https://telegram.org/dl/macOS
 
-Siempre puedes visitar https://telegram.org/apps para los enlaces directos.
+Siempre puedes visitar https://telegram.org/apps para los enlaces directos a cada una de las aplicaciones.
 
 {QUESTION}
 How do you make money?
@@ -361,7 +361,7 @@ profitable
 {VALUE}
 A diferencia de otras mensajerías (como WhatsApp, Facebook, etc.), el objetivo de Telegram no es ganar dinero, sino ofrecer mensajería rápida, segura y privada sin coste ni publicidad para los usuarios.
 
-Puedes leer más sobre nuestra postura al respecto en nuestras preguntas frecuentes:
+Puedes leer más al respecto en nuestras preguntas frecuentes:
 https://telegram.org/faq/es#p-cmo-ganarn-dinero-a-partir-de-esto
 
 {QUESTION}
@@ -373,7 +373,7 @@ reallyreally
 {VALUE}
 Telegram es gratis, y siempre lo será.
 
-Pero ten en cuenta que Telegram requiere una conexión a internet para funcionar. Tu operador móvil puede cobrar por tus datos enviados y recibidos a través del teléfono.
+Pero ten en cuenta que Telegram requiere una conexión a internet para funcionar. Tu operador móvil puede cobrar por tus datos enviados y recibidos a través del teléfono móvil.
 
 {QUESTION}
 Where can I find the source code?
@@ -394,9 +394,9 @@ faster
 telegramfast
 fasttelegram
 {VALUE}
-Para trabajar de manera fiable en conexiones móviles débiles, usamos un protocolo personalizado. Éste nos permite enviar tus mensajes cifrados usando menos datos.
+Para trabajar de mejor manera en las conexiones móviles débiles, usamos un protocolo personalizado. Este nos permite enviar tus mensajes cifrados usando menos datos.
 
-También tenemos una infraestructura de servidores única, que te permite una comunicación mediante servidores cercanos a ti, lo que significa que esos datos necesitan viajar distancias más cortas. Y enviar menos datos en distancias más cortas significa que podemos hacerlo más rápido que cualquier otro.
+También tenemos una infraestructura de servidores única, que te permite una comunicación mediante servidores cercanos a ti. Esto significa que esos datos necesitan viajar distancias más cortas. Y, enviar menos datos en distancias más cortas, significa que podemos hacerlo más rápido que cualquier otro.
 
 {QUESTION}
 How does Telegram encryption work?
@@ -423,7 +423,7 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram lo usan más de 100 millones de personas de todo el mundo. En febrero de 2016 alcanzamos los 15 mil millones de mensajes enviados diariamente. Cada día se registran unos 350 000 usuarios nuevos.
+Telegram es usado por más de 100 millones de personas alrededor del mundo. En febrero de 2016, alcanzamos los 15 mil millones de mensajes enviados cada día, y 350.000 nuevos usuarios se registran en Telegram cada día.
 
 Más información:
 https://telegram.org/blog/100-million
@@ -449,7 +449,7 @@ doyouread
 canyouseemessages
 canyoureadmessages
 {VALUE}
-Sólo leemos los mensajes que nos envías directamente a nosotros, como por ejemplo en este chat de soporte. Telegram no es una compañía comercial, sino un proyecto de código abierto sin ánimo de lucro, que se sustenta gracias a una donación.
+Sólo leemos los mensajes que nos envías, por ejemplo, en este chat de soporte. Telegram no es una compañía comercial, sino un proyecto de código abierto sin ánimo de lucro, que se sustenta gracias a una donación.
 
 Creamos Telegram para hacer la mensajería segura y gratuita disponible para todos. Nuestra reputación y tu privacidad son las únicas cosas que nos preocupan.
 
@@ -469,7 +469,7 @@ updatedate
 whennewfeatures
 whennextupdatecoming
 {VALUE}
-Lo sentimos, pero nunca prometemos fechas de lanzamiento exactas, porque cualquier cosa puede pasar. Es más fácil si activas las actualizaciones automáticas en la tienda de Google Play, el App Store de Apple, o la tienda de Windows Phone, respectivamente. Así, siempre las tendrás de inmediato.
+Lo sentimos, pero nunca prometemos fechas de lanzamiento exactas, porque cualquier cosa puede pasar. Es más fácil si activas las actualizaciones automáticas en la tienda de Google Play, el App Store de Apple, o la tienda de Windows Phone, respectivamente. Así, siempre tendrás las actualizaciones primero.
 
 También puedes unirte a nuestro canal oficial de Telegram o seguirnos en Twitter:
 https://t.me/telegram
@@ -488,7 +488,7 @@ security
 {VALUE}
 Trabajamos duro para hacer de Telegram la aplicación de mensajería masiva más segura. Y estamos permanentemente trabajando con la comunidad para mejorar la seguridad, nuestro protocolo y aplicaciones.
 
-Puedes aprender más sobre la seguridad y privacidad de Telegram aquí:
+Puedes conocer más sobre la seguridad y privacidad de Telegram aquí:
 
 https://telegram.org/faq/es#seguridad
 https://telegram.org/privacy
@@ -503,9 +503,9 @@ safecloud
 cloudsecurity
 telegramcloud
 {VALUE}
-La seguridad es una de las mayores atracciones de Telegram: todo lo que envías y recibes está fuertemente cifrado. Los datos de tus chats en la nube son almacenados cifrados en la Nube de Telegram.
+La seguridad es uno de los principales atractivos de Telegram: todo lo que envías y recibes está fuertemente cifrado. Los datos de tus chats en la nube son almacenados cifrados en la nube de Telegram.
 
-Y si no te gusta la idea de sincronizar tus chats a través de múltiples dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado “end-to-end” y sólo pueden ser descifrados por tu dispositivo y el del destinatario. No son parte de la nube y sólo puede accederse a ellos desde el dispositivo en que lo creaste. Y si cierras la sesión en ese dispositivo, desaparecerán.
+Y si no te gusta la idea de sincronizar tus chats a través de múltiples dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado end-to-end y sólo pueden ser descifrados por tu dispositivo y el del destinatario. No son parte de la nube y sólo puede accederse a ellos desde el dispositivo en que lo creaste. Y si cierras la sesión en ese dispositivo, desaparecerán.
 
 {QUESTION}
 Why did you call this Telegram?
@@ -533,7 +533,7 @@ advertise
 marketing
 advertising
 {VALUE}
-Telegram no es una organización comercial y no hacemos publicidad de ningún tipo.
+Telegram no es una organización comercial y no hacemos publicidad ni marketing.
 Eso no nos ha impedido alcanzar los 100 millones de usuarios activos al mes, ni el envío de unos 15 mil millones de mensajes diariamente.
 https://telegram.org/blog/15-billion
 
@@ -572,7 +572,7 @@ lastseenrecently
 {VALUE}
 Puedes seleccionar quién puede ver tu “última conexión” en los ajustes de Privacidad y seguridad.
 
-No verás la última conexión de las personas con las que no compartes la tuya. Podrás, sin embargo, ver un valor aproximado. Esto mantiene a los acosadores a raya y además  te permite ver con facilidad si puedes contactar con una persona mediante Telegram. Hay cuatro valores aproximados posibles:
+No verás la “última conexión” de las personas con las que no compartes la tuya. Podrás, sin embargo, ver un valor aproximado. Esto mantiene a los acosadores a raya y además te permite ver con facilidad si puedes contactar con una persona mediante Telegram. Hay cuatro valores aproximados posibles:
 
 - Última vez recientemente: cubre todo entre 1 segundo y 2-3 días
 - Última vez hace unos días: entre 2-3 y 7 días
@@ -592,7 +592,7 @@ hidelastseendesk
 invisibledesktop
 hidelastseendesktop
 {VALUE}
-Nuestra aplicación de escritorio no tiene aún la opción de establecer quién puede ver tu última conexión. Puedes cambiarlo en tu teléfono, en la configuración de Privacidad y Seguridad.
+Nuestra versión de escritorio, por el momento, no tiene la opción para configurar quién puede ver tu última conexión. Lo sentimos. Puedes hacerlo en tu teléfono, en los ajustes de Privacidad y seguridad.
 
 {QUESTION}
 What do the green checks mean?
@@ -639,7 +639,7 @@ deletedchataccident
 {VALUE}
 Lo sentimos, no hay manera de restaurar chats o mensajes si los eliminaste.
 
-Pero, ¿le preguntaste a tu compañero de chat si todavía lo tiene? Si no era un chat secreto, tu amigo podría reenviarte manualmente algún mensaje en concreto que necesites. Y si era un chat secreto, puede tomar una captura de pantalla o simplemente copiar el texto si las capturas están deshabilitadas en su dispositivo.
+Pero, ¿le preguntaste a tu compañero de chat si todavía lo tiene? Si no era un chat secreto, tu amigo podría reenviar manualmente algunos mensajes específicos. Y si era un chat secreto, podrían enviarte capturas de pantalla o copiar el texto, en caso de que las capturas estén desactivadas en su dispositivo.
 
 {QUESTION}
 How do I know who is using Telegram?
@@ -653,7 +653,7 @@ whosonline
 who'susing
 who'sonline
 {VALUE}
-Telegram, regularmente, revisa tu dispositivo para obtener nuevos contactos. Los contactos que tengan Telegram se muestran en la parte alta de la página de Contactos de Telegram; si han configurado una imagen de perfil también se mostrará ahí.
+Telegram, regularmente, revisa tu dispositivo para obtener nuevos contactos. Tus contactos que tienen Telegram se muestran en la parte alta de la lista de Contactos de Telegram. También tienen fotos.
 
 {QUESTION}
 How can I make new friends here?
@@ -662,11 +662,11 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-En Telegram, puedes crear un grupo con tus amigos, y luego pedirles que añadan a sus amigos también: una forma fácil de conocer gente nueva. Avísame si quieres aprender cómo crear grupos.
+En Telegram, puedes crear un grupo con tus amigos, y luego pedirles que añadan a sus amigos también. Esa es una forma fácil de conocer gente nueva. Dime si quieres saber cómo crear grupos.
 
 También hay bots no oficiales diseñados para poner en contacto usuarios con los mismos intereses. Prueba buscando en internet “Telegram bots new friends”, obtendrás muchos resultados.
 
-Recuerda: Puedes usar la búsqueda de Telegram para encontrar a gente si sabes su alias, pero no es una herramienta para encontrar amigos nuevos. A la gente no le gusta que los desconocidos les contacten mediante su alias, así que puede ser que te acaben reportando como spam.
+Por favor, recuerda: puedes usar la búsqueda de Telegram para encontrar personas a través de sus alias, pero esta herramienta no es para conocer nuevos amigos. A las personas no les gusta ser contactadas por extraños a través de sus alias, así que podrían reportarte.
 
 {QUESTION}
 Will you have video calls?
@@ -701,7 +701,7 @@ archive
 backups
 archives
 {VALUE}
-Hay poca necesidad de respaldos en Telegram, porque tus chats son almacenados cifrados en la Nube de Telegram, y puedes acceder a ellos desde cualquiera de tus dispositivos cuando quieras. Los chats secretos son la única excepción a la regla: sólo están disponibles en el dispositivo de origen y se pierden si cierras sesión.
+Hay poca necesidad de respaldos en Telegram, porque tus chats son almacenados cifrados en la Nube de Telegram; y puedes acceder a ellos desde cualquiera de tus dispositivos cuando quieras. Los chats secretos son la única excepción a la regla: sólo están disponibles en el dispositivo de origen y se pierden si cierras sesión.
 
 Mientras no elimines algo de un chat en la nube, permanecerá ahí, incluso si reinstalas Telegram, si lo usas en un segundo o tercer dispositivo o si cambias tu número de teléfono.
 
@@ -719,11 +719,11 @@ whoblocked
 userblocked
 amiblocked
 {VALUE}
-No recibes una notificación cuando otra persona te bloquea. Tus mensajes simplemente dejan de ser enviados. Siempre tendrán sólo 1 tick.
+No recibes una notificación cuando has sido bloqueado por otra persona. Tus mensajes simplemente dejan de ser enviados. Siempre tendrán sólo 1 tick.
 
 Las personas bloqueadas:
 
-- No pueden enviarte mensajes, iniciar chats secretos contigo ni añadirte a grupos.
+- No pueden enviarte mensajes, iniciar chats secretos contigo o añadirte a grupos.
 - No pueden ver tu foto de perfil
 - No pueden ver tu estado en línea o tu última conexión; siempre les apareces como “última vez hace mucho tiempo” (o “fuera de línea” en versiones antiguas de la aplicación).
 
@@ -736,7 +736,7 @@ gifs
 jifs
 gifsare
 {VALUE}
-Los GIF son imágenes animadas. Envíalos como Archivo adjunto (no como foto) si quieres que se reproduzcan. 
+Los GIF son imágenes animadas. Envíalos como un “archivo” adjunto (no como foto) si quieres que se reproduzcan.
 
 Puedes usar la búsqueda incorporada de GIF o el bot integrado: prueba a escribir “@gif cats” en el campo de texto. El bot te ofrecerá GIF relevantes a tu búsqueda, en este caso, ¡gatos!
 
@@ -788,7 +788,7 @@ stickersios
 {VALUE}
 Hay un botón para abrir el panel de stickers en la parte derecha del cuadro de texto. Cuando añadas packs de stickers, aparecerán en este panel. Prueba con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puedes tocar en un sticker para enviarlo inmediatamente, o mantener pulsado para que aparezca una vista previa en grande.
 
-Cuando tengas activado el panel de stickers en los ajustes de Telegram, los emojis tendrán una doble función. Si comienzas un mensaje con un emoji, verás una sugerencia de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver un cuantos ejemplos.
+Cuando tengas activado el panel de stickers en los ajustes de Telegram, los emojis tendrán una función doble. Si comienzas un mensaje con un emoji, podrás ver una sugerencia de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos de stickers.
 
 Si quieres saber cómo encontrar más stickers, avísame y con mucho gusto te daré algunos consejos.
 
@@ -802,7 +802,7 @@ stickersandroid
 {VALUE}
 Hay una pestaña de stickers en el panel de emojis. Cuando añadas packs de stickers, aparecerán en esta pestaña. Prueba con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puedes tocar en un sticker para enviarlo inmediatamente, o mantener pulsado para que aparezca una vista previa en grande.
 
-Cuando tengas activado la pestaña de stickers en los ajustes de Telegram, los emojis tendrán una doble función. Si comienzas un mensaje con un emoji, verás una sugerencia de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌javascript:;💪 para ver un cuantos ejemplos.
+Cuando tengas activado la pestaña de stickers en los ajustes de Telegram, los emojis tendrán una función doble. Si comienzas un mensaje con un emoji, podrás ver sugerencias de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos.
 
 Si quieres saber cómo encontrar más stickers, avísame y con mucho gusto te daré algunos consejos.
 
@@ -817,13 +817,13 @@ buystickers
 morestickers
 findstickers
 {VALUE}
-No tenemos una tienda oficial de stickers, la plataforma es abierta para quien quiera usarla. Si quieres tener más stickers, hay unas cuantas maneras:
+No tenemos una tienda oficial de stickers, porque la plataforma es abierta para todos quienes la utilizan. Si quieres tener más stickers, aquí hay algunas ideas:
 
 1) Escribe “@sticker” en el cuadro de texto, deja un espacio, y luego escribe uno o más emojis: el bot te ofrecerá algunas sugerencias para que elijas el sticker adecuado.
 
-2) Si recibes un sticker que te gusta, toca sobre él: se abrirá el paquete de stickers relacionado y podrás añadirlo a tu colección.
+2) Si recibes un sticker que te gusta, toca sobre él. Se abrirá el pack de stickers al que pertenece y podrás añadirlo a tu panel de stickers.
 
-3) Echa un vistazo y añade los stickers que están de moda en este momento en Telegram, yendo a los Ajustes de Telegram > Stickers > Stickers destacados.
+3) Navega y añade stickers que están destacados en Telegram, yendo a los Ajustes de Telegram > Stickers > Stickers destacados.
 
 4) Si eso no te parece suficiente, puedes probar a buscar en Internet “Telegram Stickers”: te aparecerán muchos resultados.
 
@@ -843,7 +843,7 @@ Android: Ajustes de Telegram > Stickers > “...”
 
 WP: Ajustes de Telegram > Stickers > Mantén pulsado > Eliminar
 
-Escritorio: Panel de stickers > Icono del engranaje > Eliminar
+Desktop: Panel de stickers > Icono del engranaje > Eliminar
 
 {QUESTION}
 What are channels?
@@ -852,7 +852,7 @@ channels
 channelsare
 aboutchannels
 {VALUE}
-Los Canales son una herramienta para difundir tus mensajes a grandes audiencias: comparte noticias importantes, cosas divertidas, o lo que quieras. A diferencia de los grupos, los destinatarios no sabrán los unos de los otros y sólo los administradores del canal podrán enviar mensajes.
+Los canales son una herramienta para difundir tus mensajes a grandes audiencias; compartir noticias importantes, cosas divertidas o cualquier cosa que quieras. A diferencia de los grupos, los destinatarios no sabrán sobre los otros y sólo los administradores del canal podrán enviar mensajes ahí.
 
 Los canales pueden tener un número ilimitado de miembros, y pueden ser públicos, con una URL permanente para que cualquiera pueda encontrarlos y unirse. Si quieres un ejemplo, únete a nuestro canal oficial de Telegram para recibir notificaciones sobre nuestras actualizaciones: https://t.me/telegram
 
@@ -880,16 +880,16 @@ How are supergroups different from groups?
 sg
 supergroups
 {VALUE}
-Los grupos de Telegram son perfectos para compartir cosas con amigos y familia, o para la colaboración en equipos pequeños. Pueden tener hasta 200 miembros, y por defecto todos pueden añadir nuevos miembros y editar el nombre y la foto del grupo.
+Los grupos de Telegram son ideales para compartir cosas con amigos y familiares, o colaboraciones en equipos pequeños. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros o editar el nombre y la foto del grupo.
 
-Los supergrupos pueden tener hasta 5000 miembros. Tienen un historial unificado, de forma que los mensajes eliminados desaparecerán para todos, y los miembros normales sólo pueden eliminar los suyos propios.
+Los supergrupos pueden tener hasta 5000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden borrar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
-- Los nuevos miembros que se unan al chat podrán ver el historial de mensajes completo.
+- El historial de mensajes es visible para todos los miembros que se unen al chat.
 - Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
-- Los administradores pueden anclar mensajes, que se muestran en la parte superior del chat, para informar a los miembros sobre novedades importantes que de otra forma se perderían.
-- Se pueden hacer públicos estableciendo un alias, como en los canales.
-- Si se hacen públicos, los miembros pueden invitar a gente nueva; si no, sólo se pueden unir vía enlace de invitación o si los añaden los administradores.
+- Los administradores pueden anclar mensajes, que se muestran en la parte superior del chat, para informar a los miembros sobre noticias importantes que de otra forma se perderían.
+- Pueden hacerse públicos, estableciendo un Alias, tal como los canales.
+- Si son públicos, los miembros pueden invitar a personas nuevas. Si no, sólo pueden unirse con un enlace de invitación o si son añadidos por los administradores.
 
 Si quieres actualizar tu grupo a un supergrupo, ve a la información del grupo y elige “Actualizar a supergrupo”. Esta acción es irreversible, así que ten en cuenta todas las diferencias y pregúntame si algo no te ha quedado claro, antes de actualizar.
 
@@ -921,9 +921,9 @@ games
 gamebots
 werewolf
 {VALUE}
-Hay un montón de bots de juegos en Telegram, hechos por desarrolladores de todo el mundo. Los que usan nuestra nueva Plataforma de Juegos se pueden jugar a pantalla completa, con imágenes y sonidos. Puedes encontrar más información y ejemplos aquí: https://telegram.org/blog/games
+Hay muchos bots de juegos en Telegram, hechos por desarrolladores de todo el mundo. Los que usan nuestra nueva Plataforma de Juegos se pueden jugar a pantalla completa, con imágenes y sonidos. Puedes encontrar más información y ejemplos aquí: https://telegram.org/blog/games
 
-Estaremos encantados de enseñarte cómo funcionan los bots de Telegram en general, pero si necesitas ayuda con algún juego en particular, tendrás que preguntarle a algún amigo o buscar en Internet.
+Estaremos encantados de enseñarte cómo funcionan los bots de Telegram en general, pero si necesitas ayuda con algún juego en particular, tendrás que preguntar a tus amigos o buscarlo en internet.
 
 {QUESTION}
 What does the LED setting mean?
@@ -1430,7 +1430,7 @@ changeprofilepicios
 changeprofilepicturei
 changeprofilepictureios
 {VALUE}
-Para cambiar tu foto de perfil, ve a los Ajustes de Telegram – Poner foto de perfil.
+Para cambiar tu foto de perfil, ve a los Ajustes de Telegram > Poner foto de perfil.
 
 {QUESTION}
 How do I change my profile picture? (Android)
@@ -1464,7 +1464,7 @@ profilepicturewindowsphone
 changeprofilepicwindowsphone
 changeprofilepicturewindowsphone
 {VALUE}
-Para cambiar la foto de perfil, toca “...” en la pantalla de Chats, luego Ajustes – pulsa sobre la foto de perfil.
+Para cambiar la foto de perfil, toca “...” en la pantalla de Chats, luego Ajustes > toca sobre la foto de perfil.
 
 {QUESTION}
 How do I delete my profile picture? (iOS)
@@ -1759,7 +1759,7 @@ On iOS this will show the standard chat view and therefore allow blocking anyone
 {KEYS}
 block
 {VALUE}
-Para bloquear y desbloquear personas, ve a los Ajustes de Telegram – Privacidad y seguridad – Usuarios bloqueados.
+Para bloquear y desbloquear personas, ve a los Ajustes de Telegram > Privacidad y seguridad > Usuarios bloqueados.
 
 Las personas bloqueadas:
 
@@ -1948,7 +1948,7 @@ No recolectamos ninguna otra información con respecto a ti, y esto significa qu
 Puedes leer más al respecto aquí:
 https://telegram.org/faq/es#p-mi-telfono-fue-robado-qu-puedo-hacer
 
-Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes – Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
+Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes > Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
 
 {QUESTION}
 How do I change my phone number in Telegram?
@@ -2009,10 +2009,10 @@ phonestolen
 Primero de todo, sentimos lo de tu teléfono. Lamentablemente, el número de teléfono es la única forma que tenemos para identificar a un usuario en Telegram, de momento, así que por ahora tienes que seguir estos pasos:
 
 1. Antes de nada, debes contactar con tu operadora de telefonía para que bloqueen tu vieja SIM y pedir una nueva con el mismo número.
-2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes – Terminar todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
+2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes > Terminar todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
 3. Si no tienes iniciada una sesión en Telegram, espera hasta que recibas tu nueva SIM con el viejo número, inicia una sesión, luego ve a Ajustes - Terminar todas las otras sesiones. Luego, podrás seguir con el uso normal de Telegram.
 
-Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes – Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
+Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes > Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
 
 {QUESTION}
 How do I log out of Telegram?
@@ -2151,7 +2151,7 @@ Por favor, revisa lo siguiente:
 
 - Comprueba si el contacto o grupo está silenciado.
 
-- Ve a Ajustes – Notificaciones y sonidos. Si el Servicio de Notificaciones de Telegram está desactivado, considera activarlo, porque garantiza notificaciones a tiempo. Si no, asegúrate de tener instalados los Servicios de Google Play en tu teléfono. Lamentablemente, las notificaciones GCM pertenecientes a Google no son tan fiables y no podemos garantizar que te lleguen todas a tiempo.
+- Ve a Ajustes > Notificaciones y sonidos. Si el Servicio de Notificaciones de Telegram está desactivado, considera activarlo, porque garantiza notificaciones a tiempo. Si no, asegúrate de tener instalados los Servicios de Google Play en tu teléfono. Lamentablemente, las notificaciones GCM pertenecientes a Google no son tan fiables y no podemos garantizar que te lleguen todas a tiempo.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
@@ -2240,7 +2240,7 @@ can'tseecontactios
 ¿Puedo pedirte que pruebes estos dos trucos?
 
 1. Cambia, temporalmente, el nombre del contacto perdido en la agenda del teléfono (no en Telegram): añade algunos símbolos, luego devuélvelo a la normalidad.
-2. Si eso no ayuda, prueba con el reinicio de sesión (en Telegram: ve a Ajustes – Editar – Cerrar sesión, luego inicia la sesión otra vez).
+2. Si eso no ayuda, prueba con el reinicio de sesión (en Telegram: ve a Ajustes > Editar > Cerrar sesión, luego inicia la sesión otra vez).
 
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (Android)
@@ -2296,7 +2296,7 @@ Lamentamos que tengas problemas de conexión. ¿Podrías, por favor, ayudarnos a
 2. ¿Cuándo comenzó a ocurrir? ¿Sigue pasando?
 3. ¿Esto pasa siempre o algunas veces?
 4. ¿Ocurre con todas las aplicaciones de Telegram o sólo en uno de tus dispositivos?
-4a. (Prueba web.telegram.org – ¿Funciona?)
+4a. (Prueba web.telegram.org. ¿Funciona?)
 5. ¿El problema ocurre en Wi-Fi, datos móviles o en ambos casos?
 6. Sería muy útil si nos pudieras entregar tu dirección IP, la de la conexión con el problema.
 
