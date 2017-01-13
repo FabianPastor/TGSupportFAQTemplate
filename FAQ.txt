@@ -13,6 +13,27 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
+How do I use themes? (Desktop)
+{KEYS}
+theme
+themed
+themes
+themesd
+themedesktop
+themesdesktop
+{VALUE}
+Since version 1.0, Telegram Desktop supports custom themes, so you can choose an alternative design for your app.
+
+Try it out with some themes from here: @Themes.
+
+To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
+
+If you want to go back to the default theme, tap the main menu icon near the search field > Settings > scroll down to "Chat background" > "Use default color theme".
+
+Here’s a detailed guide on themes if you’d like one:
+http://telegra.ph/Telegram-Themes-01-11
+
+{QUESTION}
 Can't take screenshots anywhere (Android)
 {COMMENT}
 For screenshots in secret chats, see ‘screensecreta’.
