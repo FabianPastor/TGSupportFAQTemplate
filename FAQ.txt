@@ -598,7 +598,7 @@ You won‘t see 'Last Seen' timestamps for people with whom you don’t share yo
 - Last seen recently — covers anything between 1 second and 2-3 days
 - Last seen within a week — between 2-3 and 7 days
 - Last seen within a month — between 6-7 days and a month
-- Last seen long time ago — more than a month (this is also always shown to blocked users)
+- Last seen a long time ago — more than a month (this is also always shown to blocked users)
 
 As you can see, these stages are not clearly separated, so you cannot calculate much from this data.
 
@@ -1262,7 +1262,7 @@ iOS: To set up a username, go to Settings > Username.
 
 WP: To set up a username, tap '...' in the chat list to go to Settings, then 'Set Username'.
 
-TDesktop: To set up a username, tap the menu icon near the search field, then 'Settings' > 'Choose Username'.
+Desktop: To set up a username, tap the menu icon near the search field, then 'Settings' > 'Choose Username'.
 
 Web: To set up a username, go to Settings, then 'Set username'.
 
@@ -1387,7 +1387,7 @@ First, make sure you have Touch ID set up, you can configure it in iOS Settings:
 
 Settings > Touch ID & Passcode > Add a fingerprint.
 
-Then, go to Telegram Settings > Privacy and Security > Passcode Lock, and make sure the "Unlock with Touch ID" setting is tuned on.
+Then, go to Telegram Settings > Privacy and Security > Passcode Lock, and make sure the "Unlock with Touch ID" setting is turned on.
 
 {COMMENT}
 ================================
