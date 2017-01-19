@@ -2458,6 +2458,19 @@ To see all active sessions for your Telegram account, go to Settings — Privacy
 
 You can also set up an additional password for your account. To do this, go to Settings — Privacy and Security — Two-Step Verification. Once enabled, you will need both a password AND a code to log in to Telegram.
 
+{QUESTION}
+I’ve read there’s a paper revealing several major exploits in Telegram!
+{COMMENT}
+https://medium.freecodecamp.com/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0
+{KEYS}
+medium
+jakobsen
+{VALUE}
+This article is misleading. The author dismisses the Telegram protocol as insecure based on a piece of research that doesn't prove this point.
+
+Here's a detailed explanation of how J. Jakobsen's paper creates a false impression about Telegram's security:
+http://telegra.ph/mtproto-security-01-17
+
 {COMMENT}
 =======================
 -ARCHIVE-
