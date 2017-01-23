@@ -2007,14 +2007,16 @@ I try to change my phone number in Telegram but it says my new number is already
 occupied
 occupiednumber
 {VALUE}
-If you want to change your current phone number in Telegram, you must first ensure that the your new number does not have a Telegram account connected to it. If there is one, you need to delete it before starting the transfer.
+If you want to change your current phone number in Telegram, you must first ensure that your new number does not have a Telegram account connected to it. If there is one, you need to delete it before starting the transfer.
 
 Note: If you delete the account currently connected to your new number, it cannot be recovered - so please make sure you don't need the account before deleting it.
 
 If you wish to continue, below are the easiest steps to perform this process. We also recommend that you use a non-mobile browser to do this.
 
 1. Use any of our apps to log in with the account currently associated with your new number - e.g. go to https://web.telegram.org, enter your new phone number there and log in using the code you receive via SMS to the number.
-2. Once logged into the new numbers account, navigate to https://telegram.org/deactivate and enter your new phone number there, in international format. You will now receive a password through Telegram (keep an eye on the app you logged on to in step 1). Enter the password and delete the account.
+
+2. Once logged into the new number’s account, navigate to https://telegram.org/deactivate and enter your new phone number there, in international format. You will now receive a password through Telegram (keep an eye on the app you logged on to in step 1). Enter the password and delete the account.
+
 3. Now, open your main account on a mobile device, go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number
 
 Done!
