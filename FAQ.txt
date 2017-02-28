@@ -15,9 +15,8 @@ Should you have any questions or suggestions, please write to your local groups 
 {QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
-theme
-themed
 themes
+themed
 themesd
 themedesktop
 themesdesktop
@@ -31,7 +30,25 @@ To set a theme, click on its file. A preview will open and if you like it you ca
 If you want to go back to the default theme, tap the main menu icon near the search field > Settings > scroll down to "Chat background" > "Use default color theme".
 
 Here’s a detailed guide on themes if you’d like one:
-http://telegra.ph/Telegram-Themes-01-11
+http://telegra.ph/Telegram-Themes-FAQ#Desktop
+
+
+{QUESTION}
+How do I use themes? (Android)
+{KEYS}
+themea
+themesa
+themeandroid
+themesandroid
+{VALUE}
+​​Since Version v3.17 Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
+
+To switch to a different theme, to go back to the default one or to create a new one, go to Settings > Theme. 
+
+If you want to set a custom theme from a file, click on it. A preview will open and if you like it you can click "Apply". Try it out with some themes from here: @AndroidThemes. 
+
+Here’s a detailed guide on themes if you’d like one:
+http://telegra.ph/Telegram-Themes-FAQ#Android
 
 {QUESTION}
 Can't take screenshots anywhere (Android)
@@ -1945,11 +1962,14 @@ deactivateaccount
 {VALUE}
 You can deactivate your Telegram account here:
 https://telegram.org/deactivate
-We recommend using a non-mobile browser for this process.
 
 Please note:
+- We recommend using a non-mobile browser for this process.
 - A confirmation code will be sent to you via Telegram (not in an SMS).
 - If you delete your account now, it may not be possible to sign up again immediately.
+
+And here’s our detailed guide on the process:
+http://telegra.ph/delete-telegram-account-FAQ
 
 By the way, may we ask why you are leaving? Missing a feature? Any other troubles?
 
