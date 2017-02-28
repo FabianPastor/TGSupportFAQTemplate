@@ -13,6 +13,43 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
+How do I use themes? (Desktop)
+{KEYS}
+themed
+themesd
+themedesktop
+themesdestop
+{VALUE}
+Desde la versión 1.0, Telegram Desktop tiene soporte para temas personalizados, así que podrás elegir uno alternativo para tu aplicación.
+
+Prueba algunos temas desde aquí: @Themes.
+
+Para establecer un tema, haz clic sobre el archivo. Se abrirá una vista previa y si te gusta, puedes elegir “Aplicar este tema”. Una vez que se haya aplicado, haz clic en “Mantener cambios” si quieres seguir usando el nuevo tema.
+
+Si quieres volver al tema que viene por defecto, haz clic sobre el icono de menú que está junto al campo de búsqueda > Ajustes > deslízate hasta “Fondo de chat” > “Usar el tema por defecto”.
+
+Aquí hay una guía detallada sobre los temas, si quieres una:
+http://telegra.ph/Temas-de-Telegram-FAQ#Desktop
+
+
+{QUESTION}
+How do I use themes? (Android)
+{KEYS}
+themea
+themesa
+themeandroid
+themesandroid
+{VALUE}
+Desde la versión 3.17, Telegram para Android tiene soporte para temas personalizados, así que puedes establecer un diseño alternativo para tu aplicación.
+
+Para cambiar a un tema diferente, volver al tema por defecto o crear uno nuevo, ve a Ajustes > Tema. 
+
+Si quieres aplicar un tema personalizado desde un archivo, haz clic en él. Se abrirá una vista previa y, si te gusta, podrás seleccionar “Aplicar”. Prueba algunos temas desde aquí: @AndroidThemes. 
+
+Aquí hay una guía detallada sobre los temas, si quieres una:
+http://telegra.ph/Temas-de-Telegram-FAQ#Android
+
+{QUESTION}
 Can't take screenshots anywhere (Android)
 {COMMENT}
 For screenshots in secret chats, see ‘screensecreta’.
@@ -36,11 +73,11 @@ I’ve heard Telegram was cracked by the FSB, is it true?
 fsb
 guardian
 {VALUE}
-Estos rumores provienen de un “reporte” probablemente falso. Mira: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
+Estos rumores provienen de un “informe” de dudosa credibilidad. Mira: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
 
-Si no, probablemente se refiere a la historia de la interceptación de SMS de dos opositores rusos que no estaban usando la verificación en dos pasos: http://fortune.com/2016/05/06/telegram-activists-hack/. Dime si quieres aprender más sobre la verificación en dos pasos. 
+Si no, probablemente se refiere a la historia de la interceptación de SMS de dos opositores rusos que no estaban usando la verificación en dos pasos: http://fortune.com/2016/05/06/telegram-activists-hack/. Avísame si quieres más información sobre la verificación en dos pasos. 
 
-En cuanto al reporte, ten en cuenta que periodistas de The Guardian, The Financial Times y otros reputados medios de comunicación, lo han tenido desde junio del 2016 y hasta el día de hoy no han podido confirmar ningún hecho contenido en él.
+En cuanto al reporte, ten en cuenta que periodistas de The Guardian, The Financial Times y de otros reputados medios de comunicación lo han tenido desde junio del 2016 y hasta el día de hoy no han podido confirmar ningún hecho contenido en él.
 
 {QUESTION}
 Why doesn’t Telegram prevent cheating in games built on our platform?
@@ -843,7 +880,7 @@ Android: Ajustes de Telegram > Stickers > “...”
 
 WP: Ajustes de Telegram > Stickers > Mantén pulsado > Eliminar
 
-Desktop: Panel de stickers > Icono del engranaje > Eliminar
+TDesktop: Panel de stickers > Icono del engranaje > Eliminar
 
 {QUESTION}
 What are channels?
@@ -1001,7 +1038,7 @@ iOS, WP: toca y mantén en un mensaje, luego toca 'editar'.
 
 Android: toca un mensaje, luego toca 'editar'. 
 
-Escritorio: clic derecho en el mensaje y selecciona “Editar”. También puedes pulsar la tecla “Flecha arriba” para editar tu último mensaje.
+Desktop: clic derecho en el mensaje y selecciona “Editar”. También puedes pulsar la tecla “Flecha arriba” para editar tu último mensaje.
 
 {QUESTION}
 How do I delete messages from supergroups?
@@ -1150,9 +1187,9 @@ why1device
 devicespecific
 whydevicespecific
 {VALUE}
-Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por su diseño. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado end-to-end, así que no pueden ser sincronizados de la misma forma, simple y conveniente, de los chats en la nube. Puede que incorporemos soporte para los chats secretos en múltiples dispositivos en el futuro.
+Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado end-to-end, así que no pueden ser sincronizados de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos soporte para los chats secretos en múltiples dispositivos en el futuro.
 
-Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que ellos también están cifrados y están protegidos por la infraestructura distribuida de Telegram. Dime si quieres saber más sobre la seguridad en Telegram.
+Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Avísame si quieres más infomación sobre la seguridad en Telegram.
 
 {QUESTION}
 Why are there no Secret Chats on desktop apps?
@@ -1162,9 +1199,9 @@ secretchatsd
 schatsdesktop
 secretchatsdesktop
 {VALUE}
-Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no soportan por ahora. Puede que incorporemos esto en el futuro. Ahora, tanto la versión de escritorio como la versión web, cargan mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagues tu PC.
+Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no soportan por ahora. Puede que lo incorporemos en el futuro. Ahora mismo, tanto la versión de escritorio como la versión web cargan mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagaras tu PC.
 
-Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en el dispositivo que siempre llevas contigo. Si te preocupa la seguridad de tus chats en el PC, por favor, ten en cuenta que ellos son también cifrados y están protegidos por la infraestructura distribuida de Telegram. Dime si quieres saber más sobre la seguridad en Telegram.
+Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en un dispositivo que siempre lleves contigo. Si te preocupa la seguridad de tus chats en el PC, por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Avísame si quieres más información sobre la seguridad en Telegram.
 
 {QUESTION}
 Tell me more about security on Telegram
@@ -1174,11 +1211,11 @@ securitymore
 securitylearn
 securitylearnmore
 {VALUE}
-Todos los datos de Telegram son cifrados y no pueden ser descifrados por tu ISP, administrador de red o hackers. Los chats en la nube son almacenados cifrados en la nube de Telegram, y las llaves necesarias para descifrar estos datos se mantienen en otros centros de datos en diferentes jurisdicciones. De este modo, intrusos locales o ingenieros no pueden acceder a estos datos, y son necesarias varias solicitudes de diferentes jurisdicciones para forzarnos a entregar algo. Puedes conocer más sobre ello aquí: https://telegram.org/faq/es#p-procesan-solicitudes-de-datos
+Todos los datos de Telegram están cifrados y no pueden ser descifrados por tu proveedor de internet, administrador de red o hackers. Los chats en la nube se almacenan cifrados en la nube de Telegram, y las claves necesarias para descifrar estos datos se mantienen en otros centros de datos en diferentes jurisdicciones. De este modo, ni intrusos locales ni los ingenieros pueden acceder a estos datos, y se necesitan varias órdenes judiciales de diferentes jurisdicciones para forzarnos a entregar algo. Puedes conocer más sobre ello aquí: https://telegram.org/faq/es#p-procesan-solicitudes-de-datos
 
-Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado end-to-end, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera necesitas confiar en Telegram cuando usas chats secretos. Su seguridad está garantizada desde la aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram. 
+Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado extremo a extremo, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera es necesario que confies en Telegram cuando usas chats secretos: su seguridad está garantizada en la propia aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram. 
 
-Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo una contraseña segura para bloquear tu aplicación. De ese modo, no será posible acceder a tus chats si te roban el dispositivo o interceptando tu código SMS. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Dime si quieres saber más detalles.
+Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo una contraseña segura para bloquear tu aplicación. De ese modo, no será posible acceder a tus chats si te roban el dispositivo o interceptando tu código SMS. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Avísame si quieres saber más detalles.
 
 {QUESTION}
 How can I send self-destructing messages? (iOS)
@@ -1235,13 +1272,13 @@ Una vez establecido un alias, también podrás usar un enlace personal de Telegr
 t.me/YourUsername
 Abrirá un chat contigo en Telegram, perfecto para compartirlo con amigos o ponerlo en tu sitio web o redes sociales.
 
-Android: Para establecer un alias, desliza la lista de chats a la derecha para abrir el menú, luego Ajustes > Alias.
+Android: Para establecer un alias, desliza la lista de chats hacia la derecha para abrir el menú, luego Ajustes > Alias.
 
 iOS: Para establecer un alias, ve a Ajustes > Alias.
 
 WP: Para establecer un alias, toca sobre “...” en la lista de chats para ir a Ajustes, luego Establecer alias.
 
-TDesktop: Para establecer un alias, ve a Ajustes, luego Alias.
+Desktop: Para establecer un alias, haz clic en el icono de menú que está junto al campo de búsqueda, y luego ve a Ajustes > Elige un Alias.
 
 Web: Para establecer un alias, ve a Ajustes, luego Alias
 
@@ -1634,7 +1671,7 @@ makegroupdesktop
 formgroupdesktop
 creategroupdesktop
 {VALUE}
-Para crear un grupo en la aplicación de escritorio, haz clic en el icono del lápiz, que  está junto al campo de búsqueda, y elige “Nuevo grupo”.
+Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
 Cada grupo puede tener hasta 5000 miembros en Telegram.
 
@@ -1696,7 +1733,7 @@ makechanneldesktop
 formchanneldesktop
 createchanneldesktop
 {VALUE}
-Para crear un canal en la aplicación de escritorio, toca el icono del lápiz al lado del campo de búsqueda, y luego “Nuevo canal”.
+Para crear un canal en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo canal”.
 
 Los canales pueden tener un número de miembros ilimitado.
 
@@ -1735,7 +1772,7 @@ iOS, WP: Mantén presionado un mensaje, luego selecciona la opción “Anclar”
 
 Android: Toca el mensaje, luego selecciona la opción “Anclar”. Para desanclar el mensaje, presiona el icono “x” de su derecha.
 
-Escritorio: Haz clic derecho en el mensaje, luego selecciona la opción “Anclar”. Para desanclar el mensaje, presiona el icono “x” de su derecha.
+Desktop: Haz clic derecho en el mensaje, luego selecciona la opción “Anclar”. Para desanclar el mensaje, presiona el icono “x” de su derecha.
 
 {QUESTION}
 How do I write a new message?
@@ -1924,11 +1961,14 @@ deactivateaccount
 {VALUE}
 Puedes desactivar tu cuenta de Telegram aquí:
 https://telegram.org/deactivate
-Para este proceso recomendamos usar navegadores web que no sean de dispositivos móviles.
 
 Ten en cuenta que:
+- Recomendamos usar navegadores que no sean de dispositivos móviles.
 - Se te enviará un código de confirmación vía Telegram (no en un SMS). 
 - Si eliminas tu cuenta ahora, es posible que no puedas registrarte de nuevo inmediatamente.
+
+Aquí tienes una guía detallada del proceso:
+http://telegra.ph/Eliminar-la-cuenta-FAQ
 
 Por cierto, ¿podemos preguntarte por qué nos dejas? ¿Alguna característica que eches de menos? ¿O algún otro problema?
 
@@ -1986,14 +2026,16 @@ I try to change my phone number in Telegram but it says my new number is already
 occupied
 occupiednumber
 {VALUE}
-Si quieres cambiar tu número de teléfono en Telegram, primero debes asegurarte que ese nuevo número no tiene una cuenta de Telegram asociada a él. Si existe una, tendrás que eliminarla antes de comenzar la transferencia.
+Si quieres cambiar tu número de teléfono en Telegram, primero debes asegurarte de que ese nuevo número no tiene una cuenta de Telegram asociada a él. Si existe una, tendrás que eliminarla antes de comenzar la transferencia.
 
 Importante: Si eliminas la cuenta que está asociada al número nuevo, no podrás recuperarla. Así que, por favor, asegúrate de que no la necesitas antes de eliminarla.
 
 Si quieres continuar, abajo están los pasos para realizar el proceso. También te recomendamos no usar un navegador web móvil para realizarlos.
 
 1. Utiliza cualquiera de nuestras aplicaciones para iniciar la sesión en la cuenta que está asociada a tu número nuevo. Por ejemplo, ve a https://web.telegram.org, introduce tu número de teléfono nuevo e inicia la sesión usando el código que recibirás vía SMS.
+
 2. Una vez que estés dentro de la cuenta del número nuevo, ve a https://telegram.org/deactivate e introduce el número nuevo ahí, con su formato internacional. Recibirás una contraseña a través de Telegram (pon atención a la aplicación en la que iniciaste sesión en el paso 1). Pon la contraseña y elimina la cuenta.
+
 3. Ahora, abre tu cuenta principal en un dispositivo móvil, ve a Ajustes de Telegram > Número de teléfono > Cambiar número, y escribe tu nuevo número. Si es necesario, introduce el código que recibirás vía SMS al número nuevo.
 
 ¡Hecho!
@@ -2180,7 +2222,7 @@ Si las notificaciones no funcionan por alguna razón, por favor, revisa lo sigui
 
 - Comprueba si el contacto o grupo está silenciado.
 
-- Intenta este truco: cierra Telegram (ve a la pantalla principal, toca dos veces el botón principal, desliza hacia arriba Telegram), luego ve a los Ajustes de iOS, activa la alerta de Telegram a NADA. Vuelve a abrir Telegram, ve a los ajustes del teléfono y activa las alertas nuevamente en tiras.
+- Intenta este truco: cierra Telegram (ve a la pantalla principal, presiona dos veces el botón inicio, desliza hacia arriba Telegram), luego ve a los Ajustes de iOS, activa la alerta de Telegram a NADA. Vuelve a abrir Telegram, ve a los ajustes del teléfono y activa las alertas nuevamente en tiras.
 
 {QUESTION}
 Notifications don't work (Windows Phone)
@@ -2296,7 +2338,7 @@ Lamentamos que tengas problemas de conexión. ¿Podrías, por favor, ayudarnos a
 2. ¿Cuándo comenzó a ocurrir? ¿Sigue pasando?
 3. ¿Esto pasa siempre o algunas veces?
 4. ¿Ocurre con todas las aplicaciones de Telegram o sólo en uno de tus dispositivos?
-4a. (Prueba web.telegram.org. ¿Funciona?)
+4a. (Prueba web.telegram.org, ¿funciona?)
 5. ¿El problema ocurre en Wi-Fi, datos móviles o en ambos casos?
 6. Sería muy útil si nos pudieras entregar tu dirección IP, la de la conexión con el problema.
 
@@ -2436,6 +2478,19 @@ Cuando inicias sesión en Telegram, te enviamos un mensaje con un código para i
 Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Privacidad y Seguridad > Sesiones Activas. Si ves algo sospechoso, puedes finalizar la sesión allí.
 
 También puedes establecer una contraseña para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activado, necesitarás esa contraseña y el código que te enviemos para iniciar sesión en Telegram.
+
+{QUESTION}
+I’ve read there’s a paper revealing several major exploits in Telegram!
+{COMMENT}
+https://medium.freecodecamp.com/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0
+{KEYS}
+medium
+jakobsen
+{VALUE}
+Ese artículo es engañoso. El autor califica el protocolo de Telegram como inseguro basándose en un trozo de una investigación que precisamente no demuestra eso.
+
+Aquí tienes una explicación detallada de cómo el artículo de J. Jakobsen crea una impresión falsa de la seguridad de Telegram:
+http://telegra.ph/MTProto-y-el-artículo-de-Jakobsen-01-18
 
 {COMMENT}
 =======================
