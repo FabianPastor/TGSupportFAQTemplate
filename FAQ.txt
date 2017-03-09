@@ -13,6 +13,19 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
+What does the "Year Zero" and "Vault 7" stuff from Wikileaks mean?
+{KEYS}
+vault7
+year0
+yearzero
+wikileaks
+{VALUE}
+According to Wikileaks, the CIA has ways of hacking smartphones to collect message traffic *before it is encrypted*. This is not an app issue. It is relevant on the level of devices and operating systems. For this reason, naming any particular app in this context is misleading.
+
+The good news is that for the moment "Year Zero" is likely irrelevant for the majority of Telegram users. To learn more about the story and what you can do, check out this detailed post:
+http://telegra.ph/Wikileaks-Vault7-NEWS
+
+{QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
 themes
@@ -285,7 +298,7 @@ illegal
 {VALUE}
 I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases involving illegal content.
 
-Please use the in-app option to send a report to the Telegram abuse department or contact them at abuse@telegram.org with all the details and links. Bots and Channels can be reported via the "Report" button at the bottom of their profile. 
+Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "Report" button in the  "..." menu on Android, or at the bottom of their profile on other platforms.
 
 Thank you!
 
