@@ -26,6 +26,16 @@ The good news is that for the moment "Year Zero" is likely irrelevant for the ma
 http://telegra.ph/Wikileaks-Vault7-NEWS
 
 {QUESTION}
+I’ve read someone could hack my account in WhatsApp and Telegram if I opened a photo, is it true?
+{COMMENT}
+Please take care to adapt the template in such a way that it fits the user‘s question.
+{KEYS}
+checkpoint
+{VALUE}
+The WhatsApp issue discovered by Check Point is very serious, but Telegram did not have it. See this for details:
+http://telegra.ph/Checkpoint-Confusion-NEWS
+
+{QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
 themes
@@ -178,6 +188,18 @@ updatewindowsphone
 {VALUE}
 Please update your app, we've noticed you're using an outdated version. You can find the latest Telegram for Windows Phone here:
 https://telegram.org/dl/wp
+
+{QUESTION}
+User using outdated app (macOS)
+{KEYS}
+updosx
+updmac
+updmacos
+updateosx
+updatemac
+updatemacos
+{VALUE}
+Please update your app, we've noticed you're using an outdated version. You can tap on "Telegram" in the menu bar > Check for updates.
 
 {QUESTION}
 User using unofficial app (Android)
@@ -740,9 +762,7 @@ calloption
 callingoption
 callingability
 {VALUE}
-We specialize in sending messages, large media and files to unlimited audiences — and we do this better than anyone out there. For the moment we see many things that could still be revolutionized in messaging. And messaging is obviously trending at the moment, so our focus remains in that area, at least for now. Stay tuned for our next updates.
-
-If you would like to speak by voice, here’s another idea: you can send a recorded video or a voice message to your Telegram friends.
+Telegram may add support for calls in the future, so stay tuned for our next updates. For now, if you would like to speak by voice, here's another idea: you can send a recorded video or voice message to your Telegram friends.
 
 {QUESTION}
 Can I archive or back up my conversations?
@@ -929,6 +949,7 @@ Sorry, we don't have an official list of Telegram channels. The best way of find
 How are supergroups different from groups?
 {KEYS}
 sg
+supergroup
 supergroups
 {VALUE}
 Telegram groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
@@ -2079,11 +2100,11 @@ Generally, logging out is not necessary when using Telegram, since you can have 
 
 Android: Swipe left in Chats list to open the menu, then Settings — tap '...' in the top right corner — 'Logout'.
 
-iOS: Settings — Edit — scroll all the way down, then 'Logout'.
+iOS, macOS: Settings — Edit — scroll all the way down, then 'Logout'.
 
 WP: Tap '...' in the Chat view — Settings — scroll all the way down, then 'Logout'.
 
-macOS: File — Log Out.
+Legacy OS X: File — Log Out.
 
 Remember that if you log out, you will lose all your Secret Chats.
 
