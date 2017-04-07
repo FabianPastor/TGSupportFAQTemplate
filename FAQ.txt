@@ -55,7 +55,6 @@ If you want to go back to the default theme, tap the main menu icon near the sea
 Here’s a detailed guide on themes if you’d like one:
 http://telegra.ph/Telegram-Themes-FAQ#Desktop
 
-
 {QUESTION}
 How do I use themes? (Android)
 {KEYS}
@@ -655,19 +654,6 @@ You won‘t see 'Last Seen' timestamps for people with whom you don’t share yo
 As you can see, these stages are not clearly separated, so you cannot calculate much from this data.
 
 {QUESTION}
-Can I hide my last seen time? (Desktop)
-{KEYS}
-invdesk
-invdesktop
-lastseendesk
-invisibledesk
-hidelastseendesk
-invisibledesktop
-hidelastseendesktop
-{VALUE}
-Our desktop version doesn‘t currently have the option to set who can see your last seen time, sorry. You can change it on your phone in Privacy and Security settings.
-
-{QUESTION}
 What do the green checks mean?
 {KEYS}
 2
@@ -751,7 +737,7 @@ videocalls
 We are not working on this feature at the moment. For now, you can send a recorded video or a voice message to your Telegram friends.
 
 {QUESTION}
-Will you have calls?
+Do you have calls?
 {KEYS}
 call
 voip
@@ -762,7 +748,13 @@ calloption
 callingoption
 callingability
 {VALUE}
-Telegram may add support for calls in the future, so stay tuned for our next updates. For now, if you would like to speak by voice, here's another idea: you can send a recorded video or voice message to your Telegram friends.
+Telegram has recently introduced Voice Calls for select regions in the latest update, and they will gradually roll out for all users within the coming weeks: https://telegram.org/blog/calls
+
+If this feature is already available for you, you will be able to call people:
+
+iOS: Open a chat with a friend > tap their name at the top > Call. If you'd like, you can add a "Calls" section to your tab bar from Telegram Settings > Recent Calls.
+
+Android: Open a chat with a friend > tap on "…"  > Call. A dedicated "Calls" section can be found in your main menu.
 
 {QUESTION}
 Can I archive or back up my conversations?
@@ -1895,7 +1887,7 @@ deletecontactwp
 delcontactwindowsphone
 deletecontactwindowsphone
 {VALUE}
-To delete a contact, open a chat with the person, tap on their profile pic, and then on the pen icon — 'Delete'.
+To delete a contact, open a chat with the person, tap on their profile pic, then on '...' in the bottom right corner and tap 'Delete'.
 
 If you want to delete the contact completely, make sure you also do that in your phone contacts, as Telegram stays in sync and will add it again otherwise.
 
@@ -2098,13 +2090,13 @@ logout
 {VALUE}
 Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. Did you know that when you log in again, you can get the code in any other Telegram app instead of an SMS? — provided that app was recently active. You can do this to save time when logging in.
 
-Android: Swipe left in Chats list to open the menu, then Settings — tap '...' in the top right corner — 'Logout'.
+Android: Swipe right in Chats list to open the menu, then Settings > tap '...' in the top right corner > 'Logout'.
 
-iOS, macOS: Settings — Edit — scroll all the way down, then 'Logout'.
+iOS, macOS: Settings > Edit > scroll all the way down, then 'Logout'.
 
-WP: Tap '...' in the Chat view — Settings — scroll all the way down, then 'Logout'.
+WP: Tap '...' in the Chat view > Settings > scroll all the way down, then 'Logout'.
 
-Legacy OS X: File — Log Out.
+Legacy OS X: File > Log Out.
 
 Remember that if you log out, you will lose all your Secret Chats.
 
