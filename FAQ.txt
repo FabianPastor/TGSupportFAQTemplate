@@ -213,15 +213,14 @@ unofficialandroid
 unofficialappandroid
 officialappandroid
 {VALUE}
-We've noticed that you are using an unofficial Telegram app. Since Telegram apps are open-source, there are a lot of Telegram-based apps under different names and with different features, made by developers from all over the world.
+This is the support chat for official Telegram apps.
 
-You're totally free to choose the one you prefer. However, in order for us to help you, you'll need to download the official app from the Google Play Store:
+WARNING: You are not using one of Telegram's approved official clients. Since Telegram is open-source, there are a lot of Telegram-based apps under different names and with different features, made by developers from all over the world — you are currently using one of them.
+
+You're totally free to choose any app you prefer — at your own risk. However, we can only guarantee your Telegram experience if you use our official clients. You can download the official Telegram for Android here:
 https://telegram.org/dl/android
 
-It's free, shows no ads and has the latest features first.
-All your chats - apart from Secret Chats - will be safely transferred over, as they're stored in the Telegram Cloud.
-
-Tell me if you want to learn more about it.
+Like all our official apps, it is free, shows no ads and gets the latest features first. If you switch now, all your chats - apart from Secret Chats - will be safely transferred over, as they're stored in the Telegram Cloud. Tell me if you want to learn more about Telegram for Android.
 
 {QUESTION}
 Do you have a Symbian app?
@@ -1159,15 +1158,15 @@ secretchats
 {VALUE}
 Secret chats:
 
-- Perfect as a temporary Chat
 - Use end-to-end encryption
-- Have an optional self-destruct timer
-- No cloud synchronization
-- Can only be used on one device
+- Feature an optional self-destruct timer
+- Have no cloud synchronization
 - Send a screenshot alert
 - Are unusable after logging out
 - Do not allow messages to be forwarded outside of them
-- No data backup possible
+- Prevent data backup
+- Can only be used on one device
+- Are perfect as a temporary chat
 
 To sum it up, Secret chats are super convenient for a short chat; for permanent conversations cloud chats are more convenient. All chats on Telegram are of course always encrypted. More about secret chats here: https://telegram.org/faq#secret-chats
 
