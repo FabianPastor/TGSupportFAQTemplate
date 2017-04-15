@@ -356,17 +356,18 @@ telegramis
 telegramcan
 whatistelegram
 {VALUE}
-With Telegram you can send messages, photos, videos and files to your friends anywhere - for free. You can use it simultaneously on all your devices (mobile, tablet, computer):
+With Telegram you can exchange calls, messages, photos, videos and files with your friends anywhere - for free. You can use it simultaneously on all your devices (mobile, tablet, PC):
 https://telegram.org/apps
 
 Telegram is focused on speed and security. All official Telegram apps are ad-free and open-source. Ask me if you would like to know about security in Telegram.
 
-And here's a brief overview of what else you can do on Telegram:
+And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
 - Create groups with up to 5000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
-- Subscribe to news channels on whatever topic you like.
+- Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
+- Choose an alternative design for your app using custom themes.
 
 You can read about our latest changes here:
 https://telegram.org/blog
@@ -733,7 +734,7 @@ tel
 videocall
 videocalls
 {VALUE}
-We are not working on this feature at the moment. For now, you can send a recorded video or a voice message to your Telegram friends.
+We are not working on this feature at the moment. For now, you can send a recorded video to your Telegram friends or use our voice calls.
 
 {QUESTION}
 Do you have calls?
@@ -747,13 +748,14 @@ calloption
 callingoption
 callingability
 {VALUE}
-Telegram has recently introduced Voice Calls for select regions in the latest update, and they will gradually roll out for all users within the coming weeks: https://telegram.org/blog/calls
-
-If this feature is already available for you, you will be able to call people:
+Telegram Calls are now supported in our iOS and Android apps:
+https://telegram.org/blog/calls
 
 iOS: Open a chat with a friend > tap their name at the top > Call. If you'd like, you can add a "Calls" section to your tab bar from Telegram Settings > Recent Calls.
 
 Android: Open a chat with a friend > tap on "…"  > Call. A dedicated "Calls" section can be found in your main menu.
+
+You can control who can and can't call you in your Privacy and Security settings. You can also track your Network Usage in your Data and Storage settings.
 
 {QUESTION}
 Can I archive or back up my conversations?
