@@ -50,7 +50,7 @@ Try it out with some themes from here: @Themes.
 
 To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
 
-If you want to go back to the default theme, tap the main menu icon near the search field > Settings > scroll down to "Chat background" > "Use default color theme".
+If you want to go back to the default theme, click on the main menu icon near the search field > Settings > scroll down to "Chat background" > "Use default color theme".
 
 Here’s a detailed guide on themes if you’d like one:
 http://telegra.ph/Telegram-Themes-FAQ#Desktop
@@ -84,7 +84,7 @@ noscreenshota
 screenshotandroid
 noscreenshotandroid
 {VALUE}
-With the recent updates to Telegram, screenshots are disabled by default, if you have the passcode lock enabled.
+If you have the passcode lock enabled, screenshots are disabled by default.
 
 You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable Allow Screen Capture and restart the app.
 
@@ -270,6 +270,7 @@ Please note that this chat is used for support. Our volunteers read and view eve
 iOS: Contacts > Tap on your phone number at the top.
 Android: Main menu > Tap on your phone number at the top.
 Windows Phone: Chats > New chat > tap on "You".
+Desktop: Click on the menu button at the top-left of your Chats List > then click the cloud icon or your profile picture.
 
 You can access everything you send to this storage chat on any number of devices you connect, including your PC.
 
@@ -318,7 +319,7 @@ illegal
 {VALUE}
 I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases involving illegal content.
 
-Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "Report" button in the  "..." menu on Android, or at the bottom of their profile on other platforms.
+Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "Report" button in the "..." menu on Android, or at the bottom of their profile on other platforms.
 
 Thank you!
 
@@ -363,7 +364,7 @@ Telegram is focused on speed and security. All official Telegram apps are ad-fre
 
 And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
-- Create groups with up to 5000 members and communicate easily with replies, mentions and hashtags.
+- Create groups with up to 10000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
 - Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
@@ -391,9 +392,9 @@ Telegram is faster and way more secure - thanks to our multi-data center infrast
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
 - Share an unlimited amount of photos, large videos and files of any type.
-- Chat in giant groups of up to 5000 members.
+- Chat in giant groups of up to 10000 members.
 - Edit your messages after sending them.
-- Use Secret Chats to send photos, videos and audio messages with an optional self-destruct timer.
+- Use Secret Chats to send messages, photos, videos and even files with an optional self-destruct timer.
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
 
 Here's a list of Telegram apps for all platforms:
@@ -446,6 +447,15 @@ reallyreally
 Telegram is free — and will always stay free.
 
 But notice that Telegram requires an internet connection to work. Your mobile provider may charge you for sending and receiving data on your mobile phone.
+
+{QUESTION}
+Can I make a donation to Telegram?
+{KEYS}
+donate
+donation
+{VALUE}
+Thank you very much for the offer. We're currently doing well thanks to a generous donation from our founder, Pavel Durov. The team will make an announcement if Telegram starts collecting donations, you can join our official channel for the latest updates:
+https://t.me/telegram
 
 {QUESTION}
 Where can I find the source code?
@@ -734,7 +744,7 @@ tel
 videocall
 videocalls
 {VALUE}
-We are not working on this feature at the moment. For now, you can send a recorded video to your Telegram friends or use our voice calls.
+We are not working on this feature at the moment. For now, you can use our voice calls or send video messages to your Telegram friends. To send a video message, tap the mic icon to switch to camera mode, then tap and hold the camera icon to record a message.
 
 {QUESTION}
 Do you have calls?
@@ -748,14 +758,38 @@ calloption
 callingoption
 callingability
 {VALUE}
-Telegram Calls are now supported in our iOS and Android apps:
-https://telegram.org/blog/calls
-
 iOS: Open a chat with a friend > tap their name at the top > Call. If you'd like, you can add a "Calls" section to your tab bar from Telegram Settings > Recent Calls.
 
-Android: Open a chat with a friend > tap on "…"  > Call. A dedicated "Calls" section can be found in your main menu.
+Android, WP: Open a chat with a friend > tap on "…" > Call. A dedicated "Calls" section can be found in your main menu.
 
-You can control who can and can't call you in your Privacy and Security settings. You can also track your Network Usage in your Data and Storage settings.
+Desktop: Open a chat with a friend > tap on the call icon at the top right.
+
+macOS: Open a chat with a friend > tap on the call icon at the top, near their name.
+
+Here’s a detailed guide on calls if you’d like one:
+http://telegra.ph/Calls-FAQ
+
+{QUESTION}
+How do I send audio and video messages?
+{KEYS}
+audio
+videochat
+audiomessage
+videomessage
+audiomessages
+videomessages
+{VALUE}
+To switch between the audio and video modes, tap the icon at the bottom-right of the text input field in any chat. To record a message, tap and hold on the icon. When you’re done, just release the button to send your message.
+
+{QUESTION}
+Can I set up a status message?
+{KEYS}
+bio
+status
+setupstatus
+statusmessage
+{VALUE}
+You can add a few words about yourself to your profile in Telegram Settings > Bio. 
 
 {QUESTION}
 Can I archive or back up my conversations?
@@ -947,7 +981,7 @@ supergroups
 {VALUE}
 Telegram groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
 
-Supergroups can have up to 5000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
+Supergroups can have up to 10000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
 Here’s some extra information on how supergroups work:
 - The entire message history is visible to new members that join the chat.
@@ -1161,7 +1195,7 @@ secretchats
 Secret chats:
 
 - Use end-to-end encryption
-- Feature an optional self-destruct timer
+- Feature an optional self-destruct timer for all kinds of messages
 - Have no cloud synchronization
 - Send a screenshot alert
 - Are unusable after logging out
@@ -1222,6 +1256,7 @@ Meanwhile, if you want your conversations to be synced across many devices, cons
 {QUESTION}
 Why are there no Secret Chats on desktop apps?
 {KEYS}
+scd
 schatsd
 secretchatsd
 schatsdesktop
@@ -1253,9 +1288,9 @@ timerios
 selfdestructi
 selfdestructios
 {VALUE}
-The self-destruct timer is available in Secret Chats. Countdown starts as soon as the person on the other side reads the message. As soon as the time runs out, messages are removed from both devices. Timer only applies to messages that were sent after the timer was set.
+The self-destruct timer is available for any photos or videos in private chats. To set the timer, tap the stopwatch icon at the bottom of the full-screen preview. The countdown starts the moment your recipient opens the photo or video you sent — as soon as the time runs out, this photo or video is removed from both devices.
 
-To activate the timer on iOS, tap the little stopwatch in the text input field, set the desired time and tap 'Done'.
+In Secret Chats, you can set the timer for all kinds of messages. Tap the little stopwatch in the text input field, set the desired time and tap 'Done'. This timer will apply to every message sent in this chat, after it was set. Countdown starts as soon as the person on the other side reads the message — as soon as the time runs out, messages are removed from both devices.
 
 {QUESTION}
 How can I send self-destructing messages? (Android)
@@ -1265,9 +1300,9 @@ timerandroid
 selfdestructa
 selfdestructandroid
 {VALUE}
-The self-destruct timer is available in Secret Chats. Countdown starts as soon as the person on the other side reads the message. As soon as the time runs out, messages are removed from both devices. Timer only applies to messages that were sent after the timer was set.
+The self-destruct timer is available for any photos or videos in private chats. To set the timer, tap the stopwatch icon at the bottom of the full-screen preview. The countdown starts the moment your recipient opens the photo or video you sent — as soon as the time runs out, this photo or video is removed from both devices.
 
-To activate the timer on Android, tap the profile picture in the secret chat, set the desired time and tap 'Done'.
+In Secret Chats, you can set the timer for all kinds of messages. Tap the profile picture in the secret chat, set the desired time and tap 'Done'. This timer will apply to every message sent in this chat, after it was set. Countdown starts as soon as the person on the other side reads the message — as soon as the time runs out, messages are removed from both devices.
 
 {QUESTION}
 How can I send self-destructing messages? (Windows Phone)
@@ -1306,7 +1341,7 @@ iOS: To set up a username, go to Settings > Username.
 
 WP: To set up a username, tap '...' in the chat list to go to Settings, then 'Set Username'.
 
-Desktop: To set up a username, tap the menu icon near the search field, then 'Settings' > 'Choose Username'.
+Desktop: To set up a username, click on the menu icon near the search field, then 'Settings' > 'Choose Username'.
 
 Web: To set up a username, go to Settings, then 'Set username'.
 
@@ -1322,7 +1357,7 @@ searchuser
 findusername
 searchunsername
 {VALUE}
-You can search for other Telegram users by their usernames, if they have set one up. You need to type at least 5 characters to start the search. Read more about usernames here: https://telegram.org/faq#usernames-and-telegram-me
+You can search for other Telegram users by their usernames, if they have set one up. You need to type at least 5 characters to start the search. Read more about usernames here: https://telegram.org/faq#usernames-and-t-me
 
 Android: Tap the magnifying glass icon in the top right corner in the chat list, then type in the search box.
 
@@ -1529,7 +1564,7 @@ profilepicturewindowsphone
 changeprofilepicwindowsphone
 changeprofilepicturewindowsphone
 {VALUE}
-To change your profile picture, tap "..." on the Chats screen, then Settings — tap on the profile picture
+To change your profile picture, tap "..." on the Chats screen, then Settings — tap on the pencil icon — tap on the profile picture.
 
 {QUESTION}
 How do I delete my profile picture? (iOS)
@@ -1565,7 +1600,7 @@ deleteprofilepicturea
 deleteprofilepicandroid
 deleteprofilepictureandroid
 {VALUE}
-Swipe right in Chats list > Settings > tap on your profile picture >  tap "..." > Delete.
+Swipe right in Chats list > Settings > tap on your profile picture > tap "..." > Delete.
 
 {QUESTION}
 How do I delete my profile picture? (Windows Phone)
@@ -1596,7 +1631,7 @@ hideprofilepic
 profilepicturehide
 hideprofilepicture
 {VALUE}
-Telegram doesn't currently support hiding your profile picture from other users. If you don't want people to see it, it's best to remove it completely.
+Telegram doesn't currently support hiding your profile picture from other users. If you don't want people to see it, you can choose another profile picture or remove it completely.
 
 Alternatively, you could block users to hide your profile picture from them. Please note that blocked people are also unable to send you messages, start secret chats with you or add you to groups. Besides, you always appear to them as 'last seen a long time ago'.
 
@@ -1654,7 +1689,7 @@ creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
-Each group can have up to 5000 members in Telegram.
+Each group can have up to 10000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1669,7 +1704,7 @@ creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 5000 members in Telegram.
+Each group can have up to 10000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1685,7 +1720,7 @@ creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
 
-Each group can have up to 5000 members in Telegram.
+Each group can have up to 10000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1701,7 +1736,7 @@ creategroupdesktop
 {VALUE}
 To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
-Each group can have up to 5000 members in Telegram.
+Each group can have up to 10000 members in Telegram.
 
 {QUESTION}
 How do I create a Channel? (Android)
@@ -1965,13 +2000,31 @@ scale
 fontsize
 textsize
 {VALUE}
-ANDROID: TELEGRAM SETTINGS > MESSAGES TEXT SIZE
+You can change the text size for messages in Telegram if you'd like.
 
-iOS 7: iOS SETTINGS > GENERAL > TEXT SIZE
+Android: Telegram Settings > Message Text Size.
 
-iOS 8, 9 & 10: iOS SETTINGS > DISPLAY & BRIGHTNESS > TEXT SIZE
+iOS 7: iOS Settings > General > Text Size.
 
-WP: PHONE SETTINGS > EASE OF ACCESS > TEXT SIZE
+iOS 8+: iOS Settings > Display & Brightness > Text Size.
+
+Windows Phone: Phone Settings > Ease of Access > Text Size.
+
+Please note that this doesn’t change the size of text in the input field on iOS and Android at the moment.
+
+{QUESTION}
+How do I remove the Emoji panel? (Desktop)
+{KEYS}
+deskpanel
+deskside
+emojipanel
+stickerpanel
+sidepanel
+{VALUE}
+In recent versions of Telegram Desktop the Emoji panel becomes a separate space on the right-hand side when Telegram is running in a wide enough window.
+
+If you would like to, you can enable or disable the side panel by clicking once on the Smiley Face icon in the text input field.
+
 
 {COMMENT}
 ===================
@@ -2132,15 +2185,6 @@ Please try this:
 iOS: iOS Settings > General > Date & Time > Turn on "Set automatically"
 
 Android: Android Settings > System / Options > Date & Time > turn on "Automatic time zone"
-
-{QUESTION}
-Can I set up a status message?
-{KEYS}
-status
-setupstatus
-statusmessage
-{VALUE}
-It isn’t possible to set up a status message for now. Luckily, other ways of notifying people about important things exist on Telegram. For example, you can create a channel to share the news or create a group with your friends to keep each other up to date.
 
 {QUESTION}
 Notifications don't work (Android)
