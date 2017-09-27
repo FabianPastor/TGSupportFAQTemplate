@@ -84,7 +84,7 @@ noscreenshota
 screenshotandroid
 noscreenshotandroid
 {VALUE}
-Con las recientes actualizaciones de Telegram, las capturas de pantalla están desactivadas por defecto si activas el código de acceso.
+Las capturas de pantalla están desactivadas por defecto si activas el código de acceso.
 
 Puedes cambiar esta configuración yendo a: Ajustes > Privacidad y seguridad > Código de acceso. Luego, activa “Permitir captura de pantalla” y reinicia la aplicación.
 
@@ -364,7 +364,7 @@ Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones ofic
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
 - Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
-- Crea grupos de hasta 10000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Crea grupos de hasta 20 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos propios.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
 - Disfruta de bots de Telegram personalizados para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
@@ -392,7 +392,7 @@ Telegram es mucho más rápido y seguro, gracias a nuestra infraestructura de m�
 Por nombrar algunas características únicas:
 - Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
 - Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
-- Chatea en grupos gigantes, de hasta 10000 miembros.
+- Chatea en grupos gigantes, de hasta 20 000 miembros.
 - Edita tus mensajes después de enviarlos.
 - Usa chats secretos para enviar mensajes, fotos, vídeos e incluso archivos con la opción de autodestrucción.
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
@@ -744,7 +744,7 @@ tel
 videocall
 videocalls
 {VALUE}
-No estamos trabajando en esta característica, por el momento. Por ahora, puedes usar nuestras llamadas de voz o enviar videomensajes a tus amigos de Telegram. Para enviar un videomensaje, toca en el icono del micrófono para cambiar al modo cámara, luego toca y mantén el icono de la cámara para grabar un mensaje.
+No estamos trabajando en esta característica, por el momento. Por ahora, puedes usar nuestras llamadas de voz o enviar videomensajes a tus amigos de Telegram. Para enviar un videomensaje, toca sobre el icono del micrófono, para cambiar al modo de cámara, y luego toca y mantén sobre el icono de la cámara para grabar el mensaje.
 
 {QUESTION}
 Do you have calls?
@@ -981,7 +981,7 @@ supergroups
 {VALUE}
 Los grupos de Telegram son ideales para compartir cosas con amigos y familiares, o colaboraciones en equipos pequeños. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros o editar el nombre y la foto del grupo.
 
-Los supergrupos pueden tener hasta 10000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
+Los supergrupos pueden tener hasta 20 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
 - El historial de mensajes es visible para todos los miembros que se unen al chat.
@@ -1302,7 +1302,7 @@ selfdestructandroid
 {VALUE}
 El temporizador de autodestrucción está disponible para cualquier foto o vídeo en los chats privados. Para configurar el temporizador, toca sobre el icono del cronómetro que aparece abajo en la vista previa a pantalla completa del vídeo o foto. La cuenta regresiva comienza cuando el destinatario abre la foto o el video que enviaste. Cuando el tiempo se acabe, la foto o video se eliminará de ambos dispositivos.
 
-En los chats secretos puedes configurar un temporizador de autodestrucción para todo tipo de mensajes. Toca sobre la foto de perfil en el chat secreto, pon el tiempo que quieres y toca en “Hecho”. El temporizador se aplicará sobre todos los mensajes enviados en el chat tras haberlo configurado. La cuenta regresiva comienza cuando el destinatario lee el mensaje. Cuando el tiempo se acabe, los mensajes serán eliminados de ambos dispositivos. 
+En los chats secretos puedes configurar un temporizador de autodestrucción para todo tipo de mensajes. Toca sobre el cronómetro que aparece dentro del espacio de escritura, pon el tiempo que quieres y toca en “Hecho”. El temporizador se aplicará sobre todos los mensajes enviados en el chat tras haberlo configurado. La cuenta regresiva comienza cuando el destinatario lee el mensaje. Cuando el tiempo se acabe, los mensajes serán eliminados de ambos dispositivos. 
 
 {QUESTION}
 How can I send self-destructing messages? (Windows Phone)
@@ -1377,7 +1377,7 @@ Los alias de Telegram se entregan por orden de llegada, lo sentimos. ¿Y si usas
 
 Entendemos que algunos alias son parte de una identidad en línea para algunos de nosotros. Si tu alias deseado está ocupado, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo alias en al menos dos de estos servicios: Facebook, Twitter, Instagram.
 
-Si este es tu caso, te pedimos que publiques algo en sendos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrías decir algo como “Esto es para el soporte de Telegram. Por favor, denme mi alias”. Una vez que lo hayas hecho, por favor, envíanos los enlaces a esas publicaciones aquí (luego puedes quitar las publicaciones, pero déjanos verlas primero, por favor).
+Si este es tu caso, te pedimos que publiques algo en sendos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrías decir algo como “Esto es para el soporte de Telegram. Por favor, dadme mi alias”. Una vez que lo hayas hecho, por favor, envíanos los enlaces a esas publicaciones aquí (luego puedes quitar las publicaciones, pero por favor, consérvalas mientras se procesa tu solicitud).
 
 {QUESTION}
 How do I verify my account?
@@ -1689,7 +1689,7 @@ creategroupandroid
 {VALUE}
 Para crear un grupo en Android, toca sobre el icono del lápiz en la lista de chats, luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 10000 miembros en Telegram.
+Cada grupo puede tener hasta 20 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1704,7 +1704,7 @@ creategroupios
 {VALUE}
 Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botón de la parte superior derecha de la pantalla de Chats), y luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 10000 miembros en Telegram.
+Cada grupo puede tener hasta 20 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1720,7 +1720,7 @@ creategroupwindowsphone
 {VALUE}
 Para crear un grupo en Windows Phone, toca el signo “+” en el menú principal de chats y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 10000 miembros en Telegram.
+Cada grupo puede tener hasta 20 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1736,7 +1736,7 @@ creategroupdesktop
 {VALUE}
 Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 10000 miembros en Telegram.
+Cada grupo puede tener hasta 20 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a Channel? (Android)
