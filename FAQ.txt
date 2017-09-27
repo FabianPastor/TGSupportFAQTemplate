@@ -364,7 +364,7 @@ Telegram is focused on speed and security. All official Telegram apps are ad-fre
 
 And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
-- Create groups with up to 10000 members and communicate easily with replies, mentions and hashtags.
+- Create groups with up to 20000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
 - Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
@@ -392,7 +392,7 @@ Telegram is faster and way more secure - thanks to our multi-data center infrast
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
 - Share an unlimited amount of photos, large videos and files of any type.
-- Chat in giant groups of up to 10000 members.
+- Chat in giant groups of up to 20000 members.
 - Edit your messages after sending them.
 - Use Secret Chats to send messages, photos, videos and even files with an optional self-destruct timer.
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
@@ -981,7 +981,7 @@ supergroups
 {VALUE}
 Telegram groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
 
-Supergroups can have up to 10000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
+Supergroups can have up to 20000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
 Here’s some extra information on how supergroups work:
 - The entire message history is visible to new members that join the chat.
@@ -1377,7 +1377,7 @@ Telegram usernames are distributed on a first come - first serve basis, sorry ab
 
 We understand that certain usernames are part of an online identity for some of us. If your desired username is already taken, we will be happy to help you acquire it, provided that you have exactly the same username on at least two of these services: Facebook, Twitter, Instagram.
 
-If this is the case with you, we would ask you to post something on both those services so that we can confirm that they indeed belong to you. E.g. you could say something like 'This is for the Telegram Support. Please give me my username'. Once you've done that, please send us the links to those posts here. (You can later remove the posts, but please let us see them first.)
+If this is the case with you, we would ask you to post something on both those services so that we can confirm that they indeed belong to you. E.g. you could say something like 'This is for the Telegram Support. Please give me my username'. Once you've done that, please send us the links to those posts here. (You can later remove the posts, but please keep them while your request is being processed.)
 
 {QUESTION}
 How do I verify my account?
@@ -1689,7 +1689,7 @@ creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
-Each group can have up to 10000 members in Telegram.
+Each group can have up to 20000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1704,7 +1704,7 @@ creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 10000 members in Telegram.
+Each group can have up to 20000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1720,7 +1720,7 @@ creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
 
-Each group can have up to 10000 members in Telegram.
+Each group can have up to 20000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1736,7 +1736,7 @@ creategroupdesktop
 {VALUE}
 To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
-Each group can have up to 10000 members in Telegram.
+Each group can have up to 20000 members in Telegram.
 
 {QUESTION}
 How do I create a Channel? (Android)
