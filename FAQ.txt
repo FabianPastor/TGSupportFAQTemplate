@@ -344,6 +344,8 @@ Nuestra meta es que todo el mundo pueda recuperar su derecho a la privacidad. Es
 
 Si quieres saber más sobre las personas detrás de Telegram, por favor, revisa nuestras preguntas frecuentes:
 https://telegram.org/faq/es#p-quines-son-las-personas-que-estn-detrs-de-telegram
+https://telegram.org/faq/es#p-dnde-se-establece-telegram
+
 Puede que encuentres interesantes estos artículos:
 http://telegram.org/press
 
@@ -364,7 +366,7 @@ Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones ofic
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
 - Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
-- Crea grupos de hasta 20 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Crea grupos de hasta 30 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos propios.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
 - Disfruta de bots de Telegram personalizados para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
@@ -392,7 +394,7 @@ Telegram es mucho más rápido y seguro, gracias a nuestra infraestructura de m�
 Por nombrar algunas características únicas:
 - Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
 - Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
-- Chatea en grupos gigantes, de hasta 20 000 miembros.
+- Chatea en grupos gigantes de hasta 30 000 miembros.
 - Edita tus mensajes después de enviarlos.
 - Usa chats secretos para enviar mensajes, fotos, vídeos e incluso archivos con la opción de autodestrucción.
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
@@ -981,10 +983,9 @@ supergroups
 {VALUE}
 Los grupos de Telegram son ideales para compartir cosas con amigos y familiares, o colaboraciones en equipos pequeños. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros o editar el nombre y la foto del grupo.
 
-Los supergrupos pueden tener hasta 20 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
+Los supergrupos pueden tener hasta 30 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
-- El historial de mensajes es visible para todos los miembros que se unen al chat.
 - Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
 - Los administradores pueden anclar mensajes, que se muestran en la parte superior del chat, para informar a los miembros sobre noticias importantes que de otra forma se perderían.
 - Pueden hacerse públicos, estableciendo un Alias, tal y como los canales.
@@ -1103,19 +1104,36 @@ Android: toca un mensaje, luego toca 'editar'.
 Desktop: clic derecho en el mensaje y selecciona “Editar”. También puedes pulsar la tecla “Flecha arriba” para editar tu último mensaje.
 
 {QUESTION}
-How do I delete messages from supergroups?
+How do I delete messages from supergroups? (iOS)
 {KEYS}
-delmsgsg
-delmsgsuper
-delmsgsupergroups
-delhistorysupergroups
-delmessagessupergroups
-deletehistorysupergroups
-deletemessagessupergroups
+delmsgsgi
+delmsgsuperi
+delmsgsupergroupsi
 {VALUE}
-En los supergrupos, los mensajes eliminados desaparecen para todos los miembros y éstos sólo pueden eliminar sus propios mensajes, excepto si son administradores.
+En los supergrupos sólo puedes borrar tus propios mensajes, a menos que seas un administrador.
 
-Si estás buscando una forma de vaciar la memoria de tu teléfono, ten en cuenta que puedes eliminar fácilmente los datos de Telegram de la caché de tu dispositivo. Pregúntame si quieres más información al respecto.
+De todos modos, puedes eliminar todos los mensajes de un grupo o supergrupo de tu bandeja de entrada. Para ello toca y mantén sobre cualquier mensaje en el grupo > Más > “Eliminar todo” en la esquina superior izquierda. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán sólo para ti.
+
+Si estás buscando una forma de liberar la memoria de tu teléfono, por favor, ten en cuenta que puedes quitar fácilmente los datos de Telegram desde la caché local de tu dispositivo. Pregúntame si quieres saber más sobre ello.
+
+{QUESTION}
+How do I delete messages from supergroups? (Android, macOS)
+{KEYS}
+delmsgsga
+delmsgsgosx
+delmsgsgmac
+delmsgsupera
+delmsgsupermac
+delmsgsuperosx
+delmsgsupergroupsa
+delmsgsupergroupsosx
+delmsgsupergroupsmac
+{VALUE}
+En los supergrupos sólo puedes borrar tus propios mensajes, a menos que seas un administrador.
+
+De todos modos, puedes eliminar todos los mensajes de un grupo o supergrupo de tu bandeja de entrada. Para ello toca sobre los tres puntos blancos de la esquina superior derecha, dentro del chat > “Eliminar historial”. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán sólo para ti.
+
+Si estás buscando una forma de liberar la memoria de tu teléfono, por favor, ten en cuenta que puedes quitar fácilmente los datos de Telegram desde la caché local de tu dispositivo. Pregúntame si quieres saber más sobre ello.
 
 {QUESTION}
 How do I manage cache? (Android)
@@ -1689,7 +1707,7 @@ creategroupandroid
 {VALUE}
 Para crear un grupo en Android, toca sobre el icono del lápiz en la lista de chats, luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 20 000 miembros en Telegram.
+Cada grupo puede tener hasta 30 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1704,7 +1722,7 @@ creategroupios
 {VALUE}
 Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botón de la parte superior derecha de la pantalla de Chats), y luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 20 000 miembros en Telegram.
+Cada grupo puede tener hasta 30 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1720,7 +1738,7 @@ creategroupwindowsphone
 {VALUE}
 Para crear un grupo en Windows Phone, toca el signo “+” en el menú principal de chats y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 20 000 miembros en Telegram.
+Cada grupo puede tener hasta 30 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1736,7 +1754,7 @@ creategroupdesktop
 {VALUE}
 Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 20 000 miembros en Telegram.
+Cada grupo puede tener hasta 30 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a Channel? (Android)
