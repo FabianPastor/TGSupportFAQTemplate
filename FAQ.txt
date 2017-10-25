@@ -344,6 +344,8 @@ Our goal is to allow everyone to get back their right to privacy. The project is
 
 If you want to learn more about the people behind Telegram, please check out our FAQ:
 https://telegram.org/faq#q-who-are-the-people-behind-telegram
+https://telegram.org/faq#q-where-is-telegram-based
+
 You may also find these articles interesting:
 http://telegram.org/press
 
@@ -364,7 +366,7 @@ Telegram is focused on speed and security. All official Telegram apps are ad-fre
 
 And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
-- Create groups with up to 20000 members and communicate easily with replies, mentions and hashtags.
+- Create groups with up to 30000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
 - Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
@@ -392,7 +394,7 @@ Telegram is faster and way more secure - thanks to our multi-data center infrast
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
 - Share an unlimited amount of photos, large videos and files of any type.
-- Chat in giant groups of up to 20000 members.
+- Chat in giant groups of up to 30000 members.
 - Edit your messages after sending them.
 - Use Secret Chats to send messages, photos, videos and even files with an optional self-destruct timer.
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
@@ -981,10 +983,9 @@ supergroups
 {VALUE}
 Telegram groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
 
-Supergroups can have up to 20000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
+Supergroups can have up to 30000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
 Here’s some extra information on how supergroups work:
-- The entire message history is visible to new members that join the chat.
 - They are muted by default and send fewer joined/left notifications.
 - Admins can use pinned messages, displayed at the top of the chat, to inform members about important news that they might otherwise miss.
 - They can be made public by setting a Username, just like channels.
@@ -1103,19 +1104,36 @@ Android: tap a message, then press 'edit'.
 Desktop: right-click a message and select 'edit'. You can also press the up arrow button to edit your last message.
 
 {QUESTION}
-How do I delete messages from supergroups?
+How do I delete messages from supergroups? (iOS)
 {KEYS}
-delmsgsg
-delmsgsuper
-delmsgsupergroups
-delhistorysupergroups
-delmessagessupergroups
-deletehistorysupergroups
-deletemessagessupergroups
+delmsgsgi
+delmsgsuperi
+delmsgsupergroupsi
 {VALUE}
-In supergroups, deleted messages disappear for all chat members, and members can only delete their own messages, unless they are administrators.
+In supergroups, you can only delete your own messages, unless you are an administrator.
 
-If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about it.
+However, you can clear all the messages in a group from your inbox if you wish: select any message in the group > More > ‘Delete all’ at the top-left corner. Note that messages won't be removed for other group members in this case.
+
+If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
+
+{QUESTION}
+How do I delete messages from supergroups? (Android, macOS)
+{KEYS}
+delmsgsga
+delmsgsgosx
+delmsgsgmac
+delmsgsupera
+delmsgsupermac
+delmsgsuperosx
+delmsgsupergroupsa
+delmsgsupergroupsosx
+delmsgsupergroupsmac
+{VALUE}
+In supergroups, you can only delete your own messages, unless you are an administrator.
+
+However, you can clear all the messages in a group from your inbox if you wish: tap on three dots at the top-right corner in the group > Clear History. Note that messages won't be removed for other group members in this case.
+
+If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
 
 {QUESTION}
 How do I manage cache? (Android)
@@ -1689,7 +1707,7 @@ creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
-Each group can have up to 20000 members in Telegram.
+Each group can have up to 30000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1704,7 +1722,7 @@ creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 20000 members in Telegram.
+Each group can have up to 30000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1720,7 +1738,7 @@ creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
 
-Each group can have up to 20000 members in Telegram.
+Each group can have up to 30000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1736,7 +1754,7 @@ creategroupdesktop
 {VALUE}
 To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
-Each group can have up to 20000 members in Telegram.
+Each group can have up to 30000 members in Telegram.
 
 {QUESTION}
 How do I create a Channel? (Android)
@@ -2095,7 +2113,7 @@ samenumberneeded
 samenumberrequired
 samenumberimportant
 {VALUE}
-It is important to keep your Telegram number up to date, since your provider may reassign your number to a different person when you stop using your old SIM. And in the current system the owner of the number is the owner or the Telegram account as well.
+It is important to keep your Telegram number up to date, since your provider may reassign your number to a different person when you stop using your old SIM. And in the current system the owner of the number is the owner of the Telegram account as well.
 
 To change your number in Telegram, go to Settings, then tap on your number and then 'Change number'.
 
