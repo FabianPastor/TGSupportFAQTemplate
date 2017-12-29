@@ -265,10 +265,10 @@ When user is posting personal stuff, as if this was a 'favourites' folder
 {KEYS}
 nothere
 {VALUE}
-Por favor, ten en cuenta que este chat se usa para asistencia técnica. Nuestros voluntarios leen todo lo que envías aquí. Si necesitas un sitio para almacenar datos, puedes usar el “chat contigo” de almacenamiento de Telegram.
+Por favor, ten en cuenta que este chat se usa para asistencia técnica. Nuestros voluntarios leen todo lo que envías aquí. Si necesitas un sitio para almacenar datos, puedes usar el chat de Mensajes guardados de Telegram.
 
-iOS: Contactos > Toca sobre tu número de teléfono en la parte superior.
-Android: Menú principal > Toca sobre tu número de teléfono en la parte superior.
+iOS: Ajustes de Telegram > Mensajes guardados.
+Android: Menú principal > Toca sobre la opción Mensajes guardados.
 Windows Phone: Chats > Nuevo chat > Toca sobre “Tú”.
 Desktop: Haz clic en el botón de menú, que está arriba a la izquierda de tu lista de chats > luego haz clic sobre el icono de la nube o en tu foto de perfil.
 
@@ -366,7 +366,7 @@ Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones ofic
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
 - Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
-- Crea grupos de hasta 30 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Crea grupos de hasta 50 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos propios.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
 - Disfruta de bots de Telegram personalizados para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
@@ -394,7 +394,7 @@ Telegram es mucho más rápido y seguro, gracias a nuestra infraestructura de m�
 Por nombrar algunas características únicas:
 - Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
 - Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
-- Chatea en grupos gigantes de hasta 30 000 miembros.
+- Chatea en grupos gigantes de hasta 50 000 miembros.
 - Edita tus mensajes después de enviarlos.
 - Usa chats secretos para enviar mensajes, fotos, vídeos e incluso archivos con la opción de autodestrucción.
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
@@ -794,6 +794,24 @@ statusmessage
 Puedes escribir algunas palabras sobre ti en tu perfil desde Ajustes de Telegram > Biografía. 
 
 {QUESTION}
+Can I set up a status message? (iOS)
+{KEYS}
+bioi
+bioios
+statusi
+bioiphone
+statusios
+setupstatusi
+statusiphone
+setupstatusios
+statusmessagei
+statusmessageios
+setupstatusiphone
+statusmessageiphone
+{VALUE}
+Puedes añadir algunas palabras sobre ti en tu perfil, en los Ajustes de Telegram: toca sobre opción de arriba que tiene tu información y luego escribe sobre “Biografía”.
+
+{QUESTION}
 Can I archive or back up my conversations?
 {KEYS}
 backup
@@ -928,6 +946,20 @@ No tenemos una tienda oficial de stickers, porque la plataforma es abierta para 
 4) Si eso no te parece suficiente, puedes probar a buscar en Internet “Telegram Stickers”: te aparecerán muchos resultados.
 
 {QUESTION}
+How can I make my own stickers?
+{KEYS}
+ownsticker
+makesticker
+ownstickers
+makestickers
+createsticker
+createstickers
+{VALUE}
+La plataforma de stickers de Telegram es abierta para que cualquiera pueda usarla. Si quieres crear nuevos stickers, puedes hablar con nuestro bot @Stickers.
+
+El bot te guiará durante todo el proceso, sólo sigue sus instrucciones.
+
+{QUESTION}
 How to remove sticker sets?
 {KEYS}
 stickr
@@ -981,9 +1013,9 @@ sg
 supergroup
 supergroups
 {VALUE}
-Los grupos de Telegram son ideales para compartir cosas con amigos y familiares, o colaboraciones en equipos pequeños. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros o editar el nombre y la foto del grupo.
+Los grupos básicos de Telegram son ideales para compartir cosas con amigos y familiares o la colaboración en pequeños equipos. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros, editar el nombre y la foto de perfil del grupo.
 
-Los supergrupos pueden tener hasta 30 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
+Los supergrupos pueden tener hasta 50 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
 - Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
@@ -1112,7 +1144,7 @@ delmsgsupergroupsi
 {VALUE}
 En los supergrupos sólo puedes borrar tus propios mensajes, a menos que seas un administrador.
 
-De todos modos, puedes eliminar todos los mensajes de un grupo o supergrupo de tu bandeja de entrada. Para ello toca y mantén sobre cualquier mensaje en el grupo > Más > “Eliminar todo” en la esquina superior izquierda. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán sólo para ti.
+De todos modos, puedes eliminar todos los mensajes de un grupo o supergrupo de tu bandeja de entrada. Para ello toca y mantén sobre cualquier mensaje en el grupo > Más > “Vaciar chat” en la esquina superior izquierda. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán sólo para ti.
 
 Si estás buscando una forma de liberar la memoria de tu teléfono, por favor, ten en cuenta que puedes quitar fácilmente los datos de Telegram desde la caché local de tu dispositivo. Pregúntame si quieres saber más sobre ello.
 
@@ -1197,6 +1229,16 @@ ifttt
 IFTTT es un sistema gratuito que te permite conectar tu cuenta de Telegram con otros servicios para gestionarlos desde dentro de Telegram, o recibir notificaciones, fotos o vídeos cuando algo ocurre. Por ejemplo, puedes recibir un mensaje de Telegram cuando lleguen correos electrónicos importantes, encender una Smart TV, o controlar tus luces Hue con sólo enviar un mensaje de Telegram. Puedes también elegir que los miembros de un grupo interaccionen con tus servicios o tus dispositivos de forma colaborativa.
 
 Para comenzar, contacta con el bot @IFTTT, y sigue las instrucciones que te indica. Pronto deberás iniciar sesión con tu cuenta de IFTTT, conectarla con Telegram y elegir un «applet» cualquiera de la lista, o crear los tuyos propios. IFTTT es compatible con la integración con redes sociales tales como Twitter e Instagram, herramientas como Gmail o Pocket, aplicaciones de entretenimiento como Spotify o Pinterest, y muchas otras aplicaciones. Revisa https://ifttt.com/telegram para ver la lista completa.
+
+{QUESTION}
+How can I share images I receive on Telegram to other apps? (iOS)
+{KEYS}
+sharei
+sharepici
+sharephotoi
+{VALUE}
+Para compartir una foto a otra aplicación, realiza una pulsación larga sobre una foto en el chat y elige “Más...”. Luego, usa el botón de compartir que está en la parte inferior de la pantalla. 
+
 
 {COMMENT}
 =========================
@@ -1355,7 +1397,7 @@ Abrirá un chat contigo en Telegram, perfecto para compartirlo con amigos o pone
 
 Android: Para establecer un alias, desliza la lista de chats hacia la derecha para abrir el menú, luego Ajustes > Alias.
 
-iOS: Para establecer un alias, ve a Ajustes > Alias.
+iOS: Para establecer un alias, ve a Ajustes y toca sobre tus detalles en la parte superior. Luego, toca ‘’Alias”.
 
 WP: Para establecer un alias, toca sobre “...” en la lista de chats para ir a Ajustes, luego Establecer alias.
 
@@ -1502,9 +1544,9 @@ changebackgroundi
 chatbackgroundios
 changebackgroundios
 {VALUE}
-Para cambiar tu fondo, ve a Ajustes > Fondo de chat y elige el que más te guste.
+Para cambiar tu fondo, ve a los Ajustes de Telegram > Fondo de chat y elige el que más te guste.
 
-Para establecer tus propias fotos como fondo, tan sólo toca sobre “Biblioteca de fotos”.
+Para establecer una de tus propias fotos como fondo, tan sólo toca sobre “Biblioteca de fotos”.
 
 {QUESTION}
 How do I change my background? (Android)
@@ -1548,7 +1590,7 @@ changeprofilepicios
 changeprofilepicturei
 changeprofilepictureios
 {VALUE}
-Para cambiar tu foto de perfil, ve a los Ajustes de Telegram > Poner foto de perfil.
+Para cambiar tu foto de perfil, ve a los Ajustes de Telegram y toca sobre tus detalles en la parte superior, luego toca sobre el icono de la cámara que aparece encima de tu foto actual para elegir una nueva.
 
 {QUESTION}
 How do I change my profile picture? (Android)
@@ -1599,7 +1641,7 @@ deleteprofilepicios
 deleteprofilepicturei
 deleteprofilepictureios
 {VALUE}
-Ve a los Ajustes de Telegam, toca en tu foto de perfil y luego en el icono de la papelera en la esquina inferior derecha.
+Ve a los Ajustes de Telegram y toca sobre tus detalles en la parte superior, luego toca sobre el icono de la cámara que aparece sobre de tu foto actual y elige la opción “Eliminar foto”.
 
 {QUESTION}
 How do I delete my profile picture? (Android)
@@ -1662,15 +1704,16 @@ msgself
 favorites
 messageself
 messagemyself
+savedmessages
 {VALUE}
-Puedes abrir un chat contigo desde nuestras aplicaciones para móviles:
-iOS: Pestaña de contactos > Toca sobre tu número de teléfono en la parte superior.
-Android: Menú principal > Toca sobre tu número de teléfono en la parte superior.
+Para enviarte mensajes o multimedia a ti mismo, puedes abrir tu chat personal de almacenamiento:
+
+iOS: Ajustes de Telegram > Mensajes guardados.
+Android: Menú principal > Toca sobre la opción Mensajes guardados.
 Windows Phone: Chats > Nuevo chat > Toca sobre “Tú”.
+Desktop: Haz clic en el botón de menú, que está arriba a la izquierda de tu lista de chats > luego haz clic sobre el icono de la nube o en tu foto de perfil.
 
-Tras enviar un mensaje ahí, el chat aparecerá en tu lista de chats, así que podrás acceder a él desde cualquiera de nuestras aplicaciones.
-
-Si tienes un alias, el siguiente enlace también abrirá un chat contigo en Telegram:
+Si tienes un alias, el siguiente enlace también abre un chat contigo en Telegram:
 t.me/YourUsername
 
 {QUESTION}
@@ -1707,7 +1750,7 @@ creategroupandroid
 {VALUE}
 Para crear un grupo en Android, toca sobre el icono del lápiz en la lista de chats, luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 30 000 miembros en Telegram.
+Cada grupo puede tener hasta 50 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1722,7 +1765,7 @@ creategroupios
 {VALUE}
 Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botón de la parte superior derecha de la pantalla de Chats), y luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 30 000 miembros en Telegram.
+Cada grupo puede tener hasta 50 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1738,7 +1781,7 @@ creategroupwindowsphone
 {VALUE}
 Para crear un grupo en Windows Phone, toca el signo “+” en el menú principal de chats y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 30 000 miembros en Telegram.
+Cada grupo puede tener hasta 50 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1754,7 +1797,43 @@ creategroupdesktop
 {VALUE}
 Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 30 000 miembros en Telegram.
+Cada grupo puede tener hasta 50 000 miembros en Telegram.
+
+{QUESTION}
+How do I add members to my group? (Android, iOS)
+{KEYS}
+invitea
+invitei
+inviteios
+invitegroupa
+invitegroupi
+inviteandroid
+invitegroupios
+invitegroupandroid
+{VALUE}
+Existen dos formas de añadir miembros a tu grupo:
+
+1. Si quieres añadir a tus contactos, puedes usar la opción "Añadir miembro" que aparece en la ventana de información del grupo. También puedes añadir a personas si conoces sus alias, aunque no es recomendable si ellos no lo han solicitado.
+
+2. Si quieres generar o ver un enlace de invitación para tu grupo, que puedes compartir con otros, puedes hacerlo desde la ventana de información del grupo, abajo de "Enlace de invitación".
+
+Por favor, ten en cuenta que si un usuario deja tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar al grupo por sí mismos.
+
+{QUESTION}
+How do I add members to my group? (Desktop)
+{KEYS}
+invitedesk
+invitedesktop
+invitegroupdesk
+invitegroupdesktop
+{VALUE}
+Existen dos formas de añadir miembros a tu grupo:
+
+1. Si quieres añadir a tus contactos, toca “...” en el encabezado del chat de grupo > “Añadir miembro”. También puedes añadir a personas si conoces sus alias, aunque no es recomendable si ellos no lo han solicitado.
+
+2. Si quieres usar un enlace de invitación para tu grupo que pueda ser compartido con otros, toca “...” en el encabezado del chat > “Administrar grupo”, y podrás ver el enlace de invitación o generar uno nuevo debajo del título “Enlace de invitación”.
+
+Por favor, ten en cuenta que si un usuario deja tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar al grupo por sí mismos.
 
 {QUESTION}
 How do I create a Channel? (Android)
@@ -1999,11 +2078,11 @@ Telegram necesita acceder a datos en tu teléfono para poder trabajar adecuadame
 - FOTOS (para ver y enviar imágenes)
 - CÁMARA (para tomar fotos y vídeos)
 - SERVICIOS DE UBICACIÓN (para enviar mapas de ubicación)
-- MICRÓFONO (para grabar mensajes de voz)
+ - MICRÓFONO (para hacer llamadas, grabar mensajes de voz y videomensajes)
 
 iOS 7: Ajustes de iOS > Privacidad > Selecciona “ON” para los permisos necesarios.
 
-iOS 8, iOS 9: En los Ajustes de iOS, desliza hacia abajo hasta que encuentres “Telegram”, y activa los permisos necesarios en sus ajustes de privacidad.
+iOS 8+: En los Ajustes de iOS deslízate hacia abajo, hasta que encuentres “Telegram”, y activa los permisos necesarios en los ajustes de privacidad de la aplicación.
 
 Android 6+ (Samsung): Ajustes de Android > Aplicaciones > Telegram > Permisos, y activa los permisos necesarios.
 
@@ -2042,7 +2121,6 @@ sidepanel
 En las últimas versiones de Telegram Desktop, el panel de emojis tiene un espacio separado a la derecha de la ventana, cuando Telegram está desplegada en una ventana lo suficientemente ancha.
 
 Si quieres, puedes activar o desactivar el panel al hacer clic una vez sobre el icono de la carita feliz, que está dentro del campo de escritura.
-
 
 {COMMENT}
 ===================
@@ -2186,6 +2264,26 @@ Para cerrar sesión, ve a Ajustes > Cerrar sesión.
 ===================
 -TROUBLESHOOTING-
 ===================
+
+{QUESTION}
+Why can I only send 10-second voice/video notes?
+{KEYS}
+9s
+10s
+voice9
+video9
+voice9s
+video9s
+voice10
+video10
+voice10s
+video10s
+{VALUE}
+¿Tienes puesto un protector de pantalla en tu dispositivo?
+
+Si es así, por favor, intenta quitándolo y ve si se ha resuelto el problema. Muchas veces, los protectores para pantallas pueden interferir y perjudicar la conexión entre tu dedo y el botón cuando pasan algunos segundos.
+
+Otra alternativa es que, mientras grabas el mensaje, deslices tu dedo hacia arriba hasta el candado. De ese modo, no será necesario que mantengas pulsada la pantalla hasta que el mensaje sea grabado.
 
 {QUESTION}
 Telegram shows the wrong time for messages and last seen
@@ -2351,7 +2449,12 @@ contactsandroid
 {VALUE}
 Primero, asegúrate de tener activados los permisos para que Telegram pueda acceder a tus Contactos, en los ajustes de tu teléfono. Si puedes ver algunos de tus contactos en el menú de Contactos de Telegram, significa que el permiso está activado y que debes seguir con el siguiente paso.
 
-Prueba este truco: abre los Ajustes de Telegram, deslízate hasta el fondo de la lista y mantén pulsado sobre la sección que dice “Telegram para Android”, hasta que salga un pequeño emoticono. Luego, mantén pulsado sobre la misma sección otra vez. Cuando aparezca el menú “Debug”, pulsa sobre “Reload Contacts”. Si no ayuda, abre otra vez el menú Debug del mismo modo e intenta con la opción “Import Contacts”.
+Después, prueba este truco: 
+1. Ve a los Ajustes de Telegram y deslízate hasta abajo.
+2. Mantén presionado sobre "Telegram para Android" hasta que veas aparecer un emoticono, y luego deja de pulsar.
+3. Vuelve a manter presionada la misma área otra vez, hasta que aparezca un menú.
+4. Toca sobre "Recargar contactos". 
+5. Si eso no ayuda, abre el Menú de Depuración de la misma forma otra vez, y prueba la opción "Importar contactos".
 
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (iOS)
@@ -2410,6 +2513,40 @@ Parece que algo no va bien. Necesitamos revisar la situación. Podrías, por fav
 2. Cómo están almacenados, exactamente, los números en tu agenda (¿Formato local o internacional?)
 
 ¡Gracias!
+
+{QUESTION}
+I'm getting 'joined' notifications for people I don't recognize! (Android)
+{KEYS}
+resetcona
+resetcontacta
+resetcontactsa
+{VALUE}
+Si en tu cuenta de Telegram tienes contactos que no conoces, es posible que hayas iniciado sesión en el teléfono de otra persona y todos sus contactos se hayan subido a tu cuenta.
+
+Puedes quitar todos los contactos subidos anteriormente y luego volver a subir tu agenda actual desde tu dispositivo.
+
+Para hacer esto:
+1. Ve a los Ajustes de Telegram y deslízate hasta abajo.
+2. Mantén presionado sobre "Telegram para Android" hasta que veas aparecer un emoticono, y luego deja de pulsar.
+3. Vuelve a manter presionada la misma área otra vez, hasta que aparezca un menú.
+4. Toca en “Restablecer contactos importados”. 
+
+
+{QUESTION}
+I'm getting 'joined' notifications for people I don't recognize! (iOS)
+{KEYS}
+resetconi
+resetcontacti
+resetcontactsi
+{VALUE}
+Si en tu cuenta de Telegram tienes contactos que no conoces, es posible que hayas iniciado sesión en el teléfono de otra persona y todos sus contactos se hayan subido a tu cuenta.
+
+Puedes quitar todos los contactos subidos anteriormente y luego volver a subir tu agenda actual desde tu dispositivo.
+
+Para hacer esto:
+1. Toca rápidamente 10 veces sobre el icono de los ajustes de Telegram.
+2. En el menú que aparezca, deslízate hacia abajo hasta que veas "Reset Server Contacts".
+3. Toca "Reset Server Contacts".
 
 {QUESTION}
 Telegram doesn't connect!
@@ -2537,16 +2674,10 @@ What about IND-CCA?
 {KEYS}
 indcca
 {VALUE}
-Lo esencial, para lectores no especializados, es esto: Alguien puede coger un mensaje ya cifrado después de ser enviado (sin conocer su contenido), añadir algunos símbolos a ese texto cifrado (sin poder de ningún modo alterar el contenido) y enviártelo. Tras descifrarlo, recibirás el mismo mensaje que se envió y sólo tú y el emisor sabréis lo que pone.
+La versión actual del protocolo MTProto cumple los criterios para IND-CCA. MTProto 1.0 se mantenía alejado de esta propiedad sin causar ningún efecto en la seguridad de los mensajes.
 
-Las propiedades del tipo del IND-CCA son prácticas para definiciones teóricas e investigación científica, pero no están directamente relacionadas con la propia seguridad de la comunicación.
-
-Por poner un ejemplo en términos familiares:
-
-Un cartero puede escribir “Jaja” (¡usando tinta invisible!) en el exterior de un paquete sellado que luego te entrega. Esto no hace que el paquete no se entregue, ni le permite cambiar su contenido, ni le permite ver lo que hay dentro.
-
-Aquí tienes un enlace a nuestras Preguntas Frecuentes Técnicas, por si te interesa:
-https://core.telegram.org/techfaq#what-about-ind-cca
+Ve nuestras preguntas frecuentes más técnicas para conocer detalles:
+https://core.telegram.org/techfaq/mtproto_v1#what-about-ind-cca
 
 {QUESTION}
 I think I was hacked, what do I do?
@@ -2580,7 +2711,7 @@ jakobsen
 Ese artículo es engañoso. El autor califica el protocolo de Telegram como inseguro basándose en un trozo de una investigación que precisamente no demuestra eso.
 
 Aquí tienes una explicación detallada de cómo el artículo de J. Jakobsen crea una impresión falsa de la seguridad de Telegram:
-http://telegra.ph/MTProto-y-el-artículo-de-Jakobsen-01-18
+http://telegra.ph/MTProto-y-el-art%C3%ADculo-de-Jakobsen-01-18
 
 {COMMENT}
 =======================
