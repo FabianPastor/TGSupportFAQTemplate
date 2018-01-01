@@ -63,7 +63,7 @@ themesa
 themeandroid
 themesandroid
 {VALUE}
-Desde la versión 3.17, Telegram para Android es compatible con los temas personalizados, así que puedes establecer un diseño alternativo para tu aplicación.
+Desde la versión 3.17, Telegram para Android soporta temas personalizados, así que puedes configurar un diseño alternativo para tu aplicación.
 
 Para cambiar a un tema diferente, volver al tema por defecto o crear uno nuevo, ve a Ajustes > Tema. 
 
@@ -71,6 +71,20 @@ Si quieres aplicar un tema personalizado desde un archivo, haz clic en él. Se a
 
 Aquí hay una guía detallada sobre los temas, si quieres una:
 http://telegra.ph/Temas-de-Telegram-FAQ#Android
+
+{QUESTION}
+How do I use themes? (iOS)
+{KEYS}
+themei
+themesi
+themeios
+themesios
+{VALUE}
+Desde la versión 4.7, Telegram para iOS te permite cambiar la apariencia de Telegram eligiendo un nuevo tema.
+
+Para cambiar a un tema diferente, o volver al que viene por defecto, ve a los Ajustes de Telegram > Apariencia y elige una opción en “Tema”.
+
+Si eliges el tema “Día” podrás, adicionalmente, elegir un color de realce para personalizar tu Telegram.
 
 {QUESTION}
 Can't take screenshots anywhere (Android)
@@ -1544,7 +1558,7 @@ changebackgroundi
 chatbackgroundios
 changebackgroundios
 {VALUE}
-Para cambiar tu fondo, ve a los Ajustes de Telegram > Fondo de chat y elige el que más te guste.
+Para cambiar tu fondo, ve a los Ajustes de Telegram > Apariencia > Fondo de chat y elige el que te guste.
 
 Para establecer una de tus propias fotos como fondo, tan sólo toca sobre “Biblioteca de fotos”.
 
@@ -1960,7 +1974,7 @@ Para bloquear y desbloquear personas, ve a los Ajustes de Telegram > Privacidad 
 
 Las personas bloqueadas:
 
-- No pueden enviarte mensajes, iniciar chats secretos contigo o añadirte a grupos.
+- No pueden enviarte mensajes, iniciar chats secretos o llamadas contigo, ni añadirte a grupos.
 - No pueden ver tu foto de perfil
 - No pueden ver tu estado en línea o tu última conexión; siempre les apareces como “última vez hace mucho tiempo” (o “fuera de línea” en versiones antiguas de la aplicación).
 
