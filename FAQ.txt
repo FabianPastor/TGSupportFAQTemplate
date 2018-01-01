@@ -63,7 +63,7 @@ themesa
 themeandroid
 themesandroid
 {VALUE}
-​​Since Version v3.17 Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
+​​Since version 3.17, Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
 
 To switch to a different theme, to go back to the default one or to create a new one, go to Settings > Theme. 
 
@@ -71,6 +71,20 @@ If you want to set a custom theme from a file, click on it. A preview will open 
 
 Here’s a detailed guide on themes if you’d like one:
 http://telegra.ph/Telegram-Themes-FAQ#Android
+
+{QUESTION}
+How do I use themes? (iOS)
+{KEYS}
+themei
+themesi
+themeios
+themesios
+{VALUE}
+​​Since version 4.7, Telegram for iOS lets you change what your Telegram looks like by choosing a new color theme.
+
+To switch to a different theme, or to go back to the default one, go to Telegram Settings > Appearance and select an option under "Color Theme".
+
+If you select the "Day" theme you will additionally be able to choose an Accent Color to further customize your Telegram.
 
 {QUESTION}
 Can't take screenshots anywhere (Android)
@@ -1544,7 +1558,7 @@ changebackgroundi
 chatbackgroundios
 changebackgroundios
 {VALUE}
-To change your background, go to Telegram Settings > Chat Background and choose one that you like.
+To change your background, go to Telegram Settings > Appearance > Chat Background and choose one that you like.
 
 To set one of your own photos as the background, just tap on "Photo Library".
 
@@ -1960,7 +1974,7 @@ To block and unblock people, go to Telegram Settings — Privacy and Security �
 
 Blocked people:
 
-- can't send you messages, start secret chats with you and add you to groups
+- can't send you messages, start secret chats or calls with you, or add you to groups
 - can't see your profile picture
 - can't see your online and last seen status; you always appear to them as 'last seen a long time ago' (or 'offline' in older versions of the apps).
 
