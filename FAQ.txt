@@ -284,7 +284,7 @@ Please note that this chat is used for support. Our volunteers read and view eve
 iOS: Telegram Settings > Saved Messages.
 Android: Main menu > Tap the Saved Messages option.
 Windows Phone: Chats > New chat > tap on "You".
-Desktop: Click on the menu button at the top-left of your Chats List > then click the cloud icon or your profile picture.
+Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon or your profile picture.
 
 You can access everything you send to this storage chat on any number of devices you connect, including your PC.
 
@@ -380,7 +380,7 @@ Telegram is focused on speed and security. All official Telegram apps are ad-fre
 
 And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
-- Create groups with up to 50,000 members and communicate easily with replies, mentions and hashtags.
+- Create groups with up to 100,000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
 - Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
@@ -408,7 +408,7 @@ Telegram is faster and way more secure - thanks to our multi-data center infrast
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
 - Share an unlimited amount of photos, large videos and files of any type.
-- Chat in giant groups of up to 50,000 members.
+- Chat in giant groups of up to 100,000 members.
 - Edit your messages after sending them.
 - Use Secret Chats to send messages, photos, videos and even files with an optional self-destruct timer.
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
@@ -521,11 +521,13 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram is used by more than 100 million people around the world. In February 2016 we reached 15 billion daily messages, and 350,000 new users sign up every day.
+Telegram is used by more than 100 million people around the world. In February 2016 we reached 15 billion daily messages. 
 
 Read more:
 https://telegram.org/blog/100-million
 https://telegram.org/blog/15-billion
+
+In February 2018, our founder, Pavel Durov also announced that every day over 500,000 users download Telegram for Android, and about 100,000 users download Telegram for iOS.
 
 {QUESTION}
 When was Telegram released?
@@ -855,7 +857,7 @@ You don't get a notification when you have been blocked by another person. Your 
 
 Blocked people:
 
-- can't send you messages, start secret chats with you or add you to groups
+- can't send you messages, start secret chats or calls with you, or add you to groups
 - can't see your profile picture
 - can't see your online and last seen status; you always appear to them as 'last seen a long time ago' (or 'offline' in older versions of the apps).
 
@@ -1029,7 +1031,7 @@ supergroups
 {VALUE}
 Basic groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
 
-Supergroups can have up to 50,000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
+Supergroups can have up to 100,000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
 Here’s some extra information on how supergroups work:
 - They are muted by default and send fewer joined/left notifications.
@@ -1037,7 +1039,7 @@ Here’s some extra information on how supergroups work:
 - They can be made public by setting a Username, just like channels.
 - If made public, members can invite new people, if not, they can only join via invite link or if added by admins.
 
-If you want to upgrade your group to a supergroup, go to Group Info and choose ‘Upgrade to Supergroup’. This action is irreversible, sorry — so please consider all the differences, and ask me if anything is unclear, before you upgrade.
+If you want to upgrade your group to a supergroup, go to Group Info and choose ‘Convert to Supergroup’. This action is irreversible, sorry — so please consider all the differences, and ask me if anything is unclear, before you upgrade.
 
 {QUESTION}
 Where do I find bots?
@@ -1129,7 +1131,7 @@ hidephonenumber
 Your phone number is hidden from other users. They can only see it in the following three cases:
 - If they already have your phone number saved in their address book.
 - If you've shared your number yourself (with 'Share My Contact Info')
-- If you have their phone number saved in your address book and you message them (as if they get your SMS).
+- If you have their phone number saved in your address book and you message or call them (as if they get your SMS or phone call).
 
 They won't see your number otherwise — for instance, if they find you via our global search or in a group chat.
 
@@ -1725,7 +1727,7 @@ To send messages or media to yourself, you can open your personal storage chat:
 iOS: Telegram Settings > Saved Messages.
 Android: Main menu > Tap the Saved Messages option.
 Windows Phone: Chats > New chat > tap on "You".
-Desktop: Click on the menu button at the top-left of your Chats List > then click the cloud icon or your profile picture.
+Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon or your profile picture.
 
 If you have a username, the following link also opens a chat with you on Telegram:
 t.me/YourUsername
@@ -1764,7 +1766,7 @@ creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
-Each group can have up to 50,000 members in Telegram.
+Each group can have up to 100,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1779,7 +1781,7 @@ creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 50,000 members in Telegram.
+Each group can have up to 100,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1795,7 +1797,7 @@ creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
 
-Each group can have up to 50,000 members in Telegram.
+Each group can have up to 100,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1811,7 +1813,7 @@ creategroupdesktop
 {VALUE}
 To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
-Each group can have up to 50,000 members in Telegram.
+Each group can have up to 100,000 members in Telegram.
 
 {QUESTION}
 How do I add members to my group? (Android, iOS)
@@ -1930,7 +1932,7 @@ iOS: Go to Group Info > Edit > Convert to Supergroup
 
 Android, WP: Group Info > three dots in the top-right corner > Convert to Supergroup
 
-Desktop: Group Info > 'Upgrade to Supergroup'. 
+Desktop: Group Info > Convert to Supergroup. 
 
 Note that this action is irreversible — so please consider all the differences before you upgrade. Ask me if you want to learn more about supergroups.
 
@@ -2115,13 +2117,9 @@ You can change the text size for messages in Telegram if you'd like.
 
 Android: Telegram Settings > Message Text Size.
 
-iOS 7: iOS Settings > General > Text Size.
-
-iOS 8+: iOS Settings > Display & Brightness > Text Size.
+iOS: Telegram Settings > Appearance > Text Size.
 
 Windows Phone: Phone Settings > Ease of Access > Text Size.
-
-Please note that this doesn’t change the size of text in the input field on iOS and Android at the moment.
 
 {QUESTION}
 How do I remove the Emoji panel? (Desktop)
