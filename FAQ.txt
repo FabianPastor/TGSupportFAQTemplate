@@ -380,7 +380,7 @@ Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones ofic
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
 - Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
-- Crea grupos de hasta 50 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Crea grupos de hasta 100 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos propios.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
 - Disfruta de bots de Telegram personalizados para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
@@ -408,7 +408,7 @@ Telegram es mucho más rápido y seguro, gracias a nuestra infraestructura de m�
 Por nombrar algunas características únicas:
 - Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
 - Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
-- Chatea en grupos gigantes de hasta 50 000 miembros.
+- Chatea en grupos gigantes de hasta 100 000 miembros.
 - Edita tus mensajes después de enviarlos.
 - Usa chats secretos para enviar mensajes, fotos, vídeos e incluso archivos con la opción de autodestrucción.
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
@@ -855,7 +855,7 @@ No recibes una notificación cuando has sido bloqueado por otra persona. Tus men
 
 Las personas bloqueadas:
 
-- No pueden enviarte mensajes, iniciar chats secretos contigo o añadirte a grupos.
+- No pueden enviarte mensajes, iniciar chats secretos o llamadas contigo, ni añadirte a grupos.
 - No pueden ver tu foto de perfil
 - No pueden ver tu estado en línea o tu última conexión; siempre les apareces como “última vez hace mucho tiempo” (o “fuera de línea” en versiones antiguas de la aplicación).
 
@@ -1029,7 +1029,7 @@ supergroups
 {VALUE}
 Los grupos básicos de Telegram son ideales para compartir cosas con amigos y familiares o la colaboración en pequeños equipos. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros, editar el nombre y la foto de perfil del grupo.
 
-Los supergrupos pueden tener hasta 50 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
+Los supergrupos pueden tener hasta 100 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
 - Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
@@ -1037,7 +1037,7 @@ Aquí tienes información extra sobre cómo funcionan los supergrupos:
 - Pueden hacerse públicos, estableciendo un Alias, tal y como los canales.
 - Si son públicos, los miembros pueden invitar a personas nuevas. Si no, sólo pueden unirse con un enlace de invitación o si los administradores las añaden.
 
-Si quieres actualizar tu grupo a un supergrupo, ve a la información del grupo y elige “Actualizar a supergrupo”. Esta acción es irreversible, así que ten en cuenta todas las diferencias y pregúntame si algo no te ha quedado claro, antes de actualizar.
+Si quieres actualizar tu grupo a un supergrupo, ve a la información del grupo y elige “Convertir en supergrupo”. Esta acción es irreversible, así que ten en cuenta todas las diferencias y pregúntame si algo no te ha quedado claro, antes de actualizar.
 
 {QUESTION}
 Where do I find bots?
@@ -1376,7 +1376,7 @@ selfdestructandroid
 {VALUE}
 El temporizador de autodestrucción está disponible para cualquier foto o vídeo en los chats privados. Para configurar el temporizador, toca sobre el icono del cronómetro que aparece abajo en la vista previa a pantalla completa del vídeo o foto. La cuenta regresiva comienza cuando el destinatario abre la foto o el video que enviaste. Cuando el tiempo se acabe, la foto o video se eliminará de ambos dispositivos.
 
-En los chats secretos puedes configurar un temporizador de autodestrucción para todo tipo de mensajes. Toca sobre el cronómetro que aparece dentro del espacio de escritura, pon el tiempo que quieres y toca en “Hecho”. El temporizador se aplicará sobre todos los mensajes enviados en el chat tras haberlo configurado. La cuenta regresiva comienza cuando el destinatario lee el mensaje. Cuando el tiempo se acabe, los mensajes serán eliminados de ambos dispositivos. 
+En los chats secretos puedes configurar un temporizador de autodestrucción para todo tipo de mensajes. Toca sobre la foto de perfil en el chat secreto, pon el tiempo que quieres y toca en “Hecho”. El temporizador se aplicará sobre todos los mensajes enviados en el chat tras haberlo configurado. La cuenta regresiva comienza cuando el destinatario lee el mensaje. Cuando el tiempo se acabe, los mensajes serán eliminados de ambos dispositivos. 
 
 {QUESTION}
 How can I send self-destructing messages? (Windows Phone)
@@ -1764,7 +1764,7 @@ creategroupandroid
 {VALUE}
 Para crear un grupo en Android, toca sobre el icono del lápiz en la lista de chats, luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 50 000 miembros en Telegram.
+Cada grupo puede tener hasta 100 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1779,7 +1779,7 @@ creategroupios
 {VALUE}
 Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botón de la parte superior derecha de la pantalla de Chats), y luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 50 000 miembros en Telegram.
+Cada grupo puede tener hasta 100 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1795,7 +1795,7 @@ creategroupwindowsphone
 {VALUE}
 Para crear un grupo en Windows Phone, toca el signo “+” en el menú principal de chats y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 50 000 miembros en Telegram.
+Cada grupo puede tener hasta 100 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1811,7 +1811,7 @@ creategroupdesktop
 {VALUE}
 Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 50 000 miembros en Telegram.
+Cada grupo puede tener hasta 100 000 miembros en Telegram.
 
 {QUESTION}
 How do I add members to my group? (Android, iOS)
@@ -2115,13 +2115,9 @@ Puedes cambiar el tamaño del texto de los mensajes de Telegram, si quieres.
 
 Android: Ajustes de Telegram > Tamaño del texto.
 
-iOS 7: Ajustes de iOS > General > Tamaño del texto.
-
-iOS 8+: Ajustes de iOS > Pantalla y brillo > Tamaño del texto.
+iOS: Ajustes de Telegram > Apariencia > Tamaño del texto.
 
 Windows Phone: Ajustes del teléfono > Accesibilidad > Tamaño del texto.
-
-Ten en cuenta que eso no cambia el tamaño del texto del cuadro de entrada en iOS ni en Android, de momento.
 
 {QUESTION}
 How do I remove the Emoji panel? (Desktop)
@@ -2583,7 +2579,7 @@ Lamentamos que tengas problemas de conexión. ¿Podrías, por favor, ayudarnos a
 5. ¿El problema ocurre en Wi-Fi, datos móviles o en ambos casos?
 6. Sería muy útil si nos pudieras entregar tu dirección IP, la de la conexión con el problema.
 
-(Dime si necesitas ayuda para encontrar la dirección IP.)
+(Dime si necesitas ayuda para encontrar la dirección IP).
 
 {QUESTION}
 How do I find my IP address?
