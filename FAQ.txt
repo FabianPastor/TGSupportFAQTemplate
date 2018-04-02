@@ -13,29 +13,6 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
-What does the "Year Zero" and "Vault 7" stuff from Wikileaks mean?
-{KEYS}
-vault7
-year0
-yearzero
-wikileaks
-{VALUE}
-According to Wikileaks, the CIA has ways of hacking smartphones to collect message traffic *before it is encrypted*. This is not an app issue. It is relevant on the level of devices and operating systems. For this reason, naming any particular app in this context is misleading.
-
-The good news is that for the moment "Year Zero" is likely irrelevant for the majority of Telegram users. To learn more about the story and what you can do, check out this detailed post:
-http://telegra.ph/Wikileaks-Vault7-NEWS
-
-{QUESTION}
-I’ve read someone could hack my account in WhatsApp and Telegram if I opened a photo, is it true?
-{COMMENT}
-Please take care to adapt the template in such a way that it fits the user‘s question.
-{KEYS}
-checkpoint
-{VALUE}
-The WhatsApp issue discovered by Check Point is very serious, but Telegram did not have it. See this for details:
-http://telegra.ph/Checkpoint-Confusion-NEWS
-
-{QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
 themes
@@ -117,35 +94,16 @@ If it's not, it probably refers to the story of SMS interception for two Russian
 As for the report, bear in mind that Journalists from the Guardian, the Financial Times, and other reputable papers have had it since June 2016 and to this day they are unable to confirm a single statement from it.
 
 {QUESTION}
-Why doesn’t Telegram prevent cheating in games built on our platform?
+I've heard the Telegram team are planning to do something! Is this true?
 {KEYS}
-cheat
-cheats
-cheating
-cheaters
+rumor
+rumors
+rumour
+rumours
 {VALUE}
-Telegram's gaming platform enables bot developers to create in-chat games, but the Telegram team doesn’t control the way each game works, so cheating can occur. In order to prevent this, we would need to sync not only the results, but every action players take in every game, with the developer's server — which would be hard for developers to set up and maintain.
+I'm a member of the Telegram volunteer support. I can help you if you're having any issues with our apps.
 
-Cheating is a problem for many games, including those that are published on the App Store or Google Play. In each case, it is up to the game developers to catch any cheaters. As more and more games are published by third-party developers over time, we hope you will be able to find games that work just as you want them to.
-
-{QUESTION}
-Unread counter shows an extra +1
-{COMMENT}
-https://trello.com/c/pzfSzLxW/
-{KEYS}
-1notif
-1unread
-notification
-notifications
-1notification
-notificationbug
-notificationsbug
-{VALUE}
-We're currently aware of this issue. It's being looked into right now, and we are hoping to get it fixed as soon as possible. 
-
-If you don't wish to wait for the fix, we can suggest a workaround: log in with our desktop app (desktop.telegram.org), find the group chat with an unread message there and open it to get rid of the extra notification.
-
-Sorry for any inconvenience! We'll get back to you as soon as we have any news. Here’s a technical hashtag that will help us find your question: #issue_pzfSzLxW
+All important official news about Telegram is announced on telegram.org and via the @telegram channel.
 
 {COMMENT}
 =================================
@@ -521,11 +479,8 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram is used by more than 100 million people around the world. In February 2016 we reached 15 billion daily messages. 
-
-Read more:
-https://telegram.org/blog/100-million
-https://telegram.org/blog/15-billion
+Telegram is used by over 200 million people around the world.
+https://telegram.org/blog/200-million
 
 In February 2018, our founder, Pavel Durov also announced that every day over 500,000 users download Telegram for Android, and about 100,000 users download Telegram for iOS.
 
@@ -634,8 +589,8 @@ marketing
 advertising
 {VALUE}
 Telegram isn't a commercial organization and we don't do advertising or marketing.
-This hasn't stopped us from reaching a 100 million monthly active users and delivering over 15 billion daily messages.
-https://telegram.org/blog/15-billion
+This hasn't stopped us from reaching 200 million monthly active users.
+https://telegram.org/blog/200-million
 
 If you like Telegram, please recommend it to your friends and family.
 Bring one or two people you're close with, then watch the chain reaction.
@@ -953,9 +908,9 @@ findstickers
 {VALUE}
 We don't have an official store for stickers, the platform is open for anyone to use. If you'd like to get more stickers, there are a few ways:
 
-1) Simply type '@sticker' in the input field, leave a space, and then enter one or more emoji - the bot will offer you some sticker suggestions to choose from.
+1) If you receive a sticker you like, tap on it — the relevant sticker pack will open and you can add it to your sticker panel.
 
-2) If you receive a sticker you like, tap on it — the relevant sticker pack will open and you can add it to your sticker panel.
+2) Use sticker search to discover new packs. On our mobile apps, you need to pull down the sticker panel to see the search field.
 
 3) Browse and add the stickers that are currently trending on Telegram, by going to Telegram Settings > Stickers > Trending Stickers.
 
@@ -1072,6 +1027,18 @@ werewolf
 There are many game bots on Telegram, made by developers from all over the world. Those that use our new Gaming Platform can be played in full-screen, with graphics and sounds. You can read more and find examples here: https://telegram.org/blog/games
 
 We'll be glad to guide you on how Telegram bots work in general, but if you need help with any game in particular, you'll have to ask your friends or search online.
+
+{QUESTION}
+Why doesn’t Telegram prevent cheating in games built on our platform?
+{KEYS}
+cheat
+cheats
+cheating
+cheaters
+{VALUE}
+Telegram's gaming platform enables bot developers to create in-chat games, but the Telegram team doesn’t control the way each game works, so cheating can occur. In order to prevent this, we would need to sync not only the results, but every action players take in every game, with the developer's server — which would be hard for developers to set up and maintain.
+
+Cheating is a problem for many games, including those that are published on the App Store or Google Play. In each case, it is up to the game developers to catch any cheaters. As more and more games are published by third-party developers over time, we hope you will be able to find games that work just as you want them to.
 
 {QUESTION}
 What does the LED setting mean?
@@ -2009,36 +1976,54 @@ Open the chat with the user, then tap the chat header to go to their Profile pag
 {QUESTION}
 How do I delete a contact? (iOS)
 {KEYS}
+delci
 delcontacti
 delcontactios
 deletecontacti
 deletecontactios
 {VALUE}
-To delete a contact, open a chat with the person, tap on their profile pic, then Edit and 'Delete contact'. Important: This will also delete the contact from your device's contacts.
+To remove a contact on Telegram:
+1. Open a chat with the contact you want to delete.
+2. Tap the photo to open the chat profile.
+3. Choose "Edit" — "Delete contact".
+
+Important: This will also delete the contact from your device's contacts.
 
 {QUESTION}
 How do I delete a contact? (Android)
 {KEYS}
+delca
 delcontacta
 deletecontacta
 delcontactandroid
 deletecontactandroid
 {VALUE}
-To delete a contact, open a chat with the person, tap on their profile pic, then on '...' in the top right corner and tap 'Delete'.
+Telegram stays in sync with your phone contacts, so if you want to delete a contact completely, you need to remove it from both your Telegram contacts and your phone book.
 
-If you want to delete the contact completely, make sure you also do that in your phone contacts, as Telegram stays in sync and will add it again otherwise.
+To remove a contact on Telegram:
+1. Open a chat with the contact you want to delete.
+2. Tap the photo or title to open the chat profile.
+3. Tap the "..." in the top-right corner and choose "Delete".
+
+Note: if you keep this contact in your phone book, Telegram will add it again.
 
 {QUESTION}
 How do I delete a contact? (Windows Phone)
 {KEYS}
+delcwp
 delcontactwp
 deletecontactwp
 delcontactwindowsphone
 deletecontactwindowsphone
 {VALUE}
-To delete a contact, open a chat with the person, tap on their profile pic, then on '...' in the bottom right corner and tap 'Delete'.
+Telegram stays in sync with your phone contacts, so if you want to delete a contact completely, you need to remove it from both your Telegram contacts and your phone book.
 
-If you want to delete the contact completely, make sure you also do that in your phone contacts, as Telegram stays in sync and will add it again otherwise.
+To remove a contact on Telegram:
+1. Open a chat with the contact you want to delete.
+2. Tap the photo to open the chat profile.
+3. Tap the "..." in the bottom right corner and choose "Delete".
+
+Note: if you keep this contact in your phone book, Telegram will add it again.
 
 {QUESTION}
 How do I share a contact? (Android)
@@ -2724,6 +2709,29 @@ This article is misleading. The author dismisses the Telegram protocol as insecu
 
 Here's a detailed explanation of how J. Jakobsen's paper creates a false impression about Telegram's security:
 http://telegra.ph/mtproto-security-01-17
+
+{QUESTION}
+What does the "Year Zero" and "Vault 7" stuff from Wikileaks mean?
+{KEYS}
+vault7
+year0
+yearzero
+wikileaks
+{VALUE}
+According to Wikileaks, the CIA has ways of hacking smartphones to collect message traffic *before it is encrypted*. This is not an app issue. It is relevant on the level of devices and operating systems. For this reason, naming any particular app in this context is misleading.
+
+The good news is that for the moment "Year Zero" is likely irrelevant for the majority of Telegram users. To learn more about the story and what you can do, check out this detailed post:
+http://telegra.ph/Wikileaks-Vault7-NEWS
+
+{QUESTION}
+I’ve read someone could hack my account in WhatsApp and Telegram if I opened a photo, is it true?
+{COMMENT}
+Please take care to adapt the template in such a way that it fits the user‘s question.
+{KEYS}
+checkpoint
+{VALUE}
+The WhatsApp issue discovered by Check Point is very serious, but Telegram did not have it. See this for details:
+http://telegra.ph/Checkpoint-Confusion-NEWS
 
 {COMMENT}
 =======================
