@@ -2297,7 +2297,7 @@ Por favor, prueba esto:
 
 iPhone: Ajustes de iOS > General > Fecha y hora > Activa “Ajuste automático”.
 
-Android: Ajustes de Android > Opciones/Sistema > Fecha y hora > activa “Zona horaria automática”.
+Android: Ajustes del teléfono > Sistema/Opciones > Fecha y hora > activa “Zona horaria automática”.
 
 {QUESTION}
 Notifications don't work (Android)
