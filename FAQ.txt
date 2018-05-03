@@ -1012,7 +1012,7 @@ We do not have an official store for bots, the platform is open for anyone to us
 @hangbot – play the Hangman game online or add to groups to play together with your friends.
 @AlertBot – set a time and this bot will send you a reminder.
 
-Inline bots are even easier to use. You don't need to send them messages or add them to your groups – just type their @username in the message field in any chat, then type some keywords, and the bot will offer you relevant content. Here are several sample bots for you to try out: @gif, @vid, @pic, @bing, @wiki, @imdb, @bold.
+Inline bots are even easier to use. You don't need to send them messages or add them to your groups – just type their @username in the message field in any chat, then type some keywords, and the bot will offer you relevant content. Here are several sample bots for you to try out: @gif, @vid, @pic, @wiki, @imdb, @gamee.
 
 If you'd like to find more bots, try searching the web for 'Telegram Bots' – you'll get many results.
 
