@@ -1012,7 +1012,7 @@ No tenemos una tienda oficial de bots. La plataforma está abierta para todo aqu
 @hangbot: juega al Ahorcado en línea o añádelo a grupos para jugar con tus amigos.
 @AlertBot: establece una hora y este bot te enviará un recordatorio.
 
-Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: tan solo escribe su @alias en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @bing, @wiki, @imdb y @bold.
+Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: tan solo escribe su @alias en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @wiki, @imdb y @gamee.
 
 Si quieres conocer más bots, puedes probar buscando en internet “Telegram Bots”, encontrarás muchos resultados.
 
