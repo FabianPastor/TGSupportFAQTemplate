@@ -105,6 +105,14 @@ Soy parte del equipo de voluntarios de soporte de Telegram. Te puedo ayudar si t
 
 Todas las noticias importantes de carácter oficial sobre Telegram son anunciadas en telegram.org y a través del canal @telegram.
 
+{QUESTION}
+How do I request a copy of my data as per GDPR? 
+{KEYS}
+gdpr
+gdprbot
+{VALUE}
+Puedes usar @gdprbot para hacer una solicitud de sus datos de Telegram e información de tu cuenta, o para ponerte en contacto con el responsable de protección de datos de Telegram. Próximamente se publicarán otras actualizaciones de nuestras aplicaciones y políticas relacionadas con el RGPD.
+
 {COMMENT}
 =================================
 -BASIC TEMPLATES-
