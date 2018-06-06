@@ -12,6 +12,17 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 
+
+{QUESTION}
+I don't see Telegram X for iOS in the store anymore!
+{KEYS}
+tgxi
+tgxios
+{VALUE}
+Telegram X para iOS fue retirada temporalmente de la tienda por su desarrollador hasta que la aplicación pudiera ser actualizada. Tristemente, la actualización no pudo llegar a la tienda porque Apple nos ha estado bloqueando la posibilidad de actualizar ambas aplicaciones iOS desde mediados de abril: https://t.me/durov/87
+
+El equipo de Telegram sigue trabajando para resolver la situación y volverá a poner en circulación Telegram X tan pronto como sea posible.
+
 {QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
@@ -110,6 +121,7 @@ How do I request a copy of my data as per GDPR?
 {KEYS}
 gdpr
 gdprbot
+eulaw
 {VALUE}
 Puedes usar @gdprbot para hacer una solicitud de sus datos de Telegram e información de tu cuenta, o para ponerte en contacto con el responsable de protección de datos de Telegram. Próximamente se publicarán otras actualizaciones de nuestras aplicaciones y políticas relacionadas con el RGPD.
 
