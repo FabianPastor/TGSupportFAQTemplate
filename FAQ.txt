@@ -14,16 +14,6 @@ Should you have any questions or suggestions, please write to your local groups 
 
 
 {QUESTION}
-I don't see Telegram X for iOS in the store anymore!
-{KEYS}
-tgxi
-tgxios
-{VALUE}
-Telegram X para iOS fue retirada temporalmente de la tienda por su desarrollador hasta que la aplicación pudiera ser actualizada. Tristemente, la actualización no pudo llegar a la tienda porque Apple nos ha estado bloqueando la posibilidad de actualizar ambas aplicaciones iOS desde mediados de abril: https://t.me/durov/87
-
-El equipo de Telegram sigue trabajando para resolver la situación y volverá a poner en circulación Telegram X tan pronto como sea posible.
-
-{QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
 themes
@@ -32,7 +22,7 @@ themesd
 themedesktop
 themesdestop
 {VALUE}
-Desde la versión 1.0, Telegram Desktop es compatible con los temas personalizados, así que podrás elegir uno alternativo para tu aplicación.
+Desde la versión 1.0, Telegram Desktop te permite usar temas personalizados, por lo que puedes configurar un diseño alternativo para tu aplicación.
 
 Prueba algunos temas desde aquí: @Themes.
 
@@ -51,7 +41,7 @@ themesa
 themeandroid
 themesandroid
 {VALUE}
-Desde la versión 3.17, Telegram para Android soporta temas personalizados, así que puedes configurar un diseño alternativo para tu aplicación.
+Desde la versión 3.17, Telegram para Android te permite usar temas personalizados, por lo que puedes configurar un diseño alternativo para tu aplicación.
 
 Para cambiar a un tema diferente, volver al tema por defecto o crear uno nuevo, ve a Ajustes > Tema. 
 
@@ -112,7 +102,7 @@ rumors
 rumour
 rumours
 {VALUE}
-Soy parte del equipo de voluntarios de soporte de Telegram. Te puedo ayudar si tienes algún problema con nuestras aplicaciones.
+Soy parte del equipo de voluntarios de soporte de Telegram. Puedo ayudarte si tienes algún problema con nuestras aplicaciones.
 
 Todas las noticias importantes de carácter oficial sobre Telegram son anunciadas en telegram.org y a través del canal @telegram.
 
@@ -123,7 +113,24 @@ gdpr
 gdprbot
 eulaw
 {VALUE}
-Puedes usar @gdprbot para hacer una solicitud de sus datos de Telegram e información de tu cuenta, o para ponerte en contacto con el responsable de protección de datos de Telegram. Próximamente se publicarán otras actualizaciones de nuestras aplicaciones y políticas relacionadas con el RGPD.
+Puedes usar @gdprbot para hacer una solicitud de sus datos de Telegram e información de tu cuenta, o hacer una pregunta relacionada. Próximamente se publicarán otras actualizaciones de nuestras aplicaciones y políticas relacionadas con el RGPD.
+
+{QUESTION}
+What is Telegram Passport? How do I use it?
+{KEYS}
+pass
+tgpass
+passport
+tgpassport
+telegrampassport
+{VALUE}
+Telegram Passport permite que te registres en servicios que requieren identificación personal. Puedes subir tus documentos una vez, y luego compartir al instante tus datos con servicios que requieren identificaciones del mundo real (finanzas, ICO, etc.).
+
+Los datos serán almacenados en la nube de Telegram y protegidos por el cifrado end-to-end. De ese modo nadie, incluyendo a Telegram, podrá acceder a ellos sin tu permiso.
+
+Una vez que hayas usado el método de autorización en cualquier sitio web que lo soporte, verás tus datos en Ajustes > Privacidad y seguridad > Telegram Passport (en iOS: Ajustes > Telegram Passport). Por favor, ten en cuenta que si no has subido documentos a Telegram Passport, no verás la opción en el menú de la aplicación. 
+
+Puedes ver más información y ejemplos en: https://telegram.org/blog/passport
 
 {COMMENT}
 =================================
@@ -220,7 +227,7 @@ Do you have a Symbian app?
 symbian
 symbianapp
 {VALUE}
-Estos dispositivos carecen de la velocidad de procesamiento y otras capacidades que necesitamos para tener las características de seguridad de Telegram. Telegram está enfocada en la velocidad y la seguridad, y no podemos comprometer estas áreas para ofrecer compatibilidad con Symbian. ¡Lo sentimos!
+No tenemos una app oficial para dispositivos Symbian. Estos dispositivos carecen de la velocidad de procesamiento y otras capacidades que necesitamos para tener las características de seguridad de Telegram. Telegram está enfocada en la velocidad y la seguridad, y no podemos comprometer estas áreas para ofrecer compatibilidad con Symbian. ¡Lo sentimos!
 
 {QUESTION}
 How do I invite a friend?
@@ -257,7 +264,7 @@ When user is posting personal stuff, as if this was a 'favourites' folder
 {KEYS}
 nothere
 {VALUE}
-Por favor, ten en cuenta que este chat se usa para asistencia técnica. Nuestros voluntarios leen todo lo que envías aquí. Si necesitas un sitio para almacenar datos, puedes usar el chat de Mensajes guardados de Telegram.
+Por favor, ten en cuenta que este chat se usa para asistencia. Nuestros voluntarios leen todo lo que envías aquí. Si necesitas un sitio para almacenar datos, puedes usar el chat de Mensajes guardados de Telegram.
 
 iOS: Ajustes de Telegram > Mensajes guardados.
 Android: Menú principal > Toca sobre la opción Mensajes guardados.
@@ -481,7 +488,7 @@ crypto
 encrypted
 encryption
 {VALUE}
-Soportamos dos capas de cifrado seguro (servidor-cliente y cliente-cliente). Nuestro cifrado está basado en el 256-bit symmetric AES, el RSA 2048 y las claves de intercambio seguro Diffie-Hellman.
+Tenemos dos capas de cifrado seguro (servidor-cliente y cliente-cliente). Nuestro cifrado está basado en el 256-bit symmetric AES, el RSA 2048 y las claves de intercambio seguro Diffie-Hellman.
 
 Cuando se crea un chat secreto, los dispositivos participantes intercambian las claves de cifrado, las también llamadas claves de intercambio Diffie-Hellman. Después de que la conexión segura “end-to-end” se haya llevado a cabo, generamos una imagen que representa la clave de cifrado para tu chat.
 
@@ -524,7 +531,7 @@ doyouread
 canyouseemessages
 canyoureadmessages
 {VALUE}
-Sólo leemos los mensajes que nos envías, por ejemplo, en este chat de soporte. Telegram no es una compañía comercial, sino un proyecto de código abierto sin ánimo de lucro, que se sustenta gracias a una donación.
+Solo leemos los mensajes que nos envías, por ejemplo, en este chat de asistencia. Telegram no es una empresa comercial, sino un proyecto de código abierto sin ánimo de lucro, que se sustenta gracias a una donación.
 
 Creamos Telegram para hacer la mensajería segura y gratuita disponible para todos. Nuestra reputación y tu privacidad son las únicas cosas que nos preocupan.
 
@@ -625,7 +632,7 @@ duties
 vacancies
 nothiring
 {VALUE}
-Estamos buscando gente polifacética para unirse a la fuerza de soporte voluntario.
+Estamos buscando gente polifacética para unirse a la fuerza de voluntarios de soporte.
 
 Si dominas el inglés, conoces cómo funcionan los teléfonos inteligentes y ordenadores, sabes algunas cosas sobre Telegram y disfrutas trabajando en equipo, encajarías perfectamente.
 {COMMENT}
@@ -810,13 +817,12 @@ archive
 backups
 archives
 {VALUE}
-Hay poca necesidad de copias de seguridad en Telegram, porque tus chats se almacenan cifrados en la Nube de Telegram, y puedes acceder a ellos desde cualquiera de tus dispositivos cuando quieras. Los chats secretos son la única excepción a la regla: sólo están disponibles en el dispositivo de origen y se pierden si cierras sesión.
+Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos multimedia que haya en ellos, usando la última versión de Telegram Desktop: https://desktop.telegram.org
 
-Mientras no elimines algo de un chat en la nube, permanecerá ahí, incluso si reinstalas Telegram, si lo usas en un segundo o tercer dispositivo o si cambias tu número de teléfono.
+Para exportar todos tus chats, ve a Ajustes > Exportar datos de Telegram.
+Para exportar chats individualmente, abre el menú de tres puntos (...) en cualquier chat y elige Exportar historial del chat.
 
-Si necesitas una copia de algunos mensajes, también puedes usar Telegram en su versión web o de ordenador. Ambos te permiten seleccionar múltiples mensajes y pegarlos en un archivo de texto, por ejemplo.
-https://desktop.telegram.org
-https://web.telegram.org
+Ten en cuenta que hay poca necesidad de hacer respaldos en Telegram, porque tus chats están almacenan cifrados en la nube de Telegram. Mientras no elimines manualmente algo de un chat en la nube, se mantendrá ahí, incluso decides reinstalar Telegram, usarlo en otro dispositivo o cambiar tu número de teléfono. Los chats secretos son la única excepción a la regla: sólo están disponibles en el dispositivo de origen y se pierden si cierras sesión.
 
 {QUESTION}
 Will I know if somebody blocks me?
@@ -828,9 +834,9 @@ whoblocked
 userblocked
 amiblocked
 {VALUE}
-No recibes una notificación cuando has sido bloqueado por otra persona. Tus mensajes simplemente dejan de ser enviados. Siempre tendrán sólo 1 tick.
+Cuando alguien te bloquea, los mensajes que le envías a esa persona dejan de ser entregados y verás sólo 1 tick en ellos. Si esta persona luego te desbloquea, no recibirá esos mensajes, pero verá los nuevos mensajes que tú le envíes tras el desbloqueo.
 
-Las personas bloqueadas:
+Las personas a las que bloqueas:
 
 - No pueden enviarte mensajes, iniciar chats secretos o llamadas contigo, ni añadirte a grupos.
 - No pueden ver tu foto de perfil
@@ -864,7 +870,7 @@ emoticon
 emoticons
 emoticonsios
 {VALUE}
-Telegram utiliza los emoticonos emoji. Tan sólo habilita el teclado emoji en los Ajustes de tu dispositivo iOS (General > Teclados > Añadir nuevo teclado... > Emoji).
+Telegram utiliza los emoticonos emoji. Simplemente habilita el teclado emoji en los Ajustes de tu dispositivo iOS (General > Teclados > Añadir nuevo teclado... > Emoji).
 
 Luego cambia a ese teclado cada vez que te quedes sin palabras ;-)
 
@@ -975,7 +981,7 @@ channels
 channelsare
 aboutchannels
 {VALUE}
-Los canales son una herramienta para difundir tus mensajes a grandes audiencias; compartir noticias importantes, cosas divertidas o cualquier cosa que quieras. A diferencia de los grupos, los destinatarios no sabrán sobre los otros y sólo los administradores del canal podrán enviar mensajes ahí.
+Los canales son una herramienta para difundir tus mensajes a grandes audiencias; compartir noticias importantes, cosas divertidas o cualquier cosa que quieras. A diferencia de los grupos, los destinatarios no sabrán los unos de los otros y sólo los administradores del canal podrán enviar mensajes en él.
 
 Los canales pueden tener un número ilimitado de miembros, y pueden ser públicos, con una URL permanente para que cualquiera pueda encontrarlos y unirse. Si quieres un ejemplo, únete a nuestro canal oficial de Telegram para recibir notificaciones sobre nuestras actualizaciones: https://t.me/telegram
 
@@ -1231,7 +1237,7 @@ ifttt
 {VALUE}
 IFTTT es un sistema gratuito que te permite conectar tu cuenta de Telegram con otros servicios para gestionarlos desde dentro de Telegram, o recibir notificaciones, fotos o vídeos cuando algo ocurre. Por ejemplo, puedes recibir un mensaje de Telegram cuando lleguen correos electrónicos importantes, encender una Smart TV, o controlar tus luces Hue con sólo enviar un mensaje de Telegram. Puedes también elegir que los miembros de un grupo interaccionen con tus servicios o tus dispositivos de forma colaborativa.
 
-Para comenzar, contacta con el bot @IFTTT, y sigue las instrucciones que te indica. Pronto deberás iniciar sesión con tu cuenta de IFTTT, conectarla con Telegram y elegir un «applet» cualquiera de la lista, o crear los tuyos propios. IFTTT es compatible con la integración con redes sociales tales como Twitter e Instagram, herramientas como Gmail o Pocket, aplicaciones de entretenimiento como Spotify o Pinterest, y muchas otras aplicaciones. Revisa https://ifttt.com/telegram para ver la lista completa.
+Para comenzar, contacta con el bot @IFTTT, y sigue las instrucciones que te indica. Pronto deberás iniciar sesión con tu cuenta de IFTTT, conectarla con Telegram y elegir un «applet» cualquiera de la lista, o crear los tuyos propios. IFTTT permite la integración con redes sociales tales como Twitter e Instagram, herramientas como Gmail o Pocket, aplicaciones de entretenimiento como Spotify o Pinterest, y muchas otras aplicaciones. Revisa https://ifttt.com/telegram para ver la lista completa.
 
 {QUESTION}
 How can I share images I receive on Telegram to other apps? (iOS)
@@ -1312,7 +1318,7 @@ why1device
 devicespecific
 whydevicespecific
 {VALUE}
-Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado de extremo a extremo, así que no se pueden sincronizar de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos soporte para los chats secretos en múltiples dispositivos en el futuro.
+Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado de extremo a extremo, así que no se pueden sincronizar de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos compatibilidad para los chats secretos en múltiples dispositivos en el futuro.
 
 Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Avísame si quieres más información sobre la seguridad en Telegram.
 
@@ -1325,7 +1331,7 @@ secretchatsd
 schatsdesktop
 secretchatsdesktop
 {VALUE}
-Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no soportan por ahora. Puede que lo incorporemos en el futuro. Ahora mismo, tanto la versión de escritorio como la versión web cargan los mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagaras tu PC.
+Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no permiten por ahora. Puede que lo incorporemos en el futuro. Ahora mismo, tanto la versión de escritorio como la versión web cargan los mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagaras tu PC.
 
 Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en un dispositivo que siempre lleves contigo. Si te preocupa la seguridad de tus chats en el PC, por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Avísame si quieres más información sobre la seguridad en Telegram.
 
@@ -2636,9 +2642,9 @@ spambot
 limited
 antispam
 {VALUE}
-Parece que tu cuenta puede estar limitada por nuestros sistemas contra el spam. Para saber más sobre las razones, o para reportar que las limitaciones fueron aplicadas de forma incorrecta, por favor, contacta a @spambot.
+Parece que tu cuenta puede estar limitada por nuestros sistemas antispam. Para saber más sobre las razones, o para reportar que las limitaciones fueron aplicadas de forma incorrecta, por favor, contacta a @spambot.
 
-Perdona por tener que redirigirte allí, pero el soporte de Telegram está hecho por voluntarios y no podemos ayudarte a quitar las limitaciones de tu cuenta aquí.
+Disculpa por tener que redirigirte a él, pero el soporte de Telegram está en mano de voluntarios y no podemos ayudarte a quitar las limitaciones de tu cuenta aquí.
 
 {QUESTION}
 How can I stop Telegram from using so much battery? (Android)
