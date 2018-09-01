@@ -113,7 +113,24 @@ gdpr
 gdprbot
 eulaw
 {VALUE}
-You can use @gdprbot to leave a request for your Telegram data and account information, or to contact Telegram's Data Protection Officer. Other updates to our apps and policies related to GDPR are coming soon.
+You can use @gdprbot to leave a request for your Telegram data and account information, or to ask a related question. Other updates to our apps and policies related to GDPR are coming soon.
+
+{QUESTION}
+What is Telegram Passport? How do I use it?
+{KEYS}
+pass
+tgpass
+passport
+tgpassport
+telegrampassport
+{VALUE}
+Telegram Passport lets you easily sign up for services that require personal identification. You can upload your documents once, then instantly share your data with services that require real-world ID (finance, ICOs, etc.).
+
+The data will be stored in the Telegram cloud and protected by end-to-end encryption — so that nobody, including Telegram, can access it without your permission.
+
+Once you've used this authorisation method on any website that supports it, you will see your data in Settings > Privacy & Security > Telegram Passport (on iOS: Settings > Telegram Passport). Please note that if you haven’t uploaded any documents to your Telegram Passport yet, you won’t see it in the app menu. 
+
+More info and examples here: https://telegram.org/blog/passport
 
 {COMMENT}
 =================================
@@ -800,13 +817,12 @@ archive
 backups
 archives
 {VALUE}
-There is less need for backups in Telegram, because your chats are stored encrypted in the Telegram Cloud — and you can access them from any of your devices anytime. Secret Chats are the only exception to this rule: they are only available on their device of origin and are lost when you log out.
+You can export all of your cloud chats, including photos and other media they contain, using the latest version of Telegram Desktop: https://desktop.telegram.org
 
-As long as you don't manually delete anything from a cloud chat, it stays there, even if you reinstall Telegram, use it on a second or third device or change your phone number.
+To export all chats, use Settings > Export Telegram data.
+To export individual chats, open the … menu in any chat and choose Export chat history.
 
-If you need to copy certain messages, you can also use the Telegram web or desktop version. Both allow you to select multiple messages and paste into a text file, for example.
-https://desktop.telegram.org
-https://web.telegram.org
+Note that there is less need for backups in Telegram, because your chats are stored encrypted in the Telegram Cloud. As long as you don't manually delete anything from a cloud chat, it stays there, even if you reinstall Telegram, use it on a second or third device or change your phone number. Secret Chats are the only exception to this rule: they are only available on their device of origin and are lost when you log out.
 
 {QUESTION}
 Will I know if somebody blocks me?
@@ -818,9 +834,9 @@ whoblocked
 userblocked
 amiblocked
 {VALUE}
-You don't get a notification when you have been blocked by another person. Your messages just stop being delivered, they will always have 1 check.
+When someone blocks you, messages you send to them stop being delivered - you will see 1 check mark for them. If this person then unblocks you, they won’t receive those messages, but will see new messages you send after getting unblocked.
 
-Blocked people:
+People you block:
 
 - can't send you messages, start secret chats or calls with you, or add you to groups
 - can't see your profile picture
