@@ -1121,10 +1121,9 @@ numberhide
 numberprivacy
 hidephonenumber
 {VALUE}
-Your phone number is hidden from other users. They can only see it in the following three cases:
+Your phone number is hidden from other users. They can only see it in the following cases:
 - If they already have your phone number saved in their address book.
 - If you've shared your number yourself (with 'Share My Contact Info')
-- If you have their phone number saved in your address book and you message or call them (as if they get your SMS or phone call).
 
 They won't see your number otherwise — for instance, if they find you via our global search or in a group chat.
 
