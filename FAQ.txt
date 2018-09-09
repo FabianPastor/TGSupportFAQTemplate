@@ -1121,12 +1121,11 @@ numberhide
 numberprivacy
 hidephonenumber
 {VALUE}
-Tu número de teléfono está oculto a otros usuarios. Solamente podrán verlo en los siguientes casos:
-- Si ellos ya tienen tu número de teléfono guardado en su agenda.
-- Si tú mismo compartes tu número (usando “Compartir mi número”)
-- Si tienes su número guardado en tu agenda y les envías un mensaje o les llamas (como si recibieran un SMS o llamada de tu parte).
+Tu número de teléfono está oculto para otros usuarios, excepto:
+- Si ellos ya tienen tu número de teléfono guardado en su agendas.
+- Si compartiste tu número (con “Compartir mi número”).
 
-No verán tu número en ninguna otra circunstancia, como por ejemplo si te encuentran usando nuestra búsqueda global o en un chat grupal.
+En caso contrario, no verán tu número si te encuentran por la búsqueda global o en un chat de grupo.
 
 {QUESTION}
 Can I edit my messages?
