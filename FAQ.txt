@@ -14,6 +14,44 @@ Should you have any questions or suggestions, please write to your local groups 
 
 
 {QUESTION}
+What will happen to the X app?
+{KEYS}
+iosx
+{VALUE}
+The default Telegram iOS App has been updated to the Swift version previously known as Telegram X. So if you have been using Telegram X, you can now enjoy it in the main version of Telegram for iOS.
+
+You can keep using Telegram X too, but since it is likely to stop receiving updates in future, we invite you to install the main version here:
+https://telegram.org/dl/ios
+
+{QUESTION}
+What about the Apple Watch app?
+{KEYS}
+watch
+watchios
+applewatch
+{VALUE}
+With the latest version of the Telegram app for iOS, it is possible to receive notifications and reply to messages using your watch. The app may get full watch support later in the future. 
+
+If you were a user of the old Apple Watch app, did you often use the watch app for something rather than notifications and quick replies? If so, could you please tell me which features you're now missing?
+
+{QUESTION}
+My phone doesn't support the new version (iOS)
+{KEYS}
+ios7
+ios6
+iosold
+{VALUE}
+The latest version of the Telegram app for iOS requires iOS 8.0 or higher. If your device only supports an older iOS version, you will be able to continue using the old app, but I'm afraid there will be no updates for you to install until you get a new device. Sorry about this! Time moves on, and the app needs to move with it, in order to bring modern features with each update.
+
+{QUESTION}
+Where is this feature on the new iOS version? Why did you remove it?
+{KEYS}
+featureios
+featureswift
+{VALUE}
+I'm afraid it is currently unavailable on the latest version of the Telegram app for iOS - but the app will be getting frequent updates with fixes and new functionality, so if something's missing right now, it should be back in future. Sorry for the trouble!
+
+{QUESTION}
 How do I use themes? (Desktop)
 {KEYS}
 themes
@@ -28,7 +66,7 @@ Try it out with some themes from here: @Themes.
 
 To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
 
-If you want to go back to the default theme, click on the main menu icon near the search field > Settings > scroll down to "Chat background" > "Use default color theme".
+If you want to use one of the default themes, click on the main menu icon near the search field > Settings > Chat Settings > Themes.
 
 Here’s a detailed guide on themes if you’d like one:
 http://telegra.ph/Telegram-Themes-FAQ#Desktop
@@ -128,7 +166,7 @@ Telegram Passport lets you easily sign up for services that require personal ide
 
 The data will be stored in the Telegram cloud and protected by end-to-end encryption — so that nobody, including Telegram, can access it without your permission.
 
-Once you've used this authorisation method on any website that supports it, you will see your data in Settings > Privacy & Security > Telegram Passport (on iOS: Settings > Telegram Passport). Please note that if you haven’t uploaded any documents to your Telegram Passport yet, you won’t see it in the app menu. 
+Once you've used this authorization method on any website that supports it, you will see your data in Settings > Privacy & Security > Telegram Passport (on iOS: Settings > Telegram Passport). Please note that if you haven’t uploaded any documents to your Telegram Passport yet, you won’t see it in the app menu. 
 
 More info and examples here: https://telegram.org/blog/passport
 
@@ -212,14 +250,14 @@ unofficialandroid
 unofficialappandroid
 officialappandroid
 {VALUE}
-This is the support chat for official Telegram apps.
+This is the support chat for Telegram apps. Since Telegram is open-source, there are many Telegram-based apps made by developers all over the world, with different names and features, and you're currently using one of them.
 
-WARNING: You are not using one of Telegram's approved official clients. Since Telegram is open-source, there are a lot of Telegram-based apps under different names and with different features, made by developers from all over the world — you are currently using one of them.
+It looks like your app is not one of Telegram's approved official clients. You're totally free to choose any app you prefer, but please note that we can only guarantee your experience if you use our official clients. It also helps us to know that any problems you may be facing are not because of third-party modifications.
 
-You're totally free to choose any app you prefer — at your own risk. However, we can only guarantee your Telegram experience if you use our official clients. You can download the official Telegram for Android here:
+You can download our official client for Android here:
 https://telegram.org/dl/android
 
-Like all our official apps, it is free, shows no ads and gets the latest features first. If you switch now, all your chats - apart from Secret Chats - will be safely transferred over, as they're stored in the Telegram Cloud. Tell me if you want to learn more about Telegram for Android.
+It is free, shows no ads and gets the latest features first. All your chats - apart from Secret Chats - will be safely transferred over. Tell me if you want to learn more about it.
 
 {QUESTION}
 Do you have a Symbian app?
@@ -708,7 +746,7 @@ deletedchataccident
 {VALUE}
 Sorry, there is no way to restore chats or messages if you deleted them.
 
-But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could manually forward you specific chat messages you need. And if it was a secret chat, they may be able to take screenshots for you or just copy the text if screenshots are disabled on their device.
+But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could export the chat and send it to you or manually forward you specific chat messages you need. And if it was a secret chat, they may be able to take screenshots for you or just copy the text if screenshots are disabled on their device.
 
 {QUESTION}
 How do I know who is using Telegram?
@@ -731,7 +769,7 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-In Telegram, you can create a group with your friends, and then ask them to add their friends as well — an easy way to meet new people. Tell me if you'd like to learn how to create groups.
+In Telegram, you can create a group with your friends, and then ask them to add their friends as well — an easy way to meet new people. You can also join an already existing public group — try our @PublicTestGroup for example. Tell me if you'd like to learn how to create groups or search for them.
 
 There are also unofficial bots designed for getting in touch with other users interested. Try searching the web for 'Telegram bots new friends' – you'll get many results.
 
@@ -773,6 +811,7 @@ http://telegra.ph/Calls-FAQ
 How do I send audio and video messages?
 {KEYS}
 audio
+button
 videochat
 audiomessage
 videomessage
@@ -819,7 +858,7 @@ archives
 {VALUE}
 You can export all of your cloud chats, including photos and other media they contain, using the latest version of Telegram Desktop: https://desktop.telegram.org
 
-To export all chats, use Settings > Export Telegram data.
+To export all chats, use Settings > Advanced > Export Telegram data.
 To export individual chats, open the … menu in any chat and choose Export chat history.
 
 Note that there is less need for backups in Telegram, because your chats are stored encrypted in the Telegram Cloud. As long as you don't manually delete anything from a cloud chat, it stays there, even if you reinstall Telegram, use it on a second or third device or change your phone number. Secret Chats are the only exception to this rule: they are only available on their device of origin and are lost when you log out.
@@ -994,14 +1033,82 @@ Android: Tap the pencil icon in the chat list. Then ‘New Channel’.
 Windows Phone: Tap the '+' sign in the chat main menu. Then ‘New Channel’.
 
 {QUESTION}
-Where do I find new channels?
+Where do I find new channels and groups? (iOS)
 {KEYS}
-morechan
-getchannels
-morechannels
-findchannels
+morechani
+getchannelsi
+morechannelsi
+findchannelsi
+moregroupsi
+getgroupsi
+findgroupsi
+morechanios
+getchannelsios
+morechannelsios
+findchannelsios
+moregroupsios
+getgroupsios
+findgroupsios
 {VALUE}
-Sorry, we don't have an official list of Telegram channels. The best way of finding them now would be to search on the web for 'Telegram channels'.
+Most groups and some channels are private. You cannot search for them. To join them you must be added by an admin or be sent an invitation link.
+
+Public groups and channels have a @username. You can search for this in the same way as you search for people and bots: scroll a little up in the chats list, then type in the search box above.
+
+Once you find the public group or channel, you can join it by opening the chat and pressing "join" at the bottom of the screen. 
+
+Telegram does not have a public list of groups or channels, but you can find many by searching the web - for example  "Telegram Groups or Channels about Engineering".
+
+{QUESTION}
+Where do I find new channels and groups? (Android)
+{KEYS}
+morechana
+getchannelsa
+morechannelsa
+findchannelsa
+moregroupsa
+getgroupsa
+findgroupsa
+moregroupsandroid
+getgroupsandroid
+morechanandroid
+findgroupsandroid
+morechannelsandroid
+getchannelsandroid
+findchannelsandroid
+{VALUE}
+Most groups and some channels are private. You cannot search for them. To join them you must be added by an admin or be sent an invitation link.
+
+Public groups and channels have a @username. You can search for this in the same way as you search for people and bots: tap the magnifying glass icon in the top right corner in the chat list, then type in the search box.
+
+Once you find the public group or channel, you can join it by opening the chat and pressing "join" at the bottom of the screen. 
+
+Telegram does not have a public list of groups or channels, but you can find many by searching the web - for example  "Telegram Groups or Channels about Engineering".
+
+{QUESTION}
+Where do I find new channels and groups? (Desktop)
+{KEYS}
+morechandesk
+getchannelsdesk
+morechannelsdesk
+findchannelsdesk
+moregroupsdesk
+getgroupsdesk
+findgroupsdesk
+moregroupsdesktop
+getgroupsdesktop
+findgroupsdesktop
+morechandesktop
+getchannelsdesktop
+morechannelsdesktop
+findchannelsdesktop
+{VALUE}
+Most groups and some channels are private. You cannot search for them. To join them you must be added by an admin or be sent an invitation link.
+
+Public groups and channels have a @username. You can search for this in the same way as you search for people and bots – by typing in the search field above your chats list.
+
+Once you find the public group or channel, you can join it by opening the chat and pressing "join" at the bottom of the screen. 
+
+Telegram does not have a public list of groups or channels, but you can find many by searching the web - for example  "Telegram Groups or Channels about Engineering".
 
 {QUESTION}
 How are supergroups different from basic groups?
@@ -1053,6 +1160,20 @@ werewolf
 There are many game bots on Telegram, made by developers from all over the world. Those that use our new Gaming Platform can be played in full-screen, with graphics and sounds. You can read more and find examples here: https://telegram.org/blog/games
 
 We'll be glad to guide you on how Telegram bots work in general, but if you need help with any game in particular, you'll have to ask your friends or search online.
+
+{QUESTION}
+How can I withdraw my money?
+{KEYS}
+btc
+cashout
+wallet
+withdraw
+{VALUE}
+Telegram apps currently don't support any cryptocurrency wallet functionality. If you are already using a bot to do this, you'll need to contact the bot's developers for assistance with any issues.
+
+Please be careful when using any bots that promise free cryptocurrency or offer wallet services. They are not official and not connected to Telegram in any way.
+
+If anyone is offering you free cryptocurrency or extremely high returns on any kind of investment, it is almost always too good to be true – stay away and stay safe.
 
 {QUESTION}
 Why doesn’t Telegram prevent cheating in games built on our platform?
@@ -1409,7 +1530,7 @@ iOS: To set up a username, go to Settings and tap your details at the top. Then,
 
 WP: To set up a username, tap '...' in the chat list to go to Settings, then 'Set Username'.
 
-Desktop: To set up a username, click on the menu icon near the search field, then 'Settings' > 'Choose Username'.
+Desktop: To set up a username, click on the menu icon near the search field, then 'Settings' > 'Edit Profile' > 'Add Username'.
 
 Web: To set up a username, go to Settings, then 'Set username'.
 
@@ -1741,7 +1862,7 @@ unwantedmessages
 {VALUE}
 If you receive ads or other kinds of annoying messages from strangers, kindly report them by pressing the ‘Report Spam’ button.
 
-Please also note that when you set up a username, you enable global search for your account. This means that people can find you and send you messages, even if they don't have your number. (Your phone number will be hidden from them unless you share it yourself or add them to your contacts.)
+Please also note that when you set up a username, you enable global search for your account. This means that people can find you and send you messages, even if they don't have your number. (Your phone number will be hidden from them unless you share it yourself.)
 
 If you don't want people to contact you, it's best to remove the username. Alternatively, you could block people who are sending unwanted messages.
 
@@ -1955,7 +2076,11 @@ writemessage
 To send a new message, make sure you have your friends' phone number saved in your contacts on the device, and that they also use Telegram.
 Tap the button for "new message" in the chat overview and pick a contact from the list.
 
-You can also send messages to people if you know their username on Telegram. In that case, go to Contacts and type the username in the search field to find your friend.
+You can also send messages to people if you know their @username on Telegram: type it in the search field above your chats list.
+
+Android: To find the search field, tap the magnifying glass icon in the top right corner in the chat list. Then type in the search box.
+
+iOS: To find the search field, scroll a little up in the chats list. Then type in the search box above.
 
 {QUESTION}
 How do I block somebody?
@@ -2268,8 +2393,6 @@ iOS, macOS: Settings > Edit > scroll all the way down, then 'Logout'.
 
 WP: Tap '...' in the Chat view > Settings > scroll all the way down, then 'Logout'.
 
-Legacy OS X: File > Log Out.
-
 Remember that if you log out, you will lose all your Secret Chats.
 
 {QUESTION}
@@ -2280,7 +2403,7 @@ logoutdesktop
 {VALUE}
 Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings — Turn on local passcode. When it’s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
 
-To log out, go to Settings — Log Out.
+To log out, go to Settings > three dots in the top-right corner > Log out.
 
 {COMMENT}
 ===================
