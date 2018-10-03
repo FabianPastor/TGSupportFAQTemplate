@@ -20,7 +20,7 @@ iosx
 {VALUE}
 La aplicación ya existente de Telegram para iOS fue actualizada a la versión de Swift, que era anteriormente conocida como Telegram X. Así que, si has estado usando Telegram, X, ahora puedes disfrutarla como la versión principal de Telegram para iOS.
 
-Puedes seguir usando Telegram X también, pero como probablemente dejará de recibir actualizaciones a futuro, te invitamos a instalar la versión principal desde aquí:
+Puedes seguir usando Telegram X también, pero como probablemente dejará de recibir actualizaciones en un futuro, te invitamos a instalar la versión principal desde aquí:
 https://telegram.org/dl/ios
 
 {QUESTION}
@@ -2393,8 +2393,6 @@ iOS, macOS: Ajustes > Editar > deslízate hasta abajo, y luego “Cerrar sesión
 
 WP: Toca “...” en la pantalla de Chats > Ajustes > deslízate hasta abajo, y luego “Cerrar sesión”.
 
-Versión antigua para OS X: Archivo > Cerrar sesión.
-
 Recuerda que si cierras tu sesión, perderás todos tus chats secretos.
 
 {QUESTION}
@@ -2405,7 +2403,7 @@ logoutdesktop
 {VALUE}
 De normal, no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. Si quieres bloquear la aplicación para otras personas en tu dispositivo, puedes establecer un código de acceso: Ajustes > Activar código de acceso. Cuando está activo, puedes bloquear la aplicación haciendo clic en el icono del candado que está junto a la barra de búsqueda, y nadie podrá abrirla sin ese código.
 
-Para cerrar sesión, ve a Ajustes > Cerrar sesión.
+Para cerrar sesión, ve Ajustes > tres puntos en la esquina superior derecha > Cerrar sesión.
 
 {COMMENT}
 ===================
