@@ -257,7 +257,7 @@ It looks like your app is not one of Telegram's approved official clients. You'r
 You can download our official client for Android here:
 https://telegram.org/dl/android
 
-It is free, shows no ads and gets the latest features first. All your chats - apart from Secret Chats - will be safely transferred over. Tell me if you want to learn more about it.
+It is free, shows no ads and gets the latest features first. All your chats - apart from Secret Chats - will be safely transferred over.
 
 {QUESTION}
 Do you have a Symbian app?
@@ -384,7 +384,7 @@ https://telegram.org/faq#q-who-are-the-people-behind-telegram
 https://telegram.org/faq#q-where-is-telegram-based
 
 You may also find these articles interesting:
-http://telegram.org/press
+https://telegram.org/press
 
 {QUESTION}
 What is Telegram?
@@ -769,7 +769,7 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-In Telegram, you can create a group with your friends, and then ask them to add their friends as well — an easy way to meet new people. You can also join an already existing public group — try our @PublicTestGroup for example. Tell me if you'd like to learn how to create groups or search for them.
+In Telegram, you can create a group with your friends, and then ask them to add their friends as well — an easy way to meet new people. You can also join an already existing public group — try our @PublicTestGroup for example.
 
 There are also unofficial bots designed for getting in touch with other users interested. Try searching the web for 'Telegram bots new friends' – you'll get many results.
 
@@ -782,7 +782,7 @@ tel
 videocall
 videocalls
 {VALUE}
-We are not working on this feature at the moment. For now, you can use our voice calls or send video messages to your Telegram friends. To send a video message, tap the mic icon to switch to camera mode, then tap and hold the camera icon to record a message.
+Sorry, we don't currently have this feature. For now, you can use our voice calls or send video messages to your Telegram friends. To send a video message, tap the mic icon to switch to camera mode, then tap and hold the camera icon to record a message.
 
 {QUESTION}
 Do you have calls?
@@ -942,7 +942,7 @@ stickersios
 {VALUE}
 There is a button to open the stickers panel on the right-hand side of your input field. When you add sticker sets, they will appear in this panel. Try it with https://t.me/addstickers/animals or https://t.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
 
-When you have the stickers panel enabled in your app settings, emoji have dual functions. If you start a message with an emoji, you may see a relevant sticker suggestion for it. Check 😄😘😦😏😐👽👍👌👈🙌💪 for a few sticker examples.
+When you start a message with an emoji, you may see a relevant sticker suggestion for it. Check 😄😘😦😏😐👽👍👌👈🙌💪 for a few sticker examples.
 
 If you'd like to know how to find more stickers, let me know and I'll be glad to give you some tips.
 
@@ -956,7 +956,7 @@ stickersandroid
 {VALUE}
 There is a stickers tab in the emoji panel. When you add sticker sets, they will appear in this tab. Try it with https://t.me/addstickers/animals or https://t.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
 
-When you have the stickers tab enabled in your app settings, emoji have dual functions. If you start a message with an emoji, you may see a relevant sticker suggestion for it. Check 😄😘😦😏😐👽👍👌👈🙌💪 for a few sticker examples.
+When you start a message with an emoji, you may see a relevant sticker suggestion for it. Check 😄😘😦😏😐👽👍👌👈🙌💪 for a few sticker examples.
 
 If you'd like to know how to find more stickers, let me know and I'll be glad to give you some tips.
 
@@ -1335,7 +1335,7 @@ sdcard
 {VALUE}
 You can move the Telegram app to the SD card, but media files will still be saved to the internal storage of your phone – it's not possible to change it at the moment.
 
-If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about it.
+If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. You can learn more about this here: https://telegra.ph/Cache-Management-FAQ
 
 {QUESTION}
 Why do I see a warning about scam in bot’s messages?
@@ -2371,11 +2371,10 @@ stolen
 stolenphone
 phonestolen
 {VALUE}
-
 First of all, sorry about your phone. Unfortunately, the phone number is the only way for us to identify a Telegram user at the moment, so for now you'll need to follow these steps:
 
 1. First and foremost, you need to contact your SIM provider so that they can block your old SIM and issue you with a new one with the same number.
-2. If you are logged in to Telegram on any of your other devices, go to Settings - Terminate all other sessions. This will log out all other devices. If the old SIM has been blocked by this time, nobody can access your data. You can resume ordinary Telegram usage.
+2. If you are logged in to Telegram on any of your other devices, go to Settings > Privacy and Security > Active sessions and terminate all other sessions there. This will log out all other devices. If the old SIM has been blocked by this time, nobody can access your data. You can resume ordinary Telegram usage.
 3. If you are not logged in to Telegram, wait till you receive your new SIM with the old number, log in to Telegram, then go to Settings - Terminate all other sessions. Then you can resume ordinary Telegram usage.
 
 Please note, that Telegram accounts have a self-destruct option that is enabled by default. This means that all Telegram accounts are automatically deleted after 6 months of inactivity (you can manually change this in Settings - Privacy and Security, with options ranging from 1 month to 1 year).
@@ -2675,7 +2674,6 @@ To do this:
 2. Tap and hold on "Telegram for Android" until you see an emoticon appear, then let go.
 3. Tap and hold on the same area again, this time a menu will appear.
 4. Tap on "Reset Imported Contacts".
-
 
 {QUESTION}
 I'm getting 'joined' notifications for people I don't recognize! (iOS)
