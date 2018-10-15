@@ -257,7 +257,7 @@ Parece ser que tu aplicación no es una de las versiones oficiales aprobadas por
 Puedes descargar nuestra versión oficial de Telegram para Android aquí:
 https://telegram.org/dl/android
 
-Es gratis, no muestra publicidad y recibe las características más nuevas primero. Todos tus chats, a excepción de los chats secretos, se transferirán correctamente. Dime si quieres saber más al respecto.
+Es gratis, no muestra publicidad y recibe las características más nuevas primero. Todos tus chats, a excepción de los chats secretos, se transferirán correctamente.
 
 {QUESTION}
 Do you have a Symbian app?
@@ -384,7 +384,7 @@ https://telegram.org/faq/es#p-quines-son-las-personas-que-estn-detrs-de-telegram
 https://telegram.org/faq/es#p-dnde-se-establece-telegram
 
 Puede que encuentres interesantes estos artículos:
-http://telegram.org/press
+https://telegram.org/press
 
 {QUESTION}
 What is Telegram?
@@ -769,7 +769,7 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-En Telegram, puedes crear un grupo con tus amigos y pedirles que añadan a sus propios amigos también. Esa es una forma fácil de conocer gente nueva. También te puedes unir a un grupo público ya existente (puedes probar nuestro @PublicTestGroup, por ejemplo). Dime si quieres saber cómo crear grupos o buscarlos.
+En Telegram, puedes crear un grupo con tus amigos y pedirles que añadan a sus propios amigos también. Esa es una forma fácil de conocer gente nueva. También te puedes unir a un grupo público ya existente (puedes probar nuestro @PublicTestGroup, por ejemplo).
 
 También hay bots no oficiales diseñados para poner en contacto usuarios con los mismos intereses. Prueba buscando en internet “Telegram bots new friends”, obtendrás muchos resultados.
 
@@ -782,7 +782,7 @@ tel
 videocall
 videocalls
 {VALUE}
-No estamos trabajando en esta característica, por el momento. Por ahora, puedes usar nuestras llamadas de voz o enviar videomensajes a tus amigos de Telegram. Para enviar un videomensaje, toca sobre el icono del micrófono, para cambiar al modo de cámara, y luego toca y mantén sobre el icono de la cámara para grabar el mensaje.
+Lo sentimos, pero actualmente no tenemos esta característica. Por ahora, puedes usar nuestras llamadas de voz o enviar videomensajes a tus amigos de Telegram. Para enviar un videomensaje, toca sobre el icono del micrófono, para cambiar al modo de cámara, y luego toca y mantén sobre el icono de la cámara para grabar el mensaje.
 
 {QUESTION}
 Do you have calls?
@@ -942,7 +942,7 @@ stickersios
 {VALUE}
 Hay un botón para abrir el panel de stickers en la parte derecha del cuadro de texto. Cuando añadas packs de stickers, aparecerán en este panel. Prueba con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puedes tocar en un sticker para enviarlo inmediatamente, o mantener pulsado para que aparezca una vista previa en grande.
 
-Cuando tengas activado el panel de stickers en los ajustes de Telegram, los emojis tendrán una función doble. Si comienzas un mensaje con un emoji, podrás ver una sugerencia de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos de stickers.
+Si comienzas un mensaje con un emoji, podrás ver sugerencias de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos.
 
 Si quieres saber cómo encontrar más stickers, avísame y con mucho gusto te daré algunos consejos.
 
@@ -956,7 +956,7 @@ stickersandroid
 {VALUE}
 Hay una pestaña de stickers en el panel de emojis. Cuando añadas packs de stickers, aparecerán en esta pestaña. Prueba con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puedes tocar en un sticker para enviarlo inmediatamente, o mantener pulsado para que aparezca una vista previa en grande.
 
-Cuando tengas activada la pestaña de stickers en los ajustes de Telegram, los emojis tendrán una función doble. Si comienzas un mensaje con un emoji, podrás ver sugerencias de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos.
+Si comienzas un mensaje con un emoji, podrás ver sugerencias de stickers relacionados. Compruébalo con 😄😘😦😏😐👽👍👌👈🙌💪 para ver algunos ejemplos.
 
 Si quieres saber cómo encontrar más stickers, avísame y con mucho gusto te daré algunos consejos.
 
@@ -1335,7 +1335,7 @@ sdcard
 {VALUE}
 Puedes mover la aplicación de Telegram a la tarjeta SD, pero los archivos multimedia se seguirán guardando en el almacenamiento interno del teléfono. No es posible cambiarlo de momento.
 
-Si estás buscando una forma de vaciar la memoria de tu teléfono, ten en cuenta que puedes eliminar fácilmente los datos de Telegram de la caché de tu dispositivo. Pregúntame si quieres más información al respecto.
+Si estás buscando una forma de liberar la memoria de tu teléfono, puedes eliminar datos almacenados en la caché local del dispositivo en Ajustes de Telegram > Datos y almacenamiento > Uso de almacenamiento.
 
 {QUESTION}
 Why do I see a warning about scam in bot’s messages?
@@ -2371,11 +2371,10 @@ stolen
 stolenphone
 phonestolen
 {VALUE}
-
 Primero de todo, sentimos lo de tu teléfono. Lamentablemente, el número de teléfono es la única forma que tenemos para identificar a un usuario en Telegram, de momento, así que por ahora tienes que seguir estos pasos:
 
 1. Antes de nada, debes contactar con tu operadora de telefonía para que bloqueen tu vieja SIM y pedir una nueva con el mismo número.
-2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes > Terminar todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
+2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes > Privacidad y seguridad > Sesiones activas y allí termina todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
 3. Si no tienes iniciada una sesión en Telegram, espera hasta que recibas tu nueva SIM con el viejo número, inicia una sesión, luego ve a Ajustes - Terminar todas las otras sesiones. Luego, podrás seguir con el uso normal de Telegram.
 
 Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes > Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
@@ -2675,7 +2674,6 @@ Para hacer esto:
 2. Toca y mantén sobre el número de la versión de la aplicación (donde dice “Telegram para Android”), hasta que aparezca un emoticón. Luego, suéltalo.
 3. Toca y mantén sobre el número de la versión de la aplicación de nuevo, hasta que esta vez aparezca un menú.
 4. Toca en “Restablecer contactos importados”. 
-
 
 {QUESTION}
 I'm getting 'joined' notifications for people I don't recognize! (iOS)
