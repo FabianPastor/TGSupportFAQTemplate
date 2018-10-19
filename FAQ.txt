@@ -30,9 +30,7 @@ watch
 watchios
 applewatch
 {VALUE}
-With the latest version of the Telegram app for iOS, it is possible to receive notifications and reply to messages using your watch. The app may get full watch support later in the future. 
-
-If you were a user of the old Apple Watch app, did you often use the watch app for something rather than notifications and quick replies? If so, could you please tell me which features you're now missing?
+The old Apple Watch app should become available again soon. For now, it is possible to receive notifications and reply to messages using your watch with the latest version of the Telegram app for iOS.
 
 {QUESTION}
 My phone doesn't support the new version (iOS)
