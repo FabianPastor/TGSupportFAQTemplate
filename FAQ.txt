@@ -24,15 +24,6 @@ You can keep using Telegram X too, but since it is likely to stop receiving upda
 https://telegram.org/dl/ios
 
 {QUESTION}
-What about the Apple Watch app?
-{KEYS}
-watch
-watchios
-applewatch
-{VALUE}
-The old Apple Watch app should become available again soon. For now, it is possible to receive notifications and reply to messages using your watch with the latest version of the Telegram app for iOS.
-
-{QUESTION}
 My phone doesn't support the new version (iOS)
 {KEYS}
 ios7
@@ -2130,12 +2121,15 @@ delcontactios
 deletecontacti
 deletecontactios
 {VALUE}
+Telegram stays in sync with your phone contacts, so if you want to delete a contact completely, you need to remove it from both your Telegram contacts and your phone book.
+
 To remove a contact on Telegram:
 1. Open a chat with the contact you want to delete.
 2. Tap the photo to open the chat profile.
 3. Choose "Edit" — "Delete contact".
 
-Important: This will also delete the contact from your device's contacts.
+Note: if you keep this contact in your phone book, Telegram will add it again.
+If you don't want the app to sync your contacts, you can disable this via Telegram Settings > Privacy and Security > Data Settings > turn off "Sync Contacts".
 
 {QUESTION}
 How do I delete a contact? (Android)
@@ -2154,6 +2148,7 @@ To remove a contact on Telegram:
 3. Tap the "..." in the top-right corner and choose "Delete".
 
 Note: if you keep this contact in your phone book, Telegram will add it again.
+If you don't want the app to sync your contacts, you can disable this via Telegram Settings > Privacy and Security > turn off "Sync Contacts".
 
 {QUESTION}
 How do I delete a contact? (Windows Phone)
