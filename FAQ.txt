@@ -24,15 +24,6 @@ Puedes seguir usando Telegram X también, pero como probablemente dejará de rec
 https://telegram.org/dl/ios
 
 {QUESTION}
-What about the Apple Watch app?
-{KEYS}
-watch
-watchios
-applewatch
-{VALUE}
-La antigua aplicación para Apple Watch volverá a estar disponible pronto. Por ahora, es posible recibir notificaciones y responder mensajes usando tu reloj con la última versión de Telegram para iOS.
-
-{QUESTION}
 My phone doesn't support the new version (iOS)
 {KEYS}
 ios7
@@ -850,6 +841,7 @@ Puedes añadir algunas palabras sobre ti en tu perfil, en los Ajustes de Telegra
 Can I archive or back up my conversations?
 {KEYS}
 backup
+export
 archive
 backups
 archives
@@ -1039,6 +1031,7 @@ morechannelsi
 findchannelsi
 moregroupsi
 getgroupsi
+moregroupi
 findgroupsi
 morechanios
 getchannelsios
@@ -1064,6 +1057,7 @@ getchannelsa
 morechannelsa
 findchannelsa
 moregroupsa
+moregroupa
 getgroupsa
 findgroupsa
 moregroupsandroid
@@ -1376,6 +1370,7 @@ Para compartir una foto a otra aplicación, realiza una pulsación larga sobre u
 What are secret chats?
 {KEYS}
 schat
+schats
 secretchat
 secretchats
 {VALUE}
@@ -1582,7 +1577,7 @@ How do I verify my channel?
 verifych
 verifychannel
 {VALUE}
-El equipo de Telegram verifica generalmente los canales oficiales grandes y activos que tienen cuentas verificadas en otros servicios y redes sociales. Si es ese tu caso, por favor anuncia tu canal de Telegram en esas cuentas o en tu sitio web oficial y envíanos un enlace, para que podamos confirmar que en efecto te pertenece.
+El equipo de Telegram verifica generalmente los canales oficiales grandes y activos que tienen cuentas verificadas en al menos tres de estos servicios: Facebook, Twitter, Instagram o YouTube. Si este es el caso, te solicitamos que añadas un enlace a tu canal de Telegram en tus perfiles de estos servicios, para que podamos confirmar que realmente te pertenecen.
 
 Por desgracia no podemos garantizarte la verificación debido a la gran cantidad de peticiones que recibimos. Por favor, ten en cuenta que la verificación no te da ninguna ventaja en Telegram, sólo tiene utilidad si quieres demostrar que tu canal es oficial. Un enlace en tu web oficial o en alguna otra cuenta oficial en otros servicios puede conseguir un resultado similar.
 
@@ -2130,12 +2125,15 @@ delcontactios
 deletecontacti
 deletecontactios
 {VALUE}
+Telegram se mantiene sincronizada con los contactos de tu teléfono, por lo que si quieres eliminar un contacto por completo, debes eliminarlo de los contactos de Telegram y también de los de la agenda de tu teléfono.
+
 Para eliminar un contacto en Telegram:
 1. Abre un chat con el contacto que quieres eliminar.
 2. Toca su foto para abrir la información del chat.
 3. Elige “Editar” > “Eliminar contacto”. 
 
-Importante: Esto también eliminará el contacto de la agenda de tu dispositivo.
+Ten en cuenta: Si mantienes este contacto en la agenda del teléfono, Telegram lo añadirá de nuevo.
+Si no quieres que la aplicación sincronice tus contactos, puedes desactivar la opción en Ajustes de Telegram > Privacidad y seguridad > Ajustes de datos > y desactiva “Sincronizar contactos”.
 
 {QUESTION}
 How do I delete a contact? (Android)
@@ -2154,6 +2152,7 @@ Para eliminar un contacto en Telegram:
 3. Toca los “...” de la esquina superior derecha y elige “Eliminar”. 
 
 Ten en cuenta: Si mantienes este contacto en la agenda del teléfono, Telegram lo añadirá de nuevo.
+Si no quieres que la aplicación sincronice tus contactos, puedes desactivar la opción en Ajustes de Telegram > Privacidad y seguridad > y desactiva “Sincronizar contactos”.
 
 {QUESTION}
 How do I delete a contact? (Windows Phone)
@@ -2193,7 +2192,7 @@ delchatios
 deletechati
 deletechatios
 {VALUE}
-Para eliminar un chat, desliza hacia la izquierda el chat, en la pantalla de Chats, y luego “Eliminar”. O, en la lista de chats, toca “Editar”, y luego el símbolo rojo junto al chat.
+Para eliminar un chat, deslízalo a la izquierda en la pantalla de chats y elige “Eliminar”. O, en la lista de chats, toca “Editar”, y luego el símbolo rojo junto al chat.
 
 {QUESTION}
 How do I delete a chat? (Android)
@@ -2203,7 +2202,7 @@ deletechata
 delchatandroid
 deletechatandroid
 {VALUE}
-Para eliminar el chat, mantén pulsado sobre el mismo, en la lista de Chats, y luego “Eliminar”, para eliminar el chat de tu Nube de Telegram.
+Para eliminar un chat, mantén pulsado sobre él en la lista de chats y luego pulsa “Eliminar”.
 
 {QUESTION}
 How do I delete a chat? (Windows Phone)
@@ -2213,7 +2212,7 @@ deletechatwp
 delchatwindowsphone
 deletechatwindowsphone
 {VALUE}
-Para eliminar un chat, mantén pulsado sobre el chat en la pantalla de Chats > luego “Eliminar”.
+Para eliminar un chat, mantén pulsado sobre él en la pantalla de chats y luego pulsa “Eliminar”.
 
 {QUESTION}
 General permissions template
@@ -2445,40 +2444,127 @@ iPhone: Ajustes de iOS > General > Fecha y hora > Activa “Ajuste automático�
 Android: Ajustes del teléfono > Sistema/Opciones > Fecha y hora > activa “Zona horaria automática”.
 
 {QUESTION}
-Notifications don't work (Android)
+Notifications don't work (Android 9, SDK 28)
 {KEYS}
-nota
-nonotificationsa
-brokennotificationsa
-nonotificationsandroid
-notificationsdontworka
-brokennotificationsandroid
-notificationsdontworkandroid
+nota9
+nota28
+nonotificationsa9
+brokennotificationsa9
+nonotificationsandroid9
+notificationsdontworka9
+brokennotificationsandroid9
+notificationsdontworkandroid9
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issue: https://trello.com/c/oiRb2j27
 {VALUE}
 Hay varias razones por las que las notificaciones pueden no funcionar, así que nos disculpamos de antemano por este largo texto.
 
 Por favor, revisa lo siguiente:
 
-- En Telegram, ve a Ajustes > Notificaciones y sonidos, asegúrate de que las notificaciones están activadas.
+- Ve a los Ajustes de Telegram > Notificaciones y sonidos y asegúrate de que las notificaciones estén activadas y la Importancia esté configurada como “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
 
-- Comprueba si el contacto o grupo está silenciado.
+- Revisa si los chats afectados están silenciados.
 
-- En Telegram, ve a Ajustes > Notificaciones y sonidos. Si el Servicio de Notificaciones de Telegram está desactivado, considera activarlos, porque garantiza que las notificaciones lleguen a tiempo. Si no, asegúrate de tener instalados los Servicios de Google Play en tu teléfono. Lamentablemente, las notificaciones a través de GCM (a través de Google) no son tan fiables y no podemos garantizar que las recibas a tiempo.
+- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+
+- Por favor, también verifica que tus chats no estén configurados para mostrar notificaciones silenciadas en Ajustes de Android > Aplicaciones y notificaciones > Telegram > Notificaciones > elige un chat > Comportamiento.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
 P.D.: Recuerda que no recibirás notificaciones si cierras la sesión en Telegram.
-{COMMENT}
-This is a basic Android template. Below you will find two modified versions, for Android 5.0 users and for people with ancient devices.
 
 {QUESTION}
-Notifications don't work (Android 5.0)
+Notifications don't work (Android 8, SDK 26-27)
+{KEYS}
+nota8
+nota27
+nota26
+nonotificationsa8
+brokennotificationsa8
+nonotificationsandroid8
+notificationsdontworka8
+brokennotificationsandroid8
+notificationsdontworkandroid8
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issue: https://trello.com/c/oiRb2j27
+{VALUE}
+Hay varias razones por las que las notificaciones pueden no funcionar, así que nos disculpamos de antemano por este largo texto.
+
+Por favor, revisa lo siguiente:
+
+- Ve a los Ajustes de Telegram > Notificaciones y sonidos y asegúrate de que las notificaciones estén activadas y la Importancia esté configurada como “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
+
+- Revisa si los chats afectados están silenciados.
+
+- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+
+- Por favor, verifica que tus chats no estén silenciados en Ajustes de Android > Aplicaciones > Telegram > Notificaciones > elige un chat > Importancia > debe ser “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
+
+- Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
+
+P.D.: Recuerda que no recibirás notificaciones si cierras la sesión en Telegram.
+
+{QUESTION}
+Notifications don't work (Android 6 or 7, SDK 23-25)
+{KEYS}
+nota6
+nota7
+nota23
+nota24
+nota25
+nonotificationsa6
+brokennotificationsa6
+nonotificationsandroid6
+notificationsdontworka6
+brokennotificationsandroid6
+notificationsdontworkandroid6
+nonotificationsa7
+brokennotificationsa7
+nonotificationsandroid7
+notificationsdontworka7
+brokennotificationsandroid7
+notificationsdontworkandroid7
+{COMMENT}
+Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
+{VALUE}
+Hay varias razones por las que las notificaciones pueden no funcionar, así que nos disculpamos de antemano por este largo texto.
+
+Por favor, revisa lo siguiente:
+
+- Ve a los Ajustes de Telegram > Notificaciones y sonidos y asegúrate de que las notificaciones estén activadas y la Importancia esté configurada como “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
+
+- Revisa si los chats afectados están silenciados.
+
+- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+
+- Si tu teléfono está en modo “No molestar”, por favor, activa la prioridad alta para las notificaciones de Telegram en los Ajustes de Android > Aplicaciones > Telegram > Notificaciones > y selecciona Priorizar.
+
+- Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
+
+P.D.: Recuerda que no recibirás notificaciones si cierras la sesión en Telegram.
+
+{QUESTION}
+Notifications don't work (Android 5, SDK 21-22)
+{COMMENT}
+Please also make sure the user has the latest version of Telegram installed.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
 {KEYS}
 nota5
+nota21
+nota22
 nonotificationsa5
 brokennotificationsa5
 nonotificationsandroid5
@@ -2490,11 +2576,11 @@ Hay varias razones por las que las notificaciones pueden no funcionar, así que 
 
 Por favor, revisa lo siguiente:
 
-- En Telegram, ve a Ajustes > Notificaciones y sonidos, asegúrate de que las notificaciones están activadas.
+- Ve a los Ajustes de Telegram > Notificaciones y sonidos y asegúrate de que las notificaciones estén activadas y la Importancia esté configurada como “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
 
-- Comprueba si el contacto o grupo está silenciado.
+- Revisa si los chats afectados están silenciados.
 
-- En Telegram, ve a Ajustes > Notificaciones y sonidos. Si el Servicio de Notificaciones de Telegram está desactivado, considera activarlos, porque garantiza que las notificaciones lleguen a tiempo. Si no, asegúrate de tener instalados los Servicios de Google Play en tu teléfono. Lamentablemente, las notificaciones a través de GCM (a través de Google) no son tan fiables y no podemos garantizar que las recibas a tiempo.
+- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
@@ -2514,16 +2600,18 @@ brokennotificationsandroidold
 notificationsdontworkandroidold
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
 {VALUE}
 Hay varias razones por las que las notificaciones pueden no funcionar, así que nos disculpamos de antemano por este largo texto.
 
 Por favor, revisa lo siguiente:
 
-- En Telegram, ve a Ajustes > Notificaciones y sonidos, asegúrate de que las notificaciones están activadas.
+- Ve a los Ajustes de Telegram > Notificaciones y sonidos y asegúrate de que las notificaciones estén activadas y la Importancia esté configurada como “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
 
-- Comprueba si el contacto o grupo está silenciado.
+- Revisa si los chats afectados están silenciados.
 
-- Ve a Ajustes > Notificaciones y sonidos. Si el Servicio de Notificaciones de Telegram está desactivado, considera activarlo, porque garantiza notificaciones a tiempo. Si no, asegúrate de tener instalados los Servicios de Google Play en tu teléfono. Lamentablemente, las notificaciones GCM pertenecientes a Google no son tan fiables y no podemos garantizar que te lleguen todas a tiempo.
+- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
