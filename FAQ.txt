@@ -841,6 +841,7 @@ You can add a few words about yourself to your profile in Telegram Settings: tap
 Can I archive or back up my conversations?
 {KEYS}
 backup
+export
 archive
 backups
 archives
@@ -1030,6 +1031,7 @@ morechannelsi
 findchannelsi
 moregroupsi
 getgroupsi
+moregroupi
 findgroupsi
 morechanios
 getchannelsios
@@ -1055,6 +1057,7 @@ getchannelsa
 morechannelsa
 findchannelsa
 moregroupsa
+moregroupa
 getgroupsa
 findgroupsa
 moregroupsandroid
@@ -1367,6 +1370,7 @@ To share a photo to another app, long tap on the photo in the chat and choose "M
 What are secret chats?
 {KEYS}
 schat
+schats
 secretchat
 secretchats
 {VALUE}
@@ -1573,7 +1577,7 @@ How do I verify my channel?
 verifych
 verifychannel
 {VALUE}
-The Telegram team generally verifies large and active official channels that have verified accounts on other services and social media platforms. If this is the case, we would ask you to announce your Telegram channel on these accounts or on your official website and send us a link - so that we can confirm that it indeed belongs to you.
+The Telegram team generally verifies large and active official channels that have verified accounts on at least three of these services: Facebook, Twitter, Instagram, Youtube. If this is the case, we would ask you to add a link to your Telegram channel to your profiles on these services — so that we can confirm that they indeed belong to you.
 
 Unfortunately we currently can't guarantee verification due to the amount of requests we get. Please kindly note that verification doesn't give any extra abilities in Telegram - it is only of use if you want to demonstrate that your channel is official. A link on your official site or another official account elsewhere can achieve a similar result.
 
@@ -2440,40 +2444,127 @@ iOS: iOS Settings > General > Date & Time > Turn on "Set automatically"
 Android: Android Settings > System / Options > Date & Time > turn on "Automatic time zone"
 
 {QUESTION}
-Notifications don't work (Android)
+Notifications don't work (Android 9, SDK 28)
 {KEYS}
-nota
-nonotificationsa
-brokennotificationsa
-nonotificationsandroid
-notificationsdontworka
-brokennotificationsandroid
-notificationsdontworkandroid
+nota9
+nota28
+nonotificationsa9
+brokennotificationsa9
+nonotificationsandroid9
+notificationsdontworka9
+brokennotificationsandroid9
+notificationsdontworkandroid9
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issue: https://trello.com/c/oiRb2j27
 {VALUE}
 There can be several reasons why notifications may not work, so we apologize in advance for the long text.
 
 Please check the following:
 
-- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON.
+- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON and Importance is set to "High" or greater (less than "High" will silence notifications).
 
-- Check whether the contact or group is muted.
+- Check whether the affected chats are muted.
 
-- Go to Settings > Notifications and Sounds. If the Telegram Notifications Service is disabled, consider enabling it, this guarantees timely notifications. Otherwise, make sure Google Play Services are installed on your phone, unfortunately Google's own GCM notifications are not as reliable and we cannot guarantee that you'll get them on time.
+- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+
+- Please also check that your chats aren't configured to show notifications silently in Android settings > Apps & notifications > Telegram > Notifications > select a chat > Behaviour.
 
 - If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
 
 PS: Remember, you will not get any notifications if you log out from Telegram.
-{COMMENT}
-This is a basic Android template. Below you will find two modified versions, for Android 5.0 users and for people with ancient devices.
 
 {QUESTION}
-Notifications don't work (Android 5.0)
+Notifications don't work (Android 8, SDK 26-27)
+{KEYS}
+nota8
+nota27
+nota26
+nonotificationsa8
+brokennotificationsa8
+nonotificationsandroid8
+notificationsdontworka8
+brokennotificationsandroid8
+notificationsdontworkandroid8
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issue: https://trello.com/c/oiRb2j27
+{VALUE}
+There can be several reasons why notifications may not work, so we apologize in advance for the long text.
+
+Please check the following:
+
+- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON and Importance is set to "High" or greater (less than "High" will silence notifications).
+
+- Check whether the affected chats are muted.
+
+- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+
+- Please check that your chats aren't muted in Android settings > Apps > Telegram > Notifications > select a chat > Importance > should be "High" or greater (less than "High" will silence notifications).
+
+- If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
+
+PS: Remember, you will not get any notifications if you log out from Telegram.
+
+{QUESTION}
+Notifications don't work (Android 6 or 7, SDK 23-25)
+{KEYS}
+nota6
+nota7
+nota23
+nota24
+nota25
+nonotificationsa6
+brokennotificationsa6
+nonotificationsandroid6
+notificationsdontworka6
+brokennotificationsandroid6
+notificationsdontworkandroid6
+nonotificationsa7
+brokennotificationsa7
+nonotificationsandroid7
+notificationsdontworka7
+brokennotificationsandroid7
+notificationsdontworkandroid7
+{COMMENT}
+Please also make sure the user has the latest version of Telegram installed.
+
+If the user is techy enough, you can remove the part about task killers and ask for the system bug report in case other pre-checks don't help. This is more tricky but will help to collect more info about task killers.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
+{VALUE}
+There can be several reasons why notifications may not work, so we apologize in advance for the long text.
+
+Please check the following:
+
+- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON and Importance is set to "High" or greater (less than "High" will silence notifications).
+
+- Check whether the affected chats are muted.
+
+- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+
+- If your phone is in "Don't disturb" mode, please enable high priority for Telegram notifications in Android Settings: Applications > Telegram > Notifications > set as priority.
+
+- If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
+
+PS: Remember, you will not get any notifications if you log out from Telegram.
+
+{QUESTION}
+Notifications don't work (Android 5, SDK 21-22)
+{COMMENT}
+Please also make sure the user has the latest version of Telegram installed.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
 {KEYS}
 nota5
+nota21
+nota22
 nonotificationsa5
 brokennotificationsa5
 nonotificationsandroid5
@@ -2485,11 +2576,11 @@ There can be several reasons why notifications may not work, so we apologize in 
 
 Please check the following:
 
-- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON.
+- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON and Importance is set to "High" or greater (less than "High" will silence notifications).
 
-- Check whether the contact or group is muted.
+- Check whether the affected chats are muted.
 
-- Go to Settings > Notifications and Sounds. If the Telegram Notifications Service is disabled, consider enabling it, this guarantees timely notifications. Otherwise, make sure Google Play Services are installed on your phone, unfortunately Google's own GCM notifications are not as reliable and we cannot guarantee that you'll get them on time.
+- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
 
 - If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
 
@@ -2509,16 +2600,18 @@ brokennotificationsandroidold
 notificationsdontworkandroidold
 {COMMENT}
 Please also make sure the user has the latest version of Telegram installed.
+
+More information about notification issues: https://trello.com/c/oiRb2j27
 {VALUE}
 There can be several reasons why notifications may not work, so we apologize in advance for the long text.
 
 Please check the following:
 
-- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON.
+- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON and Importance is set to "High" or greater (less than "High" will silence notifications).
 
-- Check whether the contact or group is muted.
+- Check whether the affected chats are muted.
 
-- Go to Settings — Notifications and Sounds. If the Telegram Notifications Service is disabled, consider enabling it, this guarantees timely notifications. Otherwise, make sure Google Play Services are installed on your phone, unfortunately Google's own GCM notifications are not as reliable and we cannot guarantee that you'll get them on time.
+- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
 
 - If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
 
