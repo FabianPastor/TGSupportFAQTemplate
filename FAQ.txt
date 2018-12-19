@@ -70,7 +70,7 @@ themesandroid
 {VALUE}
 Desde la versión 3.17, Telegram para Android te permite usar temas personalizados, por lo que puedes configurar un diseño alternativo para tu aplicación.
 
-Para cambiar a un tema diferente, volver al tema por defecto o crear uno nuevo, ve a Ajustes > Tema. 
+Para cambiar a un tema diferente, volver al tema por defecto o crear uno nuevo, ve a Ajustes > Ajustes de chat > Tema.
 
 Si quieres aplicar un tema personalizado desde un archivo, haz clic en él. Se abrirá una vista previa y, si te gusta, podrás seleccionar “Aplicar”. Prueba algunos temas desde aquí: @AndroidThemes. 
 
@@ -997,7 +997,7 @@ Puedes eliminar packs de stickers así:
 
 iOS: Ajustes de Telegram > Stickers > Editar
 
-Android: Ajustes de Telegram > Stickers > “...”
+Android: Ajustes de Telegram > Ajustes de chat > Stickers y máscaras > “...”
 
 WP: Ajustes de Telegram > Stickers > Mantén pulsado > Eliminar
 
@@ -1115,7 +1115,6 @@ Los supergrupos pueden tener hasta 100 000 miembros. Tienen un historial unifica
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
 - Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
-- Los administradores pueden anclar mensajes, que se muestran en la parte superior del chat, para informar a los miembros sobre noticias importantes que de otra forma se perderían.
 - Pueden hacerse públicos, estableciendo un Alias, tal y como los canales.
 - Si son públicos, los miembros pueden invitar a personas nuevas. Si no, sólo pueden unirse con un enlace de invitación o si los administradores las añaden.
 
@@ -1199,7 +1198,7 @@ badgenumber
 badgesetting
 badgenumbersetting
 {VALUE}
-El globo en el icono es un contador de mensajes que muestra un pequeño círculo rojo con la cantidad de mensajes sin leer en la parte superior del icono de Telegram. Sólo está disponible para ciertos modelos de dispositivos Samsung.
+El globo en el icono es un contador de mensajes que muestra un pequeño círculo rojo con la cantidad de mensajes sin leer en la parte superior del icono de Telegram.
 
 {QUESTION}
 Where do I enter the code from your SMS? (Android)
@@ -1681,7 +1680,7 @@ backgroundandroid
 chatbackgroundandroid
 changebackgroundandroid
 {VALUE}
-Desliza hacia la derecha en la pantalla de chats para abrir el menú, luego ve a Ajustes > Fondo de chat.
+Desliza hacia la derecha en la pantalla de chats para abrir el menú, luego ve a Ajustes > Ajustes de chat > Fondo de chat.
 
 Si quieres establecer tu propia imagen como fondo, toca sobre la primera para acceder a la galería.
 
@@ -2048,7 +2047,7 @@ How can I pin a message?
 pin
 pinned
 {VALUE}
-Los administradores de los supergrupos pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. Por favor, ten en cuenta que no es posible anclar mensajes enviados antes de que tu grupo fuera convertido en supergrupo.
+Los administradores de los supergrupos y canales pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. Por favor, ten en cuenta que no es posible anclar mensajes enviados antes de que tu grupo fuera convertido en supergrupo. También puedes anclar mensajes en el chat de Mensajes guardados.
 
 iOS, WP: Mantén presionado un mensaje, luego selecciona la opción “Anclar”. Para desanclar el mensaje, presiona el icono “x” de su derecha.
 
@@ -2247,7 +2246,7 @@ textsize
 {VALUE}
 Puedes cambiar el tamaño del texto de los mensajes de Telegram, si quieres.
 
-Android: Ajustes de Telegram > Tamaño del texto.
+Android: Ajustes de Telegram > Ajustes de chat > Tamaño del texto.
 
 iOS: Ajustes de Telegram > Apariencia > Tamaño del texto.
 
@@ -2469,7 +2468,7 @@ Por favor, revisa lo siguiente:
 
 - Revisa si los chats afectados están silenciados.
 
-- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+- Asegúrate de que Servicios de Google Play (https://play.google.com/store/apps/details?id=com.google.android.gms) esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Por favor, también verifica que tus chats no estén configurados para mostrar notificaciones silenciadas en Ajustes de Android > Aplicaciones y notificaciones > Telegram > Notificaciones > elige un chat > Comportamiento.
 
@@ -2504,7 +2503,7 @@ Por favor, revisa lo siguiente:
 
 - Revisa si los chats afectados están silenciados.
 
-- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+- Asegúrate de que Servicios de Google Play (https://play.google.com/store/apps/details?id=com.google.android.gms) esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Por favor, verifica que tus chats no estén silenciados en Ajustes de Android > Aplicaciones > Telegram > Notificaciones > elige un chat > Importancia > debe ser “Alta” o mayor (menos de “Alta” silenciará las notificaciones).
 
@@ -2547,7 +2546,7 @@ Por favor, revisa lo siguiente:
 
 - Revisa si los chats afectados están silenciados.
 
-- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+- Asegúrate de que Servicios de Google Play (https://play.google.com/store/apps/details?id=com.google.android.gms) esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Si tu teléfono está en modo “No molestar”, por favor, activa la prioridad alta para las notificaciones de Telegram en los Ajustes de Android > Aplicaciones > Telegram > Notificaciones > y selecciona Priorizar.
 
@@ -2580,7 +2579,7 @@ Por favor, revisa lo siguiente:
 
 - Revisa si los chats afectados están silenciados.
 
-- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+- Asegúrate de que Servicios de Google Play (https://play.google.com/store/apps/details?id=com.google.android.gms) esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
@@ -2611,7 +2610,7 @@ Por favor, revisa lo siguiente:
 
 - Revisa si los chats afectados están silenciados.
 
-- Asegúrate de que Servicios de Google Play esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
+- Asegúrate de que Servicios de Google Play (https://play.google.com/store/apps/details?id=com.google.android.gms) esté instalado en tu teléfono, porque es necesario para que las notificaciones funcionen.
 
 - Si tienes un optimizador de batería/Task Manager/Task Killer o algo así instalado: por favor, pon a Telegram en la lista de aplicaciones permitidas.
 
