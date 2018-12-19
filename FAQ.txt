@@ -70,7 +70,7 @@ themesandroid
 {VALUE}
 ​​Since version 3.17, Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
 
-To switch to a different theme, to go back to the default one or to create a new one, go to Settings > Theme. 
+To switch to a different theme, to go back to the default one or to create a new one, go to Settings > Chat Settings > Theme.
 
 If you want to set a custom theme from a file, click on it. A preview will open and if you like it you can click "Apply". Try it out with some themes from here: @AndroidThemes. 
 
@@ -997,7 +997,7 @@ You can remove sticker sets here:
 
 iOS: Telegram Settings > Stickers > Edit
 
-Android: Telegram Settings > Stickers > "..."
+Android: Telegram Settings > Chat Settings > Stickers and Masks > "..."
 
 WP: Telegram Settings > Stickers > Tap and hold > Remove
 
@@ -1115,7 +1115,6 @@ Supergroups can have up to 100,000 members. They have a unified history, so dele
 
 Here’s some extra information on how supergroups work:
 - They are muted by default and send fewer joined/left notifications.
-- Admins can use pinned messages, displayed at the top of the chat, to inform members about important news that they might otherwise miss.
 - They can be made public by setting a Username, just like channels.
 - If made public, members can invite new people, if not, they can only join via invite link or if added by admins.
 
@@ -1199,7 +1198,7 @@ badgenumber
 badgesetting
 badgenumbersetting
 {VALUE}
-The badge is a message counter that shows a small red circle with the amount of unread messages at the top of the Telegram icon. It is only available on certain models of Samsung devices.
+The badge is a message counter that shows a small red circle with the amount of unread messages at the top of the Telegram icon.
 
 {QUESTION}
 Where do I enter the code from your SMS? (Android)
@@ -1681,7 +1680,7 @@ backgroundandroid
 chatbackgroundandroid
 changebackgroundandroid
 {VALUE}
-Swipe right on the chats screen to open the menu, then go to Settings — Chat background.
+Swipe right on the chats screen to open the menu, then go to Settings > Chat Settings > Chat background.
 
 If you want to set your own picture as a background, tap the first pic to access your gallery.
 
@@ -2048,7 +2047,7 @@ How can I pin a message?
 pin
 pinned
 {VALUE}
-Supergroup admins can pin a message to the top of the chat to inform members about important news that might otherwise be missed. Please also note that you can’t pin the messages sent before your group was upgraded to supergroup.
+Admins of groups and channels can pin a message to the top of the chat to inform its members about important news that might otherwise be missed. You can also pin messages in the Saved Messages chat.
 
 iOS, WP: press and hold on a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 
@@ -2247,7 +2246,7 @@ textsize
 {VALUE}
 You can change the text size for messages in Telegram if you'd like.
 
-Android: Telegram Settings > Message Text Size.
+Android: Telegram Settings > Chat Settings > Messages Text Size.
 
 iOS: Telegram Settings > Appearance > Text Size.
 
@@ -2469,7 +2468,7 @@ Please check the following:
 
 - Check whether the affected chats are muted.
 
-- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+- Make sure Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone, this is necessary for notifications to work.
 
 - Please also check that your chats aren't configured to show notifications silently in Android settings > Apps & notifications > Telegram > Notifications > select a chat > Behaviour.
 
@@ -2504,7 +2503,7 @@ Please check the following:
 
 - Check whether the affected chats are muted.
 
-- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+- Make sure Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone, this is necessary for notifications to work.
 
 - Please check that your chats aren't muted in Android settings > Apps > Telegram > Notifications > select a chat > Importance > should be "High" or greater (less than "High" will silence notifications).
 
@@ -2547,7 +2546,7 @@ Please check the following:
 
 - Check whether the affected chats are muted.
 
-- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+- Make sure Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone, this is necessary for notifications to work.
 
 - If your phone is in "Don't disturb" mode, please enable high priority for Telegram notifications in Android Settings: Applications > Telegram > Notifications > set as priority.
 
@@ -2580,7 +2579,7 @@ Please check the following:
 
 - Check whether the affected chats are muted.
 
-- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+- Make sure Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone, this is necessary for notifications to work.
 
 - If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
 
@@ -2611,7 +2610,7 @@ Please check the following:
 
 - Check whether the affected chats are muted.
 
-- Make sure Google Play Services are installed on your phone, this is necessary for notifications to work.
+- Make sure Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone, this is necessary for notifications to work.
 
 - If you have a battery optimizer/Task Manager/Task Killer or something installed of that kind: please put Telegram on the list of allowed apps (whitelist).
 
