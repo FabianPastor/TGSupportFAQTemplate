@@ -241,12 +241,12 @@ officialappandroid
 {VALUE}
 This is the support chat for Telegram apps. Since Telegram is open-source, there are many Telegram-based apps made by developers all over the world, with different names and features, and you're currently using one of them.
 
-It looks like your app is not one of Telegram's approved official clients. You're totally free to choose any app you prefer, but please note that we can only guarantee your experience if you use our official clients. It also helps us to know that any problems you may be facing are not because of third-party modifications.
+You're free to choose any app you prefer — at your own risk. However, we can only guarantee your Telegram experience if you use our official clients. They are free, show no ads and get the latest features first.
 
-You can download our official client for Android here:
-https://telegram.org/dl/android
+You can download our officially approved app here:
+https://telegram.org/dl/android	
 
-It is free, shows no ads and gets the latest features first. All your chats - apart from Secret Chats - will be safely transferred over.
+Switching to the official app is easy because all chats are stored in the Telegram Cloud (except for Secret Chats). If you move, you will keep all your cloud conversations, groups and contacts.
 
 {QUESTION}
 Do you have a Symbian app?
@@ -1114,7 +1114,7 @@ Basic groups are ideal for sharing things with friends and family or collaborati
 Supergroups can have up to 100,000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
 Here’s some extra information on how supergroups work:
-- They are muted by default and send fewer joined/left notifications.
+- They send fewer joined/left notifications.
 - They can be made public by setting a Username, just like channels.
 - If made public, members can invite new people, if not, they can only join via invite link or if added by admins.
 
@@ -1264,7 +1264,7 @@ delmsgsupergroupsi
 {VALUE}
 In supergroups, you can only delete your own messages, unless you are an administrator.
 
-However, you can clear all the messages in a group from your inbox if you wish: select any message in the group > More > ‘Clear Chat’ at the top-left corner. Note that messages won't be removed for other group members in this case.
+However, you can clear all the messages in a private group from your inbox if you wish: select any message in the group > More > ‘Clear Chat’ at the top-left corner. Note that messages won't be removed for other group members in this case.
 
 If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
 
@@ -1283,7 +1283,7 @@ delmsgsupergroupsmac
 {VALUE}
 In supergroups, you can only delete your own messages, unless you are an administrator.
 
-However, you can clear all the messages in a group from your inbox if you wish: tap on three dots at the top-right corner in the group > Clear History. Note that messages won't be removed for other group members in this case.
+However, you can clear all the messages in a private group from your inbox if you wish: tap on three dots at the top-right corner in the group > Clear History. Note that messages won't be removed for other group members in this case.
 
 If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
 
@@ -2271,7 +2271,34 @@ If you would like to, you can enable or disable the side panel by clicking once 
 ===================
 
 {QUESTION}
-How do I delete my account?
+How do I delete my account? (mobile)
+{KEYS}
+deli
+deletei
+deactivatei
+deleteaccounti
+deactivateaccounti
+dela
+deletea
+deactivatea
+deleteaccounta
+deactivateaccounta
+delm
+deletem
+deactivatem
+deleteaccountm
+deactivateaccountm
+{VALUE}
+https://telegram.org/deactivate — copy this link and open it in your browser. Use a desktop device for best results.
+
+- We'll send the login code in a Telegram message (not SMS).
+- Only delete your account if you no longer want to use Telegram. You may not be able to sign up again immediately.
+
+See this guide for details:
+http://telegra.ph/delete-telegram-account-FAQ
+
+{QUESTION}
+How do I delete my account? (desktop)
 {KEYS}
 del
 delete
@@ -2279,18 +2306,16 @@ deactivate
 deleteaccount
 deactivateaccount
 {VALUE}
-You can deactivate your Telegram account here:
+To delete your account, go to this page:
 https://telegram.org/deactivate
 
-Please note:
-- We recommend using a non-mobile browser for this process.
-- A confirmation code will be sent to you via Telegram (not in an SMS).
-- If you delete your account now, it may not be possible to sign up again immediately.
+- Open the link and log in.
+- We'll send the login code in a Telegram message (not SMS).
 
-And here’s our detailed guide on the process:
+Only delete your account if you no longer want to use Telegram. You may not be able to sign up again immediately.
+
+See this guide for details:
 http://telegra.ph/delete-telegram-account-FAQ
-
-By the way, may we ask why you are leaving? Missing a feature? Any other troubles?
 
 {QUESTION}
 Please delete my account!
@@ -2789,15 +2814,13 @@ connectionissues
 Sorry to hear about your connection problems. Can you please help us investigate this? Here are a few important questions:
 
 0. Do other apps work OK?
-1. What exactly is happening? (always 'connecting...' / always 'updating...' / seems ok, but messages are not sent / not delivered, etc.)
+1. What exactly is happening? (always 'Connecting...' / always 'Updating...' / seems ok, but messages are not sent / not delivered, media files are not downloaded / not uploaded, etc.)
 2. At what time did it start? Is it still happening?
 3. Is this happening all the time or sometimes?
 4. Does this happen with all Telegram apps - or just on one of your devices?
 4a. (Try web.telegram.org - does it work?)
 5. Does the problem happen on Wi-Fi, on mobile connection or in both cases?
-6. It would be very helpful if you could give me your IP address - for the network with the problem.
-
-(Tell me if you need help in finding the IP address.)
+6. @connectivity_test — please open this channel from the network with the problem and try to download all GIFs there. If some are not downloaded, send us their numbers.
 
 {QUESTION}
 How do I find my IP address?
