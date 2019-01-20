@@ -1114,7 +1114,7 @@ Los grupos básicos de Telegram son ideales para compartir cosas con amigos y fa
 Los supergrupos pueden tener hasta 100 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
 
 Aquí tienes información extra sobre cómo funcionan los supergrupos:
-- Están silenciados por defecto y envían menos notificaciones de “se ha unido” o “ha abandonado el grupo”.
+- Envían menos notificaciones de usuarios que se unen o salen del grupo.
 - Pueden hacerse públicos, estableciendo un Alias, tal y como los canales.
 - Si son públicos, los miembros pueden invitar a personas nuevas. Si no, sólo pueden unirse con un enlace de invitación o si los administradores las añaden.
 
@@ -1375,7 +1375,7 @@ secretchats
 {VALUE}
 Los chats secretos:
 
-- Usan cifrado de extremo a extremo
+- Usan cifrado end-to-end
 - Tienen un temporizador de autodestrucción opcional para todo tipo de mensajes
 - No tienen sincronización en la nube
 - Envían alertas de capturas de pantalla
@@ -1418,7 +1418,7 @@ secrectcahtvscloudchats
 {VALUE}
 Los chats en la nube de Telegram (y los grupos) están cifrados de forma segura en la nube de Telegram para que puedas acceder a ellos desde cualquiera de tus dispositivos, incluso si reinstalas la aplicación. Sólo si eliminas algo en los chats, se pierde para siempre (a menos que tu compañero te lo vuelva a enviar).
 
-Los chats secretos usan cifrado “de extremo a extremo” y sólo se pueden descifrar en los dos dispositivos que participan. Lo malo: no puedes acceder a ellos desde tus otros dispositivos y si reinstalas Telegram, o incluso cierras sesión, tus chats secretos se perderán.
+Los chats secretos usan cifrado end-to-end y solo se pueden descifrar en los dos dispositivos que participan. Lo malo: no puedes acceder a ellos desde tus otros dispositivos y si reinstalas Telegram, o incluso cierras sesión, tus chats secretos se perderán.
 
 Los chats secretos también tienen un temporizador opcional (desde 1 segundo hasta 1 semana) que te permite enviar mensajes, fotos, vídeos e incluso archivos que se autodestruyen.
 
@@ -1430,7 +1430,7 @@ why1device
 devicespecific
 whydevicespecific
 {VALUE}
-Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado de extremo a extremo, así que no se pueden sincronizar de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos compatibilidad para los chats secretos en múltiples dispositivos en el futuro.
+Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado end-to-end, así que no se pueden sincronizar de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos compatibilidad para los chats secretos en múltiples dispositivos en el futuro.
 
 Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Dime si quieres conocer más sobre la seguridad en Telegram.
 
@@ -1457,7 +1457,7 @@ securitylearnmore
 {VALUE}
 Todos los datos de Telegram están cifrados y no pueden ser descifrados por tu proveedor de internet, administrador de red o hackers. Los chats en la nube se almacenan cifrados en la nube de Telegram, y las claves necesarias para descifrar estos datos se mantienen en otros centros de datos en diferentes jurisdicciones. De este modo, ni intrusos locales ni los ingenieros pueden acceder a estos datos, y se necesitan varias órdenes judiciales de diferentes jurisdicciones para forzarnos a entregar algo. Puedes conocer más sobre ello aquí: https://telegram.org/faq/es#p-procesan-solicitudes-de-datos
 
-Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado extremo a extremo, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera es necesario que confíes en Telegram cuando usas chats secretos: su seguridad está garantizada en la propia aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram.
+Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado end-to-end, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera es necesario que confíes en Telegram cuando usas chats secretos: su seguridad está garantizada en la propia aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram.
 
 Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo una contraseña segura para bloquear tu aplicación. De ese modo, no será posible acceder a tus chats si te roban el dispositivo o interceptan tu código SMS. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Avísame si quieres saber más detalles.
 
@@ -1522,9 +1522,9 @@ iOS: Para establecer un alias, ve a Ajustes y toca sobre tus detalles en la part
 
 WP: Para establecer un alias, toca sobre “...” en la lista de chats para ir a Ajustes, luego Establecer alias.
 
-Desktop: Para configurar un alias, haz clic en el icono de menú que está cerca de la barra de búsqueda, luego Ajustes > Editar perfil > Añadir alias.
+Desktop: Para establecer un alias, haz clic en el icono de menú que está cerca de la barra de búsqueda, luego Ajustes > Editar perfil > Añadir alias.
 
-Web: Para establecer un alias, ve a Ajustes, luego Alias
+Web: Para establecer un alias, ve a Ajustes, luego “Establecer alias alias”.
 
 {QUESTION}
 How can I find people on Telegram by their usernames?
@@ -2405,7 +2405,7 @@ How do I log out of Telegram?
 {KEYS}
 logout
 {VALUE}
-De normal, no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. ¿Sabías que cuando inicias sesión de nuevo, puedes obtener el código en cualquier otra aplicación de Telegram en vez de en un SMS? Siempre que dicha aplicación haya estado activa recientemente. Puedes hacer esto cuando inicies la sesión y ahorrar tiempo.
+Por lo general no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. ¿Sabías que cuando inicias sesión de nuevo, puedes obtener el código en cualquier otra aplicación de Telegram en vez de en un SMS? Siempre que dicha aplicación haya estado activa recientemente. Puedes hacer esto cuando inicies la sesión y ahorrar tiempo.
 
 Android: Desliza hacia la derecha en la lista de Chats para abrir el menú, luego ve a Ajustes > toca “...” en la esquina superior derecha > “Cerrar sesión”.
 
@@ -2421,7 +2421,7 @@ How do I log out of Telegram? (Desktop)
 logoutd
 logoutdesktop
 {VALUE}
-De normal, no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. Si quieres bloquear la aplicación para otras personas en tu dispositivo, puedes establecer un código de acceso: Ajustes > Activar código de acceso. Cuando está activo, puedes bloquear la aplicación haciendo clic en el icono del candado que está junto a la barra de búsqueda, y nadie podrá abrirla sin ese código.
+Por lo general no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. Si quieres bloquear la aplicación para otras personas en tu dispositivo, puedes establecer un código de acceso: Ajustes > Activar código de acceso. Cuando está activo, puedes bloquear la aplicación haciendo clic en el icono del candado que está junto a la barra de búsqueda, y nadie podrá abrirla sin el código de acceso.
 
 Para cerrar sesión, ve Ajustes > tres puntos en la esquina superior derecha > Cerrar sesión.
 
