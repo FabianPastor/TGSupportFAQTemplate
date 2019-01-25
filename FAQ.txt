@@ -103,11 +103,11 @@ noscreenshota
 screenshotandroid
 noscreenshotandroid
 {VALUE}
-If you have the passcode lock enabled, screenshots are disabled by default.
+If you have enabled passcode lock and disabled the option to show your chats in the task switcher, screenshots are disabled.
 
-You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable Allow Screen Capture and restart the app.
+You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable "Show App Content in Task Switcher" and restart the app. You will be able to take screenshots of the app, but the system will display your chats in the task switcher even if the passcode is on.
 
-When this option is enabled, you will be able to take screenshots of the app, but the system will display your chats in the task switcher when the passcode is on. Please also note that you need to have enough space in your device’s memory to save screenshots.
+Please also note that you need to have enough space in your device’s memory to save screenshots.
 
 {QUESTION}
 I’ve heard Telegram was cracked by the FSB, is it true?
@@ -392,7 +392,7 @@ Telegram is focused on speed and security. All official Telegram apps are ad-fre
 
 And here's a brief overview of what else you can do with Telegram:
 - Find your friends by their phone numbers or Telegram usernames. There are also means to make new friends if you're particularly social.
-- Create groups with up to 100,000 members and communicate easily with replies, mentions and hashtags.
+- Create groups with up to 200,000 members and communicate easily with replies, mentions and hashtags.
 - Send stickers - all free and you can even make your own.
 - Subscribe to channels on whatever topic you like.
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
@@ -420,7 +420,7 @@ Telegram is faster and way more secure - thanks to our multi-data center infrast
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
 - Share an unlimited amount of photos, large videos and files of any type.
-- Chat in giant groups of up to 100,000 members.
+- Chat in giant groups of up to 200,000 members.
 - Edit your messages after sending them.
 - Use Secret Chats to send messages, photos, videos and even files with an optional self-destruct timer.
 - Find channels and custom bots on whatever topic you like. Feel free to ask me for some examples.
@@ -733,7 +733,7 @@ restoremessages
 recovermessages
 deletedchataccident
 {VALUE}
-Sorry, there is no way to restore chats or messages if you deleted them.
+When you delete a chat or clear chat history, you'll get an option to undo it within the next 5 seconds. Once the time is up, there is no more way to restore them, sorry.
 
 But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could export the chat and send it to you or manually forward you specific chat messages you need. And if it was a secret chat, they may be able to take screenshots for you or just copy the text if screenshots are disabled on their device.
 
@@ -1103,24 +1103,6 @@ Once you find the public group or channel, you can join it by opening the chat a
 Telegram does not have a public list of groups or channels, but you can find many by searching the web - for example  "Telegram Groups or Channels about Engineering".
 
 {QUESTION}
-How are supergroups different from basic groups?
-{KEYS}
-sg
-supergroup
-supergroups
-{VALUE}
-Basic groups are ideal for sharing things with friends and family or collaboration in small teams. They can have up to 200 members, by default everyone can add new members and edit the name and group photo.
-
-Supergroups can have up to 100,000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
-
-Here’s some extra information on how supergroups work:
-- They send fewer joined/left notifications.
-- They can be made public by setting a Username, just like channels.
-- If made public, members can invite new people, if not, they can only join via invite link or if added by admins.
-
-If you want to upgrade your group to a supergroup, go to Group Info and choose ‘Convert to Supergroup’. This action is irreversible, sorry — so please consider all the differences, and ask me if anything is unclear, before you upgrade.
-
-{QUESTION}
 Where do I find bots?
 {COMMENT}
 Feel free to customize these examples within reason
@@ -1254,39 +1236,6 @@ iOS, WP: tap and hold on a message, then press 'edit'.
 Android: tap a message, then press 'edit'. 
 
 Desktop: right-click a message and select 'edit'. You can also press the up arrow button to edit your last message.
-
-{QUESTION}
-How do I delete messages from supergroups? (iOS)
-{KEYS}
-delmsgsgi
-delmsgsuperi
-delmsgsupergroupsi
-{VALUE}
-In supergroups, you can only delete your own messages, unless you are an administrator.
-
-However, you can clear all the messages in a private group from your inbox if you wish: select any message in the group > More > ‘Clear Chat’ at the top-left corner. Note that messages won't be removed for other group members in this case.
-
-If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
-
-{QUESTION}
-How do I delete messages from supergroups? (Android, macOS)
-{KEYS}
-delmsgsga
-delmsgsgosx
-delmsgsgmac
-delmsgsupera
-delmsgsupermac
-delmsgsuperosx
-delmsgsupergroupsa
-delmsgsupergroupsosx
-delmsgsupergroupsmac
-{VALUE}
-In supergroups, you can only delete your own messages, unless you are an administrator.
-
-However, you can clear all the messages in a private group from your inbox if you wish: tap on three dots at the top-right corner in the group > Clear History. Note that messages won't be removed for other group members in this case.
-
-If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. Ask me if you would like to know more about this.
-
 {QUESTION}
 How do I manage cache? (Android)
 {KEYS}
@@ -1297,7 +1246,7 @@ With Telegram, you don't need to store a lifetime of media history on your devic
 
 Simply go to Telegram Settings > Data and Storage > Storage Usage and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
 
-It is possible to clear cached files from individual supergroups and channels: tap and hold them in the chats list, then 'Delete from Cache'.
+It is possible to clear cached files from individual groups and channels: tap and hold them in the chats list, then 'Delete from Cache'.
 
 {QUESTION}
 How do I manage cache? (iOS)
@@ -1459,7 +1408,7 @@ All Telegram data is encrypted and cannot be deciphered by your ISP, network adm
 
 Secret chats are meant for people who want even more than that. They use end-to-end encryption, so there is no way to decipher your data without accessing your device. It means you don‘t even need to trust Telegram when you use Secret Chats — their secrecy is guaranteed client-side and anyone can check the source code of Telegram clients.
 
-If you are concerned about security in general, there are other important precautions you could take. Consider protecting your account by enabling 2-Step Verification and setting up a strong passcode to lock your app, then it won’t be possible to access your chats by stealing your device or even by intercepting your SMS code. You will find both options in ‘Settings’ under ‘Privacy and Security’, ask me if you’d like more details.
+If you are concerned about security in general, there are other important precautions you could take. Consider protecting your account by enabling 2-Step Verification and setting up a strong passcode to lock your app. You will find both options in ‘Settings’ under ‘Privacy and Security’, ask me if you’d like more details.
 
 {QUESTION}
 How can I send self-destructing messages? (iOS)
@@ -1871,7 +1820,7 @@ creategroupandroid
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
-Each group can have up to 100,000 members in Telegram.
+Each group can have up to 200,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1886,7 +1835,7 @@ creategroupios
 {VALUE}
 To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 100,000 members in Telegram.
+Each group can have up to 200,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1902,7 +1851,7 @@ creategroupwindowsphone
 {VALUE}
 To create a group on Windows Phone, tap the '+' sign in the chat main menu, then 'New Group'.
 
-Each group can have up to 100,000 members in Telegram.
+Each group can have up to 200,000 members in Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1918,7 +1867,7 @@ creategroupdesktop
 {VALUE}
 To create a group via the latest version of the desktop app, tap the menu icon near the search field, then 'New Group'.
 
-Each group can have up to 100,000 members in Telegram.
+Each group can have up to 200,000 members in Telegram.
 
 {QUESTION}
 How do I add members to my group? (Android, iOS)
@@ -2017,29 +1966,6 @@ createchanneldesktop
 To create a channel via the latest version of the desktop app, tap the menu icon near the search field, then 'New Channel'.
 
 Channels can have an unlimited number of members.
-
-{QUESTION}
-How to convert my group to supergroup?
-{KEYS}
-upgrade
-upgradesg
-convertsg
-upgradetosg
-converttosg
-upgradegroup
-convertgroup
-upgradetosupergroup
-converttosupergroup
-{VALUE}
-You can only upgrade a group to a supergroup if you are the creator of it.
-
-iOS: Go to Group Info > Edit > Convert to Supergroup
-
-Android, WP: Group Info > three dots in the top-right corner > Convert to Supergroup
-
-Desktop: Group Info > Convert to Supergroup. 
-
-Note that this action is irreversible — so please consider all the differences before you upgrade. Ask me if you want to learn more about supergroups.
 
 {QUESTION}
 How can I pin a message?
