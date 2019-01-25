@@ -103,11 +103,11 @@ noscreenshota
 screenshotandroid
 noscreenshotandroid
 {VALUE}
-Si tienes el código de acceso activado, las capturas de pantalla están desactivadas por defecto.
+Si tienes el código de acceso activado y desactivada la opción para mostrar tus chats en la multitarea, las capturas de pantalla están desactivadas.
 
-Puedes cambiar esta configuración yendo a: Ajustes > Privacidad y seguridad > Código de acceso. Luego, activa “Permitir captura de pantalla” y reinicia la aplicación.
+Puedes cambiar esta configuración yendo a: Ajustes > Privacidad y seguridad > Código de acceso. Luego, activa “Mostrar contenido en la multitarea”. Podrás hacer capturas de pantalla de la app, pero el sistema mostrará tus chats en la multitarea aunque el código de acceso esté activado.
 
-Cuando esta opción esté activada, podrás hacer capturas de pantalla en la aplicación, pero el sistema mostrará tus chats en la multitarea aunque esté en uso el código de acceso. Por favor, también ten en cuenta que necesitas suficiente espacio en la memoria de tu dispositivo para guardar las capturas de pantalla.
+Por favor, además ten en cuenta que necesitas suficiente espacio de almacenamiento en tu dispositivo para guardar las capturas de pantalla.
 
 {QUESTION}
 I’ve heard Telegram was cracked by the FSB, is it true?
@@ -392,7 +392,7 @@ Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones ofic
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
 - Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
-- Crea grupos de hasta 100 000 miembros y comunícate fácilmente con respuestas, menciones y hashtags.
+- Crea grupos de hasta 200 000 personas y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
 - Disfruta de bots personalizados de Telegram para juegos, educación o cualquier otro tipo de información. Puedes pedirme algunos ejemplos.
@@ -420,7 +420,7 @@ Telegram es mucho más rápida y segura, gracias a nuestra infraestructura de m�
 Por nombrar algunas características únicas:
 - Accede a tus mensajes de Telegram desde diferentes dispositivos al mismo tiempo, incluyendo tablets y ordenadores.
 - Comparte una cantidad ilimitada de fotos, vídeos grandes y archivos de cualquier tipo.
-- Chatea en grupos gigantes de hasta 100 000 miembros.
+- Chatea en grupos gigantes de hasta 200 000 miembros.
 - Edita tus mensajes después de enviarlos.
 - Usa chats secretos para enviar mensajes, fotos, vídeos e incluso archivos con la opción de autodestrucción.
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
@@ -733,7 +733,7 @@ restoremessages
 recovermessages
 deletedchataccident
 {VALUE}
-Lo sentimos, no hay manera de restaurar chats o mensajes si los eliminaste.
+Cuando elimines un chat o vacíes el historial, tendrás una opción para deshacer esta acción dentro de los siguientes 5 segundos. Una vez que el tiempo se acabe, no hay manera de restaurarlos. Lo sentimos.
 
 Pero, ¿le preguntaste a tu compañero de chat si todavía lo tiene? Si no era un chat secreto, tu amigo podría exportar el chat y enviártelo o reenviar manualmente algunos mensajes específicos que necesites. Y si era un chat secreto, podrían enviarte capturas de pantalla o copiar el texto, en caso de que las capturas estén desactivadas en su dispositivo.
 
@@ -1103,24 +1103,6 @@ Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat
 Telegram no tiene una lista pública de grupos o canales. Puedes encontrar muchos buscando en la web con algunas palabras clave, como “Grupo/canal de Telegram de (lo que buscas)”.
 
 {QUESTION}
-How are supergroups different from groups?
-{KEYS}
-sg
-supergroup
-supergroups
-{VALUE}
-Los grupos básicos de Telegram son ideales para compartir cosas con amigos y familiares o la colaboración en pequeños equipos. Pueden tener hasta 200 miembros y, por defecto, cualquiera puede añadir nuevos miembros, editar el nombre y la foto de perfil del grupo.
-
-Los supergrupos pueden tener hasta 100 000 miembros. Tienen un historial unificado, así que los mensajes eliminados desaparecerán para todos, y los miembros normales pueden eliminar sólo sus propios mensajes.
-
-Aquí tienes información extra sobre cómo funcionan los supergrupos:
-- Envían menos notificaciones de usuarios que se unen o salen del grupo.
-- Pueden hacerse públicos, estableciendo un Alias, tal y como los canales.
-- Si son públicos, los miembros pueden invitar a personas nuevas. Si no, sólo pueden unirse con un enlace de invitación o si los administradores las añaden.
-
-Si quieres actualizar tu grupo a un supergrupo, ve a la información del grupo y elige “Convertir en supergrupo”. Esta acción es irreversible, así que ten en cuenta todas las diferencias y pregúntame si algo no te ha quedado claro, antes de actualizar.
-
-{QUESTION}
 Where do I find bots?
 {COMMENT}
 Feel free to customize these examples within reason
@@ -1254,39 +1236,6 @@ iOS, WP: toca y mantén en un mensaje, luego toca 'editar'.
 Android: toca un mensaje, luego toca 'editar'. 
 
 Desktop: clic derecho en el mensaje y selecciona “Editar”. También puedes pulsar la tecla “Flecha arriba” para editar tu último mensaje.
-
-{QUESTION}
-How do I delete messages from supergroups? (iOS)
-{KEYS}
-delmsgsgi
-delmsgsuperi
-delmsgsupergroupsi
-{VALUE}
-En los supergrupos sólo puedes borrar tus propios mensajes, a menos que seas un administrador.
-
-De todos modos, puedes eliminar todos los mensajes de un grupo privado de tu bandeja de entrada. Para ello toca y mantén sobre cualquier mensaje en el grupo > Más > “Vaciar chat” en la esquina superior izquierda. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán solo para ti.
-
-Si estás buscando una forma de liberar la memoria de tu teléfono, por favor, ten en cuenta que puedes quitar fácilmente los datos de Telegram desde la caché local de tu dispositivo. Pregúntame si quieres saber más sobre ello.
-
-{QUESTION}
-How do I delete messages from supergroups? (Android, macOS)
-{KEYS}
-delmsgsga
-delmsgsgosx
-delmsgsgmac
-delmsgsupera
-delmsgsupermac
-delmsgsuperosx
-delmsgsupergroupsa
-delmsgsupergroupsosx
-delmsgsupergroupsmac
-{VALUE}
-En los supergrupos sólo puedes borrar tus propios mensajes, a menos que seas un administrador.
-
-De todos modos, puedes eliminar todos los mensajes de un grupo privado de tu bandeja de entrada. Para ello toca sobre los tres puntos blancos de la esquina superior derecha, dentro del chat > “Eliminar historial”. Ten en cuenta que esos mensajes no se eliminarán para otros miembros del grupo, sino que desaparecerán solo para ti.
-
-Si estás buscando una forma de liberar la memoria de tu teléfono, por favor, ten en cuenta que puedes quitar fácilmente los datos de Telegram desde la caché local de tu dispositivo. Pregúntame si quieres saber más sobre ello.
-
 {QUESTION}
 How do I manage cache? (Android)
 {KEYS}
@@ -1297,7 +1246,7 @@ Con Telegram, no necesitas almacenar todos los archivos multimedia de tu histori
 
 Simplemente ve a Ajustes de Telegram > Datos y almacenamiento > Uso de almacenamiento y configura cuánto tiempo permanecerán en tu dispositivo los archivos multimedia que no uses. También puedes eliminar la caché manualmente desde ese menú.
 
-También es posible vaciar la caché de supergrupos o canales individualmente: mantenlos pulsados en la lista de chats y elige “Eliminar de la caché”
+Es posible eliminar los archivos en caché de grupos y canales de forma individual. Mantén pulsado sobre uno de ellos en la lista de chats y luego selecciona “Eliminar de la caché”.
 
 {QUESTION}
 How do I manage cache? (iOS)
@@ -1459,7 +1408,7 @@ Todos los datos de Telegram están cifrados y no pueden ser descifrados por tu p
 
 Los chats secretos están pensados para personas que quieren incluso más que eso. Utilizan cifrado end-to-end, por lo que no hay manera de descifrar tus datos sin acceder a tu dispositivo. Esto quiere decir que ni siquiera es necesario que confíes en Telegram cuando usas chats secretos: su seguridad está garantizada en la propia aplicación y cualquiera puede revisar el código fuente de las aplicaciones de Telegram.
 
-Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo una contraseña segura para bloquear tu aplicación. De ese modo, no será posible acceder a tus chats si te roban el dispositivo o interceptan tu código SMS. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Avísame si quieres saber más detalles.
+Si te preocupa la seguridad en general, hay más precauciones que puedes tomar. Considera proteger tu cuenta activando la verificación en dos pasos y poniendo un fuerte código de acceso para bloquear tu aplicación. Encontrarás ambas opciones en Ajustes > Privacidad y seguridad. Sólo dime si quieres saber más detalles.
 
 {QUESTION}
 How can I send self-destructing messages? (iOS)
@@ -1871,7 +1820,7 @@ creategroupandroid
 {VALUE}
 Para crear un grupo en Android, toca sobre el icono del lápiz en la lista de chats, luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 100 000 miembros en Telegram.
+Cada grupo puede tener hasta 200 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (iOS)
@@ -1886,7 +1835,7 @@ creategroupios
 {VALUE}
 Para crear un grupo en iOS, inicia un mensaje nuevo (toca el botón de la parte superior derecha de la pantalla de Chats), y luego elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 100 000 miembros en Telegram.
+Cada grupo puede tener hasta 200 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Windows Phone)
@@ -1902,7 +1851,7 @@ creategroupwindowsphone
 {VALUE}
 Para crear un grupo en Windows Phone, toca el signo “+” en el menú principal de chats y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 100 000 miembros en Telegram.
+Cada grupo puede tener hasta 200 000 miembros en Telegram.
 
 {QUESTION}
 How do I create a group? (Desktop)
@@ -1918,7 +1867,7 @@ creategroupdesktop
 {VALUE}
 Para crear un grupo en la última versión de la aplicación de escritorio, haz clic en el icono de menú, que está junto al campo de búsqueda, y elige “Nuevo grupo”.
 
-Cada grupo puede tener hasta 100 000 miembros en Telegram.
+Cada grupo puede tener hasta 200 000 miembros en Telegram.
 
 {QUESTION}
 How do I add members to my group? (Android, iOS)
@@ -2019,35 +1968,12 @@ Para crear un canal en la última versión de la aplicación de escritorio, haz 
 Los canales pueden tener un número de miembros ilimitado.
 
 {QUESTION}
-How to convert my group to supergroup?
-{KEYS}
-upgrade
-upgradesg
-convertsg
-upgradetosg
-converttosg
-upgradegroup
-convertgroup
-upgradetosupergroup
-converttosupergroup
-{VALUE}
-Sólo puedes convertir un grupo en supergrupo si eres el creador.
-
-iOS: Ve a la información del grupo > Editar > Convertir en supergrupo
-
-Android, WP: Información del grupo > tres puntos de la esquina superior derecha > convertir en supergrupo
-
-Desktop: Información del grupo > 'Convertir en supergrupo'. 
-
-Ten en cuenta que esta acción no se puede revertir, así que, por favor, considera todas las diferencias antes de hacer el cambio. Pregúntame si quieres saber más sobre los supergrupos.
-
-{QUESTION}
 How can I pin a message?
 {KEYS}
 pin
 pinned
 {VALUE}
-Los administradores de los supergrupos y canales pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. Por favor, ten en cuenta que no es posible anclar mensajes enviados antes de que tu grupo fuera convertido en supergrupo. También puedes anclar mensajes en el chat de Mensajes guardados.
+Los administradores de los grupos y canales pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. Por favor, ten en cuenta que no es posible anclar mensajes enviados antes de que tu grupo fuera convertido en grupos. También puedes anclar mensajes en el chat de Mensajes guardados.
 
 iOS, WP: Mantén presionado un mensaje, luego selecciona la opción “Anclar”. Para desanclar el mensaje, presiona el icono “x” de su derecha.
 
