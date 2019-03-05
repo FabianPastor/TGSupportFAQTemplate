@@ -349,6 +349,22 @@ Por favor, contacta con el departamento de abusos de Telegram en abuse@telegram.
 
 ¡Gracias!
 
+{QUESTION}
+When conversation is over
+{COMMENT}
+You can add #end to your custom messages instead or send it without any text.
+{KEYS}
+end
+bye
+exit
+done
+finish
+extrakey
+extrakey2
+{VALUE}
+Esperamos haberte ayudado. Si tienes alguna otra pregunta sobre Telegram, no dudes en contactarnos de nuevo.
+#end
+
 {COMMENT}
 ====================================
 -TELEGRAM-
@@ -1616,8 +1632,6 @@ changebackgroundios
 {VALUE}
 Para cambiar tu fondo, ve a los Ajustes de Telegram > Apariencia > Fondo de chat y elige el que te guste.
 
-Para establecer una de tus propias fotos como fondo, tan sólo toca sobre “Biblioteca de fotos”.
-
 {QUESTION}
 How do I change my background? (Android)
 {KEYS}
@@ -1631,8 +1645,6 @@ changebackgroundandroid
 {VALUE}
 Desliza hacia la derecha en la pantalla de chats para abrir el menú, luego ve a Ajustes > Ajustes de chat > Fondo de chat.
 
-Si quieres establecer tu propia imagen como fondo, toca sobre la primera para acceder a la galería.
-
 {QUESTION}
 How do I change my background? (WP)
 {KEYS}
@@ -1642,8 +1654,6 @@ chatbackgroundwp
 changebackgroundwp
 {VALUE}
 Desliza hacia la derecha en la pantalla de chats para abrir el menú, luego ve a Ajustes > Fondo de chat.
-
-Si quieres establecer tu propia imagen como fondo, toca sobre la primera para acceder a la galería.
 
 {QUESTION}
 How do I change my profile picture? (iOS)
