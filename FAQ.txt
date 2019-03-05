@@ -159,6 +159,15 @@ Once you've used this authorization method on any website that supports it, you 
 
 More info and examples here: https://telegram.org/blog/passport
 
+{QUESTION}
+I don’t want videos to start playing automatically!
+{KEYS}
+autoplay
+{VALUE}
+You can configure auto-play for videos and GIFs in Telegram Settings > Data and Storage > Auto-play media.
+
+In case you're concerned about data usage generally, you can choose specific settings for auto-download in the "Automatic media download" section.
+
 {COMMENT}
 =================================
 -BASIC TEMPLATES-
@@ -348,6 +357,22 @@ I am very sorry, but Telegram support is done by volunteers and we aren't qualif
 Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "Report" button in the "..." menu on Android, or at the bottom of their profile on other platforms.
 
 Thank you!
+
+{QUESTION}
+When conversation is over
+{COMMENT}
+You can add #end to your custom messages instead or send it without any text.
+{KEYS}
+end
+bye
+exit
+done
+finish
+extrakey
+extrakey2
+{VALUE}
+I hope we were able to help. If you have any more questions, please don't hesitate to contact us again.
+#end
 
 {COMMENT}
 ====================================
@@ -1616,8 +1641,6 @@ changebackgroundios
 {VALUE}
 To change your background, go to Telegram Settings > Appearance > Chat Background and choose one that you like.
 
-To set one of your own photos as the background, just tap on "Photo Library".
-
 {QUESTION}
 How do I change my background? (Android)
 {KEYS}
@@ -1631,8 +1654,6 @@ changebackgroundandroid
 {VALUE}
 Swipe right on the chats screen to open the menu, then go to Settings > Chat Settings > Chat background.
 
-If you want to set your own picture as a background, tap the first pic to access your gallery.
-
 {QUESTION}
 How do I change my background? (WP)
 {KEYS}
@@ -1642,8 +1663,6 @@ chatbackgroundwp
 changebackgroundwp
 {VALUE}
 Tap "..." on the Chats screen, then Settings > Chat background.
-
-If you want to set your own picture as a background, tap the first pic to access your gallery.
 
 {QUESTION}
 How do I change my profile picture? (iOS)
