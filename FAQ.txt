@@ -159,6 +159,15 @@ Una vez que hayas usado el método de autorización en cualquier sitio web que l
 
 Puedes ver más información y ejemplos en: https://telegram.org/blog/passport
 
+{QUESTION}
+I don’t want videos to start playing automatically!
+{KEYS}
+autoplay
+{VALUE}
+Puedes configurar la autorreproducción para videos y GIF en Ajustes de Telegram > Datos y almacenamiento > Autorreproducir multimedia.
+
+En caso de que te preocupe el uso de los datos en general, puedes elegir ajustes específicos para la descarga automática en la sección “Descarga automática de multimedia”.
+
 {COMMENT}
 =================================
 -BASIC TEMPLATES-
@@ -1523,7 +1532,7 @@ Los alias de Telegram se entregan por orden de llegada, lo sentimos. ¿Y si usas
 
 Entendemos que algunos alias son parte de una identidad en línea para algunos de nosotros. Si tu alias deseado está ocupado, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo alias en al menos dos de estos servicios: Facebook, Twitter, Instagram.
 
-Si este es tu caso, te pedimos que publiques algo en sendos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrías decir algo como “Esto es para el soporte de Telegram. Por favor, dadme mi alias”. Una vez que lo hayas hecho, por favor, envíanos los enlaces a esas publicaciones aquí (luego puedes quitar las publicaciones, pero por favor, consérvalas mientras se procesa tu solicitud).
+Si este es tu caso, te pedimos que publiques algo en ambos servicios, para poder confirmar que realmente te pertenecen. Por ejemplo, podrías decir algo como “Esto es para el soporte de Telegram. Por favor, dadme mi alias”. Una vez que lo hayas hecho, por favor, envíanos los enlaces a esas publicaciones aquí (luego puedes quitar las publicaciones, pero por favor, consérvalas mientras se procesa tu solicitud).
 
 {QUESTION}
 How do I verify my account?
