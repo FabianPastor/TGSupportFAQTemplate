@@ -12,6 +12,30 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 
+{QUESTION}
+Why is my conversation partner able to delete my messages? I don’t want anyone to delete my messages, please change this!
+{KEYS}
+unsendneg
+deleteforneg
+deleteforboth
+unsendnegative
+deleteforbothneg
+deletefornegative
+deletebothsidesneg
+deletebothsidesnegative
+{COMMENT}
+This template is intended for negative feedback. Please adjust it accordingly if the user requests for more information or has particular concerns that can be resolved.
+- Si te preocupa conservar datos en particular: Telegram Desktop puede ser usada para hacer respaldos.
+- Si te preocupa eliminar algo accidentalmente: hay una opción para deshacer esa acción antes de 5 segundos.
+- Si te preocupa que los mensajes puedan volverse ambiguos y sin contexto: si alguien elimina algunos mensajes, tú puedes eliminar más — o incluso vaciar todo el chat para ambos; también ten en cuenta que las personas pueden reenviar mensajes que están fuera de contexto ya desde antes.
+{VALUE}
+Desde la versión 5.5, puedes eliminar cualquier mensaje enviado o recibido en tus chats privados para ambos participantes, sin límite de tiempo. En resumen, tú y la otra persona con la que chateas tenéis control total sobre vuestra conversación. Puedes conocer más al respecto aquí (en inglés): https://telegram.org/blog/unsend-privacy-emoji
+
+Es un cambio notorio y entiendo que pueden existir algunos argumentos en contra, al igual que con otras características enfocadas en la privacidad. De forma similar a las llamadas, los mensajes ya no dejan rastros que no se puedan eliminar, pero a diferencia de las llamadas, la cantidad de información almacenada es directamente controlada por la decisión consciente de ambos participantes del chat.
+
+Por cierto, como Telegram Support Force está compuesto por voluntarios, no tenemos el poder de decidir qué características serán incorporadas. De todas maneras, lo que podemos hacer y haremos es entregar tu opinión a los desarrolladores.
+
+Si tienes más preguntas sobre cómo funcionan las apps o necesitas nuestra ayuda para resolver problemas que encuentres, por favor, dinos. ¡Con gusto te ayudaremos!
 
 {QUESTION}
 What will happen to the X app?
@@ -876,8 +900,6 @@ Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos 
 Para exportar todos los chats, ve a Ajustes > Ajustes avanzados > Exportar datos de Telegram.
 Para exportar chats individualmente, abre el menú de tres puntos (...) en cualquier chat y elige Exportar historial del chat.
 
-Ten en cuenta que hay poca necesidad de hacer respaldos en Telegram, porque tus chats están almacenan cifrados en la nube de Telegram. Mientras no elimines manualmente algo de un chat en la nube, se mantendrá ahí, incluso decides reinstalar Telegram, usarlo en otro dispositivo o cambiar tu número de teléfono. Los chats secretos son la única excepción a la regla: sólo están disponibles en el dispositivo de origen y se pierden si cierras sesión.
-
 {QUESTION}
 Will I know if somebody blocks me?
 {KEYS}
@@ -893,7 +915,7 @@ Cuando alguien te bloquea, los mensajes que le envías a esa persona dejan de se
 Las personas a las que bloqueas:
 
 - No pueden enviarte mensajes, iniciar chats secretos o llamadas contigo, ni añadirte a grupos.
-- No pueden ver tu foto de perfil
+- No pueden ver tu foto de perfil.
 - No pueden ver tu estado en línea o tu última conexión; siempre les apareces como “última vez hace mucho tiempo” (o “fuera de línea” en versiones antiguas de la aplicación).
 
 {QUESTION}
@@ -1780,9 +1802,8 @@ hideprofilepic
 profilepicturehide
 hideprofilepicture
 {VALUE}
-De momento no se puede ocultar tu foto de perfil en Telegram. Si no quieres que la gente la vea, puedes elegir una foto diferente o quitarla completamente.
+Puedes elegir quién puede ver tu foto de perfil en la última versión de nuestras apps: Ajustes de Telegram > Privacidad y seguridad > Foto de perfil.
 
-También puedes bloquear a los usuarios que no quieres que vean tu foto de perfil. Ten en cuenta que los usuarios bloqueados no pueden enviarte mensajes, iniciar chats secretos contigo o añadirte a grupos. Además, siempre aparecerás para ellos como “últ. vez hace mucho tiempo”.
 
 {QUESTION}
 Can I send a message to myself?
@@ -2031,7 +2052,7 @@ Para bloquear y desbloquear personas, ve a los Ajustes de Telegram > Privacidad 
 Las personas bloqueadas:
 
 - No pueden enviarte mensajes, iniciar chats secretos o llamadas contigo, ni añadirte a grupos.
-- No pueden ver tu foto de perfil
+- No pueden ver tu foto de perfil.
 - No pueden ver tu estado en línea o tu última conexión; siempre les apareces como “última vez hace mucho tiempo” (o “fuera de línea” en versiones antiguas de la aplicación).
 
 {QUESTION}
@@ -2368,12 +2389,23 @@ logoutdesktop
 {VALUE}
 Por lo general no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. Si quieres bloquear la aplicación para otras personas en tu dispositivo, puedes establecer un código de acceso: Ajustes > Activar código de acceso. Cuando está activo, puedes bloquear la aplicación haciendo clic en el icono del candado que está junto a la barra de búsqueda, y nadie podrá abrirla sin el código de acceso.
 
-Para cerrar sesión, ve Ajustes > tres puntos en la esquina superior derecha > Cerrar sesión.
+Para cerrar sesión, ve a los Ajustes > tres puntos en la esquina superior derecha > Cerrar sesión.
 
 {COMMENT}
 ===================
 -TROUBLESHOOTING-
 ===================
+
+{QUESTION}
+Messages in my private chat have disappeared.
+{KEYS}
+missingchat
+missingmsg
+missingmessages
+{VALUE}
+Si hay mensajes que no te aparecen en un chat, quizá tu compañero de conversación decidió eliminarlos.
+
+Ten en cuenta que desde la versión 5.5 puedes eliminar cualquier mensaje enviado o recibido en tus chats privados para ambos participantes, sin límite de tiempo. Esto quiere decir que tú y la otra persona con la que chateas tenéis control total sobre vuestra conversación. Puedes conocer más al respecto aquí (en inglés): https://telegram.org/blog/unsend-privacy-emoji
 
 {QUESTION}
 Why can I only send 10-second voice/video notes?
