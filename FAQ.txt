@@ -12,6 +12,30 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 
+{QUESTION}
+Why is my conversation partner able to delete my messages? I don’t want anyone to delete my messages, please change this!
+{KEYS}
+unsendneg
+deleteforneg
+deleteforboth
+unsendnegative
+deleteforbothneg
+deletefornegative
+deletebothsidesneg
+deletebothsidesnegative
+{COMMENT}
+This template is intended for negative feedback. Please adjust it accordingly if the user requests for more information or has particular concerns that can be resolved.
+- Concerns about losing particular data: Telegram Desktop can be used to backup it
+- Concerns about accidental deletion: there's an option to undo it within the next 5 seconds.
+- Concerns that messages can become ambiguous without context: if someone deletes particular messages, you can delete more — or even clear the whole chat for both sides; also note that people could already forward messages out of context before today.
+{VALUE}
+Starting with version 5.5, you can delete any messages you have sent or received in your private chats for both participants, without any time limit. In short, both you and your chat partner have full control over the conversations the two of you have: https://telegram.org/blog/unsend-privacy-emoji
+
+This is a prominent change and I understand that there may be arguments against it, just like with other privacy-focused features. Similar to calls, messages don't leave an unerasable trace anymore, but unlike calls, the amount of information stored is directly controlled by the conscious choice of both participants of the conversation.
+
+By the way, as the Telegram Support Force is run by volunteers, we don't have the power to decide which features are introduced. However, what we can and will do is pass on your thoughts on to the developers.
+
+If you have any further questions about how the apps work or need help in solving issues you encounter, please let us know - we'll be glad to help!
 
 {QUESTION}
 What will happen to the X app?
@@ -875,8 +899,6 @@ You can export all of your cloud chats, including photos and other media they co
 
 To export all chats, use Settings > Advanced > Export Telegram data.
 To export individual chats, open the … menu in any chat and choose Export chat history.
-
-Note that there is less need for backups in Telegram, because your chats are stored encrypted in the Telegram Cloud. As long as you don't manually delete anything from a cloud chat, it stays there, even if you reinstall Telegram, use it on a second or third device or change your phone number. Secret Chats are the only exception to this rule: they are only available on their device of origin and are lost when you log out.
 
 {QUESTION}
 Will I know if somebody blocks me?
@@ -1780,9 +1802,8 @@ hideprofilepic
 profilepicturehide
 hideprofilepicture
 {VALUE}
-Telegram doesn't currently support hiding your profile picture from other users. If you don't want people to see it, you can choose another profile picture or remove it completely.
+You can choose who can see your profile photo in the latest version of our apps: Telegram Settings — Privacy and Security — Profile Photo.
 
-Alternatively, you could block users to hide your profile picture from them. Please note that blocked people are also unable to send you messages, start secret chats with you or add you to groups. Besides, you always appear to them as 'last seen a long time ago'.
 
 {QUESTION}
 Can I send a message to myself?
@@ -2374,6 +2395,17 @@ To log out, go to Settings > three dots in the top-right corner > Log out.
 ===================
 -TROUBLESHOOTING-
 ===================
+
+{QUESTION}
+Messages in my private chat have disappeared.
+{KEYS}
+missingchat
+missingmsg
+missingmessages
+{VALUE}
+If messages are missing in a particular chat, perhaps your conversation partner chose to delete them.
+
+Note that starting with version 5.5, you can delete any messages you have sent or received in your private chats for both participants, without any time limit. This means both you and your conversation partner have full control over the chat that the two of you have: https://telegram.org/blog/unsend-privacy-emoji
 
 {QUESTION}
 Why can I only send 10-second voice/video notes?
