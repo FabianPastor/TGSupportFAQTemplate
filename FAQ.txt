@@ -38,14 +38,26 @@ By the way, as the Telegram Support Force is run by volunteers, we don't have th
 If you have any further questions about how the apps work or need help in solving issues you encounter, please let us know - we'll be glad to help!
 
 {QUESTION}
-What will happen to the X app?
+What happened to the X app?
 {KEYS}
 iosx
 {VALUE}
 The default Telegram iOS App has been updated to the Swift version previously known as Telegram X. So if you have been using Telegram X, you can now enjoy it in the main version of Telegram for iOS.
 
-You can keep using Telegram X too, but since it is likely to stop receiving updates in future, we invite you to install the main version here:
+You can keep using Telegram X too, but since it has stopped receiving updates, we invite you to install the main version here:
 https://telegram.org/dl/ios
+
+{QUESTION}
+The app doesn't work well on Samsung Ax0 (A10, A20, etc), is not availble in Google Play
+{COMMENT}
+https://trello.com/c/Gq14vVXS
+{KEYS}
+samsungax0
+ax0
+{VALUE}
+Unfortunately Samsung's 2019 Ax0 series phones have issues with their file system which render Telegram and some other apps unusable. We've removed support for these devices until Samsung can fix the issue with a software update. 
+
+We hope that Samsung will resolve the issue soon so that Telegram can be back on those phones. Due to differences in database structure, Telegram X for Android can still work on your phone, so feel free to try it out: https://play.google.com/store/apps/details?id=org.thunderdog.challegram
 
 {QUESTION}
 My phone doesn't support the new version (iOS)
@@ -63,87 +75,6 @@ featureios
 featureswift
 {VALUE}
 I'm afraid it is currently unavailable on the latest version of the Telegram app for iOS - but the app will be getting frequent updates with fixes and new functionality, so if something's missing right now, it should be back in future. Sorry for the trouble!
-
-{QUESTION}
-How do I use themes? (Desktop)
-{KEYS}
-themes
-themed
-themesd
-themedesktop
-themesdesktop
-{VALUE}
-Since version 1.0, Telegram Desktop supports custom themes, so you can choose an alternative design for your app.
-
-Try it out with some themes from here: @Themes.
-
-To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
-
-If you want to use one of the default themes, click on the main menu icon near the search field > Settings > Chat Settings > Themes.
-
-Here’s a detailed guide on themes if you’d like one:
-http://telegra.ph/Telegram-Themes-FAQ#Desktop
-
-{QUESTION}
-How do I use themes? (Android)
-{KEYS}
-themea
-themesa
-themeandroid
-themesandroid
-{VALUE}
-​​Since version 3.17, Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
-
-To switch to a different theme, to go back to the default one or to create a new one, go to Settings > Chat Settings > Theme.
-
-If you want to set a custom theme from a file, click on it. A preview will open and if you like it you can click "Apply". Try it out with some themes from here: @AndroidThemes. 
-
-Here’s a detailed guide on themes if you’d like one:
-http://telegra.ph/Telegram-Themes-FAQ#Android
-
-{QUESTION}
-How do I use themes? (iOS)
-{KEYS}
-themei
-themesi
-themeios
-themesios
-{VALUE}
-​​Since version 4.7, Telegram for iOS lets you change what your Telegram looks like by choosing a new color theme.
-
-To switch to a different theme, or to go back to the default one, go to Telegram Settings > Appearance and select an option under "Color Theme".
-
-If you select the "Day" theme you will additionally be able to choose an Accent Color to further customize your Telegram.
-
-{QUESTION}
-Can't take screenshots anywhere (Android)
-{COMMENT}
-For screenshots in secret chats, see ‘screensecreta’.
-{KEYS}
-screena
-noscreena
-screenshota
-noscreenshota
-screenshotandroid
-noscreenshotandroid
-{VALUE}
-If you have enabled passcode lock and disabled the option to show your chats in the task switcher, screenshots are disabled.
-
-You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable "Show App Content in Task Switcher" and restart the app. You will be able to take screenshots of the app, but the system will display your chats in the task switcher even if the passcode is on.
-
-Please also note that you need to have enough space in your device’s memory to save screenshots.
-
-{QUESTION}
-I’ve heard Telegram was cracked by the FSB, is it true?
-{KEYS}
-fsb
-guardian
-{VALUE}
-These rumors come from a "report" that is likely to be fake. See: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
-
-If it's not, it probably refers to the story of SMS interception for two Russian oppositionary accounts that were not using 2-Step Verification: http://fortune.com/2016/05/06/telegram-activists-hack/. Tell me if you want to learn more about 2-Step Verification. 
-
-As for the report, bear in mind that Journalists from the Guardian, the Financial Times, and other reputable papers have had it since June 2016 and to this day they are unable to confirm a single statement from it.
 
 {QUESTION}
 I've heard the Telegram team are planning to do something! Is this true?
@@ -238,6 +169,16 @@ Please update your app, we've noticed you're using an outdated version. You can 
 https://telegram.org/dl/android
 
 {QUESTION}
+User using outdated app (Android X)
+{KEYS}
+updax
+updateax
+updateandroidx
+{VALUE}
+Please update your app, we've noticed you're using an outdated version. You can find the latest Telegram X for Android here:
+https://play.google.com/store/apps/details?id=org.thunderdog.challegram
+
+{QUESTION}
 User using outdated app (Windows phone)
 {KEYS}
 updwp
@@ -327,7 +268,7 @@ nothere
 Please note that this chat is used for support. Our volunteers read and view everything you post here. If you need a place to store your data, you can use the Telegram Saved Messages chat.
 
 iOS: Telegram Settings > Saved Messages.
-Android: Main menu > Tap the Saved Messages option.
+Android, Android X: Main menu > Tap the Saved Messages option.
 Windows Phone: Chats > New chat > tap on "You".
 Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon or your profile picture.
 
@@ -766,7 +707,12 @@ hideonline
 hidestatus
 hideonlinestatus
 {VALUE}
-Your online status is only shown to those people that can see your last seen. If you don't share your last seen with them, they will only see you 'Online' when you're typing a message to them — or just sent one.
+Your online status is shown to those people that can see your last seen.
+
+If you don't share your last seen with someone, they will only see you 'Online' for a brief period when it’s obvious that you’re online:
+- When you have just sent a message to them or to a group where you are both members.
+- When you have just read a message they sent you in a one-on-one chat.
+- When you show as "typing..." messages - to them, or in a group where you are both members.
 
 {QUESTION}
 I deleted a chat by accident, can I restore it?
@@ -887,13 +833,11 @@ statusmessageiphone
 You can add a few words about yourself to your profile in Telegram Settings: tap your details at the top, then ‘Bio‘.
 
 {QUESTION}
-Can I archive or back up my conversations?
+Can I back up my conversations?
 {KEYS}
 backup
 export
-archive
 backups
-archives
 {VALUE}
 You can export all of your cloud chats, including photos and other media they contain, using the latest version of Telegram Desktop: https://desktop.telegram.org
 
@@ -916,7 +860,7 @@ People you block:
 
 - can't send you messages, start secret chats or calls with you, or add you to groups
 - can't see your profile picture
-- can't see your online and last seen status; you always appear to them as 'last seen a long time ago' (or 'offline' in older versions of the apps).
+- can't see your online and last seen status; you always appear to them as 'last seen a long time ago'.
 
 {QUESTION}
 What are gifs?
@@ -984,12 +928,16 @@ When you start a message with an emoji, you may see a relevant sticker suggestio
 If you'd like to know how to find more stickers, let me know and I'll be glad to give you some tips.
 
 {QUESTION}
-How can I use stickers? (Android)
+How can I use stickers? (Android, Android X)
 {KEYS}
 stickera
 stickersa
 stickerandroid
 stickersandroid
+stickerax
+stickersax
+stickerandroidx
+stickersandroidx
 {VALUE}
 There is a stickers tab in the emoji panel. When you add sticker sets, they will appear in this tab. Try it with https://t.me/addstickers/animals or https://t.me/addstickers/Vicky. You can tap on a sticker to send it immediately, or tap and hold to see a larger preview of it.
 
@@ -1046,6 +994,8 @@ iOS: Telegram Settings > Stickers > Edit
 
 Android: Telegram Settings > Chat Settings > Stickers and Masks > "..."
 
+Android X: Telegram Settings > Stickers > Installed > Tap > Remove stickers
+
 WP: Telegram Settings > Stickers > Tap and hold > Remove
 
 Desktop: Stickers panel > Gear icon > Delete
@@ -1059,15 +1009,7 @@ aboutchannels
 {VALUE}
 Channels are a tool for broadcasting your messages to large audiences — share important news, fun stuff, or anything you want. Unlike in a group, the recipients won't know about each other and it is only the administrators of the channel that will be able to send messages there.
 
-Channels can have an unlimited number of members — and they can be public with a permanent URL so that everyone can find and join them. If you'd like an example, join our official Telegram channel to get notified about our updates: https://t.me/telegram
-
-To create a channel:
-
-iOS: Start a new message (tap the icon in the top-right corner in Chats). Then ‘New Channel’.
-
-Android: Tap the pencil icon in the chat list. Then ‘New Channel’.
-
-Windows Phone: Tap the '+' sign in the chat main menu. Then ‘New Channel’.
+Channels can have an unlimited number of subscribers — and they can be public with a permanent URL so that everyone can find and join them. If you'd like an example, join our official Telegram channel to get notified about our updates: https://t.me/telegram
 
 {QUESTION}
 Where do I find new channels and groups? (iOS)
@@ -1097,7 +1039,7 @@ Once you find the public group or channel, you can join it by opening the chat a
 Telegram does not have a public list of groups or channels, but you can find many by searching the web - for example  "Telegram Groups or Channels about Engineering".
 
 {QUESTION}
-Where do I find new channels and groups? (Android)
+Where do I find new channels and groups? (Android, Android X)
 {KEYS}
 morechana
 getchannelsa
@@ -1243,11 +1185,14 @@ smscodeandroid
 The code is automatically recognized by most Android smartphones and inserted so fast that you won't notice. If you are able to use your Telegram, everything worked just fine and you don't need it anymore.
 
 {QUESTION}
-Do I need to answer an activation call from you? (Android)
+Do I need to answer an activation call from you? (Android, Android X)
 {KEYS}
 actcalla
 actcallandroid
 activationcallandroid
+actcallax
+actcallandroidx
+activationcallandroidx
 {VALUE}
 When you receive a confirmation call from Telegram, the phone number contains a code that is automatically recognized by your smartphone and verified by the app. You don’t need to answer the call or enter the code manually.
 
@@ -1278,16 +1223,84 @@ editmessage
 {VALUE}
 In Telegram, you can edit the text of your messages for 2 days after sending them. The messages will display a small 'edited' label so that it's easy to tell which were altered.
 
-iOS, WP: tap and hold on a message, then press 'edit'. 
+iOS, WP: tap and hold on a message, then press 'Edit'. 
 
-Android: tap a message, then press 'edit'. 
+Android, Android X: tap a message, then press 'Edit'. 
 
-Desktop: right-click a message and select 'edit'. You can also press the up arrow button to edit your last message.
+Desktop: right-click a message and select 'Edit'. You can also press the up arrow button to edit your last message.
+
 {QUESTION}
-How do I manage cache? (Android)
+How do I use themes? (Desktop)
+{KEYS}
+themes
+themed
+themesd
+themedesktop
+themesdesktop
+{VALUE}
+Telegram Desktop supports custom themes, so you can choose an alternative design for your app.
+
+Try it out with some themes from here: @Themes.
+
+To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
+
+If you want to use one of the default themes, click on the main menu icon near the search field > Settings > Chat Settings > Themes.
+
+Here’s a detailed guide on themes if you’d like one:
+http://telegra.ph/Telegram-Themes-FAQ#Desktop
+
+{QUESTION}
+How do I use themes? (Android)
+{KEYS}
+themea
+themesa
+themeandroid
+themesandroid
+{VALUE}
+Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
+
+To switch to a different theme, go back to the default one or to create a new one, go to Settings > Chat Settings > Theme.
+
+If you want to set a custom theme from a file, tap on it. A preview will open and if you like it you can tap "Apply". Try it out with some themes from here: @AndroidThemes. 
+
+Here’s a detailed guide on themes if you’d like one:
+http://telegra.ph/Telegram-Themes-FAQ#Android
+
+{QUESTION}
+How do I use themes? (iOS)
+{KEYS}
+themei
+themesi
+themeios
+themesios
+{VALUE}
+Telegram for iOS lets you change what your Telegram looks like by choosing a new color theme.
+
+To switch to a different theme, or go back to the default one, go to Telegram Settings > Appearance and select an option under "Color Theme".
+
+If you select the "Day" theme you will additionally be able to choose an Accent Color to further customize your Telegram.
+
+{QUESTION}
+How do I use themes? (Android X)
+{KEYS}
+themeax
+themesax
+themeandroidx
+themesandroidx
+{VALUE}
+Telegram X for Android supports Custom Themes, so you can set an alternative design for your app.
+
+To switch to a different theme, go back to the default one or to create a new one, go to Settings > Themes and Chats > Color Theme.
+
+If you want to set a custom theme from a file, tap on it and press "Apply theme". Try it out with some themes from here: @tgx_perfection. 
+
+{QUESTION}
+How do I manage cache? (Android, Android X)
 {KEYS}
 cachea
 cacheandroid
+cacheax
+cacheandroidx
 {VALUE}
 With Telegram, you don't need to store a lifetime of media history on your device. If you remove Telegram data from your device's local cache, it will re-download from the cloud whenever you want to access it again. This means, you won't lose anything and Telegram will always take the minimum amount of space.
 
@@ -1482,6 +1495,19 @@ The self-destruct timer is available for any photos or videos in private chats. 
 In Secret Chats, you can set the timer for all kinds of messages. Tap the profile picture in the secret chat, set the desired time and tap 'Done'. This timer will apply to every message sent in this chat, after it was set. Countdown starts as soon as the person on the other side reads the message — as soon as the time runs out, messages are removed from both devices.
 
 {QUESTION}
+How can I send self-destructing messages? (Android X)
+{KEYS}
+timerax
+timerandroidx
+selfdestructax
+selfdestructandroidx
+{VALUE}
+The self-destruct timer is available for any photos or videos in private chats. To set the timer, tap the stopwatch icon at the bottom of the full-screen preview. The countdown starts the moment your recipient opens the photo or video you sent — as soon as the time runs out, this photo or video is removed from both devices.
+
+In Secret Chats, you can set the timer for all kinds of messages. Tap the stopwatch icon at the top of the chat, set the desired time and tap 'Done'. This timer will apply to every message sent in this chat, after it was set. Countdown starts as soon as the person on the other side reads the message — as soon as the time runs out, messages are removed from both devices.
+
+
+{QUESTION}
 How can I send self-destructing messages? (Windows Phone)
 {KEYS}
 timerwp
@@ -1499,28 +1525,61 @@ To activate the timer on Windows Phone, tap the profile image in the secret chat
 ======================
 
 {QUESTION}
-How do usernames work?
+How do I set a username / public link? (Android, Android X)
 {KEYS}
-un
-username
-usernames
+una
+unax
+unandroid
+usernamea
+unandroidx
+usernamesa
+usernameax
+usernamesax
+usernameandroid
+usernamesandroid
+usernameandroidx
+usernamesandroidx
 {VALUE}
-You can pick a public Telegram username so that other users can find you using global search. This means that people will be able to contact you or add you to groups, even if they don't have your phone number. If you do not want that, simply don't set up a user name.
+To set up a public username so that any Telegram user can contact you, go to Settings > Username.
 
-Usernames must have at least 5 characters and cannot start or end with underscores (_).
 Once you've set up a username, you will also be able to use your personal Telegram link:
 t.me/YourUsername
+
 It will open a chat with you on Telegram — perfect for sharing with friends or putting up on your website or social network profiles.
 
-Android: To set up a username, swipe the chat list to the right to open the menu, then 'Settings' > 'Username'.
+{QUESTION}
+How do I set a username / public link? (iOS)
+{KEYS}
+uni
+unios
+usernamei
+usernamesi
+usernameios
+usernamesios
+{VALUE}
+To set up a public username so that any Telegram user can contact you, go to Settings and tap your details at the top. Then, tap "Username".
 
-iOS: To set up a username, go to Settings and tap your details at the top. Then, tap "Username".
+Once you've set up a username, you will also be able to use your personal Telegram link:
+t.me/YourUsername
 
-WP: To set up a username, tap '...' in the chat list to go to Settings, then 'Set Username'.
+It will open a chat with you on Telegram — perfect for sharing with friends or putting up on your website or social network profiles.
 
-Desktop: To set up a username, click on the menu icon near the search field, then 'Settings' > 'Edit Profile' > 'Add Username'.
+{QUESTION}
+How do I set a username / public link? (Desktop)
+{KEYS}
+undesk
+undesktop
+usernamedesk
+usernamesdesk
+usernamedesktop
+usernamesdesktop
+{VALUE}
+To set up a public username so that any Telegram user can contact you, click on the menu icon near the search field, then Settings > Edit Profile > Add Username.
 
-Web: To set up a username, go to Settings, then 'Set username'.
+Once you've set up a username, you will also be able to use your personal Telegram link:
+t.me/YourUsername
+
+It will open a chat with you on Telegram — perfect for sharing with friends or putting up on your website or social network profiles.
 
 {QUESTION}
 How can I find people on Telegram by their usernames?
@@ -1536,7 +1595,7 @@ searchunsername
 {VALUE}
 You can search for other Telegram users by their usernames, if they have set one up. You need to type at least 5 characters to start the search. Read more about usernames here: https://telegram.org/faq#usernames-and-t-me
 
-Android: Tap the magnifying glass icon in the top right corner in the chat list, then type in the search box.
+Android, Android X: Tap the magnifying glass icon in the top right corner in the chat list, then type in the search box.
 
 iOS: Scroll a little up in the chats list, then type in the search box above.
 
@@ -1643,7 +1702,7 @@ First, make sure you have Touch ID set up, you can configure it in iOS Settings:
 
 Settings > Touch ID & Passcode > Add a fingerprint.
 
-Then, go to Telegram Settings > Privacy and Security > Passcode Lock, and make sure the "Unlock with Touch ID" setting is turned on.
+Then, go to Telegram Settings > Privacy and Security > Passcode & Touch ID, and make sure the "Unlock with Touch ID" setting is turned on.
 
 {COMMENT}
 ================================
@@ -1675,6 +1734,19 @@ chatbackgroundandroid
 changebackgroundandroid
 {VALUE}
 Swipe right on the chats screen to open the menu, then go to Settings > Chat Settings > Chat background.
+
+{QUESTION}
+How do I change my background? (Android X)
+{KEYS}
+bgax
+backgroundax
+chatbackgroundax
+changebackgroundax
+backgroundandroidx
+chatbackgroundandroidx
+changebackgroundandroidx
+{VALUE}
+Swipe right on the chats screen to open the menu, then go to Settings > Themes and Chats > Wallpaper.
 
 {QUESTION}
 How do I change my background? (WP)
@@ -1718,7 +1790,24 @@ profilepictureandroid
 changeprofilepicandroid
 changeprofilepictureandroid
 {VALUE}
-To change your profile picture, swipe right in the chat list — settings — tap on the camera icon to set a new picture.
+To change your profile picture, swipe right in the Chats list > Settings > tap on the camera icon to set a new picture.
+
+{QUESTION}
+How do I change my profile picture? (Android X)
+{KEYS}
+ppax
+ppandroidx
+changeppax
+profilepicax
+profilepictureax
+changeprofilepicax
+profilepicandroidx
+changeprofilepictureax
+profilepictureandroidx
+changeprofilepicandroidx
+changeprofilepictureandroidx
+{VALUE}
+To change your profile picture, swipe right in the Chats list > Settings > tap on your profile picture > choose either "Camera" or "Gallery".
 
 {QUESTION}
 How do I change my profile picture? (Windows Phone)
@@ -1755,7 +1844,7 @@ deleteprofilepictureios
 Go to Telegram Settings and tap your details at the top - then tap the camera icon that appears over your current photo and choose the "Delete Photo" option.
 
 {QUESTION}
-How do I delete my profile picture? (Android)
+How do I delete my profile picture? (Android, Android X)
 {KEYS}
 dppa
 delppa
@@ -1770,6 +1859,19 @@ delprofpicandroid
 deleteprofilepicturea
 deleteprofilepicandroid
 deleteprofilepictureandroid
+dppax
+delppax
+delppax
+dppandroidx
+delprofpicax
+delppandroidx
+delprofilepicax
+delprofilepicax
+deleteprofilepicax
+delprofpicandroidx
+deleteprofilepictureax
+deleteprofilepicandroidx
+deleteprofilepictureandroidx
 {VALUE}
 Swipe right in Chats list > Settings > tap on your profile picture > tap "..." > Delete.
 
@@ -1819,7 +1921,7 @@ savedmessages
 To send messages or media to yourself, you can open your personal storage chat:
 
 iOS: Telegram Settings > Saved Messages.
-Android: Main menu > Tap the Saved Messages option.
+Android, Android X: Main menu > Tap the Saved Messages option.
 Windows Phone: Chats > New chat > tap on "You".
 Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon or your profile picture.
 
@@ -1848,7 +1950,7 @@ Please also note that when you set up a username, you enable global search for y
 If you don't want people to contact you, it's best to remove the username. Alternatively, you could block people who are sending unwanted messages.
 
 {QUESTION}
-How do I create a group? (Android)
+How do I create a group? (Android, Android X)
 {KEYS}
 groupa
 makegroupa
@@ -1857,6 +1959,13 @@ creategroupa
 makegroupandroid
 formgroupandroid
 creategroupandroid
+groupax
+makegroupax
+formgroupax
+creategroupax
+makegroupandroidx
+formgroupandroidx
+creategroupandroidx
 {VALUE}
 To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
 
@@ -1939,14 +2048,14 @@ invitegroupdesktop
 {VALUE}
 There are two ways to add members to your group:
 
-1. If you want to add your contacts, tap "..." at the top of the group chat > "Add members". Here you can also add other users if you know their username, but this is not recommended unless they have asked to be added.
+1. If you want to add your contacts, click "..." at the top of the group chat > "Add members". Here you can also add other users if you know their username, but this is not recommended unless they have asked to be added.
 
-2. If you want to use an invite link for your group which can be shared with others, tap "..." at the top of the group chat > "Manage Group", and you'll be able to see the invite link or generate a new one under the "Invite link" heading.
+2. If you want to use an invite link for your group which can be shared with others, click "..." at the top of the group chat > "Manage group" > "Group type", and you'll be able to see the invite link or generate a new one under the "Invite link" heading.
 
 Please note that if a user leaves your group, you will not be able to add them back using method 1 unless they are a mutual contact of yours - instead, they will have to use an invite link and join back themselves.
 
 {QUESTION}
-How do I create a Channel? (Android)
+How do I create a Channel? (Android, Android X)
 {KEYS}
 channela
 makechannela
@@ -1955,10 +2064,17 @@ createchannela
 makechannelandroid
 formchannelandroid
 createchannelandroid
+channelax
+makechannelax
+formchannelax
+createchannelax
+makechannelandroidx
+formchannelandroidx
+createchannelandroidx
 {VALUE}
 To create a channel on Android, tap the pencil icon in the chats list, then select 'New Channel'.
 
-Channels can have an unlimited number of members.
+Channels can have an unlimited number of subscribers.
 
 {QUESTION}
 How do I create a Channel? (iOS)
@@ -1973,7 +2089,7 @@ createchannelios
 {VALUE}
 To create a channel on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Channel'.
 
-Channels can have an unlimited number of members.
+Channels can have an unlimited number of subscribers.
 
 {QUESTION}
 How do I create a Channel? (Windows Phone)
@@ -1989,7 +2105,7 @@ createchannelwindowsphone
 {VALUE}
 To create a channel on Windows Phone, tap the '+' sign in the chat main menu, then 'New Channel'.
 
-Channels can have an unlimited number of members.
+Channels can have an unlimited number of subscribers.
 
 {QUESTION}
 How do I create a Channel? (Desktop)
@@ -2005,7 +2121,7 @@ createchanneldesktop
 {VALUE}
 To create a channel via the latest version of the desktop app, tap the menu icon near the search field, then 'New Channel'.
 
-Channels can have an unlimited number of members.
+Channels can have an unlimited number of subscribers.
 
 {QUESTION}
 How can I pin a message?
@@ -2017,7 +2133,7 @@ Admins of groups and channels can pin a message to the top of the chat to inform
 
 iOS, WP: press and hold on a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 
-Android: tap a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
+Android, Android X: tap a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 
 Desktop: right-click a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
 
@@ -2036,7 +2152,7 @@ Tap the button for "new message" in the chat overview and pick a contact from th
 
 You can also send messages to people if you know their @username on Telegram: type it in the search field above your chats list.
 
-Android: To find the search field, tap the magnifying glass icon in the top right corner in the chat list. Then type in the search box.
+Android, Android X: To find the search field, tap the magnifying glass icon in the top right corner in the chat list. Then type in the search box.
 
 iOS: To find the search field, scroll a little up in the chats list. Then type in the search box above.
 
@@ -2053,10 +2169,10 @@ Blocked people:
 
 - can't send you messages, start secret chats or calls with you, or add you to groups
 - can't see your profile picture
-- can't see your online and last seen status; you always appear to them as 'last seen a long time ago' (or 'offline' in older versions of the apps).
+- can't see your online and last seen status; you always appear to them as 'last seen a long time ago'.
 
 {QUESTION}
-How do I block a non-contact? (Android)
+How do I block a non-contact? (Android, Android X)
 {KEYS}
 blocknca
 blockncandroid
@@ -2065,6 +2181,13 @@ blockstrangerandroid
 blocknoncontactandroid
 blocknon-contactandroid
 blocknon-contactandroid
+blockncax
+blockncandroidx
+blocknoncontactax
+blockstrangerandroidx
+blocknoncontactandroidx
+blocknon-contactandroidx
+blocknon-contactandroidx
 {VALUE}
 Open the chat with the user, then tap the chat header to go to their Profile page. Tap the '...' in the top right corner, then 'Block'.
 
@@ -2101,13 +2224,18 @@ Note: if you keep this contact in your phone book, Telegram will add it again.
 If you don't want the app to sync your contacts, you can disable this via Telegram Settings > Privacy and Security > Data Settings > turn off "Sync Contacts".
 
 {QUESTION}
-How do I delete a contact? (Android)
+How do I delete a contact? (Android, Android X)
 {KEYS}
 delca
 delcontacta
 deletecontacta
 delcontactandroid
 deletecontactandroid
+delcax
+delcontactax
+deletecontactax
+delcontactandroidx
+deletecontactandroidx
 {VALUE}
 Telegram stays in sync with your phone contacts, so if you want to delete a contact completely, you need to remove it from both your Telegram contacts and your phone book.
 
@@ -2138,12 +2266,16 @@ To remove a contact on Telegram:
 Note: if you keep this contact in your phone book, Telegram will add it again.
 
 {QUESTION}
-How do I share a contact? (Android)
+How do I share a contact? (Android, Android X)
 {KEYS}
 sharec
 shareca
 sharecontacta
 sharecontactandroid
+sharecx
+sharecax
+sharecontactax
+sharecontactandroidx
 {VALUE}
 In Android, open a chat with the contact you want to share, tap the name at the top of the chat, then on the info page tap '...' in the top right corner, then 'Share' and select the recipient.
 
@@ -2167,7 +2299,17 @@ deletechata
 delchatandroid
 deletechatandroid
 {VALUE}
-To delete a chat, tap and hold the chat on the Chats screen, then 'Delete' to erase the chat from your Telegram cloud.
+To delete a chat, tap and hold the chat on the Chats screen, then 'Delete'.
+
+{QUESTION}
+How do I delete a chat? (Android X)
+{KEYS}
+delchatax
+deletechatax
+delchatandroidx
+deletechatandroidx
+{VALUE}
+To delete a chat, tap and hold the chat on the Chats screen, then drag your finger to the trash icon.
 
 {QUESTION}
 How do I delete a chat? (Windows Phone)
@@ -2215,6 +2357,8 @@ You can change the text size for messages in Telegram if you'd like.
 Android: Telegram Settings > Chat Settings > Messages Text Size.
 
 iOS: Telegram Settings > Appearance > Text Size.
+
+Android X: Telegram Settings > Themes and Chats > Text Size.
 
 Windows Phone: Phone Settings > Ease of Access > Text Size.
 
@@ -2373,7 +2517,7 @@ logout
 {VALUE}
 Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. Did you know that when you log in again, you can get the code in any other Telegram app instead of an SMS? — provided that app was recently active. You can do this to save time when logging in.
 
-Android: Swipe right in Chats list to open the menu, then Settings > tap '...' in the top right corner > 'Logout'.
+Android, Android X: Swipe right in Chats list to open the menu, then Settings > tap '...' in the top right corner > 'Logout'.
 
 iOS, macOS: Settings > Edit > scroll all the way down, then 'Logout'.
 
@@ -2387,7 +2531,7 @@ How do I log out of Telegram? (Desktop)
 logoutd
 logoutdesktop
 {VALUE}
-Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings — Turn on local passcode. When it’s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
+Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings > Privacy and Security > Turn on local passcode. When it’s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
 
 To log out, go to Settings > three dots in the top-right corner > Log out.
 
@@ -2771,12 +2915,7 @@ resetcontactsi
 {VALUE}
 If you have contacts in your Telegram account which you don't recognise, perhaps you logged in on another person's phone and all their contacts were uploaded to your account.
 
-You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device.
-
-To do this:
-1. Quickly tap 10 times on the Telegram Settings icon.
-2. In the new menu that appears, scroll down until you see "Reset Server Contacts".
-3. Tap "Reset Server Contacts".
+You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device. For this, go to Settings > Privacy and Security > Data Settings > Delete Synced Contacts.
 
 {QUESTION}
 Telegram doesn't connect!
@@ -2813,6 +2952,44 @@ To diagnose your issue, we need your external IP address from the network/device
 
 1. Open the browser on the device and go to ip.telegram.wiki (you can use any other site that shows your IP as well)
 2. Copy the large number from the middle of the page and send it to us.
+
+{QUESTION}
+Can't take screenshots anywhere (Android)
+{COMMENT}
+For screenshots in secret chats, see ‘screensecreta’.
+{KEYS}
+screena
+noscreena
+screenshota
+noscreenshota
+screenshotandroid
+noscreenshotandroid
+{VALUE}
+If you have enabled passcode lock and disabled the option to show your chats in the task switcher, screenshots are disabled.
+
+You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable "Show App Content in Task Switcher" and restart the app. You will be able to take screenshots of the app, but the system will display your chats in the task switcher even if the passcode is on.
+
+Please also note that you need to have enough space in your device’s memory to save screenshots.
+
+{QUESTION}
+Can't take screenshots anywhere (Android X)
+{COMMENT}
+For screenshots in secret chats, see ‘screensecreta’.
+{KEYS}
+screenax
+noscreenax
+screenshotax
+noscreenshotax
+screenshotandroidx
+noscreenshotandroidx
+{VALUE}
+If you have the passcode lock enabled, screenshots are disabled by default.
+
+You can change this setting by going to: Settings > Privacy and Security > Passcode lock, then enable Allow Screen Capture and restart the app.
+
+When this option is enabled, you will be able to take screenshots of the app, but the system will display your chats in the task switcher when the passcode is on.
+
+Please also note that you need to have enough space in your device’s memory to save screenshots.
 
 {QUESTION}
 Can't take screenshots in secret chats (Android 6.0+)
@@ -2874,6 +3051,18 @@ Both settings may affect your battery life. If you toggle them both off and use 
 =======================
 -ARTICLES-
 =======================
+
+{QUESTION}
+I’ve heard Telegram was cracked by the FSB, is it true?
+{KEYS}
+fsb
+guardian
+{VALUE}
+These rumors come from a "report" that is likely to be fake. See: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions.
+
+If it's not, it probably refers to the story of SMS interception for two Russian oppositionary accounts that were not using 2-Step Verification: http://fortune.com/2016/05/06/telegram-activists-hack/. Tell me if you want to learn more about 2-Step Verification. 
+
+As for the report, bear in mind that Journalists from the Guardian, the Financial Times, and other reputable papers have had it since June 2016 and to this day they are unable to confirm a single statement from it.
 
 {QUESTION}
 Your app is leaking online statuses!
