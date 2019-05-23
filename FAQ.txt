@@ -693,11 +693,11 @@ onecheck
 twochecks
 greenchecks
 {VALUE}
-1 tick = mensaje entregado a la nube de Telegram (y está a la espera de que tu compañero de chat lo vea en Telegram), notificación enviada (si el destinatario acepta notificaciones).
+1 tic = mensaje enviado correctamente (y a la espera de que tu compañero de chat lo vea), notificación enviada (si acepta notificaciones).
 
-2 ticks = mensaje leído (el destinatario abrió Telegram y la conversación con tu mensaje).
+2 tics = mensaje leído por el destinatario (abrió Telegram y la conversación contigo).
 
-No tenemos un estado adicional de 'mensaje entregado en el dispositivo', porque puedes usar Telegram en múltiples dispositivos simultáneamente. Como no puedes saber qué dispositivo está usando actualmente una persona, la entrega a uno de esos equipos se hace irrelevante.
+No tenemos un estado adicional para “mensaje entregado al dispositivo”, porque puedes usar Telegram en varios dispositivos simultáneamente. Al no poder saber cuál de sus dispositivos está utilizando actualmente una persona, la información de entrega a uno de estos se hace irrelevante.
 
 {QUESTION}
 Can I hide my online status?
@@ -854,7 +854,7 @@ whoblocked
 userblocked
 amiblocked
 {VALUE}
-Cuando alguien te bloquea, los mensajes que le envías a esa persona dejan de ser entregados y verás sólo 1 tick en ellos. Si esta persona luego te desbloquea, no recibirá esos mensajes, pero verá los nuevos mensajes que tú le envíes tras el desbloqueo.
+Cuando alguien te bloquea, los mensajes que le envías a esa persona dejan de ser entregados y verás sólo 1 tic en ellos. Si esta persona luego te desbloquea, no recibirá esos mensajes, pero verá los nuevos mensajes que tú le envíes tras el desbloqueo.
 
 Las personas a las que bloqueas:
 
