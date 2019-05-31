@@ -1207,11 +1207,9 @@ numberhide
 numberprivacy
 hidephonenumber
 {VALUE}
-Your phone number is hidden from other users. They can only see it in the following cases:
-- If they already have your phone number saved in their address book.
-- If you've shared your number yourself (with 'Share My Contact Info')
+Other users can currently only see your number if they know it already and saved it in their address book.
 
-They won't see your number otherwise — for instance, if they find you via our global search or in a group chat.
+The next update of the apps will make this system more transparent, by introducing a "Who can see my phone number" setting. Your number will be visible only to your own contacts and to those who saved it in their address books. You will be able to further restrict or expand access to your number with granular precision via the Privacy and Security settings.
 
 {QUESTION}
 Can I edit my messages?
