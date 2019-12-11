@@ -48,18 +48,6 @@ You can keep using Telegram X too, but since it has stopped receiving updates, w
 https://telegram.org/dl/ios
 
 {QUESTION}
-The app doesn't work well on Samsung Ax0 (A10, A20, etc), is not availble in Google Play
-{COMMENT}
-https://trello.com/c/Gq14vVXS
-{KEYS}
-samsungax0
-ax0
-{VALUE}
-Unfortunately Samsung's 2019 Ax0 series phones have issues with their file system which render Telegram and some other apps unusable. We've removed support for these devices until Samsung can fix the issue with a software update. 
-
-We hope that Samsung will resolve the issue soon so that Telegram can be back on those phones. Due to differences in database structure, Telegram X for Android can still work on your phone, so feel free to try it out: https://play.google.com/store/apps/details?id=org.thunderdog.challegram
-
-{QUESTION}
 My phone doesn't support the new version (iOS)
 {KEYS}
 ios7
@@ -89,32 +77,6 @@ I'm a member of the Telegram volunteer support. I can help you if you're having 
 All important official news about Telegram is announced on telegram.org and via the @telegram channel.
 
 {QUESTION}
-How do I request a copy of my data as per GDPR? 
-{KEYS}
-gdpr
-gdprbot
-eulaw
-{VALUE}
-You can use @gdprbot to leave a request for your Telegram data and account information, or to ask a related question. Other updates to our apps and policies related to GDPR are coming soon.
-
-{QUESTION}
-What is Telegram Passport? How do I use it?
-{KEYS}
-pass
-tgpass
-passport
-tgpassport
-telegrampassport
-{VALUE}
-Telegram Passport lets you easily sign up for services that require personal identification. You can upload your documents once, then instantly share your data with services that require real-world ID (finance, ICOs, etc.).
-
-The data will be stored in the Telegram cloud and protected by end-to-end encryption — so that nobody, including Telegram, can access it without your permission.
-
-Once you've used this authorization method on any website that supports it, you will see your data in Settings > Privacy & Security > Telegram Passport (on iOS: Settings > Telegram Passport). Please note that if you haven’t uploaded any documents to your Telegram Passport yet, you won’t see it in the app menu. 
-
-More info and examples here: https://telegram.org/blog/passport
-
-{QUESTION}
 I don’t want videos to start playing automatically!
 {KEYS}
 autoplay
@@ -122,6 +84,63 @@ autoplay
 You can configure auto-play for videos and GIFs in Telegram Settings > Data and Storage > Auto-play media.
 
 In case you're concerned about data usage generally, you can choose specific settings for auto-download in the "Automatic media download" section.
+
+{QUESTION}
+How do I archive chats? (iOS, Android)
+{KEYS}
+archivei
+archiveiOS
+archivea
+archiveandroid
+{VALUE}
+You can use the archive feature to sort your active and inactive chats, separate personal stuff from work or clean up your chat list in any other way.
+
+To archive a chat, swipe all the way to the left on it from the Chats List. This will move it to your "Archived Chats" folder.
+
+When an archived chat gets a notification, it will pop out of the folder and back into your chat list. Muted chats will always stay archived.
+
+Note that you can hide the archive itself by swiping left on it and show it again by dragging the screen down.
+
+{QUESTION}
+How do I unarchive chats? (iOS, Android)
+{KEYS}
+unarchivei
+unarchiveiOS
+unarchivea
+unarchiveandroid
+{VALUE}
+To move one of your archived chats back to the main Chats List:
+Open the "Archived Chats" folder > swipe left on the chat > "Unarchive".
+
+If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up.
+
+{QUESTION}
+Why is my number visible to my contacts now?
+{KEYS}
+phoneprivacy
+phonedefault
+numberprivacy
+numberdefault
+phonenumberprivacy
+phonenumberdefault
+{VALUE}
+Throughout most of Telegram's history, your contacts could see your phone number, but this used to work in a less transparent way: after you sent any message to a person in your address book, your number became visible to them (just like with SMS).
+ 
+We received many questions from users who didn't understand how this worked, so the team tried several different approaches. They finally settled on the current system: the apps now have a transparent setting, so you can choose the desired behavior in Settings > Privacy and Security > Phone number.
+
+{QUESTION}
+How do I send scheduled messages? (iOS, Android)
+{KEYS}
+remind
+schedule
+reminder
+scheduled
+{VALUE}
+Hold the Send button and select "Schedule Message" to automatically send your message at a specified time.
+
+Once you've scheduled a message in a chat, a new "clock" icon will appear in your input field — pressing it opens the Scheduled Messages section for that particular chat. From there, you can adjust the timer, cancel scheduled messages or send them right away.
+
+Note that holding the Send button in the "Saved Messages" chat allows you to set reminders for yourself too.
 
 {COMMENT}
 =================================
@@ -669,16 +688,16 @@ lastseen
 hidelastseen
 lastseenrecently
 {VALUE}
-You can set who can see your 'last seen time' in Privacy and Security settings.
+You can set who can see your last seen and online statuses in Privacy and Security settings > Last Seen & Online.
 
-You won‘t see 'Last Seen' timestamps for people with whom you don’t share your own. You will, however, see an approximate 'last seen' value. This keeps stalkers away but makes it easy to see whether a person is reachable over Telegram. There are four possible approximate values:
+Note that you won‘t see 'Last Seen' and online statuses for people with whom you don’t share your own. You will, however, see an approximate 'last seen' value. There are four possible approximate values:
 
 - Last seen recently — covers anything between 1 second and 2-3 days
 - Last seen within a week — between 2-3 and 7 days
 - Last seen within a month — between 6-7 days and a month
 - Last seen a long time ago — more than a month (this is also always shown to blocked users)
 
-As you can see, these stages are not clearly separated, so you cannot calculate much from this data.
+As you can see, these stages are not clearly separated, so you cannot calculate much from this data. This keeps stalkers away but makes it easy to see whether a person is reachable over Telegram.
 
 {QUESTION}
 What do the green checks mean?
@@ -707,7 +726,7 @@ hideonline
 hidestatus
 hideonlinestatus
 {VALUE}
-Your online status is shown to those people that can see your last seen.
+You can set who can see your online and last seen statuses in Privacy and Security settings > Last Seen & Online.
 
 If you don't share your last seen with someone, they will only see you 'Online' for a brief period when it’s obvious that you’re online:
 - When you have just sent a message to them or to a group where you are both members.
@@ -731,6 +750,34 @@ deletedchataccident
 When you delete a chat or clear chat history, you'll get an option to undo it within the next 5 seconds. Once the time is up, there is no more way to restore them, sorry.
 
 But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could export the chat and send it to you or manually forward you specific chat messages you need. And if it was a secret chat, they may be able to take screenshots for you or just copy the text if screenshots are disabled on their device.
+
+{QUESTION}
+I deleted a chat by accident, can I restore it? (Desktop)
+{KEYS}
+restorechatdesk
+recoverchatdesk
+accidentdeletedesk
+deletedmessagedesk
+restoremessagedesk
+recovermessagedesk
+deletedmessagesdesk
+restoremessagesdesk
+recovermessagesdesk
+deletedchataccidentdesk
+restorechatdesktop
+recoverchatdesktop
+accidentdeletedesktop
+deletedmessagedesktop
+restoremessagedesktop
+recovermessagedesktop
+deletedmessagesdesktop
+restoremessagesdesktop
+recovermessagesdesktop
+deletedchataccidentdesktop
+{VALUE}
+Sorry, there is no way to restore chats or messages if you deleted them.
+
+But hey, did you ask your chat partner if they still have the chat? If this wasn't a secret chat, your friend could export the chat and send it to you or manually forward you specific chat messages you need.
 
 {QUESTION}
 How do I know who is using Telegram?
@@ -1124,6 +1171,19 @@ There are many game bots on Telegram, made by developers from all over the world
 We'll be glad to guide you on how Telegram bots work in general, but if you need help with any game in particular, you'll have to ask your friends or search online.
 
 {QUESTION}
+Questions about third-party services
+{KEYS}
+3p
+iptv
+sportz
+sportztv
+thirdparty
+{VALUE}
+This is the support chat for Telegram apps. There are many services from all over the world that use Telegram for their communication and customer support, but Telegram is not affiliated with them.
+
+We'll be glad to guide you on how Telegram works in general, but if you need help with a particular service, you'll have to check their website or contact them directly.
+
+{QUESTION}
 How can I withdraw my money?
 {KEYS}
 btc
@@ -1207,9 +1267,7 @@ numberhide
 numberprivacy
 hidephonenumber
 {VALUE}
-Other users can currently only see your number if they know it already and saved it in their address book.
-
-The next update of the apps will make this system more transparent, by introducing a "Who can see my phone number" setting. Your number will be visible only to your own contacts and to those who saved it in their address books. You will be able to further restrict or expand access to your number with granular precision via the Privacy and Security settings.
+By default, your number is visible only to your own contacts and to those who saved it in their address books. You can further modify this in Settings > Privacy and Security > Phone number.
 
 {QUESTION}
 Can I edit my messages?
@@ -1236,16 +1294,9 @@ themesd
 themedesktop
 themesdesktop
 {VALUE}
-Telegram Desktop supports custom themes, so you can choose an alternative design for your app.
+You can choose what your Telegram app looks like in Settings > Chat Settings > Themes. You can also create new themes there, based on your color and wallpaper choices, then fine-tune them manually or share right away.
 
-Try it out with some themes from here: @Themes.
-
-To set a theme, click on its file. A preview will open and if you like it you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme.
-
-If you want to use one of the default themes, click on the main menu icon near the search field > Settings > Chat Settings > Themes.
-
-Here’s a detailed guide on themes if you’d like one:
-http://telegra.ph/Telegram-Themes-FAQ#Desktop
+Custom themes can be shared with a short link or file. To set a theme, click on its file or link -- a preview will open and if you like it, you can click "Apply this Theme". The theme will now be applied, click on "Keep Changes" if you want to keep the new theme. You can try it out with some themes from here: @Themes.
 
 {QUESTION}
 How do I use themes? (Android)
@@ -1255,14 +1306,9 @@ themesa
 themeandroid
 themesandroid
 {VALUE}
-Telegram for Android supports Custom Themes, so you can set an alternative design for your app.
+You can choose what your Telegram app looks like in Settings > Chat Settings > Theme. You can also create new themes there, based on your color and wallpaper choices, then fine-tune them manually or share right away.
 
-To switch to a different theme, go back to the default one or to create a new one, go to Settings > Chat Settings > Theme.
-
-If you want to set a custom theme from a file, tap on it. A preview will open and if you like it you can tap "Apply". Try it out with some themes from here: @AndroidThemes. 
-
-Here’s a detailed guide on themes if you’d like one:
-http://telegra.ph/Telegram-Themes-FAQ#Android
+Custom themes can be shared with a short link or file. To set a theme, click on the link or file - a preview will open and if you like it you can tap "Apply". You can try it out with https://t.me/addtheme/skyblue or some themes from here: @AndroidThemes.
 
 {QUESTION}
 How do I use themes? (iOS)
@@ -1272,11 +1318,11 @@ themesi
 themeios
 themesios
 {VALUE}
-Telegram for iOS lets you change what your Telegram looks like by choosing a new color theme.
+You can choose what your Telegram app looks like in Settings > Appearance. You can also create new themes there, based on your color and wallpaper choices, then fine-tune them manually or share right away.
 
-To switch to a different theme, or go back to the default one, go to Telegram Settings > Appearance and select an option under "Color Theme".
-
-If you select the "Day" theme you will additionally be able to choose an Accent Color to further customize your Telegram.
+Custom themes can be shared with a short link or file. To set a theme, click on the link or file  - a preview will open and if you like it you can tap "Apply". You can try it with these sample themes:
+https://t.me/addtheme/skyblue
+https://t.me/addtheme/desert
 
 {QUESTION}
 How do I use themes? (Android X)
@@ -1293,18 +1339,26 @@ To switch to a different theme, go back to the default one or to create a new on
 If you want to set a custom theme from a file, tap on it and press "Apply theme". Try it out with some themes from here: @tgx_perfection. 
 
 {QUESTION}
-How do I manage cache? (Android, Android X)
+How do I manage cache? (Android)
 {KEYS}
 cachea
 cacheandroid
-cacheax
-cacheandroidx
 {VALUE}
 With Telegram, you don't need to store a lifetime of media history on your device. If you remove Telegram data from your device's local cache, it will re-download from the cloud whenever you want to access it again. This means, you won't lose anything and Telegram will always take the minimum amount of space.
 
 Simply go to Telegram Settings > Data and Storage > Storage Usage and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
 
 It is possible to clear cached files from individual groups and channels: tap and hold them in the chats list, then 'Delete from Cache'.
+
+{QUESTION}
+How do I manage cache? (Android X)
+{KEYS}
+cacheax
+cacheandroidx
+{VALUE}
+With Telegram, you don't need to store a lifetime of media history on your device. If you remove Telegram data from your device's local cache, it will re-download from the cloud whenever you want to access it again. This means, you won't lose anything and Telegram will always take the minimum amount of space.
+
+Simply go to Telegram Settings > Data and Storage > Storage Usage and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
 
 {QUESTION}
 How do I manage cache? (iOS)
@@ -1427,7 +1481,7 @@ Telegram cloud chats (and groups) are securely encrypted in the Telegram cloud s
 
 Secret Chats use end-to-end encryption and can only be deciphered on the two participating devices. Downside of that: you can't access them from your other devices and if you reinstall Telegram, or even log out of your account, your secret chats will be lost.
 
-Secret Chats also have an optional timer (from 1 second to 1 week) that allows you to send self-destructing messages, photos, videos and even files.
+Secret Chats also have an optional timer (from 1 second to 1 week) for all kinds of messages.
 
 {QUESTION}
 Why are Secret Chats only available on their devices of origin?
@@ -1611,7 +1665,7 @@ Telegram usernames are distributed on a first come - first serve basis, sorry ab
 
 We understand that certain usernames are part of an online identity for some of us. If your desired username is already taken, we will be happy to help you acquire it, provided that you have exactly the same username on at least two of these services: Facebook, Twitter, Instagram.
 
-If this is the case with you, we would ask you to post something on both those services so that we can confirm that they indeed belong to you. E.g. you could say something like 'This is for the Telegram Support. Please give me my username'. Once you've done that, please send us the links to those posts here. (You can later remove the posts, but please keep them while your request is being processed.)
+If this is the case with you, please contact @username_bot and follow the bot's instructions.
 
 {QUESTION}
 How do I verify my account?
@@ -1731,7 +1785,7 @@ backgroundandroid
 chatbackgroundandroid
 changebackgroundandroid
 {VALUE}
-Swipe right on the chats screen to open the menu, then go to Settings > Chat Settings > Chat background.
+Swipe right on the chats screen to open the menu, then go to Settings > Chat Settings > Change Chat Background.
 
 {QUESTION}
 How do I change my background? (Android X)
@@ -1941,7 +1995,7 @@ receivingspam
 strangerdanger
 unwantedmessages
 {VALUE}
-If you receive ads or other kinds of annoying messages from strangers, kindly report them by pressing the ‘Report Spam’ button.
+If you receive ads or other kinds of annoying messages from strangers, kindly report them: Block user > Report Spam.
 
 Please also note that when you set up a username, you enable global search for your account. This means that people can find you and send you messages, even if they don't have your number. (Your phone number will be hidden from them unless you share it yourself.)
 
@@ -2454,7 +2508,7 @@ You can move your Telegram account with all your contacts, cloud chats, groups, 
 
 To do this: go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number - done!
 
-For this to work, please make sure there is no existing Telegram account connected to the new number. If there is, please delete this new account before starting the transfer. Note that your contacts will have your new number added to their address book, provided they had your old number in their phone book and you have not blocked them in Telegram.
+For this to work, please make sure there is no existing Telegram account connected to the new number. If there is, please delete this new account before starting the transfer.
 
 {QUESTION}
 Why do I need to keep my number up to date?
@@ -2532,6 +2586,32 @@ logoutdesktop
 Generally, logging out is not necessary when using Telegram, since you can have it running on all your devices at the same time. If you want to lock it from other users of your device, you can set a passcode: Settings > Privacy and Security > Turn on local passcode. When it’s set, you can lock the app by tapping a lock icon near the search field, and no one will be able to open it without entering your passcode.
 
 To log out, go to Settings > three dots in the top-right corner > Log out.
+
+{QUESTION}
+How do I request a copy of my data as per GDPR? 
+{KEYS}
+gdpr
+gdprbot
+eulaw
+{VALUE}
+You can use @gdprbot to leave a request for your Telegram data and account information, or to ask a related question.
+
+{QUESTION}
+What is Telegram Passport? How do I use it?
+{KEYS}
+pass
+tgpass
+passport
+tgpassport
+telegrampassport
+{VALUE}
+Telegram Passport lets you easily sign up for services that require personal identification. You can upload your documents once, then instantly share your data with services that require real-world ID (finance, ICOs, etc.).
+
+The data will be stored in the Telegram cloud and protected by end-to-end encryption — so that nobody, including Telegram, can access it without your permission.
+
+Once you've used this authorization method on any website that supports it, you will see your data in Settings > Privacy & Security > Telegram Passport (on iOS: Settings > Telegram Passport). Please note that if you haven’t uploaded any documents to your Telegram Passport yet, you won’t see it in the app menu. 
+
+More info and examples here: https://telegram.org/blog/passport
 
 {COMMENT}
 ===================
