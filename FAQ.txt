@@ -81,9 +81,9 @@ I don’t want videos to start playing automatically!
 {KEYS}
 autoplay
 {VALUE}
-Puedes configurar la autorreproducción de vídeos y GIF en Ajustes de Telegram > Datos y almacenamiento > Autorreproducir multimedia.
+Puedes configurar la reproducción automática de vídeos y GIF en Ajustes de Telegram > Datos y almacenamiento > Reproducción automática.
 
-Si te preocupa el uso de datos, puedes elegir ajustes específicos para la descarga automática en la sección 'Descarga automática de multimedia'.
+Si te preocupa el uso de datos, puedes elegir ajustes específicos para la descarga automática en la sección 'Autodescarga de multimedia'.
 
 {QUESTION}
 How do I archive chats? (iOS, Android)
@@ -483,7 +483,7 @@ reallyreally
 {VALUE}
 Telegram es gratis, y lo será siempre.
 
-Pero ten en cuenta que Telegram requiere una conexión a internet para funcionar. Tu operador móvil puede cobrar por tus datos enviados y recibidos a través del teléfono móvil.
+Pero ten en cuenta que Telegram requiere una conexión a internet para funcionar. Tu operador móvil puede cobrar por tus datos enviados y recibidos en tu teléfono móvil.
 
 {QUESTION}
 Can I make a donation to Telegram?
@@ -623,7 +623,7 @@ telegramcloud
 {VALUE}
 La seguridad es uno de los principales atractivos de Telegram: todo lo que envías y recibes está fuertemente cifrado. Los datos de tus chats en la nube son almacenados cifrados en la nube de Telegram.
 
-Y si no te gusta la idea de sincronizar tus chats a través de múltiples dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado end-to-end y sólo pueden ser descifrados por tu dispositivo y el del destinatario. No son parte de la nube y sólo puede accederse a ellos desde el dispositivo en que lo creaste. Y si cierras la sesión en ese dispositivo, desaparecerán.
+Y si no te gusta la idea de sincronizar tus chats en varios dispositivos, prueba nuestros chats secretos. Los mensajes en los chats secretos usan cifrado end-to-end y solo pueden ser descifrados por tu dispositivo y el del destinatario. No forman parte de la nube y solo se puede acceder a ellos desde el dispositivo en el que se iniciaron. Y si cierras la sesión en ese dispositivo, desaparecerán.
 
 {QUESTION}
 Why did you call this Telegram?
@@ -636,7 +636,7 @@ calledtelegram
 why"telegram"?
 whytelegramname
 {VALUE}
-Los antiguos telegramas solían ser hace tiempo la forma más rápida, segura y barata de comunicarse a través de largas distancias; juntó más que nunca a la gente de alrededor de todo el mundo (mira esto: https://es.m.wikipedia.org/wiki/Telegrafía).
+Los antiguos telegramas solían ser hace tiempo la forma más rápida, segura y barata de comunicarse a largas distancias; juntó más que nunca a la gente de alrededor de todo el mundo (mira esto: https://es.m.wikipedia.org/wiki/Telegrafía).
 
 Eso se parecía mucho a nosotros.
 
@@ -692,12 +692,12 @@ Puedes seleccionar quién puede ver tu última vez y estado en línea en los aju
 
 Ten en cuenta que no verás el estado de “última vez” y de estado en línea de las personas con las que no compartas el tuyo. Verás, de todos modos, un valor aproximado de “última vez”. Hay cuatro valores aproximados posibles:
 
-- Última vez recientemente: cubre todo entre 1 segundo y 2-3 días
-- Última vez hace unos días: entre 2-3 y 7 días
-- Última vez hace unas semanas: entre 6-7 días y un mes
-- Última vez hace mucho tiempo: más de un mes (esto también se muestra a los usuarios bloqueados)
+- Últ. vez recientemente: entre 1 segundo y 2-3 días
+- Últ. vez hace unos días: entre 2-3 y 7 días
+- Últ. vez hace unas semanas: entre 6-7 días y un mes
+- Últ. vez hace mucho tiempo: más de un mes (esto también se muestra a los usuarios bloqueados)
 
-Como puedes ver, las etapas no están separadas claramente, así que no puedes calcular mucho a partir de esta información. Esto mantiene a los acosadores a raya, pero permite saber fácilmente si una persona puede ser contactada a través de Telegram.
+Como puedes ver, las etapas no están separadas claramente, así que no puedes calcular mucho a partir de esta información. Esto mantiene a los acosadores a raya, pero permite saber fácilmente si una persona puede ser contactada vía Telegram.
 
 {QUESTION}
 What do the green checks mean?
@@ -886,7 +886,7 @@ backup
 export
 backups
 {VALUE}
-Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos multimedia que haya en ellos, usando la aplicación de Telegram para PC: https://desktop.telegram.org
+Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos multimedia que haya en ellos, usando la aplicación de Telegram Desktop: https://desktop.telegram.org
 
 Para exportar todos los chats, ve a Ajustes > Avanzados > Exportar datos de Telegram.
 Para exportar chats individualmente, abre el menú de tres puntos (...) en cualquier chat y elige Exportar historial del chat.
@@ -1011,7 +1011,7 @@ No tenemos una tienda oficial de stickers, porque la plataforma es abierta para 
 
 3) Navega y añade stickers que están destacados en Telegram, yendo a los Ajustes de Telegram > Stickers > Stickers destacados.
 
-4) Si eso no es suficiente, puedes probar buscando en internet por “Telegram Stickers”. Obtendrás muchos resultados.
+4) Si eso no es suficiente, puedes buscar en internet por “Stickers Telegram”. Obtendrás muchos resultados.
 
 {QUESTION}
 How can I make my own stickers?
@@ -1083,7 +1083,7 @@ Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de l
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales. Puedes encontrar muchos buscando en internet con algunas palabras clave, como “Grupos o canales Telegram de (lo que buscas)”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
 
 {QUESTION}
 Where do I find new channels and groups? (Android, Android X)
@@ -1110,7 +1110,7 @@ Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de l
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales. Puedes encontrar muchos buscando en internet con algunas palabras clave, como “Grupos o canales Telegram de (lo que buscas)”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
 
 {QUESTION}
 Where do I find new channels and groups? (Desktop)
@@ -1136,7 +1136,7 @@ Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de l
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales. Puedes encontrar muchos buscando en internet con algunas palabras clave, como “Grupos o canales Telegram de (lo que buscas)”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
 
 {QUESTION}
 Where do I find bots?
@@ -1493,7 +1493,7 @@ whydevicespecific
 {VALUE}
 Si bien puedes acceder a tus chats en la nube desde cualquiera de tus dispositivos cuando quieras, los chats secretos no son parte de la nube de Telegram y son específicos de cada dispositivo por definición. De este modo, siempre tendrás la seguridad de que están a salvo mientras tengas tu teléfono seguro en tu bolsillo. Los chats secretos también usan cifrado end-to-end, así que no se pueden sincronizar de la misma forma, simple y conveniente, que los chats en la nube. Puede que incorporemos compatibilidad para los chats secretos en múltiples dispositivos en el futuro.
 
-Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas a través de varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Dime si quieres conocer más sobre la seguridad en Telegram.
+Mientras tanto, si quieres que tus conversaciones se mantengan sincronizadas en varios dispositivos, considera utilizar los chats en la nube. Por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Dime si quieres conocer más sobre la seguridad en Telegram.
 
 {QUESTION}
 Why are there no Secret Chats on desktop apps?
@@ -1504,9 +1504,9 @@ secretchatsd
 schatsdesktop
 secretchatsdesktop
 {VALUE}
-Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no permiten por ahora. Puede que lo incorporemos en el futuro. Ahora mismo, tanto la versión de escritorio como la versión web cargan los mensajes desde la nube al iniciar y los desechan cuando sales de ellas. Como los chats secretos no son parte de la nube, esto destruiría todos tus chats secretos cada vez que apagaras tu PC.
+Los chats secretos requieren un almacenamiento permanente en el dispositivo, algo que Telegram Desktop y Telegram Web no permiten por ahora. Puede que lo incorporemos en el futuro. Ahora mismo, tanto la versión de escritorio como la versión web cargan los mensajes desde la nube al iniciar y los desechan cuando sales. Como los chats secretos no forman parte de la nube, esto destruiría todos tus chats secretos cada vez que apagues tu ordenador.
 
-Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en un dispositivo que siempre lleves contigo. Si te preocupa la seguridad de tus chats en el PC, por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Dime si quieres conocer más sobre la seguridad en Telegram.
+Los chats secretos también son específicos de cada dispositivo y desaparecen cuando cierras sesión. Considerando esto, es más útil mantenerlos en un dispositivo que siempre lleves contigo. Si te preocupa la seguridad de tus chats en el ordenador, por favor, ten en cuenta que éstos también están cifrados y además protegidos por la infraestructura distribuida de Telegram. Dime si quieres conocer más sobre la seguridad en Telegram.
 
 {QUESTION}
 Tell me more about security on Telegram
@@ -1695,7 +1695,7 @@ blankusername
 deleteusername
 removeusername
 {VALUE}
-Ve a Ajustes y guarda un alias vacío. Esto quitará tu alias y nadie te podrá encontrar a través de la búsqueda. Esto no afecta a las conversaciones existentes.
+Ve a Ajustes y guarda un alias vacío. Esto quitará tu alias y nadie te podrá encontrar en la búsqueda. Esto no afecta a las conversaciones existentes.
 
 {COMMENT}
 ================================
@@ -2453,7 +2453,7 @@ deactivateaccountm
 {VALUE}
 https://telegram.org/deactivate ← copia este enlace y ábrelo en tu navegador web. Usa un ordenador para tener mejores resultados.
 
-- Enviaremos el código de inicio de sesión a través de un mensaje de Telegram (no un SMS).
+- Enviaremos el código de inicio en un mensaje de Telegram (no un SMS).
 - Elimina tu cuenta solo si ya no quieres usar Telegram. Puede que no sea posible que te registres en Telegram de nuevo inmediatamente.
 
 Mira esta guía para conocer más detalles:
@@ -2472,7 +2472,7 @@ Para eliminar tu cuenta, ve a esta página:
 https://telegram.org/deactivate
 
 - Abre el enlace e inicia sesión.
-- Enviaremos el código de inicio de sesión a través de un mensaje de Telegram (no un SMS).
+- Enviaremos el código de inicio en un mensaje de Telegram (no un SMS).
 
 Elimina tu cuenta solo si ya no quieres usar Telegram. Puede que no sea posible que te registres en Telegram de nuevo inmediatamente.
 
@@ -2541,7 +2541,7 @@ Si quieres continuar, abajo están los pasos para realizar el proceso. También 
 
 1. Utiliza cualquiera de nuestras aplicaciones para iniciar la sesión en la cuenta que está asociada a tu número nuevo. Por ejemplo, ve a https://web.telegram.org, introduce tu número de teléfono nuevo e inicia la sesión usando el código que recibirás vía SMS.
 
-2. Una vez que estés dentro de la cuenta del número nuevo, ve a https://telegram.org/deactivate e introduce el número nuevo ahí, con su formato internacional. Recibirás una contraseña a través de Telegram (pon atención a la aplicación en la que iniciaste sesión en el paso 1). Pon la contraseña y elimina la cuenta.
+2. Una vez que estés dentro de la cuenta del número nuevo, ve a https://telegram.org/deactivate e introduce el número nuevo ahí, con su formato internacional. Recibirás una contraseña vía Telegram (pon atención a la aplicación en la que iniciaste sesión en el paso 1). Pon la contraseña y elimina la cuenta.
 
 3. Ahora, abre tu cuenta principal en un dispositivo móvil, ve a Ajustes de Telegram > Número de teléfono > Cambiar número, y escribe tu nuevo número. Si es necesario, introduce el código que recibirás vía SMS al número nuevo.
 
@@ -2557,7 +2557,7 @@ phonestolen
 Primero de todo, sentimos lo de tu teléfono. Lamentablemente, el número de teléfono es la única forma que tenemos para identificar a un usuario en Telegram, de momento, así que por ahora tienes que seguir estos pasos:
 
 1. Antes de nada, debes contactar con tu operadora de telefonía para que bloqueen tu vieja SIM y pedir una nueva con el mismo número.
-2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes > Privacidad y seguridad > Sesiones activas y allí termina todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
+2. Si tienes iniciada una sesión de Telegram en cualquiera de tus otros dispositivos, ve a Ajustes > Privacidad y seguridad > Sesiones activas (o Ajustes > Dispositivos, en dispositivos móviles) y allí termina todas las otras sesiones. Esto cerrará las sesiones en todos los otros dispositivos. Si la vieja SIM fue bloqueada para ese entonces, nadie podrá acceder a tus datos. Puedes continuar con el uso normal de Telegram.
 3. Si no tienes iniciada una sesión en Telegram, espera hasta que recibas tu nueva SIM con el viejo número, inicia una sesión, luego ve a Ajustes - Terminar todas las otras sesiones. Luego, podrás seguir con el uso normal de Telegram.
 
 Por favor, ten en cuenta que las cuentas de Telegram tienen una opción de autodestrucción que está activada por defecto. Esto significa que todas las cuentas de Telegram se eliminan automáticamente después de 6 meses de inactividad (puedes cambiar esto manualmente en Ajustes > Privacidad y seguridad, con opciones que van en el rango desde 1 mes hasta 1 año).
@@ -2907,7 +2907,7 @@ Después, prueba este truco:
 2. Toca y mantén sobre el número de la versión de la aplicación (donde dice 'Telegram para Android'), hasta que aparezca un emoticón. Luego, suéltalo.
 3. Toca y mantén sobre el número de la versión de la aplicación de nuevo, hasta que esta vez aparezca un menú.
 4. Toca sobre "Recargar contactos". 
-5. Si eso no ayuda, abre el Menú de Depuración de la misma forma otra vez, y prueba la opción "Importar contactos".
+5. Si eso no ayuda, abre el Menú de Depuración de la misma forma otra vez, y prueba la opción 'Importar contactos'.
 
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (iOS)
@@ -2976,13 +2976,7 @@ resetcontactsa
 {VALUE}
 Si tienes contactos en tu cuenta de Telegram que no reconoces, quizá iniciaste sesión en el teléfono de otra persona y todos sus contactos fueron importados a tu cuenta.
 
-Puedes limpiar todos los contactos importados anteriormente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo.
-
-Para hacer esto:
-1. Ve a los ajustes de Telegram y deslízate hacia abajo hasta el final.
-2. Toca y mantén sobre el número de la versión de la aplicación (donde dice 'Telegram para Android'), hasta que aparezca un emoticón. Luego, suéltalo.
-3. Toca y mantén sobre el número de la versión de la aplicación de nuevo, hasta que esta vez aparezca un menú.
-4. Toca 'Restablecer contactos importados'. 
+Puedes eliminar todos los contactos importados previamente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo. Para hacer esto, ve a Ajustes > Privacidad y seguridad > Ajustes de datos > Eliminar contactos sincronizados.
 
 {QUESTION}
 I'm getting 'joined' notifications for people I don't recognize! (iOS)
@@ -3191,9 +3185,40 @@ terminatesessions
 {VALUE}
 Cuando inicias sesión en Telegram, te enviamos un mensaje con un código para iniciar sesión. NO ENTREGUES ESTE CÓDIGO A NADIE. Si lo compartes, otras personas podrán iniciar sesión en tu cuenta.
 
+Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Dispositivos. Si ves algo sospechoso, puedes finalizar la sesión allí.
+
+También puedes establecer una contraseña para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activado, necesitarás esa contraseña y el código que te enviemos para iniciar sesión en Telegram.
+
+{QUESTION}
+I think I was hacked, what do I do? (TDesktop)
+{COMMENT}
+Some social engineers were tricking users into 'sharing screenshots' that would feature the login code, etc.
+{KEYS}
+accsecdesk
+hackeddesk
+wasihackeddesk
+iwashackeddesk
+maybehackeddesk
+donotsharecodedesk
+activesessionsdesk
+terminatesessiondesk
+terminatesessionsdesk
+accsecdesktop
+hackeddesktop
+wasihackeddesktop
+iwashackeddesktop
+maybehackeddesktop
+donotsharecodedesktop
+activesessionsdesktop
+terminatesessiondesktop
+terminatesessionsdesktop
+{VALUE}
+Cuando inicias sesión en Telegram, te enviamos un mensaje con un código para iniciar sesión. NO ENTREGUES ESTE CÓDIGO A NADIE. Si lo compartes, otras personas podrán iniciar sesión en tu cuenta.
+
 Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Privacidad y Seguridad > Sesiones Activas. Si ves algo sospechoso, puedes finalizar la sesión allí.
 
 También puedes establecer una contraseña para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activado, necesitarás esa contraseña y el código que te enviemos para iniciar sesión en Telegram.
+
 
 {QUESTION}
 I’ve read there’s a paper revealing several major exploits in Telegram!
