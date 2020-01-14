@@ -2406,7 +2406,7 @@ textsize
 {VALUE}
 You can change the text size for messages in Telegram if you'd like.
 
-Android: Telegram Settings > Chat Settings > Messages Text Size.
+Android: Telegram Settings > Chat Settings > Message Text Size.
 
 iOS: Telegram Settings > Appearance > Text Size.
 
@@ -2557,7 +2557,7 @@ phonestolen
 First of all, sorry about your phone. Unfortunately, the phone number is the only way for us to identify a Telegram user at the moment, so for now you'll need to follow these steps:
 
 1. First and foremost, you need to contact your SIM provider so that they can block your old SIM and issue you with a new one with the same number.
-2. If you are logged in to Telegram on any of your other devices, go to Settings > Privacy and Security > Active sessions and terminate all other sessions there. This will log out all other devices. If the old SIM has been blocked by this time, nobody can access your data. You can resume ordinary Telegram usage.
+2. If you are logged in to Telegram on any of your other devices, go to Settings > Privacy and Security > Active sessions (or Settings > Devices for mobile devices) and terminate all other sessions there. This will log out all other devices. If the old SIM has been blocked by this time, nobody can access your data. You can resume ordinary Telegram usage.
 3. If you are not logged in to Telegram, wait till you receive your new SIM with the old number, log in to Telegram, then go to Settings - Terminate all other sessions. Then you can resume ordinary Telegram usage.
 
 Please note, that Telegram accounts have a self-destruct option that is enabled by default. This means that all Telegram accounts are automatically deleted after 6 months of inactivity (you can manually change this in Settings - Privacy and Security, with options ranging from 1 month to 1 year).
@@ -2976,13 +2976,7 @@ resetcontactsa
 {VALUE}
 If you have contacts in your Telegram account which you don't recognise, perhaps you logged in on another person's phone and all their contacts were uploaded to your account.
 
-You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device.
-
-To do this:
-1. Go to Telegram settings and scroll to the bottom.
-2. Tap and hold on "Telegram for Android" until you see an emoticon appear, then let go.
-3. Tap and hold on the same area again, this time a menu will appear.
-4. Tap on "Reset Imported Contacts".
+You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device. For this, go to Settings > Privacy and Security > Delete Synced Contacts.
 
 {QUESTION}
 I'm getting 'joined' notifications for people I don't recognize! (iOS)
@@ -3191,9 +3185,40 @@ terminatesessions
 {VALUE}
 When you log in to Telegram, we send you a message with a login code. DO NOT GIVE THIS CODE TO ANYONE. If you give your code to people, they will be able to log in to your account.
 
+To see all active sessions for your Telegram account, go to Settings — Devices — Active Sessions. If you see anything suspicious, you can terminate the session there.
+
+You can also set up an additional password for your account. To do this, go to Settings — Privacy and Security — Two-Step Verification. Once enabled, you will need both a password AND a code to log in to Telegram.
+
+{QUESTION}
+I think I was hacked, what do I do? (TDesktop)
+{COMMENT}
+Some social engineers were tricking users into 'sharing screenshots' that would feature the login code, etc.
+{KEYS}
+accsecdesk
+hackeddesk
+wasihackeddesk
+iwashackeddesk
+maybehackeddesk
+donotsharecodedesk
+activesessionsdesk
+terminatesessiondesk
+terminatesessionsdesk
+accsecdesktop
+hackeddesktop
+wasihackeddesktop
+iwashackeddesktop
+maybehackeddesktop
+donotsharecodedesktop
+activesessionsdesktop
+terminatesessiondesktop
+terminatesessionsdesktop
+{VALUE}
+When you log in to Telegram, we send you a message with a login code. DO NOT GIVE THIS CODE TO ANYONE. If you give your code to people, they will be able to log in to your account.
+
 To see all active sessions for your Telegram account, go to Settings — Privacy and Security — Active Sessions. If you see anything suspicious, you can terminate the session there.
 
 You can also set up an additional password for your account. To do this, go to Settings — Privacy and Security — Two-Step Verification. Once enabled, you will need both a password AND a code to log in to Telegram.
+
 
 {QUESTION}
 I’ve read there’s a paper revealing several major exploits in Telegram!
