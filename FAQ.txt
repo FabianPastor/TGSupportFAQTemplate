@@ -1,0 +1,3500 @@
+{URL}
+http://data.telegram.wiki/tl_general_it.txt
+
+{COMMENT}
+Le chiavi sono case-insensitive, ma parzialmente capitalizzate qui per renderle leggibili e memorizzabili.
+Le chiavi finiscono con 'i' e 'ios' per i template di iOS, 'a' e 'android' - per Android, 'wp' e 'windowsphone' - per Windows Phone.
+I titoli iniziano con un trattino così è più facile cercarli con ctrl/command+F qui (prova '-Chat segrete' per esempio).
+Nel caso in cui dovessi avere domande o suggerimenti, per favore scrivi nei tuoi gruppi locali e aggiungi il tag #templates
+
+{COMMENT}
+=================================
+TRENDING
+=================================
+
+{QUESTION}
+Perché il mio interlocutore è in grado di cancellare i miei messaggi? Non voglio che nessuno cancelli i miei messaggi, per favore cambiate questo!
+{KEYS}
+unsendneg
+deleteforneg
+deleteforboth
+unsendnegative
+deleteforbothneg
+deletefornegative
+deletebothsidesneg
+deletebothsidesnegative
+{COMMENT}
+Questo template è destinato al feedback negativo. Si prega di regolare di conseguenza se l'utente richiede ulteriori informazioni o ha preoccupazioni particolari che possono essere risolte.
+- Preoccupazioni per la perdita di dati: Telegram Desktop può essere utilizzato per il backup
+- Preoccupazioni per la cancellazione accidentale: c'è un'opzione per annullare l'operazione entro i successivi 5 secondi.
+- Dubita che i messaggi possano diventare ambigui senza contesto: se qualcuno cancella determinati messaggi, puoi eliminarne altri - o addirittura cancellare l'intera chat per entrambi i lati; nota inoltre che le persone potrebbero già inoltrare i messaggi fuori dal contesto prima di oggi.
+{VALUE}
+A partire dalla versione 5.5, è possibile eliminare tutti i messaggi inviati o ricevuti nelle chat private per entrambi i partecipanti, senza limiti di tempo. In breve, sia tu che il tuo compagno di chat avete il pieno controllo delle vostre conversazioni: https://telegram.org/blog/unsend-privacy-emoji
+
+Questo è un cambiamento importante e comprendo che potrebbero esserci argomenti contrari, proprio come con altre funzionalità incentrate sulla privacy. Come le chiamate, i messaggi non lasciano più tracce non cancellabili, ma a differenza delle chiamate, la quantità di informazioni memorizzate viene controllata direttamente dalla scelta consapevole di entrambi i partecipanti alla conversazione.
+
+A proposito, dato che l'assistenza di Telegram è gestita da volontari, non abbiamo il potere di decidere quali caratteristiche vengono introdotte. Tuttavia, ciò che possiamo e faremo è trasmettere i tuoi pensieri agli sviluppatori.
+
+Se hai ulteriori domande su come funzionano le app o hai bisogno di aiuto per risolvere i problemi che incontri, faccelo sapere - saremo lieti di aiutarti!
+
+{QUESTION}
+Cos'è successo all'app X?
+{KEYS}
+iosx
+{VALUE}
+La normale app di Telegram per iOS è stata aggiornata alla versione in Swift precedentemente conosciuta come Telegram X. Quindi se stai usando Telegram X, puoi goderti le sue funzioni nella versione principale di Telegram per iOS.
+
+Potrai continuare a usare anche Telegram X, ma dato che ha smesso di ricevere aggiornamenti, ti consigliamo di scaricare l'app normale da qui:
+https://telegram.org/dl/ios
+
+{QUESTION}
+Il mio telefono non supporta la nuova versione (iOS)
+{KEYS}
+ios7
+ios6
+iosold
+{VALUE}
+L'ultima versione di Telegram per iOS richiede iOS 8.0 o superiore. Se il tuo dispositivo supporta solamente una versione più vecchia di iOS, potrai continuare a usare la vecchia app, ma temo che non ci saranno aggiornamenti fino a quando non avrai un nuovo dispositivo. Ci spiace per questo! I tempi vanno avanti, e l'app deve progredire, per poter portare nuove funzioni con ogni aggiornamento.
+
+{QUESTION}
+Dov'è questa funzione nella nuova versione iOS? Perché l'avete rimossa?
+{KEYS}
+featureios
+featureswift
+{VALUE}
+Temo che non sia al momento disponibile nell'ultima versione di Telegram per iOS - ma l'app riceverà aggiornamenti frequenti per risolvere problemi e aggiungere nuove funzioni, quindi se qualcosa manca adesso, dovrebbe tornare in futuro. Ci spiace per il disagio.
+
+{QUESTION}
+Ho sentito che state pianificando di fare qualcosa! È vero?
+{KEYS}
+rumor
+rumors
+rumour
+rumours
+{VALUE}
+Sono un membro dei volontari del supporto di Telegram. Posso aiutarti con qualsiasi tipo di problema con le nostre app.
+
+Tutte le info ufficiali di Telegram sono annunciate su telegram.org, sul canale @telegram e sul canale italiano @telegramIT.
+
+{QUESTION}
+Non voglio che i video partano in automatico!
+{KEYS}
+autoplay
+{VALUE}
+Puoi configurare la riproduzione automatica per video e GIF nelle Impostazioni di Telegram > Dati e archivio > Riproduzione automatica media.
+
+Nel caso in cui tu sia preoccupato per l'utilizzo dei dati in generale, è possibile scegliere impostazioni specifiche per il download automatico nella sezione "Download automatico media".
+
+{QUESTION}
+Come archivio le chat? (iOS, Android)
+{KEYS}
+archivei
+archiveiOS
+archivea
+archiveandroid
+{VALUE}
+È possibile utilizzare la funzione di archiviazione per ordinare le chat attive e inattive, separare le chat personali da quelle lavorative o pulire l'elenco chat in qualsiasi altro modo.
+
+Per archiviare una chat, scorri verso sinistra sulla chat dall'elenco delle chat. Questo la sposterà nella cartella "Chat archiviate".
+
+Quando una chat archiviata riceve una notifica, uscirà dalla cartella e tornerà all'elenco delle chat. Le chat silenziate rimarranno sempre archiviate.
+
+Nota che è possibile nascondere l'archivio stesso facendolo scorrere verso sinistra e visualizzarlo di nuovo trascinando lo schermo verso il basso.
+
+{QUESTION}
+Come estraggo le chat? (iOS, Android)
+{KEYS}
+unarchivei
+unarchiveiOS
+unarchivea
+unarchiveandroid
+{VALUE}
+Per spostare una delle tue chat archiviate nella lista delle chat principale:
+Apri la cartella "Chat archiviate" > scorri verso sinistra sulla chat > "Estrai".
+
+Se non vedi la cartella "Chat archiviate" nella parte superiore dell'elenco delle chat, trascina lo schermo verso il basso per visualizzarla.
+
+{QUESTION}
+Perché il numero è visibile ai miei contatti adesso?
+{KEYS}
+phoneprivacy
+phonedefault
+numberprivacy
+numberdefault
+phonenumberprivacy
+phonenumberdefault
+{VALUE}
+Durante la maggior parte della storia di Telegram, i tuoi contatti potevano vedere il tuo numero di telefono, ma questo funzionava in modo meno trasparente: dopo aver inviato un messaggio a una persona nella tua rubrica, il tuo numero diventava visibile a loro (proprio come con gli SMS) .
+ 
+Abbiamo ricevuto molte domande da utenti che non capivano come funzionasse, quindi il team ha provato diversi approcci diversi. Alla fine hanno optato per il sistema attuale: le app ora hanno un'impostazione trasparente, quindi puoi scegliere il comportamento desiderato in Impostazioni > Privacy e sicurezza > Numero di telefono.
+
+{QUESTION}
+Come posso inviare messaggi programmati? (iOS, Android)
+{KEYS}
+remind
+schedule
+reminder
+scheduled
+{VALUE}
+Tenere premuto il pulsante Invia e selezionare "Programma messaggio" per inviare automaticamente il messaggio ad un'ora specificata.
+
+Una volta che hai programmato un messaggio in una chat, una nuova icona "orologio" apparirà nel tuo campo di scrittura - premendolo si aprirà la sezione Messaggi programmati per quella particolare chat. Da lì, sarà possibile regolare il timer, annullare i messaggi programmati o inviarli immediatamente.
+
+Tieni presente che, tenendo premuto il pulsante Invia nella chat "Messaggi salvati", puoi impostare promemoria anche per te stesso.
+
+{COMMENT}
+=================================
+TEMPLATES BASE
+=================================
+
+{QUESTION}
+Ciao o qualsiasi cosa irrilevante all'inizio
+{KEYS}
+hi
+{VALUE}
+Ciao, posso aiutarti con Telegram?
+
+{QUESTION}
+Per favore aggiungete questa funzione
+{KEYS}
+na
+idea
+sugg
+suggestion
+addfeature
+suggestions
+featurerequest
+{VALUE}
+Grazie, lo prenderemo in considerazione. Telegram si evolve velocemente e nuove funzioni vengono aggiunte ogni mese. Non possiamo promettere nulla, né dare informazioni precise sulle tempistiche, ma i suggerimenti sono sempre benvenuti.
+
+{QUESTION}
+L'utente usa una versione non aggiornata (iOS)
+{KEYS}
+updi
+updatei
+updateios
+{VALUE}
+Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi trovare l'ultima versione di Telegram per iOS qui:
+https://telegram.org/dl/ios
+
+{QUESTION}
+L'utente usa una versione non aggiornata (Android)
+{KEYS}
+upda
+updatea
+updateandroid
+{VALUE}
+Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi trovare l'ultima versione di Telegram per Android qui:
+https://telegram.org/dl/android
+
+{QUESTION}
+L'utente usa una versione non aggiornata (Android X)
+{KEYS}
+updax
+updateax
+updateandroidx
+{VALUE}
+Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi trovare l'ultima versione di Telegram X per Android qui:
+https://play.google.com/store/apps/details?id=org.thunderdog.challegram
+
+{QUESTION}
+L'utente usa una versione non aggiornata (Windows Phone)
+{KEYS}
+updwp
+updatewp
+updatewindowsphone
+{VALUE}
+Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi trovare l'ultima versione di Telegram per Windows Phone qui:
+https://telegram.org/dl/wp
+
+{QUESTION}
+L'utente usa una versione non aggiornata (macOS)
+{KEYS}
+updosx
+updmac
+updmacos
+updateosx
+updatemac
+updatemacos
+{VALUE}
+Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi premere su "Telegram" nella barra del menu in alto > Controlla aggiornamenti.
+
+{QUESTION}
+L'utente usa un'app non ufficiale (Android)
+{COMMENT}
+Se sei in grado di aiutare l'utente con il suo fork, sentiti libero di farlo. Non usare questo template se l'utente ha una domanda che non richiede la conoscenza del suo fork.
+{KEYS}
+forka
+unofficiala
+unofficialappa
+officialappa
+unofficialandroid
+unofficialappandroid
+officialappandroid
+{VALUE}
+Questa è la chat di supporto per le app di Telegram. Dato che Telegram è open source, potrebbero esserci delle app basate su Telegram create da sviluppatori di tutto il mondo, con nomi e funzioni differenti, e stai usando una di queste.
+
+Sei libero di scegliere l'app che preferisci — a tuo rischio e pericolo. Ad ogni modo, possiamo garantire la tua esperienza Telegram solo se usi le app ufficiali. Sono gratis, non hanno pubblicità e ricevono le nuove funzioni per prime.
+
+Puoi scaricare le nostre app ufficiali qui:
+https://telegram.org/dl/android	
+
+Passare all'app ufficiale è semplice perché tutte le chat sono archiviate nel cloud di Telegram (tranne le chat segrete). Se passi, manterrai tutte le tue chat cloud, i gruppi e i contatti.
+
+{QUESTION}
+Avete un'app per Symbian?
+{KEYS}
+symbian
+symbianapp
+{VALUE}
+Non esiste un'app ufficiale di Telegram per i dispositivi Symbian. Questi dispositivi mancano di potenza di calcolo e di altre capacità di cui abbiamo bisogno per rendere disponibili le funzioni di sicurezza di Telegram. Telegram si basa sulla velocità e sulla sicurezza, e non possiamo compromettere queste aree per supportare Symbian. Ci spiace!
+
+{QUESTION}
+Come posso invitare un amico?
+{KEYS}
+invite
+invitefriend
+invitefriends
+sharetelegram
+promotetelegram
+{VALUE}
+Per invitare i tuoi amici su Telegram, basta inviargli questo link di download: https://telegram.org/dl
+
+Loro devono sapere il tuo numero di telefono o il tuo username per trovarti. Se stai usando username, puoi inviare loro un link con l'username, come questo:
+https://t.me/YourUsername.
+
+{QUESTION}
+Ciao? Ci siete?
+{KEYS}
+brb
+wait
+i'mhere
+imhere
+help
+helpme
+goahead
+asknow
+don'twait
+dontwait
+{VALUE}
+Per favore inviaci le tue domande su Telegram subito, senza aspettare che ci colleghiamo o che leggiamo i tuoi messaggi precedenti. Riceviamo molte domande e cerchiamo di rispondere a ognuna di esse il prima possibile.
+
+{QUESTION}
+Quando l'utente invia dati personali, come se fosse una cartella "preferiti"
+{KEYS}
+nothere
+{VALUE}
+Per favore, ricorda che questa chat è usata per il supporto. I nostri volontari leggono e vedono tutto ciò che invii in questa chat. Se ti serve un posto in cui archiviare i tuoi dati, puoi usare la chat Messaggi salvati di Telegram.
+
+iOS: Impostazioni di Telegram > Messaggi salvati.
+Android, Android X: Menu principale > Tocca l'opzione Messaggi salvati.
+Windows Phone: Chat > Nuova chat > tocca su "Tu".
+Desktop: Clicca sul pulsante menù nell'angolo in alto a sinistra della lista chat > quindi clicca l'icona del segnalibro o la tua foto profilo.
+
+Puoi accedere a tutto quello che invii in questa chat archivio da qualsiasi dispositivo in cui ti connetti, incluso il tuo PC.
+
+{QUESTION}
+Quando l'utente ci insulta
+{COMMENT}
+Usa questo template solamente se l'utente insulta e basta. Non usare questo se l'utente ha fatto una domanda prima degli insulti (alcuni iniziano a insultare quando pensano che la loro risposta non arrivi più, è ok). Se c'è infatti una domanda, ignora solamente gli insulti e rispondi, di solito risolve il problema.
+{KEYS}
+insult
+insulted
+insulting
+stopinsulting
+{VALUE}
+Ciao, noi ignoriamo gli insulti, in quanto esseri umani e non computer, e non pensiamo di dover essere trattati così. Mi spiace. Per favore, torna quando avrai domande riguardanti Telegram. Ciao!
+
+{QUESTION}
+Quando l'utente invia messaggi vocali
+{KEYS}
+vm
+voice
+pleasetype
+pleasewrite
+voicemessage
+{VALUE}
+Sfortunatamente non possiamo rispondere ai messaggi vocali. Per favore scrivici la tua domanda, in modo da poterti aiutare quanto prima.
+
+{QUESTION}
+Qual è il tuo nome? Quanti anni hai? Ti piacciono gli uomini con la barba?
+{KEYS}
+age
+asl
+iam
+name
+weare
+{VALUE}
+Questo è il nostro piccolo segreto... è un account di gruppo - quando parli con noi potrebbero rispondere persone diverse. In questo modo possiamo garantire che tutte le domande ricevano una risposta in tempi brevi. L'unica cosa importante è che siamo tutti volontari di Telegram, qui per aiutarti in modo umano con i problemi che incontri.
+
+Se hai bisogno di un nome per identificarmi, chiamami semplicemente Telegram.
+
+{QUESTION}
+Quando l'utente segnala contenuti illegali
+{KEYS}
+abuse
+legal
+illegal
+{VALUE}
+Sono spiacente, ma l'assistenza di Telegram è costituita da volontari e non siamo qualificati per risolvere problemi e segnalazioni riguardanti contenuti potenzialmente illegali.
+
+Per favore contatta il reparto abusi di Telegram scrivendo ad abuse@telegram.org con tutti i dettagli e link, oppure usa l'opzione interna all'app per mandare un report. I canali possono essere segnalati tramite il bottone "Segnala" nel menu "..." in alto a destra in Android, oppure in fondo alla pagina del loro profilo su altri sistemi operativi.
+
+Grazie!
+
+{QUESTION}
+Vedo "questo canale non può essere visualizzato perché è stato utilizzato per diffondere contenuti pornografici" su iOS. Perché e come posso cambiarlo?
+{KEYS}
+sensitiveios
+sensitivei
+adultios
+adulti
+{VALUE}
+Le chat contenenti contenuti sensibili di accesso pubblico potrebbero essere limitate a causa delle rigide norme dell'App Store di Apple contro contenuti di questo tipo.
+
+Tuttavia, potresti considerare di disabilitare il filtro nelle impostazioni della versione web di Telegram (disponibile anche su dispositivo mobile) o delle app installabili per desktop: https://telegram.org/apps
+
+{QUESTION}
+Quando la conversazione è conclusa
+{COMMENT}
+Puoi aggiungere #end insieme al tuo messaggio personalizzato invece di inviarlo senza alcun testo.
+{KEYS}
+end
+bye
+exit
+done
+finish
+extrakey
+extrakey2
+{VALUE}
+Speriamo di essere stati di aiuto. Se hai altre domande, non esitare a contattarci di nuovo.
+#end
+
+{COMMENT}
+====================================
+-TELEGRAM-
+====================================
+
+{QUESTION}
+Da dove proviene Telegram?
+{KEYS}
+base
+based
+origin
+country
+countryfrom
+telegramfrom
+{VALUE}
+Telegram non appartiene a nessun paese in particolare. È un progetto globale con partecipanti da ogni parte del mondo. Ci muoviamo spesso e non rimaniamo mai a lungo nello stesso posto.
+
+Il nostro obiettivo è quello di permettere a ognuno di riavere il proprio diritto alla privacy. Il progetto è distribuito — i server di Telegram, le compagnie e le persone sono sparse in tutto il mondo per minimizzare potenziali interferenze nelle operazioni.
+
+Se vuoi sapere di più riguardo alle persone dietro Telegram, per favore dai un'occhiata alle nostre Domande Frequenti:
+https://telegram.org/faq/it#d-chi-sono-le-persone-dietro-a-telegram
+https://telegram.org/faq/it#d-dov-39-la-sede-di-telegram
+
+Potresti inoltre trovare questi articoli interessanti:
+https://telegram.org/press
+
+{QUESTION}
+Cos'è Telegram?
+{KEYS}
+about
+whatis
+telegram
+telegramis
+telegramcan
+whatistelegram
+{VALUE}
+Con Telegram puoi chiamare, inviare messaggi, foto, video e file ai tuoi amici, ovunque - gratuitamente. Puoi usare Telegram contemporaneamente su tutti i tuoi dispositivi (telefoni, tablet, PC):
+https://telegram.org/apps
+
+Telegram si concentra su velocità e sicurezza. Tutte le app ufficiali di Telegram sono senza pubblicità e open source. Chiedi pure se vuoi conoscere ulteriori dettagli sulla sicurezza di Telegram.
+
+E qui una piccola panoramica di quello che puoi fare con Telegram:
+- Trova i tuoi amici tramite numero di telefono o con gli username di Telegram. Questo significa che puoi anche conoscere nuove persone se sei particolarmente socievole.
+- Crea gruppi fino a 200.000 membri e comunica facilmente con risposte, menzioni e hashtag.
+- Invia gli sticker - tutti gratuiti e puoi creare anche i tuoi.
+- Iscriviti a canali di notizie di qualsiasi argomento.
+- Goditi bot personalizzati di Telegram per giochi, istruzione, qualsiasi tipo di informazione. Sentiti libero di chiedere qualche esempio.
+- Scegli un design alternativo per la tua app usando i temi personalizzati.
+
+Puoi trovare info sugli ultimi aggiornamenti qui:
+https://telegram.org/blog
+E seguirci su Twitter per essere il primo a sapere dei nostri aggiornamenti:
+https://twitter.com/telegram_it
+
+{QUESTION}
+È uguale a WA?
+{KEYS}
+wa
+versus
+whatsapp
+whatsappcompare
+whatsappdifference
+whatsappcomparison
+telegramvswhatsapp
+whatsappvstelegram
+{VALUE}
+Telegram è più veloce e molto più sicuro - grazie alla nostra infrastruttura con più data center e alla crittografia. Inoltre è gratis, e rimarrà gratis per sempre - nessuna pubblicità, nessun abbonamento.
+
+Per indicare alcune caratteristiche uniche:
+- Accedi a Telegram da ognuno dei tuoi dispositivi contemporaneamente inclusi tablet e computer.
+- Condividi un numero illimitato di foto, grandi video e file di ogni tipo.
+- Chatta in gruppi giganti fino a 200.000 membri.
+- Modifica i tuoi messaggi dopo averli inviati.
+- Usa le Chat Segrete per inviare messaggi, foto, video e anche file con un timer di autodistruzione opzionale.
+- Trova canali e bot personalizzati di qualsiasi tipo. Sentiti libero di chiedermi qualche esempio.
+
+Qui la lista delle app di Telegram per tutte le piattaforme:
+https://telegram.org/apps
+Se vuoi scoprire di più riguardo a Telegram chiedi pure. O dai un'occhiata a questo link. Le immagini sono meglio di 1000 parole:
+https://telegram.org/#what-can-you-do-with-Telegram
+
+{QUESTION}
+Reminder desktop | Esiste un'app desktop?
+{KEYS}
+pc
+web
+webapp
+desktop
+computer
+desktopapp
+computerapp
+{VALUE}
+Telegram è disponibile anche per il tuo computer. Puoi quindi scegliere tra l'interfaccia Web (un sito nel tuo browser) o un programma da installare.
+
+Il nostro client web ufficiale: https://web.telegram.org
+
+La nostra app desktop ufficiale per Windows, Linux e macOS: https://desktop.telegram.org
+
+La nostra app nativa ufficiale per macOS: https://telegram.org/dl/macOS
+
+Puoi sempre visitare https://telegram.org/apps per i link diretti.
+
+{QUESTION}
+Come guadagnate?
+{KEYS}
+money
+profit
+noncom
+makemoney
+profitable
+{VALUE}
+A differenza di altre applicazioni di messaggistica (ad esempio WhatsApp, Facebook, ecc), l'obiettivo di Telegram non è guadagnare denaro, ma offrire un sistema di messaggistica veloce, sicuro, e privato senza costi per l'utente né pubblicità.
+
+Puoi trovare più informazioni riguardo la nostra posizione su questo argomento nelle FAQ:
+https://telegram.org/faq/it#d-come-avete-intenzione-di-ricavarci-dei-soldi
+
+{QUESTION}
+È veramente gratis?
+{KEYS}
+free
+reallyfree
+reallyreally
+{VALUE}
+Telegram è gratis - e lo rimarrà per sempre.
+
+Tuttavia, tieni presente che Telegram richiede una connessione ad internet per funzionare. Il tuo gestore di telefonia mobile potrebbe addebitarti dei costi per l'invio e la recezione di dati sul tuo cellulare.
+
+{QUESTION}
+Posso donare su Telegram?
+{KEYS}
+donate
+donation
+{VALUE}
+Grazie mille per l'offerta. Attualmente non abbiamo problemi grazie ad una generosa offerta del nostro fondatore, Pavel Durov. Il team rilascerà una dichiarazione nel caso in cui Telegram inizi a ricevere donazioni, puoi unirti al nostro canale ufficiale per gli ultimi aggiornamenti:
+https://t.me/telegram
+
+{QUESTION}
+Dove posso trovare il codice sorgente?
+{KEYS}
+source
+github
+sourcecode
+{VALUE}
+Puoi andare su https://telegram.org/apps#source-code per i link con i codici sorgente di ognuna delle nostre app.
+
+{QUESTION}
+Perché è veloce Telegram?
+{KEYS}
+fast
+speed
+sofast
+faster
+telegramfast
+fasttelegram
+{VALUE}
+Per poter lavorare in modo più affidabile sulle connessioni mobili più deboli, utilizziamo un protocollo personalizzato. Esso ci permette di inviare i messaggi crittografati utilizzando un minor quantitativo di dati.
+
+Inoltre, abbiamo un'infrastruttura server unica nel suo genere, che permette di comunicare utilizzando i server più vicini all'utente: in questo modo i dati viaggeranno per distanze più brevi. Inviare meno dati su distanze più brevi significa effettuare queste operazioni in modo più veloce di chiunque altro.
+
+{QUESTION}
+Come funziona la crittografia di Telegram?
+{KEYS}
+crypto
+encrypted
+encryption
+{VALUE}
+Supportiamo due livelli di crittografia sicura (server-client e client-client). La nostra crittografia è basata sulla crittografia simmetraica AES 256-bit, crittografia RSA 2048 e scambio di chiavi sicure Diffie–Hellman.
+
+Quando una chat segreta viene creata, i dispositivi dei partecipanti si scambiano le chiavi di crittografia usando il metodo Diffie-Hellman. Dopo che una connessione sicura end-to-end è stata stabilita, generiamo un'immagine che visualizza la chiave di crittografia per la tua chat.
+
+Puoi quindi confrontare questa immagine con quella che ha il tuo amico — se le due immagini sono le stesse, puoi essere sicuro che la chat segreta è sicura e che nessun attacco man-in-the-middle può avere successo.
+
+Puoi trovare più informazioni nelle FAQ Avanzate https://core.telegram.org/techfaq
+
+{QUESTION}
+Quanti utenti ha Telegram?
+{KEYS}
+users
+howmany
+userbase
+useramount
+totalusers
+howmanyusers
+{VALUE}
+Telegram è usato da più di 200 milioni di persone in tutto il globo. 
+https://telegram.org/blog/200-million
+
+A febbraio 2018, il nostro fondatore Pavel Durov ha inoltre annunciato che ogni giorno 500.000 utenti scaricano Telegram per Android, e circa 100.000 utenti scaricano Telegram per iOS.
+
+{QUESTION}
+Quando è stato rilasciato Telegram?
+{KEYS}
+date
+birth
+since
+appbirth
+telegramage
+telegramorigin
+telegramreleased
+{VALUE}
+La prima app di Telegram (iOS) è stata rilasciata ad Agosto 2013. L'app Android è arrivata a Settembre dello stesso anno.
+
+{QUESTION}
+Telegram legge i miei messaggi?
+{KEYS}
+doyouread
+canyouseemessages
+canyoureadmessages
+{VALUE}
+Leggiamo solamente i messaggi che ci invii - per esempio, in questa chat di supporto. Telegram non è una compagnia commerciale, ma un progetto open-source no profit che vive di donazioni.
+
+Abbiamo creato Telegram per rendere sicuri e gratuiti i messaggi per tutti. La nostra reputazione e la tua privacy sono le uniche cose che ci interessano.
+
+Infatti, non hai bisogno di credere a noi. Se usi le Chat segrete con crittografia end-to-end, è tecnicamente impossibile per chiunque tranne il tuo destinatario leggere i messaggi.
+
+Guarda inoltre: https://telegram.org/privacy
+
+{QUESTION}
+Quando arriverà il prossimo aggiornamento?
+{KEYS}
+noupdate
+nextupdate
+whenupdate
+updatewhen
+updatewhen
+updatedate
+whennewfeatures
+whennextupdatecoming
+{VALUE}
+Mi spiace, ma non promettiamo mai date di rilascio precise, dato che potrebbero cambiare. È più semplice per te attivare gli aggiornamenti automatici del Google Play Store, dell'App Store di Apple o del Windows Phone Store rispettivamente. In questo modo sarai sempre uno dei primi a ricevere aggiornamenti.
+
+Puoi anche unirti al nostro canale ufficiale su Telegram o seguirci su Twitter:
+https://t.me/telegram
+https://twitter.com/telegram_it
+Descriviamo sempre gli aggiornamenti importanti delle nostre app lì.
+
+{QUESTION}
+È sicuro?
+{KEYS}
+sec
+safe
+secure
+safety
+privacy
+security
+{VALUE}
+Abbiamo lavorato duramente per rendere Telegram l'app di messaggistica più sicura sul mercato. E lavoriamo continuamente con la comunità per migliorare la sicurezza del nostro protocollo e dei client.
+
+Puoi scoprire di più sulla sicurezza e privacy di Telegram qui:
+
+https://telegram.org/faq/it#sicurezza
+https://telegram.org/privacy
+
+{QUESTION}
+Sono preoccupato per l'archiviazione nel cloud
+{KEYS}
+cloud
+cloudsec
+cloudsafe
+safecloud
+cloudsecurity
+telegramcloud
+{VALUE}
+La Sicurezza è una delle principali attenzioni di Telegram; tutto ciò che invii e ricevi è fortemente criptato. I dati delle tue chat cloud sono archiviati e criptati nel Cloud di Telegram.
+
+Se non ti piace l'idea della sincronizzazione tra più dispositivi, puoi usare le Chat Segrete. I messaggi nelle chat segrete usano la crittografia end-to-end e possono essere decrifrati solo dal tuo dispositivo e da quello del destinatario. Non fanno parte del cloud e sono accessibili solamente dal device di partenza. E se ti disconnetti, sono perse per sempre.
+
+{QUESTION}
+Perché lo avete chiamato Telegram?
+{KEYS}
+whyname
+namewhy
+whytelegram
+telegramname
+calledtelegram
+why"telegram"?
+whytelegramname
+{VALUE}
+Il vecchio telegramma era il metodo più veloce, più sicuro e più economico per la comunicazione a lunga distanza; ha unito le persone nel mondo più di quanto sia mai stato fatto prima (dai un'occhiata http://it.wikipedia.org/wiki/Telegrafo).
+
+Quello ci assomiglia parecchio.
+
+{QUESTION}
+Vi servono più utenti. Fate più pubblicità!
+{KEYS}
+adverts
+outreach
+recommend
+moreusers
+advertise
+marketing
+advertising
+{VALUE}
+Telegram non è una società commerciale e noi non facciamo pubblicità o marketing.
+Questo non ci ha impedito di arrivare a 200 milioni di utenti attivi al mese.
+https://telegram.org/blog/200-million
+
+Se ti piace Telegram, consiglialo ai tuoi amici e alla tua famiglia.
+Porta una o due persone che ti sono vicine, quindi assisti alla reazione a catena.
+
+{QUESTION}
+Posso unirmi? Assumete persone?
+{KEYS}
+join
+jobs
+hiring
+duties
+vacancies
+nothiring
+{VALUE}
+Siamo sempre alla ricerca di volontari per il nostro team di supporto.
+
+Se sei bravo in Inglese, ci capisci di smartphone e computer, conosci alcune cose su Telegram e ti piace lavorare in gruppo, allora andrai benissimo.
+{COMMENT}
+Non inviare il link della TSI alle persone che non sembrano promettenti. Se insistono, digli che la prima tappa è scoprire come unirsi a noi.
+
+{COMMENT}
+================================
+-FUNZIONI GENERALI-
+================================
+
+{QUESTION}
+Possono nascondere il mio ultimo accesso?
+{KEYS}
+inv
+invisible
+lastseen
+hidelastseen
+lastseenrecently
+{VALUE}
+Puoi impostare chi può vedere il tuo ultimo accesso e stato in linea nelle Impostazioni di privacy e sicurezza > Ultimo accesso e in linea.
+
+Non visualizzerai l'ultimo accesso per le persone con le quali non condividi il tuo. Per loro e per coloro che nascondono il loro stato, vedrai un valore 'ultimo accesso' approssimativo. Ci sono quattro possibili valori approssimativi:
+
+- Ultimo accesso di recente - copre ogni cosa tra 1 secondo e 2-3 giorni
+- Ultimo accesso entro una settimana - tra 2-3 giorni e 7 giorni
+- Ultimo accesso entro un mese - tra 6-7 giorni e un mese
+- Ultimo accesso molto tempo fa — più di un mese (viene anche mostrato agli utenti bloccati)
+
+Come puoi vedere, questi passaggi non sono separati chiaramente, quindi non puoi calcolare granché da questi dati. Questo allontana i curiosi ma rende facile vedere se una persona è raggiungibile su Telegram.
+
+{QUESTION}
+Cosa significano le spunte verdi?
+{KEYS}
+2
+two
+tick
+check
+ticks
+checks
+onecheck
+twochecks
+greenchecks
+{VALUE}
+1 spunta = messaggio consegnato al cloud di Telegram (e sta aspettando che il tuo amico lo veda su Telegram), notifica inviata (se il destinatario ha le notifiche attive).
+
+2 spunte = messaggio letto (il destinatario ha aperto Telegram e la chat con il tuo messaggio). Nei gruppi la seconda spunta comparirà dopo la lettura da parte di almeno un membro del gruppo.
+
+Non abbiamo uno status aggiuntivo per 'messaggio consegnato al dispositivo', in quanto puoi utilizzare Telegram contemporaneamente su più dispositivi. Non conoscendo quale dispositivo l'utente sta effettivamente utilizzando, consegnarlo ad un solo dispositivo diventa irrilevante.
+
+{QUESTION}
+Posso nascondere il mio stato online?
+{KEYS}
+online
+hideonline
+hidestatus
+hideonlinestatus
+{VALUE}
+Puoi impostare chi può vedere il tuo ultimo accesso e stato in linea nelle Impostazioni di privacy e sicurezza > Ultimo accesso e in linea.
+
+Se non condividi il tuo ultimo accesso con loro, ti vedranno 'in linea' solo quando è ovvio che tu lo sia:
+- Dopo aver inviato un messaggio a loro o ad un gruppo in cui entrambi siete membri.
+- Dopo aver letto un messaggio ti hanno inviato in una chat individuale.
+- Quando "stai scrivendo..." messaggi - a loro, o in un gruppo in cui entrambi siete membri
+
+{QUESTION}
+Ho eliminato una chat per sbaglio, posso recuperarla?
+{KEYS}
+restorechat
+recoverchat
+accidentdelete
+deletedmessage
+restoremessage
+recovermessage
+deletedmessages
+restoremessages
+recovermessages
+deletedchataccident
+{VALUE}
+Quando elimini una chat o cancelli la cronologia, potrai annullare l'azione entro i successivi 5 secondi. Una volta scaduto il tempo, non c'è più modo di ripristinarli, mi dispiace.
+
+Ehi, hai chiesto al tuo amico se ha ancora la chat? Se non era una chat segreta, il tuo amico potrebbe esportare la chat e inviartela manualmente, oppure puoi farti inoltrare i messaggi che ti servono. Se invece si trattava di una chat segreta, potrebbe essere in grado di fare uno screenshot per te o copiare il testo se gli screenshot sono disattivati sul suo dispositivo.
+
+{QUESTION}
+Ho eliminato una chat per sbaglio, posso recuperarla? (Desktop)
+{KEYS}
+restorechatdesk
+recoverchatdesk
+accidentdeletedesk
+deletedmessagedesk
+restoremessagedesk
+recovermessagedesk
+deletedmessagesdesk
+restoremessagesdesk
+recovermessagesdesk
+deletedchataccidentdesk
+restorechatdesktop
+recoverchatdesktop
+accidentdeletedesktop
+deletedmessagedesktop
+restoremessagedesktop
+recovermessagedesktop
+deletedmessagesdesktop
+restoremessagesdesktop
+recovermessagesdesktop
+deletedchataccidentdesktop
+{VALUE}
+Spiacenti, non c'è modo di ripristinare le chat o i messaggi se li hai eliminati.
+
+Ehi, hai chiesto al tuo amico se ha ancora la chat? Se non era una chat segreta, il tuo amico potrebbe esportare la chat e inviartela manualmente, oppure puoi farti inoltrare i messaggi che ti servono.
+
+{QUESTION}
+Come so chi sta usando Telegram?
+{KEYS}
+who
+whoshere
+who'shere
+onlinenow
+whosusing
+whosonline
+who'susing
+who'sonline
+{VALUE}
+Telegram cerca regolarmente nuovi contatti nel tuo dispositivo. I contatti che hanno Telegram sono mostrati in alto dei tuoi contatti di Telegram, se hanno impostato un'Immagine Profilo, verrà mostrata lì.
+
+{QUESTION}
+Come posso fare amicizia qui?
+{KEYS}
+newfriends
+meetfriends
+makefriends
+{VALUE}
+Su Telegram, puoi creare un gruppo con i tuoi amici, e quindi chiedere a loro di aggiungere a loro volta i loro amici — un modo semplice per conoscere nuove persone. Puoi anche unirti a gruppi pubblici che già esistono — prova il nostro @PublicTestGroup per esempio.
+
+Ci sono inoltre bot non ufficiali creati per mettersi in contatto con altri utenti interessati. Prova a cercare su internet 'Telegram bot nuovi amici' – troverai parecchi risultati.
+
+Per favore ricorda: Puoi usare la ricerca di Telegram per trovare persone che conosci con i loro username – ma questo non è uno strumento per fare nuove amicizie. Le persone non amano quando gli sconosciuti li contattano tramite la ricerca degli username, quindi questo potrebbe portare gli utenti a segnalare il tuo account.
+
+{QUESTION}
+Avrete le video chiamate?
+{KEYS}
+tel
+videocall
+videocalls
+{VALUE}
+Spiacenti, al momento non stiamo lavorando su questa funzione. Per ora puoi utilizzare le nostre chiamate vocali o inviare un videomessaggio ai tuoi amici su Telegram. Per inviare un videomessaggio, tocca l'icona del microfono per passare alla modalità videocamera, quindi tieni premuto per registrare un messaggio.
+
+{QUESTION}
+Avete le chiamate?
+{KEYS}
+call
+voip
+calls
+calling
+telephone
+calloption
+callingoption
+callingability
+{VALUE}
+iOS: Apri la chat con un amico > tocca sul suo nome in alto > Chiama. Se vuoi, puoi aggiungere la sezione "Chiamate" nel barra in basso dalle Impostazioni di Telegram > Chiamate recenti.
+
+Android, WP: Apri una chat con un amico > premi su "..." > Chiama. Puoi trovare una sezione dedicata alle chiamate nel menù principale.
+
+Desktop: Apri una chat con un amico > premi sull'icona di chiamata in alto a destra.
+
+macOS: Apri una chat con un amico > premi sull'icona di chiamata in alto, vicino al suo nome.
+
+Ecco una guida dettagliata sulle chiamate se ti può essere utile:
+http://telegra.ph/Calls-FAQ
+
+{QUESTION}
+Come invio messaggi vocali e videomessaggi?
+{KEYS}
+audio
+button
+videochat
+audiomessage
+videomessage
+audiomessages
+videomessages
+{VALUE}
+Per passare dalla modalità audio alla modalità video e viceversa, tocca l'icona in basso a destra nel campo di scrittura, in qualsiasi chat. Per registrare un videomessaggio o un messaggio vocale, tieni premuto sull'icona. Una volta terminato, smetti di premere per inviare il tuo messaggio.
+
+{QUESTION}
+Posso impostare uno stato?
+{KEYS}
+bi
+status
+setupstatus
+statusmessage
+{VALUE}
+Puoi aggiungere qualche riga su di te sul tuo profilo nelle Impostazioni di Telegram > Bio. 
+
+{QUESTION}
+Posso impostare un messaggio di stato? (iOS)
+{KEYS}
+bioi
+bioios
+statusi
+bioiphone
+statusios
+setupstatusi
+statusiphone
+setupstatusios
+statusmessagei
+statusmessageios
+setupstatusiphone
+statusmessageiphone
+{VALUE}
+Puoi aggiungere qualche riga su di te sul tuo profilo nelle Impostazioni di Telegram: tocca in alto sui tuoi dettagli, quindi ‘Bio‘.
+
+{QUESTION}
+Posso fare un backup delle mie chat?
+{KEYS}
+backup
+export
+backups
+{VALUE}
+Puoi esportare tutte le tue chat cloud, incluse le foto e gli altri contenuti, usando l'ultima versione di Telegram Desktop: https://desktop.telegram.org
+
+Per esportare tutte le chat, vai nelle Impostazioni > Avanzate > Esporta dati Telegram.
+Per esportare le singole chat, apri il menù ... in qualsiasi chat e scegli Esporta cronologia chat.
+
+Tieni presente che non è necessario eseguire il backup delle chat per utilizzare Telegram su un nuovo dispositivo. Le tue chat vengono archiviate in modo crittografato nel cloud di Telegram, quindi puoi accedervi da qualsiasi dispositivo in qualsiasi momento, ad eccezione delle chat segrete, che sono disponibili solo sul loro dispositivo di origine.
+
+{QUESTION}
+Saprò se qualcuno mi blocca?
+{KEYS}
+blocked
+imblocked
+i'mblocked
+whoblocked
+userblocked
+amiblocked
+{VALUE}
+Quando qualcuno ti blocca, i messaggi che invii smettono di essere consegnati - vedrai un segno di spunta per loro. Se questa persona ti sblocca, non riceverà questi messaggi, ma vedrà i nuovi messaggi inviati dopo essere stati sbloccati.
+
+Le persone che blocchi:
+
+- non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
+- non possono vedere la tua foto profilo
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa'.
+
+{QUESTION}
+Cosa sono le gif?
+{KEYS}
+gif
+jif
+gifs
+jifs
+gifsare
+{VALUE}
+Le GIF sono immagini animate - inviale come 'file' (non come foto) se vuoi che siano riproducibili.
+
+Puoi usare la nostra ricerca GIF integrata o il bot inline: prova a scrivere  '@gif cats' nel campo di scrittura. Il bot ti offrirà le GIF relative ai termini che hai cercato, in questo caso 'cats'!
+
+Puoi inoltre riutilizzare le GIF che ti inviano i tuoi amici: premi su di esse e scegli 'Salva'. Quindi potrai trovarle nel pannello dedicato per le GIF nel pannello degli sticker.
+
+{QUESTION}
+Come usare le emoticons? (iOS)
+{KEYS}
+emoji
+smiley
+emojis
+smilies
+smileys
+emojiios
+emoticon
+emoticons
+emoticonsios
+{VALUE}
+Supportiamo le emoticons emoji. Attiva semplicemente la tastiera emoji nelle Impostazioni del tuo dispositivo iOS (Generali – Tastiere - Aggiungi nuova tastiera... – Emoji).
+
+Quindi passa a quella tastiera tutte le volte che sei senza parole ;-)
+
+{QUESTION}
+Come posso inviare musica dal mio dispositivo iOS?
+{KEYS}
+mp3
+mp3i
+musici
+musicios
+sendmusicios
+{VALUE}
+Sfortunatamente, il sistema operativo di Apple è molto rigoroso - non permette di accedere ai file musicali della tua libreria iTunes. Se vuoi condividere file musicali, devi tenerli in un'app diversa, ad esempio iCloud Drive, Dropbox, Google Drive, etc.
+
+{QUESTION}
+Cosa significa "name hidden" ?
+{KEYS}
+namehidden
+hiddenname
+{VALUE}
+'Name Hidden' o 'Sconosciuto' invece di un nome, significa che l'altra persona ha eliminato il suo account di Telegram.
+
+{QUESTION}
+Come posso usare gli stickers? (iOS)
+{KEYS}
+stickeri
+stickersi
+stickerios
+stickersios
+{VALUE}
+C'è un pulsante per aprire il pannello degli sticker sulla destra del campo di scrittura. Quando aggiungi un set di sticker, essi appaiono in questa sezione. Prova con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puoi toccare uno sticker per inviarlo immediatamente, o tenere premuto per visualizzare un'anteprima più grande.
+
+Quando inizi un messaggio con un'emoji, potresti vedere il suggerimento dello sticker. Controlla 😄😘😦😏😐👽👍👌👈🙌💪 per alcuni esempi di sticker.
+
+Se vuoi sapere come trovare altri sticker, fammelo sapere e sarò felice di aiutarti con qualche suggerimento.
+
+{QUESTION}
+Come posso usare gli sticker? (Android, Android X)
+{KEYS}
+stickera
+stickersa
+stickerandroid
+stickersandroid
+stickerax
+stickersax
+stickerandroidx
+stickersandroidx
+{VALUE}
+C'è una scheda per gli sticker nel pannello delle emoji. Quando aggiungi un set di sticker, essi appaiono in questa sezione. Prova con https://t.me/addstickers/animals o https://t.me/addstickers/Vicky. Puoi toccare uno sticker per inviarlo immediatamente, o tieni premuto per visualizzare un'anteprima più grande.
+
+Quando inizi un messaggio con un'emoji, potresti vedere il suggerimento dello sticker. Controlla 😄😘😦😏😐👽👍👌👈🙌💪 per alcuni esempi di sticker.
+
+Se vuoi sapere come trovare altri sticker, fammelo sapere e sarò felice di aiutarti con qualche suggerimento.
+
+{QUESTION}
+Dove posso trovare altri sticker?
+{COMMENT}
+L'app dovrebbe essere aggiornata per fare in modo che il bot inline funzioni
+{KEYS}
+morest
+getstickers
+buystickers
+morestickers
+findstickers
+{VALUE}
+Non abbiamo uno store ufficiale per gli sticker, la piattaforma è aperta e chiunque può usarla. Se vuoi avere più sticker, qui ci sono alcuni modi:
+
+1) Se ricevi uno sticker che ti piace, tocca su di esso — il set di sticker associato si aprirà e potrai aggiungerlo al tuo pannello degli sticker.
+
+2) Usa la nuova ricerca sticker per scoprire nuovi set. Nelle nostre app mobile, dovrai scorrere il pannello degli sticker verso il basso per vedere il campo di ricerca.
+
+3) Cerca e aggiungi gli sticker che sono al momento in evidenza su Telegram, andando nelle Impostazioni di Telegram > Sticker > Sticker in primo piano.
+
+4) Se questo non dovesse essere abbastanza, puoi cercare su internet 'Telegram Stickers' — troverai tantissimi risultati.
+
+{QUESTION}
+Come posso fare i miei sticker?
+{KEYS}
+ownsticker
+makesticker
+ownstickers
+makestickers
+createsticker
+createstickers
+{VALUE}
+La piattaforma degli sticker di Telegram è aperta e chiunque può usarla. Se vuoi creare nuovi sticker, parla con il nostro bot @Stickers!
+
+Il bot ti guiderà durante il processo, dovrai solamente seguire le sue istruzioni.
+
+{QUESTION}
+Come rimuovere i pacchetti di sticker?
+{KEYS}
+stickr
+removestickers
+deletestickers
+managestickers
+{VALUE}
+Puoi rimuovere i pacchetti di sticker qui:
+
+iOS: Impostazioni di Telegram > Sticker > Modifica
+
+Android: Impostazioni di Telegram > Impostazioni chat > Sticker e maschere > "..."
+
+Android X: Impostazioni di Telegram > Sticker > Installati > Tocca > Rimuovi sticker
+
+WP: Impostazioni di Telegram > Sticker > Tieni premuto > Rimuovi
+
+Desktop: Pannello degli sticker > Icona ingranaggio > Elimina
+
+{QUESTION}
+Cosa sono i canali?
+{KEYS}
+channels
+channelsare
+aboutchannels
+{VALUE}
+I canali sono uno strumento per diffondere i tuoi messaggi ad un grande pubblico — condividere informazioni importanti, divertenti, qualsiasi cosa tu voglia. Diversamente da un gruppo, i membri non sapranno chi altri fa parte del canale e solo gli amministratori del canale saranno in grado di inviare messaggi.
+
+I canali possono avere un numero illimitato di iscritti— e possono essere pubblici con un link permanente, in modo che chiunque possa trovarli e aggiungersi ad essi. Se vuoi un'esempio, unisciti al nostro canale ufficiale di Telegram per ricevere notizie sugli aggiornamenti: https://t.me/telegramit
+
+{QUESTION}
+Dove trovo nuovi canali e gruppi? (iOS)
+{KEYS}
+morechani
+getchannelsi
+morechannelsi
+findchannelsi
+moregroupsi
+getgroupsi
+moregroupi
+findgroupsi
+morechanios
+getchannelsios
+morechannelsios
+findchannelsios
+moregroupsios
+getgroupsios
+findgroupsios
+{VALUE}
+La maggior parte dei gruppi e alcuni canali sono privati. Non puoi cercarli. Per unirti devi essere aggiunto da un amministratore o devi avere un link d'invito.
+
+I gruppi e i canali pubblici hanno un @username. Puoi cercarlo nello stesso modo in cui cerchi quello di persone e bot: scorri leggermente sopra la lista chat, quindi inseriscilo nella barra di ricerca.
+
+Una volta che trovi un gruppo o un canale pubblico, puoi unirti aprendo la chat e cliccando sul pulsante "unisciti" sul fondo dello schermo. 
+
+Telegram non ha una lista pubblica di gruppi e canali, ma puoi trovarne diversi cercando sul web - ad esempio "Gruppi o canali di Telegram sull'ingegneria".
+
+{QUESTION}
+Dove trovo nuovi canali e gruppi? (Android, Android X)
+{KEYS}
+morechana
+getchannelsa
+morechannelsa
+findchannelsa
+moregroupsa
+moregroupa
+getgroupsa
+findgroupsa
+moregroupsandroid
+getgroupsandroid
+morechanandroid
+findgroupsandroid
+morechannelsandroid
+getchannelsandroid
+findchannelsandroid
+{VALUE}
+La maggior parte dei gruppi e alcuni canali sono privati. Non puoi cercarli. Per unirti devi essere aggiunto da un amministratore o devi avere un link d'invito.
+
+I gruppi e i canali pubblici hanno un @username. Puoi cercarlo nello stesso modo in cui cerchi quello di persone e bot: tocca l'icona della lente d'ingrandimento nell'angolo in alto a destra della lista chat, quindi inseriscilo nella barra di ricerca.
+
+Una volta che trovi un gruppo o un canale pubblico, puoi unirti aprendo la chat e cliccando sul pulsante "unisciti" sul fondo dello schermo. 
+
+Telegram non ha una lista pubblica di gruppi e canali, ma puoi trovarne diversi cercando sul web - ad esempio "Gruppi o canali di Telegram sull'ingegneria".
+
+{QUESTION}
+Dove trovo nuovi canali e gruppi? (Desktop)
+{KEYS}
+morechandesk
+getchannelsdesk
+morechannelsdesk
+findchannelsdesk
+moregroupsdesk
+getgroupsdesk
+findgroupsdesk
+moregroupsdesktop
+getgroupsdesktop
+findgroupsdesktop
+morechandesktop
+getchannelsdesktop
+morechannelsdesktop
+findchannelsdesktop
+{VALUE}
+La maggior parte dei gruppi e alcuni canali sono privati. Non puoi cercarli. Per unirti devi essere aggiunto da un amministratore o devi avere un link d'invito.
+
+I gruppi e i canali pubblici hanno un @username. Puoi cercarlo nello stesso modo in cui cerchi quello di persone e bot – scrivendolo nella barra di ricerca sopra la lista chat.
+
+Una volta che trovi un gruppo o un canale pubblico, puoi unirti aprendo la chat e cliccando sul pulsante "unisciti" sul fondo dello schermo. 
+
+Telegram non ha una lista pubblica di gruppi e canali, ma puoi trovarne diversi cercando sul web - ad esempio "Gruppi o canali di Telegram sull'ingegneria".
+
+{QUESTION}
+Dove posso trovare i bot?
+{COMMENT}
+Sentiti libero di personalizzare questi template con cognizione
+{KEYS}
+getbots
+morebots
+findbots
+botexamples
+{VALUE}
+Non abbiamo uno "store" ufficiale per i bot, la piattaforma è aperta e chiunque può usarla. Ti darò alcuni esempi – ma ricorda che i bot sono fatti da sviluppatori terzi, non dal team di Telegram.
+
+@TriviaBot - metti alla prova le tue conoscenze generali o aggiungilo nei gruppi per sfidare i tuoi amici.
+@hangbot - gioca all'Impiccato online o aggiungilo ai gruppi per giocare con i tuoi amici.
+@AlertBot - imposta un timer e questo bot ti invierà un promemoria.
+
+I bot inline sono ancora più facili da usare. Non devi mandare messaggi a loro o aggiungerli ai tuoi gruppi – ti basta scrivere il loro @username nel campo di scrittura, da qualsiasi chat, quindi scrivere qualche parola chiave e il bot ti offrirà il contenuto relativo. Ecco qui alcuni esempi di bot che puoi provare: @gif, @vid, @pic, @wiki, @imdb, @bold.
+
+Se vuoi scoprire ulteriori bot, prova a cercare su internet 'Telegram Bots' — troverai parecchi risultati.
+
+{QUESTION}
+Dove posso trovare / Come posso usare dei bot di gioco?
+{KEYS}
+game
+games
+gamebots
+werewolf
+{VALUE}
+Ci sono molti bot di giochi su Telegram, fatti da sviluppatori da tutto il mondo. Quelli che usano la nostra nuova Piattaforma di Gioco possono essere giocati a schermo intero, con animazioni e suoni. Puoi trovare alcune informazioni ed esempi qui: https://telegram.org/blog/games
+
+Saremmo felici di guidarti all'utilizzo dei bot su Telegram, ma a causa dell'elevato numero di bot di giochi che esistono, dovrai chiedere ai tuoi amici o cercare in rete.
+
+{QUESTION}
+Domande su servizi di terze parti
+{KEYS}
+3p
+iptv
+sportz
+sportztv
+thirdparty
+{VALUE}
+Questa è la chat di supporto per le app Telegram. Esistono molti servizi da tutto il mondo che utilizzano Telegram per le loro comunicazioni e il supporto clienti, ma Telegram non è affiliato con essi.
+
+Saremo lieti di guidarti sul funzionamento di Telegram in generale, ma se hai bisogno di aiuto con un particolare servizio, dovrai controllare il loro sito Web o contattarli direttamente.
+
+{QUESTION}
+Come posso ritirare i miei soldi?
+{KEYS}
+btc
+cashout
+wallet
+withdraw
+{VALUE}
+Le app di Telegram al momento non supportano alcuna funzionalità di portafoglio per le criptovalute. Se stai già usando un bot per questo, dovrai contattare lo sviluppatore del bot per assistenza per qualsiasi problema.
+
+Per favore fai attenzione quando si tratta di bot che promettono criptovalute o che offrono servizi di portafoglio gratuiti. Non sono ufficiali e non sono collegati a Telegram in alcun modo.
+
+Se qualcuno ti sta offrendo delle criptovalute gratuitamente o dei guadagni estremamente alti su qualsiasi tipo di investimento, si tratta quasi sempre di qualcosa troppo bello per essere vero – meglio starne alla larga e stare al sicuro.
+
+{QUESTION}
+Perché Telegram permette di barare nei giochi sulla nostra piattaforma?
+{KEYS}
+cheat
+cheats
+cheating
+cheaters
+{VALUE}
+La piattaforma gaming di Telegram permette agli sviluppatori dei bot di creare giochi in-chat, ma il team di Telegram non controlla il modo in cui ogni gioco funziona, quindi è possibile barare. Per prevenire questo, dovremmo sincronizzare non solo i risultati, ma ogni azione fatta da ogni utente in qualsiasi gioco, con il serve dello sviluppatore — che sarebbe difficile da impostare e mantenere per gli sviluppatori.
+
+Barare è un problema per molti giochi, inclusi quelli che sono pubblicati sull'App Store o sul Google Play Store. In ogni caso, stai agli sviluppatori dei giochi catturare quelli che barano. Man mano che più giochi vengono pubblicati da sviluppatori terzi nel tempo, speriamo che tu possa trovare giochi che funzionano come desideri.
+
+{QUESTION}
+Cosa significa l'impostazione LED?
+{KEYS}
+led
+lights
+ledsetting
+lednotification
+{VALUE}
+Alcuni smartphone hanno un LED (una piccola luce) che può lampeggiare in un colore specifico non appena un messaggio o email viene ricevuto dal dispositivo.
+
+Se il tuo telefono è dotato di un LED, puoi impostare per il lampeggio uno specifico colore per nuovi messaggi ricevuti da ciascun contatto di Telegram.
+
+{QUESTION}
+Cosa significa l'impostazione del badge?
+{KEYS}
+badge
+badgenumber
+badgesetting
+badgenumbersetting
+{VALUE}
+Il badge è un contatore dei messaggi che mostra un piccolo cerchio rosso che indica l'ammontare dei nuovi messaggi ricevuti sull'icona di Telegram.
+
+{QUESTION}
+Dove inserisco il codice del vostro SMS? (Android)
+{KEYS}
+code
+smscode
+codesms
+wherecode
+codeandroid
+codeandroid
+smscodeandroid
+{VALUE}
+Il codice è automaticamente riconosciuto dalla maggior parte dei dispositivi Android e inserito così velocemente che non te ne accorgerai. Se sei in grado di usare Telegram, tutto funziona perfettamente e non ti serve più.
+
+{QUESTION}
+Devo rispondere alla vostra chiamata di attivazione? (Android, Android X)
+{KEYS}
+actcalla
+actcallandroid
+activationcallandroid
+actcallax
+actcallandroidx
+activationcallandroidx
+{VALUE}
+Quando ricevi una chiamata di conferma da Telegram, il numero di telefono contiene un codice che viene automaticamente riconosciuto dal tuo smartphone e verificato dall'app. Non è necessario rispondere alla chiamata o inserire il codice manualmente.
+
+{QUESTION}
+Come nascondo il mio numero di telefono?
+{KEYS}
+hidepn
+number
+hidephone
+hidenumber
+numberhide
+numberprivacy
+hidephonenumber
+{VALUE}
+Di default il numero è visibile ai tuoi contatti e a quelli che lo hanno salvato nella rubrica. Puoi ulteriormente modificare questo in Impostazioni > Privacy e sicurezza > Numero di telefono.
+
+{QUESTION}
+Posso modificare i miei messaggi?
+{KEYS}
+edit
+editing
+editmsg
+editmessage
+{VALUE}
+Su Telegram, puoi modificare il testo dei tuoi messaggi fino a 2 giorni dopo averli inviati. I messaggi mostreranno una piccola etichetta 'modificato' in modo da capire quali sono stati cambiati.
+
+iOS, WP: tocca e tieni premuto su un messaggio, quindi premi 'Modifica'. 
+
+Android, Android X: tocca un messaggio, quindi premi 'Modifica'. 
+
+Desktop: clicca col tasto destra su un messaggio e seleziona 'Modifica. Puoi anche premere la freccia in su per modificare il tuo ultimo messaggio.
+
+{QUESTION}
+Come uso i temi? (Desktop)
+{KEYS}
+themes
+themed
+themesd
+themedesktop
+themesdesktop
+{VALUE}
+Puoi scegliere l'aspetto della tua app Telegram in Impostazioni > Impostazioni chat > Temi. Puoi anche creare nuovi temi da lì, in base alle tue scelte di colore e di sfondo, quindi perfezionarli manualmente o condividerli immediatamente.
+
+I temi personalizzati possono essere condivisi con un link breve o un file. Per impostare un tema, fai clic sul link o sul file: si aprirà un'anteprima e, se lo desideri, puoi toccare "Applica questo tema". Il tema verrà quindi applicato, clicca su "Mantieni le modifiche" se vuoi lasciare il nuovo tema. Puoi provarlo con alcuni temi da qui: @Themes.
+
+{QUESTION}
+Come uso i temi? (Android)
+{KEYS}
+themea
+themesa
+themeandroid
+themesandroid
+{VALUE}
+Puoi scegliere l'aspetto della tua app Telegram in Impostazioni > Impostazioni chat > Temi. Puoi anche creare nuovi temi da lì, in base alle tue scelte di colore e di sfondo, quindi perfezionarli manualmente o condividerli immediatamente.
+
+I temi personalizzati possono essere condivisi con un link breve o un file. Per impostare un tema, fai clic sul link o sul file: si aprirà un'anteprima e, se lo desideri, puoi toccare "Applica". Puoi provarlo con https://t.me/addtheme/skyblue o alcuni temi da qui: @AndroidThemes.
+
+{QUESTION}
+Come uso i temi? (iOS)
+{KEYS}
+themei
+themesi
+themeios
+themesios
+{VALUE}
+Puoi scegliere l'aspetto della tua app Telegram in Impostazioni > Aspetto. Puoi anche creare nuovi temi da lì, in base alle tue scelte di colore e di sfondo, quindi perfezionarli manualmente o condividerli immediatamente.
+
+I temi personalizzati possono essere condivisi con un link breve o un file. Per impostare un tema, fai clic sul link o sul file: si aprirà un'anteprima e, se lo desideri, puoi toccare "Applica". Puoi provarlo con questi temi di esempio:
+https://t.me/addtheme/skyblue
+https://t.me/addtheme/desert
+
+{QUESTION}
+Come uso i temi? (Android X)
+{KEYS}
+themeax
+themesax
+themeandroidx
+themesandroidx
+{VALUE}
+Telegram X per Android supporta i temi personalizzati, quindi puoi impostare un design alternativo per la tua app.
+
+Per passare a un tema differente, tornare al tema predefinito o creare un nuovo tema, vai nelle Impostazioni > Temi e chat > Temi.
+
+Se vuoi impostare un tema personalizzato da un file, clicca su di esso. Si aprirà un'anteprima e se vorrai potrai cliccare "Applica". Prova con alcuni temi da qui: @tgx_perfection. 
+
+{QUESTION}
+Come gestisco la cache? (Android)
+{KEYS}
+cachea
+cacheandroid
+{VALUE}
+Con Telegram, non hai bisogno di accumulare i file multimediali di tutta la vita sul tuo dispositivo. Se rimuovi i dati di Telegram dalla cache locale del tuo dispositivo, verranno riscaricati dal cloud tutte le volte che vuoi accedervi di nuovo. Questo significa che non perderai nulla, e Telegram occuperà sempre pochissimo spazio.
+
+Semplicemente, vai nelle Impostazioni di Telegram — Dati e archivio — Utilizzo archivio e configura per quanto tempo i media rimarranno nei tuoi dispositivi. Puoi inoltre cancellare i dati nella cache manualmente da quel menu.
+
+È possibile eliminare i file nella cache per i singoli gruppi e per i canali: tieni premuti su di loro nella lista chat, quindi 'Elimina dalla cache'.
+
+{QUESTION}
+Come gestisco la cache? (Android X)
+{KEYS}
+cacheax
+cacheandroidx
+{VALUE}
+Con Telegram, non hai bisogno di accumulare i file multimediali di tutta la vita sul tuo dispositivo. Se rimuovi i dati di Telegram dalla cache locale del tuo dispositivo, verranno riscaricati dal cloud tutte le volte che vuoi accedervi di nuovo. Questo significa che non perderai nulla, e Telegram occuperà sempre pochissimo spazio.
+
+Semplicemente, vai nelle Impostazioni di Telegram — Dati e archivio — Utilizzo archivio e configura per quanto tempo i media rimarranno nei tuoi dispositivi. Puoi inoltre cancellare i dati nella cache manualmente da quel menu.
+
+{QUESTION}
+Come gestisco la cache? (iOS)
+{KEYS}
+cachei
+cacheios
+{VALUE}
+Con Telegram, non hai bisogno di accumulare i file multimediali di tutta la vita sul tuo dispositivo. Se rimuovi i dati di Telegram dalla cache locale del tuo dispositivo, verranno riscaricati dal cloud tutte le volte che vuoi accedervi di nuovo. Questo significa che non perderai nulla, e Telegram occuperà sempre pochissimo spazio.
+
+Per gestire la cache, vai nelle Impostazioni di Telegram — Dati e archivio — Utilizzo archivio. Qui puoi configurare per quanto tempo i media non utilizzati rimarranno nei tuoi dispositivi — o cancellare manualmente in base al tipo di file o alla chat.
+
+{QUESTION}
+Come gestisco la cache? (Windows Phone)
+{KEYS}
+cachewp
+cachewindowsphone
+{VALUE}
+Con Telegram, non hai bisogno di accumulare i file multimediali di tutta la vita sul tuo dispositivo. Se rimuovi i dati di Telegram dalla cache locale del tuo dispositivo, verranno riscaricati dal cloud tutte le volte che vuoi accedervi di nuovo. Questo significa che non perderai nulla, e Telegram occuperà sempre pochissimo spazio.
+
+Per gestire la cache, vai nelle Impostazioni di Telegram — Cache
+
+{QUESTION}
+Voglio salvare i media nella scheda SD (Android)
+{KEYS}
+sdcard
+{VALUE}
+Puoi spostare l'app di Telegram nella scheda SD, ma i media verranno comunque salvati nella memoria interna del tuo dispositivo — non è possibile cambiare questa impostazione al momento.
+
+Se stai cercando un modo per liberare la memoria del tuo telefono, per favore ricorda che puoi facilmente eliminare i dati di Telegram dalla cache locale del tuo dispositivo.
+
+{QUESTION}
+Perchè vedo un messaggio di attenzione riguardo alle truffe nei messaggi del bot?
+{KEYS}
+scam
+lara
+larabot
+scambot
+warning
+{VALUE}
+Questo messaggio di allerta è attaccato ai messaggi automaticamente in modo da evidenziare che il bot non è associato a Telegram, e dovrebbe essere usato con cautela. Non cambia le funzionalità del bot in alcun modo, ma significa che il bot è stato segnalato come truffa dagli utenti di Telegram.
+
+Se sei preoccupato, per favore contatta il reparto degli abusi di Telegram su abuse@telegram.org con tutti i dettagli. Siamo spiacenti, ma l'assistenza di Telegram è fornita da volontari e non possiamo gestire alcuna segnalazione di truffa qui.
+
+{QUESTION}
+Cos'è IFTTT e come lo uso?
+{KEYS}
+ifttt
+{VALUE}
+IFTTT è un sistema gratuito che ti permette di connettere il tuo account Telegram con altri servizi per gestirli all'interno di Telegram, o ricevere notifiche, foto o video quando succede qualcosa. Per esempio, puoi ricevere un messaggio su Telegram quando arrivano email importanti, accendere una smart TV, o controllare le tue luci Hue inviando semplicemente un messaggio su Telegram. Puoi anche decidere di permettere ai membri di una chat di gruppo di interagire con i tuoi servizi o dispositivi.
+
+Per iniziare, contatta il bot @IFTTT e segui le istruzioni che ti fornisce. In breve, dovrai iscriverti con un account IFTTT, connetterti a Telegram e quindi scegliere gli applet che ti piacciono dalla lista o crearne di personalizzati. IFTTT supporta integrazioni con i social network come Twitter e Instagram, strumenti come Gmail o Pocket, app di divertimento come Spotify o Pinterest e tante altre app — controlla https://ifttt.com/telegram per la lista completa.
+
+{QUESTION}
+Come posso condividere le immagini che ricevo su Telegram verso altre app? (iOS)
+{KEYS}
+sharei
+sharepici
+sharephotoi
+{VALUE}
+Per condividere una foto su un'altra app, tieni premuto sulla foto nella chat e scegli "Altro...". Quindi usa il pulsante di condivisione sul fondo della schermata.
+
+
+{COMMENT}
+=========================
+-CHAT SEGRETE-
+=========================
+
+{QUESTION}
+Cosa sono le chat segrete?
+{KEYS}
+schat
+schats
+secretchat
+secretchats
+{VALUE}
+Le chat segrete:
+
+- Usano la crittografia end-to-end
+- Hanno un timer di autodistruzione opzionale per tutti i tipi di messaggio
+- Non hanno la sincronizzazione cloud
+- Inviano una notifica per gli screenshot
+- Non sono utilizzabili dopo la disconnessione
+- Non è possibile inoltrare i messaggi al di fuori di esse
+- Prevengono il backup dei dati
+- Possono essere usate su un solo dispositivo
+- Sono perfette come chat temporanee
+
+Per riassumere, le Chat Segrete sono super convenienti per una chat breve; per conversazioni permanenti, le chat cloud sono migliori. Tutte le chat di Telegram sono ovviamente criptate. Più informazioni sulle chat segrete qui: https://telegram.org/faq/it#chat-segrete
+
+{QUESTION}
+Cosa sono le chat cloud?
+{KEYS}
+cchat
+nchat
+cloudchat
+cloudchats
+{VALUE}
+Le chat cloud (tutto su Telegram tranne le chat segrete):
+
+- Sono perfette come chat permanenti
+- Rimangono criptate nel Cloud di Telegram
+- Possono essere utilizzate contemporaneamente da qualsiasi dispositivo
+- Sono ripristinate quando reinstalli l'app, anche su un nuovo dispositivo
+- Il contenuto può essere inoltrato
+
+Per riassumere, le chat cloud su Telegram sono criptate e disponibili anche nel cloud di Telegram.
+
+{QUESTION}
+Per cosa sono diverse le chat segrete dalle chat cloud?
+{KEYS}
+diff
+schatvscchat
+secretvscloud
+secretchatvscloudchat
+secretchatsvscloudchat
+secretchatsvscloudchat
+secrectcahtvscloudchats
+{VALUE}
+Le chat cloud di Telegram (e i gruppi) sono criptati in maniera sicura nel cloud di Telegram, in modo che tu possa accedervi velocemente da ognuno dei tuoi dispositivi, anche se reinstalli l'app. Solo se elimini qualcosa nella tua chat, allora sarà perso per sempre (a meno che il tuo amico te le inoltri).
+
+Le Chat Segrete usano la crittografia end-to-end e possono essere decifrate dai dispositivi che vi partecipano. Il lato negativo: non puoi accedere dagli altri dispositivi e se reinstalli Telegram, o ti disconnetti, le chat segrete verranno perse.
+
+Le Chat Segrete hanno un timer (da 1 secondo a 1 settimana) che funziona per qualsiasi tipo di messaggio.
+
+{QUESTION}
+Perchè le chat segrete sono presenti solo nel dispositivo di origine?
+{KEYS}
+1device
+why1device
+devicespecific
+whydevicespecific
+{VALUE}
+Mentre le Chat Cloud sono accessibili da qualsiasi dei tuoi dispositivi in qualsiasi momento, le Chat Segrete non fanno parte del Cloud di Telegram e sono progettate per essere specifiche per ogni dispositivo. In questo modo puoi sempre essere certo che siano al sicuro fintanto che il tuo telefono è nelle tue tasche. Le Chat Segrete usano inoltre la crittografia end-to-end, quindi non possono essere sincronizzate nel modo semplice e comodo delle Chat Cloud. Potremmo aggiungere il supporto multi dispositivo per le Chat Segrete in futuro.
+
+Nel frattempo, se vuoi che le tue conversazioni siano sincronizzate tra i tuoi dispositivi, considera l'utilizzo delle Chat Cloud. Ricorda che sono comunque criptate e inoltre protette dall'infrastruttura distribuita di Telegram. Fammi sapere se vuoi sapere di più sulla sicurezza di Telegram.
+
+{QUESTION}
+Perchè non ci sono le chat segrete nelle app desktop?
+{KEYS}
+scd
+schatsd
+secretchatsd
+schatsdesktop
+secretchatsdesktop
+{VALUE}
+Le chat segrete richiedono un archivio permanente nel dispositivo, qualcosa che Telegram Desktop e Telegram Web non supportano al momento. Potremmo aggiungerlo in futuro. Al momento, sia l'app desktop che web caricano i messaggi dal Cloud all'avvio e li scartano quando chiudi l'app. Dato che le chat segrete non fanno parte del cloud, questo interromperebbe le tue chat segrete ogni volta che spegni il computer.
+
+Le chat segrete inoltre sono specifiche per il dispositivo e scompaiono se ti disconnetti — considerando questo, è più comodo tenerle su un dispositivo che porti sempre con te. Nel caso in cui tu sia preoccupato riguardo la sicurezza delle tue chat su desktop, per favore ricorda che sono criptate comunque e inoltre protette dall'infrastruttura distribuita di Telegram. Fammi sapere se vuoi sapere di più sulla sicurezza di Telegram.
+
+{QUESTION}
+Dimmi di più sulla sicurezza di Telegram
+{KEYS}
+securitylm
+securitymore
+securitylearn
+securitylearnmore
+{VALUE}
+Tutti i dati di Telegram sono criptati e non possono essere decifrati dal tuo ISP, amministratore di rete o hacker qualsiasi. Le chat cloud sono archiviate in modo criptato nel cloud di Telegram, e le chiavi necessarie per decifrare i dati sono tenute al sicuro in datacenter sotto diverse giurisdizioni. In questo modo, intrusioni locali o ingegneri non possono accedere ai dati, e sono necessari diversi ordini di corte da diverse giurisdizioni per costringerci a rilasciare qualsiasi cosa. Più info su questo nelle FAQ: https://telegram.org/faq/it#d-elaborate-le-richieste-di-dati
+
+Le chat segrete sono intese per le persone che vogliono ancora di più. Usano la crittografia end-to-end, quindi non c'è modo di decifrare i tuoi dati senza accedere al tuo dispositivo. Significa che non devi nemmeno credere a Telegram quando usi le Chat Segrete — la loro segretezza è garantita a livello di client e chiunque può controllare il codice sorgente delle app Telegram.
+
+Se sei preoccupato sulla sicurezza in generale, ci sono altre importanti precauzioni che puoi prendere. Considera la protezione del tuo account attivando la verifica in due passaggi o attivando una password locale per bloccare la tua app. Puoi trovare entrambe le opzioni nelle ‘Impostazioni’ sotto ‘Privacy e Sicurezza'. Chiedimi se hai bisogno di ulteriori dettagli.
+
+{QUESTION}
+Come invio i messaggi che si autodistruggono? (iOS)
+{KEYS}
+timeri
+timerios
+selfdestructi
+selfdestructios
+{VALUE}
+Il timer di autodistruzione è disponibile per qualsiasi foto o video nelle chat private. Per impostare un timer, tocca l'icona del cronometro in basso nell'anteprima a schermo intero. Il conto alla rovescia inizia non appena il destinatario apre la foto o il video che hai inviato — non appena il tempo finisce, la foto o il video vengono rimossi da entrambi i dispositivi.
+
+Nelle chat segrete, puoi impostare un timer per tutti i tipi di messaggio. Tocca la piccola icona del cronometro di fianco a dove scrivi, inserisci il valore che preferisci e tocca 'Fatto'. Questo timer verrà applicato a tutti i messaggi inviati in questa chat, dopo essere stato impostato. Il conto alla rovescia inizia non appena il destinatario legge il messaggio — non appena il tempo finisce, i messaggi vengono rimossi da entrambi i dispositivi.
+
+{QUESTION}
+Come invio i messaggi che si autodistruggono? (Android)
+{KEYS}
+timera
+timerandroid
+selfdestructa
+selfdestructandroid
+{VALUE}
+Il timer di autodistruzione è disponibile per qualsiasi foto o video nelle chat private. Per impostare un timer, tocca l'icona del cronometro in basso nell'anteprima a schermo intero. Il conto alla rovescia inizia non appena il destinatario apre la foto o il video che hai inviato — non appena il tempo finisce, la foto o il video vengono rimossi da entrambi i dispositivi.
+
+Nelle chat segrete, puoi impostare un timer per tutti i tipi di messaggio. Tocca la foto profilo nella chat segreta, inserisci il valore che preferisci e tocca 'Fatto'. Questo timer verrà applicato a tutti i messaggi inviati in questa chat, dopo essere stato impostato. Il conto alla rovescia inizia non appena il destinatario legge il messaggio — non appena il tempo finisce, i messaggi vengono rimossi da entrambi i dispositivi.
+
+{QUESTION}
+Come invio i messaggi che si autodistruggono? (Android, Android X)
+{KEYS}
+timerax
+timerandroidx
+selfdestructax
+selfdestructandroidx
+{VALUE}
+Il timer di autodistruzione è disponibile per qualsiasi foto o video nelle chat private. Per impostare un timer, tocca l'icona del cronometro in basso nell'anteprima a schermo intero. Il conto alla rovescia inizia non appena il destinatario apre la foto o il video che hai inviato — non appena il tempo finisce, la foto o il video vengono rimossi da entrambi i dispositivi.
+
+Nelle chat segrete, puoi impostare un timer per tutti i tipi di messaggio. Tocca la piccola icona del cronometro in alto nelle chat, inserisci il valore che preferisci e tocca 'Fatto'. Questo timer verrà applicato a tutti i messaggi inviati in questa chat, dopo essere stato impostato. Il conto alla rovescia inizia non appena il destinatario legge il messaggio — non appena il tempo finisce, i messaggi vengono rimossi da entrambi i dispositivi.
+
+
+{QUESTION}
+Come invio i messaggi che si autodistruggono? (Windows Phone)
+{KEYS}
+timerwp
+selfdestructwp
+timerwindowsphone
+selfdestructwindowsphone
+{VALUE}
+Il timer di autodistruzione è disponibile nelle Chat Segrete. Il timer parte non appena l'altra persona legge il messaggio. Quindi, quando il timer finisce, i messaggi sono eliminati da entrambi i dispositivi. Questo vale solo per i messaggi inviati dopo aver impostato il timer.
+
+Per attivare il timer su Windows Phone, premi sull'immagine profilo nella chat segreta e imposta il timer nella pagina di info.
+
+{COMMENT}
+======================
+-USERNAME-
+======================
+
+{QUESTION}
+Come imposto un username / link pubblico? (Android, Android X)
+{KEYS}
+una
+unax
+unandroid
+usernamea
+unandroidx
+usernamesa
+usernameax
+usernamesax
+usernameandroid
+usernamesandroid
+usernameandroidx
+usernamesandroidx
+{VALUE}
+Per impostare un username pubblico in modo che qualsiasi utente Telegram possa contattarti, vai in Impostazioni > Username.
+
+Una volta che hai impostato uno username, sarai anche in grado di creare il tuo link personale di Telegram:
+t.me/YourUsername
+
+Questo aprirà una chat con te su Telegram — perfetta da condividere con gli amici o da inserire sul tuo sito web o nel profilo dei social network.
+
+{QUESTION}
+Come imposto un username / link pubblico? (iOS)
+{KEYS}
+uni
+unios
+usernamei
+usernamesi
+usernameios
+usernamesios
+{VALUE}
+Per impostare un username pubblico in modo che qualsiasi utente Telegram possa contattarti, vai in Impostazioni e tocca sui tuoi dettagli in alto. Quindi tocca "Username".
+
+Una volta che hai impostato uno username, sarai anche in grado di creare il tuo link personale di Telegram:
+t.me/YourUsername
+
+Questo aprirà una chat con te su Telegram — perfetta da condividere con gli amici o da inserire sul tuo sito web o nel profilo dei social network.
+
+{QUESTION}
+Come imposto un username / link pubblico? (Deskto)
+{KEYS}
+undesk
+undesktop
+usernamedesk
+usernamesdesk
+usernamedesktop
+usernamesdesktop
+{VALUE}
+Per impostare un username pubblico in modo che qualsiasi utente Telegram possa contattarti, clicca l'icona menu di fianco al campo di ricerca, quindi Impostazioni > Modifica profilo > Aggiungi username.
+
+Una volta che hai impostato uno username, sarai anche in grado di creare il tuo link personale di Telegram:
+t.me/YourUsername
+
+Questo aprirà una chat con te su Telegram — perfetta da condividere con gli amici o da inserire sul tuo sito web o nel profilo dei social network.
+
+{QUESTION}
+Come posso trovare persone su Telegram via username?
+{KEYS}
+search
+finduser
+addfriend
+findusers
+addfriends
+searchuser
+findusername
+searchunsername
+{VALUE}
+Puoi cercare le altre persone su Telegram via username se ne hanno impostato uno. Devi scrivere almeno 5 caratteri per iniziare la ricerca. Scopri di più sugli username qui: https://telegram.org/faq/it#username-e-t-me
+
+Android, Android X: Premi sull'icona della lente di ingrandimento in alto a destra nella lista delle chat e scrivi nella barra di ricerca.
+
+iOS: Scorri in su nella schermata delle chat, quindi scrivi nella barra di ricerca in alto.
+
+WP: Vai nelle pagina dei Contatti, premi sull'icona della lente di ingrandimento e scrivi nella barra di ricerca.
+
+{QUESTION}
+Il mio username è già stato preso, posso averlo?
+{KEYS}
+wantusername
+usernametaken
+usernameoccupied
+usernamesquatted
+{VALUE}
+Gli username di Telegram vengono dati al primo che li richiede — viene accontentato il primo, ci scusiamo per questo. Cosa ne pensi di un modo alternativo con cui scrivere il tuo nome?
+
+Ci rendiamo conto che alcuni username fanno parte dell'identità online per alcuni di noi. Se il tuo username desiderato è già stato preso, saremo felici di aiutarti ad averlo, premesso che tu abbia lo stesso username su almeno due di questi servizi: Facebook, Twitter, Instagram.
+
+Se questo è il tuo caso, per favore contatta @username_bot e segui le istruzioni del bot.
+
+{QUESTION}
+Come posso verificare il mio account?
+{KEYS}
+verifyu
+verifyuser
+{VALUE}
+Sono spiacente, ma al momento Telegram non verifica gli account degli utenti. La verifica è disponibile solo per i canali grandi e attivi e i bot.
+
+Per favore ricorda che la verifica non aggiunge alcuna abilità speciale a Telegram. È utile solamente se vuoi dimostrare che il tuo account qui è ufficiale. Se questo è il tuo caso, ecco un'altra idea: puoi pubblicare il tuo username di Telegram sul tuo sito ufficiale, o nei tuoi altri account — questo proverà al tuo pubblico che sei tu e li aiuterà a trovarti qui.
+
+{QUESTION}
+Come posso verificare il mio canale?
+{KEYS}
+verifych
+verifychannel
+{VALUE}
+Generalmente il team di Telegram verifica i canali ufficiali grandi e attivi che hanno account verificati su almeno tre di questi servizi: Facebook, Twitter, Instagram, Youtube. Se questo è il tuo caso, ti chiediamo di annunciare il tuo canale di Telegram su questi account o nel tuo sito ufficiale e inviarci un link — così sapremo che appartiene effettivamente a te.
+
+Sfortunatamente non possiamo garantire la verifica a causa della quantità di richieste che riceviamo. Per favore ricorda che la verifica non aggiunge alcuna abilità speciale a Telegram - è utile solamente se vuoi dimostrare che il tuo canale è ufficiale. Un link nel tuo sito ufficiale o nei tuoi altri account potrà ottenere risultati similari.
+
+{QUESTION}
+Come posso eliminare il mio username?
+{KEYS}
+delusername
+blankusername
+deleteusername
+removeusername
+{VALUE}
+Vai nelle impostazioni e salva uno username vuoto. Questo rimuoverà il tuo username, le persone non saranno più in grado di cercarti. Questo non modifica le conversazioni già esistenti.
+
+{COMMENT}
+================================
+-CODICI-
+================================
+
+{QUESTION}
+Come imposto un codice?
+{KEYS}
+codice
+locksetup
+locktelegram
+setuppasscode
+passcodesetup
+{VALUE}
+Per impostare un codice, vai nelle Impostazioni di Telegram —  Privacy e Sicurezza — Codice.
+
+Quando imposti un codice, un'icona col lucchetto apparirà nella lista chat. Premi su di essa per bloccare l'app — il tuo codice verrà richiesto la prossima volte che apri Telegram.
+
+Quando l'app è bloccata, il testo e il nome del mittente sono nascosti nella notifica. Puoi anche impostare il blocco automatico nelle Impostazioni del Codice, se non vuoi bloccare l'app manualmente.
+
+{QUESTION}
+Cosa significa l'icona del lucchetto nella mia lista chat?
+{KEYS}
+lock
+lockicon
+chatlock
+greenlock
+{VALUE}
+Questa icona appare quando inserisci un codice. Premi su di essa per bloccare l'app - il codice verrà richiesto la prossima volta che apri Telegram.
+
+Quando l'app è bloccata, il testo e il nome del mittente sono nascosti nella notifica. Puoi anche impostare il blocco automatico nelle Impostazioni del Codice, se non vuoi bloccare l'app manualmente.
+
+Se vuoi, puoi disattivare questo Codice nelle Impostazioni di Telegram >  Privacy e Sicurezza >   Codice.
+
+{QUESTION}
+Posso fare in modo che il codice mi venga richiesto istantaneamente?
+{KEYS}
+locknow
+alwaysask
+passcodenow
+passcodeimmediately
+{VALUE}
+Se non vuoi bloccare l'app manualmente, puoi impostare il blocco automatico nelle Impostazioni del Codice.
+
+Al momento, l'impostazioni minore è di 1 minuto, il che funziona per la maggior parte degli utenti — in questo modo l'app si blocca abbastanza alla svelta e non hai bisogno di inserire il codice se un messaggio arriva dopo che hai inserito il tuo telefono in tasca.
+
+Potremmo aggiungere più impostazioni nelle prossime versioni.
+
+{QUESTION}
+Come sblocco la mia app col touch ID?
+{KEYS}
+touchid
+{VALUE}
+Per sbloccare la tua app Telegram usando il Touch ID, per favore, configuralo nelle Impostazioni di iOS:
+
+Impostazioni — Touch ID e Codice — Aggiungi un'impronta.
+
+Quindi, vai nelle Impostazioni di Telegram > Privacy e sicurezza > Codice e Touch ID e assicurati che "Sblocco con Touch ID" sia attivo.
+
+{COMMENT}
+================================
+-FUNZIONI: HOW TO-
+================================
+
+{QUESTION}
+Come cambio il mio sfondo chat? (iOS)
+{KEYS}
+bgi
+backgroundi
+backgroundios
+chatbackgroundi
+changebackgroundi
+chatbackgroundios
+changebackgroundios
+{VALUE}
+Per cambiare lo sfondo, vai nelle Impostazioni di Telegram > Aspetto > Sfondo chat e scegli quello che preferisci.
+
+{QUESTION}
+Come cambio il mio sfondo chat? (Android)
+{KEYS}
+bga
+backgrounda
+chatbackgrounda
+changebackgrounda
+backgroundandroid
+chatbackgroundandroid
+changebackgroundandroid
+{VALUE}
+Scorri verso destra nella pagina delle chat per aprire il menu, quindi Impostazioni > Impostazioni chat > Cambia sfondo chat.
+
+{QUESTION}
+Come cambio il mio sfondo chat? (Android X)
+{KEYS}
+bgax
+backgroundax
+chatbackgroundax
+changebackgroundax
+backgroundandroidx
+chatbackgroundandroidx
+changebackgroundandroidx
+{VALUE}
+Scorri verso destra nella pagina delle chat per aprire il menu, quindi Impostazioni > Temi e chat > Sfondo.
+
+{QUESTION}
+Come cambio il mio sfondo chat? (WP)
+{KEYS}
+bgwp
+backgroundwp
+chatbackgroundwp
+changebackgroundwp
+{VALUE}
+Tocca "..." nella pagina delle chat, quindi Impostazioni — Sfondo chat.
+
+{QUESTION}
+Come cambio la mia foto profilo? (iOS)
+{KEYS}
+ppi
+ppios
+changeppi
+profilepici
+profilepicios
+profilepicturei
+changeprofilepici
+profilepictureios
+changeprofilepicios
+changeprofilepicturei
+changeprofilepictureios
+{VALUE}
+Per cambiare la tua foto profilo, vai nelle Impostazioni di Telegram e tocca sui tuoi dettagli in alto - quindi tocca l'icona della fotocamera che appare sopra la tua foto profilo e scegline una nuova.
+
+{QUESTION}
+Come cambio la mia foto profilo? (Android)
+{KEYS}
+ppa
+ppandroid
+changeppa
+profilepica
+profilepicturea
+changeprofilepica
+profilepicandroid
+changeprofilepicturea
+profilepictureandroid
+changeprofilepicandroid
+changeprofilepictureandroid
+{VALUE}
+Per cambiare la tua foto profilo, scorri verso destra nella lista chat > Impostazioni > tocca l'icona della macchina fotografica per impostare una nuova foto.
+
+{QUESTION}
+Come cambio la mia foto profilo? (Android X)
+{KEYS}
+ppax
+ppandroidx
+changeppax
+profilepicax
+profilepictureax
+changeprofilepicax
+profilepicandroidx
+changeprofilepictureax
+profilepictureandroidx
+changeprofilepicandroidx
+changeprofilepictureandroidx
+{VALUE}
+Per cambiare la tua foto profilo, scorri verso destra nella lista chat > Impostazioni > tocca la tua foto profilo > Scegli "Camera" o "Galleria".
+
+{QUESTION}
+Come cambio la mia foto profilo? (Windows Phone)
+{KEYS}
+ppwp
+changeppwp
+profilepicwp
+ppwindowsphone
+profilepicturewp
+changeprofilepicw
+profilepicwindowsphone
+changeprofilepicturewp
+profilepicturewindowsphone
+changeprofilepicwindowsphone
+changeprofilepicturewindowsphone
+{VALUE}
+Per cambiare a tua foto profilo, premi "..." nella pagina delle chat, quindi Impostazioni — tocca l'icona della matita— premi sulla foto profilo.
+
+{QUESTION}
+Come elimino la mia foto profilo? (iOS)
+{KEYS}
+dppi
+dppios
+delppi
+delppios
+delprofpici
+delprofpicios
+delprofilepici
+deleteprofilepici
+deleteprofilepicios
+deleteprofilepicturei
+deleteprofilepictureios
+{VALUE}
+Vai nelle Impostazioni di Telegram e tocca sui tuoi dettagli in alto - quindi tocca l'icona della fotocamera che appare sopra la tua foto profilo e scegli l'opzione "Elimina foto".
+
+{QUESTION}
+Come elimino la mia foto profilo? (Android, Android X)
+{KEYS}
+dppa
+delppa
+delppa
+dppandroid
+delprofpica
+delppandroid
+delprofilepica
+delprofilepica
+deleteprofilepica
+delprofpicandroid
+deleteprofilepicturea
+deleteprofilepicandroid
+deleteprofilepictureandroid
+dppax
+delppax
+delppax
+dppandroidx
+delprofpicax
+delppandroidx
+delprofilepicax
+delprofilepicax
+deleteprofilepicax
+delprofpicandroidx
+deleteprofilepictureax
+deleteprofilepicandroidx
+deleteprofilepictureandroidx
+{VALUE}
+Scorri verso destra nella lista chat > Impostazioni > premi sulla tua foto profilo > tocca "..." > Elimina.
+
+{QUESTION}
+Come elimino la mia foto profilo? (Windows Phone)
+{KEYS}
+dppwp
+delppwp
+delppwp
+delprofpicwp
+delprofilepicwp
+delprofilepicwp
+dppwindowsphone
+delppwindowsphone
+deleteprofilepicwp
+deleteprofilepicturewp
+delprofpicwindowsphone
+deleteprofilepicwindowsphone
+deleteprofilepicturewindowsphone
+{VALUE}
+Nella pagina delle chat, premi "..." > Impostazioni > Premi sulla tua foto profilo > elimina.
+
+{QUESTION}
+Come nascondo la mia foto profilo?
+{KEYS}
+pphide
+hidepp
+profilepichide
+hideprofilepic
+profilepicturehide
+hideprofilepicture
+{VALUE}
+Puoi scegliere chi può vedere la tua foto profilo nell'ultima versione delle nostre app: Impostazioni Telegram — Privacy e sicurezza — Foto profilo.
+
+
+{QUESTION}
+Posso scrivermi messaggi da solo?
+{KEYS}
+self
+star
+msgself
+favorites
+messageself
+messagemyself
+savedmessages
+{VALUE}
+Per inviare un messaggio o un media a te stesso, puoi usare la tua chat di archivio personale:
+
+iOS: Impostazioni di Telegram > Messaggi salvati.
+Android, Android X: Menu principale > Tocca l'opzione Messaggi salvati.
+Windows Phone: Chat > Nuova chat > tocca su "Tu".
+Desktop: Clicca sul pulsante menù nell'angolo in alto a sinistra della lista chat > quindi clicca l'icona del segnalibro o la tua foto profilo.
+
+Se hai uno username, il seguente link aprirà una chat con te su Telegram:
+t.me/YourUsername
+
+{QUESTION}
+Ricevo messaggi da persone che non conosco!
+{KEYS}
+annoy
+found
+findme
+annoyed
+foundme
+annoying
+strangers
+gettingspam
+receivingspam
+strangerdanger
+unwantedmessages
+{VALUE}
+Se ricevi annunci o altri tipi di messaggi fastidiosi da sconosciuti, segnalali: Blocca utente > Segnala spam.
+
+Per favore ricorda che quando imposti un username, il tuo account sarà disponibile nella ricerca globale. Questo significa che le persone potranno cercarti e scriverti anche se non hanno il tuo numero. (Il tuo numero di telefono sarà nascosto a loro a meno che tu non lo condivida.)
+
+Se non vuoi che altri possano contattarti, è meglio rimuovere l'username. In alternativa, puoi bloccare le persone che ti inviano messaggi non voluti.
+
+{QUESTION}
+Come creo un gruppo? (Android, Android X)
+{KEYS}
+groupa
+makegroupa
+formgroupa
+creategroupa
+makegroupandroid
+formgroupandroid
+creategroupandroid
+groupax
+makegroupax
+formgroupax
+creategroupax
+makegroupandroidx
+formgroupandroidx
+creategroupandroidx
+{VALUE}
+Per creare un nuovo gruppo su Android, premi l'icona con la matita nella lista delle chat, quindi "Nuovo gruppo".
+
+Ogni gruppo può avere fino a 200.000 membri su Telegram.
+
+{QUESTION}
+Come creo un gruppo (iOS)
+{KEYS}
+groupi
+makegroupi
+formgroupi
+creategroupi
+makegroupios
+formgroupios
+creategroupios
+{VALUE}
+Per creare un gruppo su iOS, crea un nuovo messaggio (premi l'icona nell'angolo in alto a destra nella pagina delle chat), quindi 'Nuovo gruppo'.
+
+Ogni gruppo può avere fino a 200.000 membri su Telegram.
+
+{QUESTION}
+Come creo un gruppo? (Windows Phone)
+{KEYS}
+groupwp
+makegroupwp
+formgroupwp
+creategroupwp
+groupwindowsphone
+makegroupwindowsphone
+creategroupwindowsphone
+creategroupwindowsphone
+{VALUE}
+Per creare un gruppo su Windows Phone, premi sul simbolo '+' nella lista chat, quindi 'Nuovo gruppo'.
+
+Ogni gruppo può avere fino a 200.000 membri su Telegram.
+
+{QUESTION}
+Come creo un gruppo? (Desktop)
+{KEYS}
+groupdesk
+groupdesktop
+makegroupdesk
+creategroupdesk
+creategroupdesk
+makegroupdesktop
+formgroupdesktop
+creategroupdesktop
+{VALUE}
+Per creare un gruppo con l'app desktop, tocca l'icona del menù di fianco al campo di ricerca, quindi 'Nuovo gruppo'.
+
+Ogni gruppo può avere fino a 200.000 membri su Telegram.
+
+{QUESTION}
+Come posso aggiungere membri al mio gruppo? (Android, iOS)
+{KEYS}
+invitea
+invitei
+inviteios
+invitegroupa
+invitegroupi
+inviteandroid
+invitegroupios
+invitegroupandroid
+{VALUE}
+Ci sono due modi di aggiungere membri al tuo gruppo:
+
+1. Se vuoi aggiungere i tuoi contatti, puoi usare il pulsante "Aggiungi membro" nella pagina di info del gruppo. Qui puoi inoltre aggiungere altri utenti se conosci il loro username, ma questo non è consigliabile se non li hai prima avvertiti.
+
+2. Se vuoi generare o vedere un link di invito per il tuo gruppo che può essere condiviso con altri, puoi farlo dalla pagina di Info del gruppo > Aggiungi membro > Invita tramite link.
+
+Per favore ricorda che se un utente lascia il tuo gruppo, non sarai in grado di aggiungerlo di nuovo usando il metodo 1 a meno che non siate contatti reciproci - invece dovrai usare un link di invito e fare in modo che si unisca da solo.
+
+{QUESTION}
+Come posso aggiungere membri al mio gruppo? (Desktop)
+{KEYS}
+invitedesk
+invitedesktop
+invitegroupdesk
+invitegroupdesktop
+{VALUE}
+Ci sono due modi di aggiungere membri al tuo gruppo:
+
+1. Se vuoi aggiungere i tuoi contatti,  clicca "..." in alto in una chat di gruppo > "Aggiungi membro". Qui puoi inoltre aggiungere altri utenti se conosci il loro username, ma questo non è consigliabile se non li hai prima avvertiti.
+
+2. Se vuoi generare o vedere un link di invito per il tuo gruppo che può essere condiviso con altri, clicca "..." in alto a destra nella chat di gruppo > "Gestisci gruppo" > "Tipo di gruppo" , e sarai in grado di vedere il link di invito o generarne uno nuovo sotto la voce "Link d'invito".
+
+Per favore ricorda che se un utente lascia il tuo gruppo, non sarai in grado di aggiungerlo di nuovo usando il metodo 1 a meno che non siate contatti reciproci - invece dovrai usare un link di invito e fare in modo che si unisca da solo.
+
+{QUESTION}
+Come creo un canale? (Android, Android X)
+{KEYS}
+channela
+makechannela
+formchannela
+createchannela
+makechannelandroid
+formchannelandroid
+createchannelandroid
+channelax
+makechannelax
+formchannelax
+createchannelax
+makechannelandroidx
+formchannelandroidx
+createchannelandroidx
+{VALUE}
+Per creare un canale su Android, tocca l'icona delle matita nella lista delle chat, quindi seleziona 'Nuovo canale'.
+
+I canali possono avere un numero illimitato di iscritti.
+
+{QUESTION}
+Come creo un Canale? (iOS)
+{KEYS}
+channeli
+makechanneli
+formchanneli
+createchanneli
+makechannelios
+formchannelios
+createchannelios
+{VALUE}
+Per creare un canale su iOS, crea un nuovo messaggio (tocca l'icona nell'angolo in alto a destra nella pagina delle chat), quindi 'Nuovo canale'.
+
+I canali possono avere un numero illimitato di iscritti.
+
+{QUESTION}
+Come creo un Canale? (Windows Phone)
+{KEYS}
+channelwp
+makechannelwp
+formchannelwp
+createchannelwp
+channelwindowsphone
+makechannelwindowsphone
+createchannelwindowsphone
+createchannelwindowsphone
+{VALUE}
+Per creare un canale su Windows Phone, tocca il simbolo '+' nella lista delle chat, quindi 'Nuovo canale'.
+
+I canali possono avere un numero illimitato di iscritti.
+
+{QUESTION}
+Come creo un Canale? (Desktop)
+{KEYS}
+channeldesk
+channeldesktop
+makechanneldesk
+createchanneldesk
+createchanneldesk
+makechanneldesktop
+formchanneldesktop
+createchanneldesktop
+{VALUE}
+Per creare un canale con l'app desktop, tocca l'icona del menù di fianco al campo di ricerca, quindi 'Nuovo canale'.
+
+I canali possono avere un numero illimitato di iscritti.
+
+{QUESTION}
+Come posso fissare un messaggio?
+{KEYS}
+pin
+pinned
+{VALUE}
+Gli amministratori dei gruppi e dei canali possono fissare un messaggio nella parte alta della chat per informare i membri e gli iscritti sulle notizie importanti che potrebbero altrimenti essere perse. Puoi inoltre fissare i messaggi nella chat Messaggi salvati.
+
+iOS, WP: tocca e tieni premuto su un messaggio, quindi seleziona l'opzione "Fissa". Per rimuovere il messaggio fissato, premi sull'icona "x" sulla destra di esso.
+
+Android, Android X: tocca un messaggio, quindi seleziona l'opzione "Fissa". Per rimuovere il messaggio fissato, premi sull'icona "x" sulla destra di esso.
+
+Desktop: click col tasto destro su un messaggio, quindi seleziona l'opzione "Fissa". Per rimuovere il messaggio fissato, premi sull'icona "x" sulla destra di esso.
+
+{QUESTION}
+Come scrivo un nuovo messaggio?
+{KEYS}
+new
+newm
+compose
+newmessage
+sendmessage
+writemessage
+{VALUE}
+Per inviare un nuovo messaggio, assicurati di avere il numero del tuo amico salvato nei contatti del tuo dispositivo, e che usi anche Telegram.
+Premi l'icona del "nuovo messaggio" nella lista chat e seleziona un contatto dalla lista.
+
+Puoi scrivere anche alle persone se conosci il loro @username su Telegram: scrivi nel campo di ricerca sopra la lista chat.
+
+Android, Android X: Per trovare il campo di ricerca, premi sull'icona della lente di ingrandimento in alto a destra nella lista delle chat. Quindi scrivi nella barra di ricerca.
+
+iOS: Per trovare il campo di ricerca, scorri in su nella schermata delle chat. Quindi scrivi nella barra di ricerca in alto.
+
+{QUESTION}
+Come posso bloccare qualcuno?
+{COMMENT}
+Su iOS, questo mostrerà la lista delle chat e ti permetterà di bloccare chiunque. WP e Android mostreranno invece il contatto, per cui hanno bisogno di ulteriori modelli per bloccare i non contatti.
+{KEYS}
+block
+{VALUE}
+Per bloccare e sbloccare le persone, vai nelle Impostazioni di Telegram — Privacy e Sicurezza — Utenti bloccati.
+
+Le persone Bloccate:
+
+- non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
+- non possono vedere la tua foto profilo
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa'.
+
+{QUESTION}
+Come blocco un non-contatto? (Android, Android X)
+{KEYS}
+blocknca
+blockncandroid
+blocknoncontacta
+blockstrangerandroid
+blocknoncontactandroid
+blocknon-contactandroid
+blocknon-contactandroid
+blockncax
+blockncandroidx
+blocknoncontactax
+blockstrangerandroidx
+blocknoncontactandroidx
+blocknon-contactandroidx
+blocknon-contactandroidx
+{VALUE}
+Apri una chat con l'utente, premi sul nome in alto per aprire il suo Profilo. Quindi premi su "..." nell'angolo in alto a destra, quindi "Blocca"
+
+{QUESTION}
+Come blocco un non-contatto? (Windows Phone)
+{KEYS}
+blockncwp
+blocknoncontactwp
+blockncwindowsphone
+blockstrangerwindowsphone
+blocknoncontactwindowsphone
+blocknon-contactwindowsphone
+blocknon-contactwindowsphone
+{VALUE}
+Apri una chat con quella persona, premi sul nome in alto per aprire il suo Profilo. Quindi  premi su "..." nell'angolo in alto a destra, quindi "Blocca"
+
+{QUESTION}
+Come elimino un contatto? (iOS)
+{KEYS}
+delci
+delcontacti
+delcontactios
+deletecontacti
+deletecontactios
+{VALUE}
+Telegram rimane sincronizzato con la tua rubrica telefonica, quindi se vuoi eliminare un contatto completamente, dovrai rimuoverlo sia dai contatti di Telegram che dalla tua rubrica.
+
+Per rimuovere un contatto su Telegram:
+1. Apri una chat con il contatto che vuoi eliminare.
+2. Tocca la foto per aprire il profilo della chat.
+3. Scegli "Modifica" — "Elimina contatto".
+
+Ricorda: Se tieni il contatto sulla tua rubrica, Telegram lo aggiungerà di nuovo.
+Se non vuoi che l'app sincronizzi i tuoi contatti, puoi disattivarlo nelle Impostazioni di Telegram > Privacy e sicurezza > Impostazioni dati > disattiva "Sincronizza contatti".
+
+{QUESTION}
+Come elimino un contatto? (Android, Android X)
+{KEYS}
+delca
+delcontacta
+deletecontacta
+delcontactandroid
+deletecontactandroid
+delcax
+delcontactax
+deletecontactax
+delcontactandroidx
+deletecontactandroidx
+{VALUE}
+Telegram rimane sincronizzato con la tua rubrica telefonica, quindi se vuoi eliminare un contatto completamente, dovrai rimuoverlo sia dai contatti di Telegram che dalla tua rubrica.
+
+Per rimuovere un contatto su Telegram:
+1. Apri una chat con il contatto che vuoi eliminare.
+2. Tocca la foto o il titolo per aprire il profilo della chat.
+3. Tocca su "..." nell'angolo in alto a destra e scegli "Elimina".
+
+Ricorda: Se tieni il contatto sulla tua rubrica, Telegram lo aggiungerà di nuovo.
+Se non vuoi che l'app sincronizzi i tuoi contatti, puoi disattivarlo nelle Impostazioni di Telegram > Privacy e sicurezza > disattiva "Sincronizza contatti".
+
+{QUESTION}
+Come elimino un contatto? (Windows Phone)
+{KEYS}
+delcwp
+delcontactwp
+deletecontactwp
+delcontactwindowsphone
+deletecontactwindowsphone
+{VALUE}
+Telegram rimane sincronizzato con la tua rubrica telefonica, quindi se vuoi eliminare un contatto completamente, dovrai rimuoverlo sia dai contatti di Telegram che dalla tua rubrica.
+
+Per rimuovere un contatto su Telegram:
+1. Apri una chat con il contatto che vuoi eliminare.
+2. Tocca la foto per aprire il profilo della chat.
+3. Tocca su "..." nell'angolo in basso a destra e scegli "Elimina".
+
+Ricorda: Se tieni il contatto sulla tua rubrica, Telegram lo aggiungerà di nuovo.
+
+{QUESTION}
+Come condivido un contatto? (Android, Android X)
+{KEYS}
+sharec
+shareca
+sharecontacta
+sharecontactandroid
+sharecx
+sharecax
+sharecontactax
+sharecontactandroidx
+{VALUE}
+Su Android, apri una chat col contatto che vuoi condividere, premi sul nome in alto nella chat, quindi nella pagina di info premi '...' nell'angolo in alto a destra, quindi 'Condividi' e seleziona il destinatario.
+
+Puoi condivere i contatti che non hanno Telegram dalla tua app dei contatti, selezionando 'Condividi', quindi 'Telegram'.
+
+{QUESTION}
+Come elimino una chat? (iOS)
+{KEYS}
+delchati
+delchatios
+deletechati
+deletechatios
+{VALUE}
+Per eliminare una chat, scorri verso sinistra su una chat nelle lista Chat, quindi "Elimina". O: Nella lista chat, premi "Modifica", quindi sul simbolo rosso di fianco alla chat.
+
+{QUESTION}
+Come elimino una chat? (Android)
+{KEYS}
+delchata
+deletechata
+delchatandroid
+deletechatandroid
+{VALUE}
+Per eliminare una chat, tieni premuto su di essa nella lista chat, quindi 'Elimina'.
+
+{QUESTION}
+Come elimino una chat? (Android X)
+{KEYS}
+delchatax
+deletechatax
+delchatandroidx
+deletechatandroidx
+{VALUE}
+Per eliminare una chat, tieni premuto su di essa nella lista chat, quindi trascina il tuo dito sull'icona del cestino.
+
+{QUESTION}
+Come elimino una chat? (Windows Phone)
+{KEYS}
+delchatwp
+deletechatwp
+delchatwindowsphone
+deletechatwindowsphone
+{VALUE}
+Per eliminare una chat, tieni premuto su di essa nella lista chat - quindi 'Elimina'.
+
+{QUESTION}
+Modello generale dei permessi
+{KEYS}
+access
+accessto
+permissions
+{VALUE}
+Telegram ha bisogno di accedere ai dati sul tuo telefono per funzionare in maniera adeguata — ad esempio, per cercare i tuoi contatti, inviare loro foto e altri media, o condividere la posizione con loro. Le seguenti autorizzazioni devono essere attivate per Telegram:
+- CONTATTI (per accedere ai tuoi contatti)
+- FOTO (per vedere e inviare foto)
+- FOTOCAMERA (per scattare e registrare foto e video)
+- SERVIZI DI POSIZIONE (per inviare posizioni nelle mappe)
+- MICROFONO (per registrare messaggi vocali e videomessaggi)
+
+iOS7: Impostazioni iOS > Privacy > imposta 'Sì' per i permessi necessari.
+
+iOS8+: Nelle impostazioni di iOS scorri in basso fino a trovare 'Telegram', e attiva i permessi necessari nelle impostazioni di privacy dell'app.
+
+Android 6+ (Samsung): Impostazioni Android > Applicazioni > Gestore applicazioni > Telegram > Permessi, attiva i permessi necessari.
+
+Android 6+ (LG): Impostazioni Android > Generali > App > Telegram > Permessi, attiva i permessi necessari.
+
+Android 6+ (Nexus): Impostazioni Android > App > Telegram > Permessi, attiva i permessi necessari.
+
+{QUESTION}
+Come cambio la dimensione del testo?
+{KEYS}
+scale
+fontsize
+textsize
+{VALUE}
+Puoi cambiare la dimensione del testo per i messaggi di Telegram se ti va.
+
+Android: Impostazioni di Telegram > Impostazioni chat > Dimensione testo messaggi.
+
+iOS: Impostazioni di Telegram > Aspetto > Dimensione testo.
+
+Android X: Impostazioni di Telegram > Temi e chat > Dimensione testo.
+
+Windows Phone: Impostazioni del telefono > Accessibilità > Dimensione testo.
+
+{QUESTION}
+Come rimuovo il pannello delle emoji? (Desktop)
+{KEYS}
+deskpanel
+deskside
+emojipanel
+stickerpanel
+sidepanel
+{VALUE}
+Nelle ultime versioni di Telegram Desktop, il pannello delle emoji diventa uno spazio separato sulla destra dell'app quando Telegram è attivo in una finestra abbastanza grande.
+
+Se vuoi, puoi attivare o disattivare il pannello laterale cliccando una volta sull'icona della faccina di fianco al campo di scrittura.
+
+{COMMENT}
+===================
+-ACCOUNT-
+===================
+
+{QUESTION}
+Come elimino il mio account? (mobile)
+{KEYS}
+deli
+deletei
+deactivatei
+deleteaccounti
+deactivateaccounti
+dela
+deletea
+deactivatea
+deleteaccounta
+deactivateaccounta
+delm
+deletem
+deactivatem
+deleteaccountm
+deactivateaccountm
+{VALUE}
+https://telegram.org/deactivate — copia questo link e aprilo nel tuo browser. Usa un PC per risultati migliori.
+
+- Ti invieremo un codice di accesso su Telegram (non un SMS).
+- Elimina il tuo account solamente se non vuoi più usare Telegram. Potresti non essere in grado di reiscriverti immediatamente.
+
+Segui questa guida per i dettagli:
+http://telegra.ph/Eliminare-il-tuo-account-Telegram-FAQ
+
+{QUESTION}
+Come elimino il mio account? (desktop)
+{KEYS}
+del
+delete
+deactivate
+deleteaccount
+deactivateaccount
+{VALUE}
+Per eliminare il tuo account, vai su questa pagina:
+https://telegram.org/deactivate
+
+- Apri il link e accedi.
+- Ti invieremo un codice di accesso su Telegram (non un SMS).
+
+Ricorda che il numero deve essere inserito in formato internazionale (in Italia, con il +39). Elimina il tuo account solamente se non vuoi più usare Telegram. Potresti non essere in grado di reiscriverti immediatamente.
+
+Segui questa guida per i dettagli:
+http://telegra.ph/Eliminare-il-tuo-account-Telegram-FAQ
+
+{QUESTION}
+Per favore eliminate il mio account!
+{KEYS}
+delme
+deleteme
+eraseaccount
+deletemyaccount
+getridofmyaccount
+{VALUE}
+Al momento il numero di telefono è l'unico modo per identificare un utente di Telegram.
+
+Non raccogliamo nessun'altra informazione su di te. Questo significa che chiunque abbia il tuo numero, controlla il tuo account. Sfortunatamente per cancellare ogni dato dal tuo account, serve accedervi. Per eliminare il tuo account, devi quindi essere collegato da almeno un dispositivo.
+
+Puoi trovare più informazioni qui:
+https://telegram.org/faq/it#d-il-mio-telefono-stato-rubato-cosa-posso-fare
+
+Per favore, ricorda che gli account Telegram hanno un timer di autodistruzione attivo di default. Questo significa che gli account Telegram vengono eliminati automaticamente dopo 6 mesi di inattività (puoi cambiare questo nelle Impostazioni — Privacy e Sicurezza, con opzioni che vanno da 1 mese a 1 anno).
+
+{QUESTION}
+Come cambio il mio numero di telefono su Telegram?
+{KEYS}
+change
+changenumber
+switchnumber
+{VALUE}
+Puoi migrare il tuo account Telegram con tutti i tuoi contatti, chat cloud, gruppi, username e lista di blocco ad un nuovo numero.
+
+Per fare questo: vai nelle Impostazioni di Telegram > Numero di telefono > Cambia numero > inserisci il nuovo numero. Se necessario, inserisci il codice che ricevi via SMS nel nuovo numero - fatto!
+
+Per questa funzione, assicurati che non ci sia alcun account di Telegram collegato al nuovo numero di telefono. Se c'è, per favore elimina questo nuovo account prima di iniziare il trasferimento.
+
+{QUESTION}
+Perché devo aggiornare il mio numero?
+{KEYS}
+whychange
+updatenumber
+numberuptodate
+keepsamenumber
+samenumberneeded
+samenumberrequired
+samenumberimportant
+{VALUE}
+È importante tenere il numero di Telegram aggiornato, dato che il provider potrebbe assegnare il tuo numero a un'altra persona quando smetti di usare la tua vecchia SIM. E al momento, chi possiede il numero di telefono possiede anche l'account di Telegram.
+
+Per cambiare il tuo numero su Telegram, vai nelle Impostazioni , quindi premi sul tuo numero e quindi 'Cambia numero'.
+
+Ricorda che quando cambi il tuo numero, i tuoi contatti Telegram avranno il nuovo numero nella rubrica — premesso che avessero il tuo vecchio numero e tu non li abbia bloccati su Telegram.
+
+{QUESTION}
+Provo a cambiare il mio numero di telefono su Telegram ma mi dice che il nuovo numero è già connesso con un altro account.
+{KEYS}
+occupied
+occupiednumber
+{VALUE}
+Se vuoi cambiare il numero di telefono su Telegram, devi prima di tutto assicurarti che il tuo nuovo numero non sia già collegato ad un account Telegram. Se ce ne fosse uno, dovrai eliminarlo prima di effettuare il trasferimento.
+
+Ricorda: Se elimini l'account attualmente collegato al tuo nuovo numero, non potrà essere recuperato - quindi assicurati di non aver bisogno dell'account prima di eliminarlo.
+
+Se vuoi continuare, qui sotto ci sono i passi più semplici per effettuare questa operazione. Ti consigliamo inoltre di usare un browser non mobile per farlo.
+
+1. Usa una qualunque delle nostre app per collegarti all'account associato al tuo nuovo numero - per esempio, vai su https://web.telegram.org, inserisci il tuo nuovo numero di telefono lì e accedi usando il codice ricevuto via SMS su quel numero.
+
+2. Una volta collegato con l'account del nuovo numero, vai su https://telegram.org/deactivate e inserisci il nuovo numero di telefono, nel formato internazionale. Riceverai quindi una password attraverso Telegram (tieni un'occhio sull'app con cui ti sei collegato nel punto 1). Inserisci la password ed elimina il tuo account.
+
+3. Ora, apri il tuo account principale su un dispositivo mobile, vai nelle Impostazioni di Telegram > Numero di telefono > Cambia numero > inserisci il nuovo numero. Se necessario, inserisci il codice che ricevi via SMS nel nuovo numero
+
+Fatto!
+
+{QUESTION}
+Il mio telefono è stato rubato, cosa posso fare?
+{KEYS}
+stolen
+stolenphone
+phonestolen
+{VALUE}
+Prima di tutto, ci spiace per il tuo telefono. Sfortunanatamente, il numero di telefono è l'unico identificativo per un utente Telegram al momento, per cui devi seguire questa procedura:
+
+1. Prima di tutto, devi contattare il tuo operatore telefonico e farti bloccare la  vecchia SIM per fartene dare una nuova con lo stesso numero di telefono.
+2. Se sei collegato a Telegram in uno dei tuoi altri dispositivi, vai in Impostazioni > Privacy e sicurezza > Sessioni attive (o Impostazioni > Dispositivi dai dispositivi mobili) e termina tutte le altre sessioni. Questo disconetterà tutti gli altri dispositivi. Se la vecchia SIM è già stata bloccata, nessuno potrà accedere ai tuoi dati. Puoi riprendere il normale utilizzo di Telegram.
+3. Se non sei collegato su Telegram, attendi di ricevere la nuova SIM con il vecchio numero, collegati su Telegram, quindi vai nelle Impostazioni — Termina le altre sessioni. Quindi potrai riprendere il normale utilizzo di Telegram.
+
+Per favore, ricorda che gli account Telegram hanno un timer di autodistruzione attivato in automatico. Questo significa che gli account Teelgram sono eliminati automaticamente dopo 6 mesi di inattività (puoi cambiare questo nelle Impostazioni — Privacy e Sicurezza, con opzioni che vanno da 1 mese a 1 anno).
+
+{QUESTION}
+Come mi disconnetto da Telegram?
+{KEYS}
+logout
+{VALUE}
+Generalmente, disconnettersi non è necessario quando usi Telegram, in quanto tutti i messaggi sono ovunque allo stesso tempo. Sapevi che quando ti riconetti, ricevi il codice in un'altra app di Telegram invece di un SMS? — ammesso che l'app fosse attiva di recente. Puoi fare questo per risparmiare tempo quando ti colleghi.
+
+Android, Android X: scorri verso destra nella lista di Chat per aprire il menu, quindi Impostazioni > premi su "..." in alto a destra > "Esci".
+
+iOS, macOS: Impostazioni > Modifica > scorri verso il basso, quindi "Esci".
+
+WP: Premi su "..." nella vista Chat > Impostazioni > scorri verso il basso, quindi "Esci".
+
+Ricorda che se ti disconnetti, perderei tutte le Chat segrete.
+
+{QUESTION}
+Come mi disconnetto da Telegram? (Desktop)
+{KEYS}
+logoutd
+logoutdesktop
+{VALUE}
+Di solito, disconnettersi non è necessario quando usi Telegram, dato che puoi tenerlo attivo su tutti i tuoi dispositivi contemporaneamente. Se vuoi impedire che altri lo usino, puoi impostare un codice di blocco: Impostazioni > Privacy e sicurezza > Attiva codice. Una volta attivato, puoi bloccare l'app toccando sull'icona del lucchetto di fianco alla barra di ricerca, e nessuno sarà in grado di aprirlo senza inserire il tuo codice.
+
+Per uscire, vai in Impostazioni > tre puntini nell'angolo a destra > Esci.
+
+{QUESTION}
+Come posso richiedere una copia dei miei dati come da GDPR? 
+{KEYS}
+gdpr
+gdprbot
+eulaw
+{VALUE}
+Puoi usare @gdprbot per lasciare una richiesta per i tuoi dati di Telegram e le informazioni sull'account o per fare una domanda correlata.
+
+{QUESTION}
+Cos'è Telegram Passport? Come lo uso?
+{KEYS}
+pass
+tgpass
+passport
+tgpassport
+telegrampassport
+{VALUE}
+Telegram Passport ti consente di registrarti facilmente a servizi che richiedono l'identificazione personale. Puoi caricare i tuoi documenti una volta, quindi condividere immediatamente i tuoi dati con servizi che richiedono ID reali (finanza, ICO, ecc.).
+
+I dati verranno archiviati nel cloud di Telegram e protetti tramite crittografia end-to-end, in modo che nessuno, incluso Telegram, possa accedervi senza la tua autorizzazione.
+
+Dopo aver utilizzato questo metodo di autorizzazione su qualsiasi sito Web che lo supporta, visualizzerai i tuoi dati in Impostazioni > Privacy e sicurezza > Telegram Passport (su iOS: Impostazioni > Telegram Passport). Nota che se non hai ancora caricato alcun documento sul tuo Telegram Passport, non lo vedrai nel menu dell'app. 
+
+Maggiori info ed esempi qui: https://telegram.org/blog/passport
+
+{COMMENT}
+===================
+-RISOLUZIONE DEI PROBLEMI-
+===================
+
+{QUESTION}
+I messaggi nella mia chat privata sono scomparsi.
+{KEYS}
+missingchat
+missingmsg
+missingmessages
+{VALUE}
+Se i messaggi mancano in una particolare chat, forse il tuo interlocutore ha scelto di eliminarli.
+
+Nota che a partire dalla versione 5.5, è possibile eliminare tutti i messaggi inviati o ricevuti nelle chat private per entrambi i partecipanti, senza limiti di tempo. Ciò significa che tu e il tuo interlocutore avete il pieno controllo della vostra chat: https://telegram.org/blog/unsend-privacy-emoji
+
+{QUESTION}
+Perché posso inviare solamente messaggi vocali e videomessaggi da 10 secondi?
+{KEYS}
+9s
+10s
+voice9
+video9
+voice9s
+video9s
+voice10
+video10
+voice10s
+video10s
+{VALUE}
+Hai un proteggi schermo sul tuo dispositivo?
+
+Se si, per favore prova a rimuoverlo e verifica se questo risolve il problema. Molte volte, i proteggi schermo possono interferire e interrompere la connessione tra il tuo dito e il pulsante sullo schermo dopo un po' di tempo.
+
+In alternativa, quando registri un messaggio, puoi scorrere il tuo dito in su verso l'icona di blocco, in modo da non dover tenere il dito sullo schermo mentre il messaggio viene registrato.
+
+{QUESTION}
+Telegram mostra l'orario sbagliato per i messaggi e l'ultimo accesso
+{KEYS}
+tz
+timezone
+wrongtime
+wrongtimezone
+wronglastseen
+wrongtimestamp
+lastseenincorrect
+{VALUE}
+Per favore prova questo:
+
+iOS: impostazioni di iOS > Generali > Data e ora > attiva "Imposta automaticamente"
+
+Android: Impostazioni > Sistema/opzioni > Data e ora > Attiva "Fuso orario automatico" e "Data e ora automatiche".
+
+{QUESTION}
+Le notifiche non funzionano (Android 9, SDK 28)
+{KEYS}
+nota9
+nota28
+nonotificationsa9
+brokennotificationsa9
+nonotificationsandroid9
+notificationsdontworka9
+brokennotificationsandroid9
+notificationsdontworkandroid9
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+
+Se l'utente è abbastanza tecnico, puoi rimuovere la parte relativa ai task killer e chiedere il bug report di sistema nel caso in cui gli altri controlli non aiutino. Questo è un po' più complicato ma ci aiuterà a raccogliere maggiori informazioni sui task killer.
+
+Più info sui problemi di notifica: https://trello.com/c/oiRb2j27
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram e l'importanza sia su "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Controlla se le chat con il problema sono silenziate.
+
+- Assicurati che i Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) siano installati sul tuo dispositivo, sono necessari per fare in modo che le notifiche funzionino.
+
+- Assicurati inoltre che le tue chat non siano configurate per mostrare le notifiche in modo silenzioso nelle Impostazioni di Android > App e notifiche > Telegram > Notifiche > seleziona una chat > Comportamento.
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist).
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Le notifiche non funzionano (Android 8, SDK 26-27)
+{KEYS}
+nota8
+nota27
+nota26
+nonotificationsa8
+brokennotificationsa8
+nonotificationsandroid8
+notificationsdontworka8
+brokennotificationsandroid8
+notificationsdontworkandroid8
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+
+Se l'utente è abbastanza tecnico, puoi rimuovere la parte relativa ai task killer e chiedere il bug report di sistema nel caso in cui gli altri controlli non aiutino. Questo è un po' più complicato ma ci aiuterà a raccogliere maggiori informazioni sui task killer.
+
+Più info sui problemi di notifica: https://trello.com/c/oiRb2j27
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram e l'importanza sia su "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Controlla se le chat con il problema sono silenziate.
+
+- Assicurati che i Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) siano installati sul tuo dispositivo, sono necessari per fare in modo che le notifiche funzionino.
+
+- Per favore controlla che le tue chat non siano silenziate nelle Impostazioni di Android > App > Telegram > Notifiche > seleziona una chat > Importanza > dovrebbe essere "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist).
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Le notifiche non funzionano (Android 6 o 7, SDK 23-25)
+{KEYS}
+nota6
+nota7
+nota23
+nota24
+nota25
+nonotificationsa6
+brokennotificationsa6
+nonotificationsandroid6
+notificationsdontworka6
+brokennotificationsandroid6
+notificationsdontworkandroid6
+nonotificationsa7
+brokennotificationsa7
+nonotificationsandroid7
+notificationsdontworka7
+brokennotificationsandroid7
+notificationsdontworkandroid7
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+
+Se l'utente è abbastanza tecnico, puoi rimuovere la parte relativa ai task killer e chiedere il bug report di sistema nel caso in cui gli altri controlli non aiutino. Questo è un po' più complicato ma ci aiuterà a raccogliere maggiori informazioni sui task killer.
+
+Più info sui problemi di notifica: https://trello.com/c/oiRb2j27
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram e l'importanza sia su "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Controlla se le chat con il problema sono silenziate.
+
+- Assicurati che i Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) siano installati sul tuo dispositivo, sono necessari per fare in modo che le notifiche funzionino.
+
+- Se il tuo telefono è in modalità "Non disturbare" per favore attiva la priorità alta per le notifiche di Telegram nelle impostazioni di Android: Applicazioni > Telegram > Notifiche > imposta come priorità.
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist).
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Le notifiche non funzionano (Android 5, SDK 21-22)
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+
+Più info sui problemi di notifica: https://trello.com/c/oiRb2j27
+{KEYS}
+nota5
+nota21
+nota22
+nonotificationsa5
+brokennotificationsa5
+nonotificationsandroid5
+notificationsdontworka5
+brokennotificationsandroid5
+notificationsdontworkandroid5
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram e l'importanza sia su "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Controlla se le chat con il problema sono silenziate.
+
+- Assicurati che i Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) siano installati sul tuo dispositivo, sono necessari per fare in modo che le notifiche funzionino.
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist).
+
+- Se premi il pulsante del volume su Android Lollipop (5.x) vedrai non solo il volume attuale, ma anche tre impostazioni: NESSUNA, TUTTE e PRIORITÀ. Queste rappresentano tre tipi di notifiche, e NESSUNA elimina tutti i suoni — anche se imposti Telegram tra la lista 'Priorità' nelle impostazioni di Android.
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Le notifiche non funzionano (Android, vecchi dispositivi)
+{KEYS}
+notao
+nonotificationsao
+brokennotificationsao
+notificationsdontworkao
+nonotificationsandroidold
+brokennotificationsandroidold
+notificationsdontworkandroidold
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+
+Più info sui problemi di notifica: https://trello.com/c/oiRb2j27
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram e l'importanza sia su "Alta" o superiore (se minore di "Alta", le notifiche saranno silenziate).
+
+- Controlla se le chat con il problema sono silenziate.
+
+- Assicurati che i Google Play Services (https://play.google.com/store/apps/details?id=com.google.android.gms) siano installati sul tuo dispositivo, sono necessari per fare in modo che le notifiche funzionino.
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist).
+
+Quando stai usando un vecchio dispositivo Android con poca RAM, potresti avere problemi con le notifiche. Questo potrebbe accadere perché Android termina il servizio. Se questo è il caso, potresti risolvere riavviando il dispositivo.
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Le notifiche non funzionano (iOS)
+{KEYS}
+noti
+nonotificationsi
+nonotificationsios
+brokennotificationsi
+brokennotificationsios
+notificationsdontworki
+notificationsdontworkios
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+{VALUE}
+Se le notifiche non funzionano per qualche motivo, controlla quanto segue:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano su SI per Telegram.
+
+- Controlla che le notifiche siano ON nelle Impostazioni del telefono.
+
+- Controlla se il contatto o il gruppo è silenziato.
+
+- Prova questo trucchetto: chiudi Telegram (vai nella home, doppio tap sul tasto home, scorri verso l'alto su Telegram per chiuderlo, quindi Impostazioni di iOS, imposta il tipo di notifica di Telegram su "Nessuno". Rilancia Telegram, vai nelle impostazioni del telefono, reimposta lo stile di notifica sui banner.
+
+{QUESTION}
+Le notifiche non funzionano (Windows Phone)
+{KEYS}
+notwp
+nonotificationswp
+brokennotificationswp
+notificationsdontworkwp
+nonotificationswindowsphone
+brokennotificationswindowsphone
+notificationsdontworkwindowsphone
+{COMMENT}
+Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
+{VALUE}
+Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
+Per favore, controlla queste cose:
+
+- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano ATTIVE.
+
+- Vai nelle impostazioni del telefono > Action Center > Telegram, e assicurati che le notifiche siano abilitate per Telegram.
+
+- Controlla se il contatto o il gruppo è silenziato.
+
+- Prova questo trucchetto: vai nelle Impostazioni di Telegram > Notifiche e Suoni > Ripristina Notifiche. Quindi chiudi Telegram (tieni premuto sulla freccia indietro, scorri verso il basso) e riaprilo.
+
+Durante l'installazione di Telegram, il sistema di chiede di accettare le notifiche push. Se hai rifiutato, le notifiche non funzioneranno. Dovrai reinstallare l'app per poterle attivare di nuovo — spiacenti, ma Windows Phone non offre alcuna alternativa al momento.
+Per favore ricorda che le chat segrete verranno perse reinstallando. Le altre chat sono archiviate criptate nel Cloud di Telegram, quindi le ritroverai se reinstalli Telegram.
+
+PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
+
+{QUESTION}
+Non riesco a vedere i miei contatti (Android)
+{KEYS}
+contactsa
+contactsandroid
+{VALUE}
+Prima di tutto, assicurati di avere i permessi dei Contatti attivati per Telegram nelle impostazioni del dispositivo. Se puoi vedere qualcuno dei tuoi contatti nel menu dei Contatti Telegram, significa che i permessi sono già attivati e puoi procedere al prossimo passaggio.
+
+Per favore prova questo trucchetto: 
+1. Vai nelle impostazioni di Telegram e scorri in basso.
+2. Tocca e tieni premuto su "Telegram per Android" fino a quando comparirà un'emoji, quindi rilascia.
+3. Tocca e tieni premuto di nuovo sulla stessa area, questa volta comparirà un menù.
+4. Tocca su "Ricarica contatti" nella pagina. 
+5. Se questo non aiuta, apri il Menù debug nello stesso modo e prova "Importa contatti" questa volta.
+
+{QUESTION}
+Non posso vedere il mio amico su Telegram, ma è qui di sicuro! (iOS)
+{KEYS}
+coni
+conios
+contactios
+contactiphone
+cantseefriendi
+can'tseefriendi
+cantseecontacti
+cantseefriendios
+can'tseecontacti
+can'tseefriendios
+cantseecontactios
+can'tseecontactios
+{VALUE}
+Posso chiederti di provare questi due trucchetti?
+
+1. Cambia temporaneamente il nome del contatto mancante nei contatti del Telefono (non su Telegram) — aggiungi qualche simbolo, quindi ripristinalo
+2. Se questo non ha aiutato, prova a rifare il login (in Telegram: vai nelle Impostazioni — Modifica — Esci, quindi accedi di nuovo).
+
+{QUESTION}
+Non posso vedere il mio amico su Telegram, ma è qui di sicuro! (Android)
+{KEYS}
+cona
+contacta
+conandroid
+contactandroid
+cantseefrienda
+can'tseefrienda
+cantseecontacta
+can'tseecontacta
+cantseefriendandroid
+can'tseefriendandroid
+cantseecontactandroid
+can'tseecontactandroid
+{VALUE}
+Posso chiederti di provare questi due trucchetti?
+
+1. Per favore riavvia l'app. Per fare questo, vai nella lista delle app attive nelle impostazioni del tuo telefono, e scorri l'app fuori dalla lista.
+2. Cambia temporaneamente il nome del contatto mancante nei contatti del Telefono (aggiungi qualche simbolo, quindi ripristinalo)
+
+{QUESTION}
+Ho provato tutto e ancora non vedo il mio amico!
+{KEYS}
+conb
+contactbug
+stillcantseecontact
+stillcan'tseecontact
+{VALUE}
+
+Sembra che ci sia qualcosa di sbagliato. Dobbiamo controllare la situazione. Potresti per favore dirmi:
+
+1. Il numero di telefono del tuo amico
+2. Come vengono salvati i numeri nel tuo telefono (formato locale o internazionale?)
+
+Grazie!
+
+{QUESTION}
+Ricevo notifiche di iscrizione per contatti che non riconosco (Android)
+{KEYS}
+resetcona
+resetcontacta
+resetcontactsa
+{VALUE}
+Se hai dei contatti nel tuo account Telegram che non riconosci, forse hai eseguito l'accesso in un dispositivo di un'altra persona e tutti i suoi contatti sono stati caricati nel tuo account.
+
+Puoi cancellare tutti i contatti caricati in precedenza da Telegram, e quindi caricare la tua rubrica attuale dal tuo dispositivo. Per farlo, vai in Impostazioni > Privacy e sicurezza > Elimina contatti sincronizzati.
+
+{QUESTION}
+Ricevo notifiche di iscrizione per contatti che non riconosco (iOS)
+{KEYS}
+resetconi
+resetcontacti
+resetcontactsi
+{VALUE}
+Se hai dei contatti nel tuo account Telegram che non riconosci, forse hai eseguito l'accesso in un dispositivo di un'altra persona e tutti i suoi contatti sono stati caricati nel tuo account.
+
+Puoi cancellare tutti i contatti caricati in precedenza da Telegram, e quindi caricare la tua rubrica attuale dal tuo dispositivo. Per farlo, vai in Impostazioni > Privacy e sicurezza > Impostazioni dati > Elimina contatti sincronizzati.
+
+{QUESTION}
+Telegram non si connette!
+{KEYS}
+connection
+wontconnect
+won'tconnect
+doesntconnect
+doesn'tconnect
+connectionissues
+{VALUE}
+Ci spiace sapere che hai problemi di connessione. Potresti aiutarci a investigare? Ecco alcune domande importanti:
+
+0. Le altre app funzionano BENE?
+1. Cosa succede esattamente? (sempre "Connetto..." / sempre "Aggiorno" / sembra ok ma i messaggi non sono inviati / non consegnati, i media non sono scaricati / caricati, etc.)
+2. Quando è iniziato? Succede ancora?
+3. Succede sempre o solo alcune volte?
+4. Succede con tutte le app di Telegram - o solo su un tuo dispositivo?
+4a. (Prova web.telegram.org - funziona?)
+5. Il problema si verifica con connessione Wi-Fi, con connessione dati o in entrambi i casi?
+6. @connectivity_test — per favore apri questo canale dalla rete con il problema e prova a scaricare tutte le GIF presenti. Se alcune non vengono scaricate, indicaci il numero.
+
+{QUESTION}
+Come posso trovare il mio indirizzo IP?
+{KEYS}
+ip
+findip
+ipaddress
+whatsmyip
+whatsmyip
+findipaddress
+{VALUE}
+Per diagnosticare il tuo problema, abbiamo bisogno dell'indirizzo IP del dispositivo nel quale stai riscontrando il problema. Ecco come trovarlo:
+
+1. Apri il browser sul dispositivo e vai su ip.telegram.wiki (puoi anche usare altri siti che mostrano il tuo IP)
+2. Copia il numero che compare al centro della pagina e inviacelo.
+
+{QUESTION}
+Non posso fare screenshot da nessuna parte (Android)
+{COMMENT}
+Per gli screenshot in chat segreta, usa ‘screensecreta’.
+{KEYS}
+screena
+noscreena
+screenshota
+noscreenshota
+screenshotandroid
+noscreenshotandroid
+{VALUE}
+Se hai attivato un codice di blocco e hai disattivato l'opzione per mostrare le tue chat tra le app recenti, gli screenshot sono disattivati.
+
+Puoi modificare questa impostazione andando su: Impostazioni > Privacy e sicurezza > Codice di blocco, quindi attiva "Mostra contenuto tra le app recenti" e riavvia l'app. Sarai in grado di effettuare screenshot dell'app, ma il sistema visualizzerà le tue chat tra le app recenti anche se il codice di blocco è attivo.
+
+Tieni inoltre presente che è necessario disporre di spazio sufficiente nella memoria del dispositivo per salvare gli screenshot.
+
+{QUESTION}
+Non posso fare screenshot da nessuna parte (Android X)
+{COMMENT}
+Per gli screenshot in chat segreta, usa ‘screensecreta’.
+{KEYS}
+screenax
+noscreenax
+screenshotax
+noscreenshotax
+screenshotandroidx
+noscreenshotandroidx
+{VALUE}
+Se hai un codice di blocco attivo, gli screenshot sono disattivati di default.
+
+Puoi attivarli di nuovo andando in: Impostazioni > Privacy e sicurezza > Codice di blocco, quindi attiva Consenti cattura schermata e riavvia l'app.
+
+Quando questa opzione è attiva, sarai in grado di fare screenshot all'interno dell'app, ma il sistema mostrerà le tue chat nello switcher delle app quando il codice di blocco è attivo.
+
+Tieni inoltre presente che è necessario disporre di spazio sufficiente nella memoria del dispositivo per salvare gli screenshot.
+
+{QUESTION}
+Non posso fare screenshot nelle chat segrete (Android 6.0+)
+{COMMENT}
+Per le chat cloud, usa ‘screena’.
+{KEYS}
+screensecreta
+noscreensecreta
+screenshotsecreta
+noscreenshotsecreta
+screenshotsecretandroid
+noscreenshotsecretandroid
+{VALUE}
+Se questo errore ti compare all'interno di una chat segreta, è perchè non è possibile fare screenshot lì con le nuove versioni di Android. Le chat segrete sono per quelli che vogliono il massimo livello di segretezza. Per questo motivo non è inoltre possibile inoltrare i messaggi dalle chat segrete, in nessuna delle nostre app.
+
+{QUESTION}
+L'icona badge segna dei messaggi non letti, ma io non ne ho (Samsung)
+{KEYS}
+samsung
+badgesamsung
+{VALUE}
+Sfortunatamente, potresti avere problemi con il contatore badge a causa di un bug noto dei dispositivi Samsung. Finché non sarà risolto dagli sviluppatori di Samsung, ti possiamo suggerire una soluzione: vai in Gestione Applicazioni - Tutte le app - BadgeProvider - Cancella dati. 
+
+{QUESTION}
+Non posso scrivere a chi non fa parte dei miei contatti
+{COMMENT}
+Guarda questa scheda per maggiori dettagli: https://trello.com/c/JOcDxGHR
+{KEYS}
+sb
+spam
+spambot
+limited
+antispam
+{VALUE}
+Sembra che il tuo account sia stato limitato dai nostri sistemi anti spam. Per sapere come mai questo succede, o per segnalare limitazioni applicate ingiustamente, per favore contatta @spambot. Ti consigliamo inoltre di dare un'occhiata a questa pagina per maggiori info: https://telegram.org/faq_spam/it
+
+Sono spiacente di doverti reindirizzare altrove, ma il supporto di Telegram è fornito da volontari e qui non ti possiamo aiutare a rimuovere le limitazioni anti-spam dal tuo account.
+
+{QUESTION}
+Come posso impedire a Telegram di usare così tanta batteria? (Android)
+{KEYS}
+drain
+battery
+savebattery
+{VALUE}
+Ci potrebbero essere vari motivi per cui Telegram sta usando tanta batteria sul tuo dispositivo Android.
+
+Per favore, controlla queste cose:
+
+- Se hai un'app che gestisce la batteria/Task Manager/Task Killer o qualcosa del genere: per favore aggiungi Telegram alla lista delle app autorizzate (whitelist). Se non autorizzato, il processo di Telegram verrà riaperto di continuo una volta chiuso, e questo richiederà un consumo maggiore da parte del tuo dispositivo.
+
+- Telegram usa le Google Cloud Notifications (GCM) per "svegliare" l'app e notificarti i nuovi messaggi. Quindi assicurati che i Google Play Services siano installati sul tuo dispositivo.
+
+Dato che le GCM non sono molto affidabili, abbiamo aggiunto un sistema aggiuntivo per notificarti quando arrivano nuovi messaggi. Puoi gestire questo sistema con le voci "Servizio keep-alive" e "Connessione in background", verso la fine di Impostazioni di Telegram > Notifiche e suoni.
+
+Entrambe le impostazioni potrebbero avere effetti sulla tua batteria. Se le disattivi entrambe e usi solo le GCM, questo potrebbe rendere le notifiche meno affidabili.
+
+{COMMENT}
+=======================
+-ARTICOLI-
+=======================
+
+{QUESTION}
+Ho letto che Telegram è stato craccato dall'FSB, è vero?
+{KEYS}
+fsb
+guardian
+{VALUE}
+Queste voci provengono da una "articolo" che è molto probabilmente falso. Vedi: https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions
+
+Se non è falso, allora si riferisce probabilmente alla storia della intercettazione di due membri dell'opposizione che non usavano la verifica in due passaggi: http://fortune.com/2016/05/06/telegram-activists-hack/. Dimmi se vuoi scoprire di più a riguardo della verifica in due passaggi. 
+
+Per quanto riguarda l'articolo, ricorda che i giornalisti del Guardian, Financial Times e altre testate di tutto rispetto ce l'avevano da Giugno 2016 e ad oggi non sono stati in grado di confermare neanche una singola dichiarazione.
+
+{QUESTION}
+La vostra app fa visualizzare lo stato online!
+{COMMENT}
+Controlla questa pagina per migliori info sull'uso: https://trello.com/c/isItsZGT
+{KEYS}
+leak
+leaks
+onlpriv
+leaking
+lastseenhoax
+onlineprivacy
+lastseenlogger
+informationleak
+invisblemetadata
+leakingonlinestatuses
+{VALUE}
+Questa "ricerca" è un inganno. Lo stato in linea/ultimo accesso di un utente su Telegram è sempre visibile a quelli che l'utente specifica nelle Impostazioni di Privacy, a prescindere dal tipo di app usata per visualizzare questa informazione. Tutte le referenze in questo articolo a "aggiungere ai contatti", "Telegram CLI" , "metadata invisibili" etc. non sono rilevanti e sono state aggiunge solo per confondere i lettori con linguaggio pseudoscientifico.
+
+Controlla anche:
+https://telegram.org/faq/it#d-chi-pu-vedermi-in-linea
+
+{QUESTION}
+Per quello che riguarda IND-CCA?
+{COMMENT}
+{KEYS}
+indcca
+{VALUE}
+L'attuale versione del protocollo MTProto soddisfa i criteri per IND-CCA. L'MTProto 1.0 aveva una approccio diverso per quello che riguarda questa proprietà senza alcun effetto sulla sicurezza dei messaggi.
+
+Dai un'occhiata alle nostre FAQ tecniche per i dettagli:
+https://core.telegram.org/techfaq/mtproto_v1#what-about-ind-cca
+
+{QUESTION}
+Penso di essere stato hackerato, cosa posso fare?
+{COMMENT}
+Alcuni ingegneri sociali stanno ingannando gli utenti e chiedendo loro di inviare screenshot con il codice di accesso, etc.
+{KEYS}
+accsec
+hacked
+wasihacked
+iwashacked
+maybehacked
+donotsharecode
+activesessions
+terminatesession
+terminatesessions
+{VALUE}
+Quando accedi a Telegram, ti inviamo un messaggio con un codice di accesso. NON FORNIRE QUESTO CODICE A NESSUNO. Se dai questo codice a qualcuno, sarà in grado di accedere al tuo account di Telegram.
+
+Per vedere tutte le sessioni attive del tuo Account, vai in Impostazioni — Dispositivi —  Sessioni attive. Se vedi qualcosa di sospetto, puoi terminare la sessione da lì.
+
+Puoi impostare una password aggiuntiva per il tuo account. Per fare questo, vai nelle Impostazioni — Privacy e Sicurezza — Verifica in due passaggi. Una volta abilitata, avrai bisogno di una password E di un codice di accesso su Telegram.
+
+{QUESTION}
+Penso di essere stato hackerata, cosa devo fare? (TDesktop)
+{COMMENT}
+Alcuni ingegneri sociali stanno ingannando gli utenti e chiedendo loro di inviare screenshot con il codice di accesso, etc.
+{KEYS}
+accsecdesk
+hackeddesk
+wasihackeddesk
+iwashackeddesk
+maybehackeddesk
+donotsharecodedesk
+activesessionsdesk
+terminatesessiondesk
+terminatesessionsdesk
+accsecdesktop
+hackeddesktop
+wasihackeddesktop
+iwashackeddesktop
+maybehackeddesktop
+donotsharecodedesktop
+activesessionsdesktop
+terminatesessiondesktop
+terminatesessionsdesktop
+{VALUE}
+Quando accedi a Telegram, ti inviamo un messaggio con un codice di accesso. NON FORNIRE QUESTO CODICE A NESSUNO. Se dai questo codice a qualcuno, sarà in grado di accedere al tuo account di Telegram.
+
+Per vedere tutte le sessioni attive del tuo Account, vai nelle Impostazioni — Privacy e Sicuerzza —  Sessioni attive. Se vedi qualcosa di sospetto, puoi terminare la sessione da lì.
+
+Puoi impostare una password aggiuntiva per il tuo account. Per fare questo, vai nelle Impostazioni — Privacy e Sicurezza — Verifica in due passaggi. Una volta abilitata, avrai bisogno di una password E di un codice di accesso su Telegram.
+
+
+{QUESTION}
+Ho letto che c'è un articolo che rivela diverse falle di Telegram!
+{COMMENT}
+https://medium.freecodecamp.com/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0
+{KEYS}
+medium
+jakobsen
+{VALUE}
+Questo articolo è ingannevole. L'autore scarta il protocollo di Telegram considerandolo come insicuro, e basandosi su una ricerca che non lo prova.
+
+Ecco una spiegazione dettagliata di come l'articolo di J. Jakobsen crea una falsa impressione riguardo la sicurezza di Telegram:
+http://telegra.ph/mtproto-security-01-17
+
+{QUESTION}
+Cosa vuol dire "Year Zero" e "Vault 7" su Wikileaks?
+{KEYS}
+vault7
+year0
+yearzero
+wikileaks
+{VALUE}
+In base a quanto affermato da Wikileaks, la CIA ha un metodo per hackerare smartphone e salvare i messaggi scambiati *prima che siano crittografati*. Questo non è un problema dell'app. Ciò è rilevante a livello di dispositivo e sistema operativo. Per questa ragione, nominare qualunque app specifica è fuorviante ed ingannevole.
+
+La buona notizia è che per il momento "Year Zero" è piuttosto irrilevante per la maggior parte degli utenti di Telegram. Per saperne di più su questa storia e cosa puoi fare, dai un'occhiata a questo dettagliato post:
+http://telegra.ph/Wikileaks-Vault7-NEWS
+
+{QUESTION}
+Ho letto che qualcuno potrebbe accedere al mio account WhatsApp e Telegram se apro una foto che ricevo, è vero?
+{COMMENT}
+Per favore fai attenzione nell'adattare questo template in modo che risponda alla domanda dell'utente.
+{KEYS}
+checkpoint
+{VALUE}
+Il problema di sicurezza trovato in Whatsapp da Check Point è molto serio, ma Telegram non ha mai avuto nulla del genere. Dai uno sguardo qui per altri dettagli:
+http://telegra.ph/Checkpoint-Confusion-NEWS
+
+{COMMENT}
+=======================
+-ARCHIVIO-
+=======================
+
+{QUESTION}
+Ho letto un articolo che affermava che Telegram fosse stato hackerato di recente, cosa ne pensate?
+{KEYS}
+zimp
+zimperium
+{VALUE}
+Temo che questo articolo sia solamente per guadagnare clic. Nulla è stato compromesso — l'autore stava semplicemente cercando di pubblicizzare il suo prodotto. Questo articolo è ridicolo per qualsiasi specialista di sicurezza (per esempio, guarda questi commenti su Hacker News: https://news.ycombinator.com/item?id=9095059).
+
+In poche parole dice qualcosa del tipo "Se avessi la chiave di casa tua, potrei aprire la tua porta".
+
+Per cui non ti devi preoccupare se non dai via le tue chiavi. Per mantenere il tuo dispositivo sicuro, evita di cliccare su link sospetti, tieni sempre il tuo dispositivo aggiornato all'ultima versione — e non fare il root al tuo dispositivo.
+
+E non credere mai alle persone che cercano di convincerti a comprare i loro software.
+
+{QUESTION}
+No connection due to DDoS attack?
+{KEYS}
+ddos
+{VALUE}
+Telegram al momento è sotto attacco DDoS. Stiamo cercando di risolvere il problema quanto prima. Qua puoi trovare maggiori informazioni su cosa sia un attacco di questo tipo (che non riguarda minimamente la sicurezza dei dati degli utenti): https://it.wikipedia.org/wiki/Denial_of_service Un'ulteriore spiegazione proveniente dal nostro blog: telegram.org/blog/ddos Puoi restare aggiornato sulla situazione sulla nostra pagina Twitter: https://twitter.com/telegram_it
+
+{QUESTION}
+q_extra_2
+{KEYS}
+k_extra_2
+{VALUE}
+v_extra_2
+
+{QUESTION}
+Un bot non funziona. Aggiustatelo!
+{KEYS}
+botdown
+{VALUE}
+Se un bot non funziona, solamente il suo sviluppatore-creatore può risolvere il problema. I bot non sono ne creati ne gestiti direttamente da Telegram. L'unica cosa da fare in questi casi, è attendere che lo sviluppatore risolva i problemi che causano il suo malfunzionamento.
+
+{QUESTION}
+Stranger
+{KEYS}
+stranger
+{VALUE}
+Puoi cercare persone che non conosci tramite username, in modo da poter chattare con loro lasciando il numero di telefono nascosto. Tuttavia alcune persone potrebbero trovare questo metodo fastidioso, per cui potresti essere segnalato come spam (qui trovi maggiori informazioni https://telegram.org/faq_spam/it) e perdere la possibilità di parlare con altre persone di cui non hai il numero. Usa la ricerca via username con cautela. Esistono tuttavia alcuni bot che permettono di entrare in contatto, con degli sconosciuti. Al momento non esiste uno store dei bot, quindi devi essere tu a cercare quello che ti serve. Ricorda che i bot non sono sviluppati  e mantenuti da noi, quindi potrebbero non funzionare o dare problemi.
+
+{QUESTION}
+What are bots?
+{KEYS}
+bot
+{VALUE}
+I bot sono come dei programmi che ti permettono di fare diverse cose, e rispondono ai comandi che gli invii su Telegram. Ogni sviluppatore può creare i propri bot sfruttando gli strumenti di sviluppo messi in campo da Telegram. Se vuoi ulteriori informazioni riguardo ai bot, ti consiglio di dare un'occhiata al nostro blog, dove troverai alcuni esempi: https://core.telegram.org/bots. Per ulteriori informazioni, ti invito a visitare la sezione dedicata nelle nostre FAQ: telegram.org/faq/it#bot
+
+{QUESTION}
+q_extra_6
+{KEYS}
+k_extra_6
+{VALUE}
+v_extra_6
+
+{QUESTION}
+Sono bloccato per sempre, verrò sbloccato?
+{KEYS}
+no
+{VALUE}
+Siamo terribilmente spiacenti, ma non saremo in grado di rimuovere queste limitazioni. Siamo preoccupati di non poter garantire la sicurezza dei nostri utenti da messaggi indesiderati se questo account dovesse essere rilasciato di nuovo. Puoi comunque inviare messaggi ai tuoi amici su Telegram, devi solo scambiare il numero di telefono. Salva il loro numero come contatto — e se loro faranno lo stesso col tuo numero, potrai continuare a parlare con loro.
+
+{QUESTION}
+Notifiche Huawei non funzionanti
+{KEYS}
+huawei
+{VALUE}
+I dispositivi Huawei hanno un task manager predefinito che interferisce con le notifiche di Telegram. Per fare in modo che le nostre notifiche funzionino, devi aggiungere Telegram alla lista delle app Protette nelle impostazioni di sicurezza del dispositivo. Impostazioni di Android, Impostazioni avanzate, Gestione batteria, App protette.
+
+{QUESTION}
+Xiaomi notifications not working
+{KEYS}
+xiaomi
+{VALUE}
+I dispositivi Xiaomi hanno un task manager predefinito che interferisce con le notifiche di Telegram. Per fare in modo che le nostre notifiche funzionino, devi aggiungere Telegram alla lista delle app abilitate nelle impostazioni di sicurezza del dispositivo. Servizi > Sicurezza > Permessi > Autostart, cerca Telegram e attiva l'avvio automatico.
+
+{QUESTION}
+Cos'è la funzione " Alza per parlare" ?
+{KEYS}
+raise
+{VALUE}
+L'opzione alza per registrare permette di registrare un messaggio vocale portando il telefono all'orecchio (come in una normale chiamata). Questa funzione inoltre permette di poter visualizzare l'anteprima del messaggio vocale appena registrato, avendo la possibilità di eliminare la registrazione. Inoltre, è possibile ascoltare i messaggi vocali automaticamente portando il telefono all'orecchio (se i messaggi vocali non sono stati ancora ascoltati). Puoi trovare maggiori informazioni qui: https://telegram.org/blog/voice-2-secret-3
+
+{QUESTION}
+Come posso unirmi a un gruppo?
+{KEYS}
+joingroup
+{VALUE}
+Per poter entrare in un gruppo hai bisogno o di essere invitato da un amministratore del gruppo o di un link d'invito. Nel caso in cui si tratti di un supergruppo pubblico, potrai cercare direttamente l'username (o il nome nel caso dei gruppi con un numero di membri più elevato) all'interno di Telegram e unirti, oppure usare il link pubblico. Non esiste una lista contenente tutti i gruppi, per cui se cerchi su internet potresti trovare link pubblici o username dei gruppi che ti interessano!
+
+{QUESTION}
+Come posso unirmi ad un canale?
+{KEYS}
+joinchannel
+{VALUE}
+Per poter entrare in un canale hai bisogno di essere invitato dal creatore del canale o di un link d'invito. Nel caso in cui si tratti di un canale pubblico, potrai cercare direttamente l'username (o il nome nel caso dei canali con un numero di membri più elevato) all'interno di Telegram e unirti, oppure usare il link pubblico. Non esiste una lista contenente tutti i canali, per cui se cerchi su internet potresti trovare link pubblici o username dei canali che ti interessano!
+
+{QUESTION}
+q_extra_13
+{KEYS}
+k_extra_13
+{VALUE}
+v_extra_13
+
+{QUESTION}
+Huawei android 7 notifiche
+{KEYS}
+7huawei
+{VALUE}
+I dispositivi Huawei interferiscono con le notifiche di Telegram. Per fare in modo che le nostre notifiche funzionino, Vai nelle Impostazioni di Android - App - icona "Impostazioni" in basso - "Accesso speciale" - Ignora ottimizzazione batteria - seleziona "tutte le app" dal menù a comparsa verticale - Telegram - "Consenti".
+
+{QUESTION}
+Telegram X esiste in italiano?
+{KEYS}
+itx
+{VALUE}
+Telegram X esiste in italiano a partire dalla versione 0.21.1.1009 rilasciata ad Ottobre 2018. Qui maggiori info sull'aggiornamento: https://telegra.ph/Telegram-X-10-14
+
+{QUESTION}
+Perché i messaggi vocali sono veloci?
+{KEYS}
+2x
+{VALUE}
+Su Telegram è possibile attivare la modalità di riproduzione 2X per i messaggi vocali, in modo da riprodurli a velocità doppia e risparmiare tempo. Puoi attivare / disattivare questa modalità cliccando in alto a destra sull'icona "2X" mentre ascolti un messaggio vocale.
+
+{QUESTION}
+Come recupero i log di sistema (iOS)
+{KEYS}
+ioslog 
+{VALUE}
+Avremmo bisogno di recuperare alcuni log del sistema per determinare la natura del problema. Per inviarci questi dati vai nelle impostazioni del tuo dispositivo - Privacy - Analisi - Dati analisi e inviaci i file presenti in quella schermata. In questa pagina troverai una serie di file. Cerca quello a nome Telegram/Telegram X e invia il più recente dopo aver riprodotto nuovamente il problema.
+
+{QUESTION}
+Come recupero i log di sistema (Android)?
+{KEYS}
+androidlog
+{VALUE}
+Avremmo bisogno di recuperare alcuni log del sistema per determinare la natura del problema. Per inviarci questi dati avrai bisogno di attivare la modalità sviluppatore nel dispositivo. Se non è già abilitata, vai nelle Impostazioni - Info versione (la pagina in cui è visibile la versione del sistema) - quindi clicca 7 volte sulla voce "Numero Build" fino a quando compare una conferma di attivazione della Modalità Sviluppatore. A questo punto, dirigiti nella nuova schermata Modalità Sviluppatore visibile nelle Impostazioni - quindi scegli Take bug report per raccogliere i log dell'errore. Puoi trovare maggiori informazioni a questo indirizzo: https://developer.android.com/studio/debug/bug-report
+
+{QUESTION}
+Ottenere log app ios
+{KEYS}
+logappios
+{VALUE}
+Abbiamo bisogno del tuo aiuto per raccogliere maggiori info sul problema in oggetto. Apri le impostazioni di Telegram, premi 10 volte in rapida successione l'icona dell'ingranaggio e apparirà una finestra. Attiva la voce "Log to file". Una volta attivata l'opzione, cerca di riprodurre nuovamente il problema sul dispositivo. Non appena si verifica di nuovo, ritorna nella finestra indicata in precedenza (cliccando 10 volte sull'icona dell'ingranaggio nelle impostazioni) e clicca sull'opzione "Send logs", quindi seleziona questa chat. Per ottenere le informazioni corrette, abbiamo inoltre bisogno che venga indicato l'orario approssimativo in cui si è verificato il problema. Grazie!
+
+{QUESTION}
+Telegram non va con Eolo
+{KEYS}
+eolo
+{VALUE}
+Il problema di connessione con la rete di Eolo è legato all'operatore. Dovrai contattare la loro assistenza, dato che si tratta di un errore di configurazione della connessione che impedisce il corretto funzionamento di Telegram. Potresti inoltre cercare di risolvere riavviando il tuo router, ma non è detto che funzioni. Purtroppo non trattandosi di un problema relativo all'app, non possiamo fare nulla a riguardo.
+
+{QUESTION}
+q_extra_21
+{KEYS}
+k_extra_21
+{VALUE}
+v_extra_21
+
+{QUESTION}
+q_extra_22
+{KEYS}
+k_extra_22
+{VALUE}
+v_extra_22
+
+{QUESTION}
+q_extra_23
+{KEYS}
+k_extra_23
+{VALUE}
+v_extra_23
+
+{QUESTION}
+q_extra_24
+{KEYS}
+k_extra_24
+{VALUE}
+v_extra_24
+
+{QUESTION}
+q_extra_25
+{KEYS}
+k_extra_25
+{VALUE}
+v_extra_25
+
+{QUESTION}
+q_extra_26
+{KEYS}
+k_extra_26
+{VALUE}
+v_extra_26
+
+{QUESTION}
+q_extra_27
+{KEYS}
+k_extra_27
+{VALUE}
+v_extra_27
+
+{QUESTION}
+q_extra_28
+{KEYS}
+k_extra_28
+{VALUE}
+v_extra_28
+
+{QUESTION}
+q_extra_29
+{KEYS}
+k_extra_29
+{VALUE}
+v_extra_29
+
+{QUESTION}
+q_extra_30
+{KEYS}
+k_extra_30
+{VALUE}
+v_extra_30
