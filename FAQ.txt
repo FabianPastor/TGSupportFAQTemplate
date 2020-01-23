@@ -343,6 +343,18 @@ Por favor, contacta con el departamento de abusos de Telegram en abuse@telegram.
 ¡Gracias!
 
 {QUESTION}
+I see "this channel can’t be displayed because it was used to spread pornographic content" on iOS. Why and can I change this?
+{KEYS}
+sensitiveios
+sensitivei
+adultios
+adulti
+{VALUE}
+Los chats con contenido sensible de acceso público podrían estar restringidos debido a las estrictas normas del App Store de Apple al respecto.
+
+Sin embargo, puedes considerar desactivar el filtro en los ajustes de la versión web de Telegram (también para móvil) o la app instalable para escritorio: https://telegram.org/apps
+
+{QUESTION}
 When conversation is over
 {COMMENT}
 You can add #end to your custom messages instead or send it without any text.
@@ -890,6 +902,8 @@ Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos 
 
 Para exportar todos los chats, ve a Ajustes > Avanzados > Exportar datos de Telegram.
 Para exportar chats individualmente, abre el menú de tres puntos (...) en cualquier chat y elige Exportar historial del chat.
+
+Note that you don’t have to back up your chats to use Telegram on a new device. Your chats are stored encrypted in the Telegram Cloud, so you can access them from any of your devices anytime — except for Secret Chats, which are only available on their device of origin.
 
 {QUESTION}
 Will I know if somebody blocks me?
