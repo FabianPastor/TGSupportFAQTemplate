@@ -115,6 +115,32 @@ Abre la carpeta 'Chats archivados' > desliza el chat hacia la izquierda > 'Desar
 Si no ves la carpeta “Chats archivados” en la parte de superior de la lista de chats, arrastra la pantalla hacia abajo para mostrarla.
 
 {QUESTION}
+How do I archive chats? (Android X)
+{KEYS}
+archiveax
+archiveandroidx
+{VALUE}
+Puedes archivar chats para ordenar tus chats activos y los inactivos, separar tus cosas personales de las conversaciones de trabajo o limpiar tu lista de chats como tú quieras.
+
+Para archivar un chat, mantén pulsado sobre él en la lista de chats y luego mueve tu dedo al icono del Archivo en la parte inferior de la vista previa del chat. Esto lo moverá a tu carpeta de “Chats archivados”.
+
+Cuando un chat archivado recibe una notificación, saldrá de la carpeta de chats archivados y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
+
+Ten en cuenta que puedes ocultar el propio archivo: mantén pulsado sobre él y luego mueve tu dedo al botón de la flecha.
+
+{QUESTION}
+How do I unarchive chats? (Android X)
+{KEYS}
+unarchiveax
+unarchiveandroidx
+{VALUE}
+Para mover uno de tus chats archivados de vuelta a la lista principal de chats:
+Abre la carpeta de “Chats archivados” > Mantén pulsado en el chat y luego mueve tu dedo al icono de Desarchivar.
+
+Si no ves la carpeta “Chats archivados” en la parte de superior de la lista de chats, arrastra la pantalla hacia abajo para mostrarla.
+
+
+{QUESTION}
 Why is my number visible to my contacts now?
 {KEYS}
 phoneprivacy
@@ -352,7 +378,7 @@ adulti
 {VALUE}
 Los chats con contenido sensible de acceso público podrían estar restringidos debido a las estrictas normas del App Store de Apple al respecto.
 
-Sin embargo, puedes considerar desactivar el filtro en los ajustes de la versión web de Telegram (también para móvil) o la app instalable para escritorio: https://telegram.org/apps
+De todos modos, podrías considerar desactivar el filtro en los ajustes de la versión web de Telegram (también disponible para dispositivos móviles) o en la app para ordenadores: https://telegram.org/apps
 
 {QUESTION}
 When conversation is over
@@ -903,7 +929,7 @@ Puedes exportar todos tus chats en la nube, incluyendo fotos y otros contenidos 
 Para exportar todos los chats, ve a Ajustes > Avanzados > Exportar datos de Telegram.
 Para exportar chats individualmente, abre el menú de tres puntos (...) en cualquier chat y elige Exportar historial del chat.
 
-Note that you don’t have to back up your chats to use Telegram on a new device. Your chats are stored encrypted in the Telegram Cloud, so you can access them from any of your devices anytime — except for Secret Chats, which are only available on their device of origin.
+Ten en cuenta que no tienes que hacer una copia de seguridad de tus chats para utilizar Telegram en un nuevo dispositivo. Tus chats se almacenan cifrados en la nube de Telegram para que puedas acceder a ellos desde cualquiera de tus dispositivos en cualquier momento, excepto para los chats secretos, que sólo están disponibles en su dispositivo de origen.
 
 {QUESTION}
 Will I know if somebody blocks me?
