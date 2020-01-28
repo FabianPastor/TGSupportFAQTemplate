@@ -115,6 +115,32 @@ Open the "Archived Chats" folder > swipe left on the chat > "Unarchive".
 If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up.
 
 {QUESTION}
+How do I archive chats? (Android X)
+{KEYS}
+archiveax
+archiveandroidx
+{VALUE}
+You can use the archive feature to sort your active and inactive chats, separate personal stuff from work or clean up your chat list in any other way.
+
+To archive a chat, press and hold it in the chat list, then move your finger to the Archive icon at the bottom of the chat preview. This will move the chat to your "Archived Chats" folder.
+
+When an archived chat gets a notification, it will pop out of the folder and back into your chat list. Muted chats will always stay archived.
+
+Note that you can hide the archive itself: press and hold it, then move your finger to the Arrow button.
+
+{QUESTION}
+How do I unarchive chats? (Android X)
+{KEYS}
+unarchiveax
+unarchiveandroidx
+{VALUE}
+To move one of your archived chats back to the main Chats List:
+Open the "Archived Chats" folder > press and hold the chat, then move your finger to the Unarchive icon.
+
+If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up.
+
+
+{QUESTION}
 Why is my number visible to my contacts now?
 {KEYS}
 phoneprivacy
