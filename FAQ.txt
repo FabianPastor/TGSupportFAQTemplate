@@ -286,7 +286,7 @@ promotetelegram
 {VALUE}
 Para invitar a tus amigos a Telegram, tan sólo envíales este enlace de descarga: https://telegram.org/dl
 
-Ellos necesitan tener tu número de teléfono o alias para encontrarte. Si tienes configurado un alias, puedes enviarles un enlace del alias, como este:
+Ellos necesitan tener tu número de teléfono o nombre de usuario para encontrarte. Si tienes configurado un nombre de usuario, puedes enviarles un enlace del nombre de usuario, como este:
 https://t.me/YourUsername.
 
 {QUESTION}
@@ -438,7 +438,7 @@ https://telegram.org/apps
 Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones oficiales de Telegram son de código abierto y no tienen publicidad. Dime si quieres saber más sobre la seguridad en Telegram.
 
 Aquí hay un resumen sobre lo que puedes hacer en Telegram:
-- Encuentra a tus amigos por su número de teléfono o alias de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
+- Encuentra a tus amigos por su número de teléfono o nombre de usuario de Telegram. También hay formas de hacer nuevos amigos, si eres particularmente social.
 - Crea grupos de hasta 200.000 personas y comunícate fácilmente con respuestas, menciones y hashtags.
 - Envía stickers. Todos son gratis e incluso puedes crear los tuyos.
 - Suscribirte a canales de noticias o de cualquier tema que te guste.
@@ -838,11 +838,13 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-En Telegram, puedes crear un grupo con tus amigos y pedirles que añadan a sus propios amigos también. Esa es una forma fácil de conocer gente nueva. También te puedes unir a un grupo público ya existente (puedes probar nuestro @PublicTestGroup, por ejemplo).
+Si quieres conocer gente nueva en Telegram, echa un vistazo a Contactos > Añadir personas cerca, en nuestras apps móviles, para ver personas que estén alrededor de ti que hayan seleccionado ser visibles para otros usuarios. Puedes activar “Hacerme visible” si quieres que las personas que están cerca puedan encontrarte y enviarte mensajes.
 
-También hay bots no oficiales diseñados para poner en contacto usuarios con los mismos intereses. Prueba buscando en internet “Telegram bots new friends”, obtendrás muchos resultados.
+Como alternativa, puedes crear un grupo con tus amigos y pedirles que añadan a sus propios amigos también. O te puedes unir a un grupo público como @PublicTestGroup, por ejemplo.
 
-Por favor, recuerda: puedes usar la búsqueda de Telegram para encontrar personas por su alias, pero esta herramienta no es para conocer nuevos amigos. A las personas no les gusta que les contacten extraños por su alias, así que podrían reportarte.
+También hay bots no oficiales diseñados para ponerse en contacto con otros usuarios interesados. Intenta buscando en la web “Telegram bots new friends” y obtendrás muchos resultados.
+
+Por favor, recuerda: puedes usar la búsqueda de Telegram para encontrar personas a través de sus nombres de usuario, pero esta herramienta no es para conocer nuevos amigos. A las personas no les gusta ser contactadas por extraños a través de sus nombres de usuario, así que podrían reportarte.
 
 {QUESTION}
 Will you have video calls?
@@ -1119,7 +1121,7 @@ findgroupsios
 {VALUE}
 La mayoría de los grupos y algunos canales son privados. No puedes buscarlos. Para unirte a ellos debe agregarte un administrador o te deben enviar un enlace de invitación.
 
-Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de la misma manera que buscas personas y bots: deslízate un poco hacia arriba en la lista de chats y escribe en la barra de búsqueda que está encima.
+Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes buscarlo de la misma manera que buscas personas y bots: deslízate un poco hacia arriba en la lista de chats y escribe en la barra de búsqueda que está encima.
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
@@ -1146,7 +1148,7 @@ findchannelsandroid
 {VALUE}
 La mayoría de los grupos y algunos canales son privados. No puedes buscarlos. Para unirte a ellos debe agregarte un administrador o te deben enviar un enlace de invitación.
 
-Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de la misma manera que buscas personas y bots: toca sobre el icono de la lupa que aparece en la esquina superior derecha de la lista de chats y luego escribe en la barra de búsqueda.
+Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes buscarlo de la misma manera que buscas personas y bots: toca sobre el icono de la lupa que aparece en la esquina superior derecha de la lista de chats y luego escribe en la barra de búsqueda.
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
@@ -1172,7 +1174,7 @@ findchannelsdesktop
 {VALUE}
 La mayoría de los grupos y algunos canales son privados. No puedes buscarlos. Para unirte a ellos debe agregarte un administrador o te deben enviar un enlace de invitación.
 
-Los grupos y canales públicos tienen un @username (alias). Puedes buscarlo de la misma manera que buscas personas y bots: escribiendo en la barra de búsqueda que está encima de tu lista de chats.
+Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes buscarlo de la misma manera que buscas personas y bots: escribiendo en la barra de búsqueda que está encima de tu lista de chats.
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
@@ -1194,7 +1196,7 @@ No tenemos una tienda oficial de bots. La plataforma está abierta para todo aqu
 @hangbot: juega al Ahorcado en línea o añádelo a grupos para jugar con tus amigos.
 @AlertBot: establece una hora y este bot te enviará un recordatorio.
 
-Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: tan solo escribe su @alias en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @wiki, @imdb y @gamee.
+Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: tan solo escribe su @nombredeusuario en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @wiki, @imdb y @gamee.
 
 Si quieres encontrar más bots, prueba buscando en internet por “Bots Telegram”. Obtendrás muchos resultados.
 
@@ -1632,9 +1634,9 @@ usernamesandroid
 usernameandroidx
 usernamesandroidx
 {VALUE}
-Para establecer un alias público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes > Alias.
+Para establecer un nombre de usuario público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes > Nombre de usuario.
 
-Una vez establecido un alias, también podrás usar un enlace personal de Telegram:
+Una vez establecido un nombre de usuario, también podrás usar un enlace personal de Telegram:
 t.me/YourUsername
 
 Abrirá un chat contigo en Telegram, perfecto para compartirlo con amigos o ponerlo en tu sitio web o redes sociales.
@@ -1649,9 +1651,9 @@ usernamesi
 usernameios
 usernamesios
 {VALUE}
-Para establecer un alias público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes y toca sobre la opción de arriba que tiene tu información. Luego, toca 'Alias'.
+Para establecer un nombre de usuario público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes y toca sobre la opción de arriba que tiene tu información. Luego, toca 'Nombre de usuario'.
 
-Una vez establecido un alias, también podrás usar un enlace personal de Telegram:
+Una vez establecido un nombre de usuario, también podrás usar un enlace personal de Telegram:
 t.me/YourUsername
 
 Abrirá un chat contigo en Telegram, perfecto para compartirlo con amigos o ponerlo en tu sitio web o redes sociales.
@@ -1666,9 +1668,9 @@ usernamesdesk
 usernamedesktop
 usernamesdesktop
 {VALUE}
-Para establecer un alias público, y que así cualquier usuario de Telegram te pueda contactar, haz clic en el icono de menú que está cerca de la barra de búsqueda, luego elige Ajustes > Editar perfil > Añadir alias.
+Para establecer un nombre de usuario público, y que así cualquier usuario de Telegram te pueda contactar, haz clic en el icono de menú que está cerca de la barra de búsqueda, luego elige Ajustes > Editar perfil > Añadir nombre de usuario.
 
-Una vez establecido un alias, también podrás usar un enlace personal de Telegram:
+Una vez establecido un nombre de usuario, también podrás usar un enlace personal de Telegram:
 t.me/YourUsername
 
 Abrirá un chat contigo en Telegram, perfecto para compartirlo con amigos o ponerlo en tu sitio web o redes sociales.
@@ -1685,7 +1687,7 @@ searchuser
 findusername
 searchunsername
 {VALUE}
-Puedes buscar a otros usuarios de Telegram por su alias, si tienen configurado uno. Tienes que escribir al menos 5 caracteres para iniciar la búsqueda. Lee más sobre los alias aquí: https://telegram.org/faq/es#alias-y-t-me
+Puedes buscar a otros usuarios de Telegram por su nombre de usuario, si tienen configurado uno. Tienes que escribir al menos 5 caracteres para iniciar la búsqueda. Lee más sobre los nombres de usuario aquí: https://telegram.org/faq/es#nombres-de-usuario-y-t-me
 
 Android, Android X: Toca sobre el icono de la lupa de la esquina superior derecha, en la lista de chats, y escribe en la barra de búsqueda.
 
@@ -1701,9 +1703,9 @@ usernametaken
 usernameoccupied
 usernamesquatted
 {VALUE}
-Los alias de Telegram se entregan por orden de llegada, lo sentimos. ¿Y si usas una forma alternativa de escribir tu nombre?
+Los nombres de usuario de Telegram se entregan por orden de llegada, lo sentimos. ¿Y si usas una forma alternativa de escribir tu nombre?
 
-Entendemos que algunos alias son parte de una identidad en línea para algunos de nosotros. Si tu alias deseado está ocupado, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo alias en al menos dos de estos servicios: Facebook, Twitter, Instagram.
+Entendemos que algunos nombres de usuario son parte de una identidad en línea para algunos de nosotros. Si tu nombre de usuario deseado está ocupado, estaremos encantados de ayudarte a obtenerlo, siempre que tengas exactamente el mismo nombre de usuario en al menos dos de estos servicios: Facebook, Twitter, Instagram.
 
 Si este es tu caso, por favor, contacta a @username_bot y sigue sus instrucciones.
 
@@ -1715,7 +1717,7 @@ verifyuser
 {VALUE}
 Lo siento, pero Telegram no verifica las cuentas de los usuarios por ahora. La verificación sólo está disponible para grandes canales oficiales con actividad y para los bots.
 
-Ten en cuenta que la verificación no te da ninguna ventaja en Telegram. Sólo tiene utilidad si quieres demostrar que tu cuenta de Telegram es oficial. Si es ese tu caso, aquí tienes otra idea: podrías publicar tu alias de Telegram en tu web oficial o en cualquier otra cuenta oficial que tengas en otros servicios. Así probarás que realmente eres tú para tu audiencia y les ayudarás a encontrarte aquí.
+Ten en cuenta que la verificación no te da ninguna ventaja en Telegram. Sólo tiene utilidad si quieres demostrar que tu cuenta de Telegram es oficial. Si es ese tu caso, aquí tienes otra idea: podrías publicar tu nombre de usuario de Telegram en tu web oficial o en cualquier otra cuenta oficial que tengas en otros servicios. Así probarás que realmente eres tú para tu audiencia y les ayudarás a encontrarte aquí.
 
 {QUESTION}
 How do I verify my channel?
@@ -1735,7 +1737,7 @@ blankusername
 deleteusername
 removeusername
 {VALUE}
-Ve a Ajustes y guarda un alias vacío. Esto quitará tu alias y nadie te podrá encontrar en la búsqueda. Esto no afecta a las conversaciones existentes.
+Ve a Ajustes y guarda un nombre de usuario vacío. Esto quitará tu nombre de usuario y nadie te podrá encontrar en la búsqueda. Esto no afecta a las conversaciones existentes.
 
 {COMMENT}
 ================================
@@ -2017,7 +2019,7 @@ Android, Android X: Menú principal > Toca sobre la opción Mensajes guardados.
 Windows Phone: Chats > Nuevo chat > Toca en 'Tú'.
 Desktop: Haz clic en el botón de menú, que está arriba a la izquierda de tu lista de chats > luego haz clic sobre el icono del marcador o en tu foto de perfil.
 
-Si tienes un alias, el siguiente enlace también abre un chat contigo en Telegram:
+Si tienes un nombre de usuario, el siguiente enlace también abre un chat contigo en Telegram:
 t.me/YourUsername
 
 {QUESTION}
@@ -2037,9 +2039,9 @@ unwantedmessages
 {VALUE}
 Si recibes publicidad u otro tipo de mensajes molestos de extraños, repórtalos: Bloquear > Reportar spam.
 
-Por favor, ten en cuenta que cuando estableces un alias, habilitas la búsqueda global para tu cuenta. Esto significa que las personas pueden encontrarte y enviarte mensajes, aunque no tengan tu número. (Tu número de teléfono estará oculto de ellos, a menos que lo compartas).
+Por favor, ten en cuenta que cuando estableces un nombre de usuario, habilitas la búsqueda global para tu cuenta. Esto significa que las personas pueden encontrarte y enviarte mensajes, aunque no tengan tu número. (Tu número de teléfono estará oculto de ellos, a menos que lo compartas).
 
-Si no quieres que las personas te contacten, es mejor quitar el alias. También, podrías bloquear a las personas que te envían mensajes no deseados.
+Si no quieres que las personas te contacten, es mejor quitar el nombre de usuario. También, podrías bloquear a las personas que te envían mensajes no deseados.
 
 {QUESTION}
 How do I create a group? (Android, Android X)
@@ -2124,7 +2126,7 @@ invitegroupandroid
 {VALUE}
 Existen dos formas de añadir miembros a tu grupo:
 
-1. Si quieres añadir a tus contactos, puedes usar la opción 'Añadir miembro' que aparece en la ventana de información del grupo. También puedes añadir a personas si conoces sus alias, aunque no es recomendable si ellos no lo han solicitado.
+1. Si quieres añadir a tus contactos, puedes usar la opción 'Añadir miembro' que aparece en la ventana de información del grupo. También puedes añadir a personas si conoces sus nombres de usuario, aunque no es recomendable si ellos no lo han solicitado.
 
 2. Si quieres generar o ver un enlace de invitación para tu grupo, que puedes compartir con otros, puedes hacerlo tras seleccionar Añadir miembro > Invitar al grupo con un enlace.
 
@@ -2140,7 +2142,7 @@ invitegroupdesktop
 {VALUE}
 Existen dos formas de añadir miembros a tu grupo:
 
-1. Si quieres añadir a tus contactos, haz clic en '…' en el encabezado del chat de grupo > 'Añadir miembros'. También puedes añadir a personas si conoces sus alias, aunque no es recomendable si ellos no lo han solicitado.
+1. Si quieres añadir a tus contactos, haz clic en '…' en el encabezado del chat de grupo > 'Añadir miembros'. También puedes añadir a personas si conoces sus nombres de usuario, aunque no es recomendable si ellos no lo han solicitado.
 
 2. Si quieres usar un enlace de invitación para tu grupo que pueda ser compartido con otros, haz clic en '…' en el encabezado del chat > 'Administrar grupo' > 'Tipo de grupo', y podrás ver el enlace de invitación o generar uno nuevo debajo del título 'Enlace de invitación'.
 
@@ -2242,7 +2244,7 @@ writemessage
 Para enviar un mensaje nuevo, asegúrate de tener el número de tus amigos guardado en los contactos de tu dispositivo, y que ellos también usan Telegram.
 Toca el botón de 'Nuevo mensaje' en la pantalla de chats y elige un contacto de la lista.
 
-También puedes enviar mensajes a personas si conoces sus @username (alias) en Telegram: escríbelo en la barra de búsqueda que está encima de la lista de chats.
+También puedes enviar mensajes a personas si conoces sus @username (nombre de usuario) en Telegram: escríbelo en la barra de búsqueda que está encima de la lista de chats.
 
 Android, Android X: Para encontrar la barra de búsqueda, toca sobre el icono de la lupa de la esquina superior derecha en la lista de chats. Luego escribe en la barra de búsqueda.
 
@@ -2544,7 +2546,7 @@ change
 changenumber
 switchnumber
 {VALUE}
-Puedes mover tu cuenta de Telegram con todos tus contactos, chats en la nube, grupos, alias y lista de bloqueados a un nuevo número.
+Puedes mover tu cuenta de Telegram con todos tus contactos, chats en la nube, grupos, nombre de usuario y lista de bloqueados a un nuevo número.
 
 Para hacer esto: ve a Ajustes de Telegram > Número de teléfono > Cambiar número > escribe tu nuevo número. Si es necesario, ingresa el código que recibirás vía SMS al número nuevo. ¡Listo!
 
