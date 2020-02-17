@@ -838,11 +838,13 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-In Telegram, you can create a group with your friends, and then ask them to add their friends as well — an easy way to meet new people. You can also join an already existing public group — try our @PublicTestGroup for example.
+If you'd like to meet new people on Telegram, check Contacts > Add People Nearby in our mobile apps to see users around you who have chosen to be visible to others. You can enable "Make Myself Visible" to join them — if you do that, people nearby will be able to find you and send you messages.
 
-There are also unofficial bots designed for getting in touch with other users interested. Try searching the web for 'Telegram bots new friends' – you'll get many results.
+Alternatively, you can create a group with your friends, and then ask them to add their friends as well — or join an already existing public group, try our @PublicTestGroup for example.
 
-Please remember: You can use Telegram search to find people you know by their usernames – but this is not a tool for finding new friends. People don't like it when strangers contact them via username search, so it might result in people reporting you.
+There are also unofficial bots designed for getting in touch with other users. Try searching the web for 'Telegram bots new friends' – you'll get many results.
+
+Please remember: You can use Telegram search to find people by their usernames – but this is not a tool for finding new friends. People don't like it when strangers contact them via username search, so it might result in people reporting you.
 
 {QUESTION}
 Will you have video calls?
