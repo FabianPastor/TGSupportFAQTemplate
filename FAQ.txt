@@ -12,6 +12,31 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 
+
+{QUESTION}
+How do I use folders? (iOS)
+{KEYS}
+foldersi
+foldersios
+{VALUE}
+If you have many chats, you can organize them into folders: tap and hold on the Chats button > Add Folder.
+
+You can create custom folders with flexible settings, or use default recommendations.
+
+Once you've set up folders, you can swipe between them from the middle of the screen. To access per-chat options, swipe from the edges of the screen.
+
+{QUESTION}
+How do I use folders? (Android)
+{KEYS}
+foldersa
+foldersandroid
+{VALUE}
+If you have many chats, you can organize them into folders: go to Settings > Folders or tap on this link: tg://settings/folders
+
+You can create custom folders with flexible settings, or use default recommendations. 
+
+Once you've set up folders, you can swipe between them. To access per-chat options, long tap on the chat.
+
 {QUESTION}
 Why is my conversation partner able to delete my messages? I don’t want anyone to delete my messages, please change this!
 {KEYS}
@@ -86,20 +111,33 @@ You can configure auto-play for videos and GIFs in Telegram Settings > Data and 
 In case you're concerned about data usage generally, you can choose specific settings for auto-download in the "Automatic media download" section.
 
 {QUESTION}
-How do I archive chats? (iOS, Android)
+How do I archive chats? (iOS)
 {KEYS}
 archivei
 archiveiOS
-archivea
-archiveandroid
 {VALUE}
 You can use the archive feature to sort your active and inactive chats, separate personal stuff from work or clean up your chat list in any other way.
 
-To archive a chat, swipe all the way to the left on it from the Chats List. This will move it to your "Archived Chats" folder.
+To archive a chat, find it in your chats list and then swipe on it, from the right edge of your screen to the left. This will move it to your "Archived Chats" folder.
 
 When an archived chat gets a notification, it will pop out of the folder and back into your chat list. Muted chats will always stay archived.
 
 Note that you can hide the archive itself by swiping left on it and show it again by dragging the screen down.
+
+{QUESTION}
+How do I archive chats? (Android)
+{KEYS}
+archivea
+archiveAndroid
+{VALUE}
+You can use the archive feature to sort your active and inactive chats, separate personal stuff from work or clean up your chat list in any other way. To archive a chat, find it in your chats list and then swipe it to the left.
+
+In case you are using folders, swiping will not work for archiving: instead, long tap on the chat and tap on the Archive icon.
+
+When an archived chat gets a notification, it will pop out of the folder and back into your chat list. Muted chats will always stay archived.
+
+Note that you can hide the archive itself by swiping left on it and show it again by dragging the screen down.
+
 
 {QUESTION}
 How do I unarchive chats? (iOS, Android)
@@ -112,7 +150,7 @@ unarchiveandroid
 To move one of your archived chats back to the main Chats List:
 Open the "Archived Chats" folder > swipe left on the chat > "Unarchive".
 
-If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up.
+If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up. In case you are using folders, you need to switch to "All Chats" first.
 
 {QUESTION}
 How do I archive chats? (Android X)
@@ -364,7 +402,7 @@ illegal
 {VALUE}
 I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases involving illegal content.
 
-Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "Report" button in the "..." menu on Android, or at the bottom of their profile on other platforms.
+Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. Channels can be reported via the "..." menu in our mobile apps, or at the bottom of their profile on other platforms.
 
 Thank you!
 
@@ -580,10 +618,8 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram is used by over 200 million people around the world.
-https://telegram.org/blog/200-million
-
-In February 2018, our founder, Pavel Durov also announced that every day over 500,000 users download Telegram for Android, and about 100,000 users download Telegram for iOS.
+Telegram is used by over 400 million people around the world.
+https://telegram.org/blog/400-million
 
 {QUESTION}
 When was Telegram released?
@@ -690,8 +726,8 @@ marketing
 advertising
 {VALUE}
 Telegram isn't a commercial organization and we don't do advertising or marketing.
-This hasn't stopped us from reaching 200 million monthly active users.
-https://telegram.org/blog/200-million
+This hasn't stopped us from reaching 400 million monthly active users.
+https://telegram.org/blog/400-million
 
 If you like Telegram, please recommend it to your friends and family.
 Bring one or two people you're close with, then watch the chain reaction.
@@ -838,7 +874,7 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-If you'd like to meet new people on Telegram, check Contacts > Add People Nearby in our mobile apps to see users around you who have chosen to be visible to others. You can enable "Make Myself Visible" to join them — if you do that, people nearby will be able to find you and send you messages.
+If you'd like to meet new people on Telegram, check Contacts > Find People Nearby in our mobile apps to see users around you who have chosen to be visible to others. You can enable "Make Myself Visible" to join them — if you do that, people nearby will be able to find you and send you messages.
 
 Alternatively, you can create a group with your friends, and then ask them to add their friends as well — or join an already existing public group, try our @PublicTestGroup for example.
 
@@ -876,7 +912,7 @@ Desktop: Open a chat with a friend > tap on the call icon at the top right.
 macOS: Open a chat with a friend > tap on the call icon at the top, near their name.
 
 Here’s a detailed guide on calls if you’d like one:
-http://telegra.ph/Calls-FAQ
+https://telegra.ph/Calls-FAQ
 
 {QUESTION}
 How do I send audio and video messages?
@@ -1036,8 +1072,6 @@ If you'd like to know how to find more stickers, let me know and I'll be glad to
 
 {QUESTION}
 Where do I find more stickers?
-{COMMENT}
-The app shouldn’t be outdated for the inline bot to work
 {KEYS}
 morest
 getstickers
@@ -1045,15 +1079,14 @@ buystickers
 morestickers
 findstickers
 {VALUE}
-We don't have an official store for stickers, the platform is open for anyone to use. If you'd like to get more stickers, there are a few ways:
+If you'd like to get more stickers, there are a few ways:
 
 1) If you receive a sticker you like, tap on it — the relevant sticker pack will open and you can add it to your sticker panel.
 
-2) Use sticker search to discover new packs. On our mobile apps, you need to pull down the sticker panel to see the search field.
+2) You can browse and search the over 20,000 Telegram stickers with the 'plus' icon in your sticker panel.
 
-3) Browse and add the stickers that are currently trending on Telegram, by going to Telegram Settings > Stickers > Trending Stickers.
+3) If that's not enough, you can try searching the web for 'Telegram Stickers' — you'll get many results.
 
-4) If that's not enough, you can try searching the web for 'Telegram Stickers' — you'll get many results.
 
 {QUESTION}
 How can I make my own stickers?
@@ -1390,7 +1423,7 @@ With Telegram, you don't need to store a lifetime of media history on your devic
 
 Simply go to Telegram Settings > Data and Storage > Storage Usage and configure how long unused media stays on your devices. You can also clear cached data manually from that menu.
 
-It is possible to clear cached files from individual groups and channels: tap and hold them in the chats list, then 'Delete from Cache'.
+It is possible to clear cached files from individual channels and public groups: tap and hold them in the chats list > three dots in the top-right corner > 'Delete from cache'.
 
 {QUESTION}
 How do I manage cache? (Android X)
@@ -1427,9 +1460,11 @@ I want Telegram to store media on the SD card (Android)
 {KEYS}
 sdcard
 {VALUE}
-You can move the Telegram app to the SD card, but media files will still be saved to the internal storage of your phone – it's not possible to change it at the moment.
+In general, it is possible to move the Telegram app to the SD card, but media files will still be stored on your phone. The specifics depend on your device.
 
-If you are looking for a way to free your phone's memory, please note you can easily remove Telegram data from your device's local cache. You can learn more about this here: https://telegra.ph/Cache-Management-FAQ
+If you are looking for a way to free up memory, you can instead remove Telegram temporary data from your device's  cache. It will re-download from the cloud whenever you want to access it again — so you won't lose anything and the app will always take the minimum amount of space.
+
+To do this, go to Telegram Settings > Data and Storage > Storage Usage. You can configure how long unused media stays on your device or clear cached data manually from that menu. It is also possible to clear cached files from individual channels and public groups: tap and hold on them in the chats list > three dots in the top-right corner > 'Delete from cache'.
 
 {QUESTION}
 Why do I see a warning about scam in bot’s messages?
@@ -1715,19 +1750,26 @@ How do I verify my account?
 verifyu
 verifyuser
 {VALUE}
-I am sorry, but Telegram doesn’t verify user accounts at the moment. Verification is only available for big and active official channels and bots.
+I am sorry, but Telegram doesn’t verify user accounts at the moment. Verification is only available for big and active official channels, bots or public groups:
+https://telegram.org/verify
 
 Please note that verification doesn’t give any extra abilities in Telegram. It is only of use if you want to demonstrate that your account here is official. If this is the case with you, here’s another idea: you could post your Telegram username on your official site or any official account you have elsewhere — this will prove you are you to your audience and help them find you here.
 
 {QUESTION}
-How do I verify my channel?
+How do I verify my channel? (bot, public group)
 {KEYS}
+verify
 verifych
 verifychannel
 {VALUE}
-The Telegram team generally verifies large and active official channels that have verified accounts on at least three of these services: Facebook, Twitter, Instagram, Youtube. If this is the case, we would ask you to add a link to your Telegram channel to your profiles on these services — so that we can confirm that they indeed belong to you.
+The Telegram team generally verifies active official channels, bots or public groups that have verified accounts on each of these services:
+1. Twitter
+2. Facebook or Instagram (one is enough)
+3. YouTube
 
-Unfortunately we currently can't guarantee verification due to the amount of requests we get. Please kindly note that verification doesn't give any extra abilities in Telegram - it is only of use if you want to demonstrate that your channel is official. A link on your official site or another official account elsewhere can achieve a similar result.
+If this is the case, please add a link to your Telegram channel to your profiles on these services — so that we can confirm that they indeed belong to you. Once this is done, please contact our @VerifyBot for verification. More information about verification guidelines: https://telegram.org/verify
+
+Please kindly note that verification doesn't give any extra abilities in Telegram - it is only of use if you want to demonstrate that your channel is official. A link on your official site or another official account elsewhere can achieve a similar result.
 
 {QUESTION}
 How can I delete my username?
@@ -1841,6 +1883,8 @@ chatbackgroundandroidx
 changebackgroundandroidx
 {VALUE}
 Swipe right on the chats screen to open the menu, then go to Settings > Themes and Chats > Wallpaper.
+
+Please note that you also need to have "Bubbles in Chats" or "Bubbles in Channels" enabled in order to see your wallpaper in chats or channels, respectively.
 
 {QUESTION}
 How do I change my background? (WP)
@@ -2043,6 +2087,8 @@ Please also note that when you set up a username, you enable global search for y
 
 If you don't want people to contact you, it's best to remove the username. Alternatively, you could block people who are sending unwanted messages.
 
+In a similar way, if you have enabled "Make myself visible" in Contacts > Find people nearby, other users can find you in the "People Nearby" section. You can disable it anytime if you don't want to receive messages from strangers.
+
 {QUESTION}
 How do I create a group? (Android, Android X)
 {KEYS}
@@ -2061,7 +2107,7 @@ makegroupandroidx
 formgroupandroidx
 creategroupandroidx
 {VALUE}
-To create a group on Android, tap the pencil icon in the chats list, then select 'New Group'.
+To create a group on Android, tap the pencil icon in the chat list, then select 'New Group'.
 
 Each group can have up to 200,000 members in Telegram.
 
@@ -2076,7 +2122,7 @@ makegroupios
 formgroupios
 creategroupios
 {VALUE}
-To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
+To create a group on iOS, tap the pencil button in the top-right corner in the chat list, then 'New Group'.
 
 Each group can have up to 200,000 members in Telegram.
 
@@ -2393,7 +2439,7 @@ deletechata
 delchatandroid
 deletechatandroid
 {VALUE}
-To delete a chat, tap and hold the chat on the Chats screen, then 'Delete'.
+To delete a chat, tap and hold the chat on the Chats screen, then tap on the trash icon.
 
 {QUESTION}
 How do I delete a chat? (Android X)
@@ -2457,6 +2503,20 @@ Android X: Telegram Settings > Themes and Chats > Text Size.
 Windows Phone: Phone Settings > Ease of Access > Text Size.
 
 {QUESTION}
+How do I change the font size? (Android)
+{KEYS}
+scalea
+fontsizea
+textsizea
+scaleandroid
+fontsizeandroid
+textsizeandroid
+{VALUE}
+You can change the text size for messages in Telegram if you'd like: Telegram Settings > Chat Settings > Message Text Size.
+
+Please note that this doesn’t change the size of text in the input field and the app interface at the moment.
+
+{QUESTION}
 How do I remove the Emoji panel? (Desktop)
 {KEYS}
 deskpanel
@@ -2499,7 +2559,7 @@ https://telegram.org/deactivate — copy this link and open it in your browser. 
 - Only delete your account if you no longer want to use Telegram. You may not be able to sign up again immediately.
 
 See this guide for details:
-http://telegra.ph/delete-telegram-account-FAQ
+https://telegra.ph/delete-telegram-account-FAQ
 
 {QUESTION}
 How do I delete my account? (desktop)
@@ -2519,7 +2579,7 @@ https://telegram.org/deactivate
 Only delete your account if you no longer want to use Telegram. You may not be able to sign up again immediately.
 
 See this guide for details:
-http://telegra.ph/delete-telegram-account-FAQ
+https://telegra.ph/delete-telegram-account-FAQ
 
 {QUESTION}
 Please delete my account!
@@ -3261,7 +3321,6 @@ To see all active sessions for your Telegram account, go to Settings — Privacy
 
 You can also set up an additional password for your account. To do this, go to Settings — Privacy and Security — Two-Step Verification. Once enabled, you will need both a password AND a code to log in to Telegram.
 
-
 {QUESTION}
 I’ve read there’s a paper revealing several major exploits in Telegram!
 {COMMENT}
@@ -3273,7 +3332,7 @@ jakobsen
 This article is misleading. The author dismisses the Telegram protocol as insecure based on a piece of research that doesn't prove this point.
 
 Here's a detailed explanation of how J. Jakobsen's paper creates a false impression about Telegram's security:
-http://telegra.ph/mtproto-security-01-17
+https://telegra.ph/mtproto-security-01-17
 
 {QUESTION}
 What does the "Year Zero" and "Vault 7" stuff from Wikileaks mean?
@@ -3286,7 +3345,7 @@ wikileaks
 According to Wikileaks, the CIA has ways of hacking smartphones to collect message traffic *before it is encrypted*. This is not an app issue. It is relevant on the level of devices and operating systems. For this reason, naming any particular app in this context is misleading.
 
 The good news is that for the moment "Year Zero" is likely irrelevant for the majority of Telegram users. To learn more about the story and what you can do, check out this detailed post:
-http://telegra.ph/Wikileaks-Vault7-NEWS
+https://telegra.ph/Wikileaks-Vault7-NEWS
 
 {QUESTION}
 I’ve read someone could hack my account in WhatsApp and Telegram if I opened a photo, is it true?
@@ -3296,7 +3355,7 @@ Please take care to adapt the template in such a way that it fits the user‘s q
 checkpoint
 {VALUE}
 The WhatsApp issue discovered by Check Point is very serious, but Telegram did not have it. See this for details:
-http://telegra.ph/Checkpoint-Confusion-NEWS
+https://telegra.ph/Checkpoint-Confusion-NEWS
 
 {COMMENT}
 =======================
