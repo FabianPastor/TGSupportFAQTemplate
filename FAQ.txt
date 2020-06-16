@@ -1607,7 +1607,7 @@ timerios
 selfdestructi
 selfdestructios
 {VALUE}
-Il timer di autodistruzione è disponibile per qualsiasi foto o video nelle chat private. Per impostare un timer, tocca l'icona del cronometro in basso nell'anteprima a schermo intero. Il conto alla rovescia inizia non appena il destinatario apre la foto o il video che hai inviato — non appena il tempo finisce, la foto o il video vengono rimossi da entrambi i dispositivi.
+Il timer di autodistruzione è disponibile per qualsiasi foto o video nelle chat private. Per impostare un timer, tieni premuto sul pulsante Invia in basso a destra nell'anteprima a schermo intero, quindi scegli "Invia con un timer". Il conto alla rovescia inizia non appena il destinatario apre la foto o il video che hai inviato — non appena il tempo finisce, la foto o il video vengono rimossi da entrambi i dispositivi.
 
 Nelle chat segrete, puoi impostare un timer per tutti i tipi di messaggio. Tocca la piccola icona del cronometro di fianco a dove scrivi, inserisci il valore che preferisci e tocca 'Fatto'. Questo timer verrà applicato a tutti i messaggi inviati in questa chat, dopo essere stato impostato. Il conto alla rovescia inizia non appena il destinatario legge il messaggio — non appena il tempo finisce, i messaggi vengono rimossi da entrambi i dispositivi.
 
