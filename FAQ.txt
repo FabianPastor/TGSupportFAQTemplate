@@ -21,7 +21,7 @@ foldersios
 {VALUE}
 Si tienes muchos chats, puedes organizarlos en carpetas: mantén pulsado el botón Chats > Añadir carpeta.
 
-Puedes crear carpetas personalizadas con ajustes flexibles, o usar las recomendaciones por defecto. 
+Puedes crear carpetas personalizadas con ajustes flexibles, o usar las recomendaciones que vienen por defecto.
 
 Una vez hayas creado carpetas, puedes pasar de una a otra deslizando desde la mitad de la pantalla. Para acceder a las opciones de cada chat, desliza desde el borde de la pantalla.
 
@@ -33,7 +33,7 @@ foldersandroid
 {VALUE}
 Si tienes muchos chats, puedes organizarlos en carpetas: ve a Ajustes > Carpetas, o toca este enlace: tg://settings/folders
 
-Puedes crear carpetas personalizadas con ajustes flexibles, o usar las recomendaciones por defecto.  
+Puedes crear carpetas personalizadas con ajustes flexibles, o usar las recomendaciones que vienen por defecto. 
 
 Una vez hayas creado carpetas, podrás deslizarte entre ellas. Para acceder a las opciones de cada chat, mantén pulsado en el chat.
 
@@ -50,7 +50,7 @@ deletebothsidesneg
 deletebothsidesnegative
 {COMMENT}
 This template is intended for negative feedback. Please adjust it accordingly if the user requests for more information or has particular concerns that can be resolved.
-- Si te preocupa perder datos en particular: Telegram Desktop puede usarse para hacer respaldos.
+- Si te preocupa perder datos en particular: Telegram Desktop permite hacer respaldos.
 - Si te preocupa eliminar algo accidentalmente: hay una opción para deshacer esa acción antes de 5 segundos.
 - Si te preocupa que los mensajes se vuelvan ambiguos al no tener contexto: si alguien elimina algunos mensajes, tú puedes eliminar más — o incluso vaciar todo el chat para ambos; también ten en cuenta que las personas pueden reenviar mensajes que están fuera de contexto ya desde antes.
 {VALUE}
@@ -175,7 +175,7 @@ unarchiveandroidx
 Para mover uno de tus chats archivados de vuelta a la lista principal de chats:
 Abre la carpeta de 'Chats archivados' > Mantén pulsado en el chat y luego mueve tu dedo al icono de Desarchivar.
 
-Si no ves la carpeta “Chats archivados” en la parte de superior de la lista de chats, arrastra la pantalla hacia abajo para mostrarla.
+Si no ves la carpeta 'Chats archivados' en la parte de superior de la lista de chats, arrastra la pantalla hacia abajo para mostrarla.
 
 
 {QUESTION}
@@ -200,11 +200,11 @@ schedule
 reminder
 scheduled
 {VALUE}
-Mantén pulsado el botón “Enviar” y elige “Programar mensaje” para enviar automáticamente tu mensaje a la hora especificada.
+Mantén pulsado el botón Enviar y elige 'Programar mensaje' para enviar automáticamente tu mensaje a la hora especificada.
 
-Una vez hayas programado un mensaje en un chat, un nuevo icono de “reloj” aparecerá en el campo de escritura. Al pulsarlo se abre la sección de Mensajes programados para ese chat en particular. Desde ahí puedes ajustar el temporizador, cancelar los mensajes programados o enviarlos de inmediato.
+Una vez hayas programado un mensaje en un chat, un nuevo icono de 'reloj' aparecerá en el campo de escritura. Al pulsarlo se abre la sección de Mensajes programados para ese chat en particular. Desde ahí puedes ajustar el temporizador, cancelar los mensajes programados o enviarlos de inmediato.
 
-Ten en cuenta que manteniendo pulsado el botón Enviar en el chat “Mensajes guardados” te permite establecer recordatorios también.
+Ten en cuenta que manteniendo pulsado el botón Enviar en el chat 'Mensajes guardados' te permite establecer recordatorios también.
 
 {COMMENT}
 =================================
@@ -348,7 +348,7 @@ When user is posting personal stuff, as if this was a 'favourites' folder
 {KEYS}
 nothere
 {VALUE}
-Por favor, ten en cuenta que este chat es usado para soporte. Nuestros voluntarios leen y ven todo lo que envías en este chat. Si necesitas un lugar donde almacenar datos, puedes usar el chat de “Mensajes guardados” de Telegram.
+Por favor, ten en cuenta que este chat es usado para soporte. Nuestros voluntarios leen y ven todo lo que envías en este chat. Si necesitas un lugar donde almacenar datos, puedes usar el chat de 'Mensajes guardados' de Telegram.
 
 iOS: Ajustes de Telegram > Mensajes guardados.
 Android, Android X: Menú principal > Toca sobre la opción Mensajes guardados.
@@ -764,7 +764,7 @@ lastseenrecently
 {VALUE}
 Puedes seleccionar quién puede ver tu última vez y estado en línea en los ajustes de Privacidad y seguridad > Última vez y en línea.
 
-Ten en cuenta que no verás el estado de “última vez” y de estado en línea de las personas con las que no compartas el tuyo. Verás, de todos modos, un valor aproximado de “última vez”. Hay cuatro valores aproximados posibles:
+Ten en cuenta que no verás el estado de 'última vez' y de estado en línea de las personas con las que no compartas el tuyo. Verás, de todos modos, un valor aproximado de 'última vez'. Hay cuatro valores aproximados posibles:
 
 - Últ. vez recientemente: entre 1 segundo y 2-3 días
 - Últ. vez hace unos días: entre 2-3 y 7 días
@@ -790,7 +790,7 @@ greenchecks
 
 2 tics = mensaje leído (el destinatario abrió Telegram y la conversación con tu mensaje).
 
-No tenemos un estado adicional de “entregado al dispositivo” para los mensajes, ya que puedes usar Telegram en varios dispositivos simultáneamente. Como no sabes cuál de sus dispositivos está usando la persona, la información de entrega a uno de estos se vuelve irrelevante.
+No tenemos un estado adicional de 'entregado al dispositivo' para los mensajes, ya que puedes usar Telegram en varios dispositivos simultáneamente. Como no sabes cuál de sus dispositivos está usando la persona, la información de entrega a uno de estos se vuelve irrelevante.
 
 {QUESTION}
 Can I hide my online status?
@@ -805,7 +805,7 @@ Puedes seleccionar quién puede ver tu estado en línea y de última vez en los 
 Si no compartes tu última vez con alguien, sólo te verán 'en línea' durante un breve periodo de tiempo cuando es obvio que estás en línea:
 - Cuando envías un mensaje a ellos o a un grupo donde ambos sois miembros.
 - Cuando lees un mensaje que te enviaron en un chat entre dos personas.
-- Cuando apareces como “escribiendo…” para ellos o en un grupo donde ambos sois miembros.
+- Cuando apareces como 'escribiendo…' para ellos o en un grupo donde ambos sois miembros.
 
 {QUESTION}
 I deleted a chat by accident, can I restore it?
@@ -874,11 +874,11 @@ newfriends
 meetfriends
 makefriends
 {VALUE}
-Si quieres conocer gente nueva en Telegram, echa un vistazo a Contactos > Encontrar personas cerca, en nuestras apps móviles, para ver personas alrededor de ti que han seleccionado ser visibles para otros usuarios. Puedes activar “Hacerme visible” si quieres que las personas que están cerca puedan encontrarte y enviarte mensajes.
+Si quieres conocer gente nueva en Telegram, echa un vistazo a Contactos > Encontrar personas cerca, en nuestras apps móviles, para ver personas alrededor de ti que han seleccionado ser visibles para otros usuarios. Puedes activar 'Hacerme visible' si quieres que las personas que están cerca puedan encontrarte y enviarte mensajes.
 
 Como alternativa, puedes crear un grupo con tus amigos y pedirles que añadan a sus propios amigos también. O te puedes unir a un grupo público como @PublicTestGroup, por ejemplo.
 
-También hay bots no oficiales diseñados para ponerse en contacto con otros usuarios interesados. Prueba buscando en internet “Telegram bots new friends” y obtendrás muchos resultados.
+También hay bots no oficiales diseñados para ponerse en contacto con otros usuarios interesados. Prueba buscando en internet 'Telegram bots new friends' y obtendrás muchos resultados.
 
 Por favor, recuerda: puedes usar la búsqueda de Telegram para encontrar personas por sus nombres de usuario, pero esta herramienta no es para conocer nuevos amigos. A las personas no les gusta ser contactadas por extraños a través de la búsqueda de nombres de usuario, así que podrían reportarte.
 
@@ -998,7 +998,7 @@ gifsare
 {VALUE}
 Los GIF son imágenes animadas. Envíalos como 'archivo' adjunto (no como foto) si quieres que se reproduzcan.
 
-Puedes usar la búsqueda de GIF incorporada en la app o el bot integrado: escribe “@gif cats” en el campo de escritura. El bot te ofrecerá GIF relevantes a tu búsqueda, en este caso, ¡gatos!
+Puedes usar la búsqueda de GIF incorporada en la app o el bot integrado: escribe '@gif cats' en el campo de escritura. El bot te ofrecerá GIF relevantes a tu búsqueda, en este caso, ¡gatos!
 
 También puedes volver a usar los GIF que recibes de tus amigos: toca sobre ellos y elige 'Guardar'. Luego podrás encontrarlos en la pestaña dedicada para GIF en el panel de stickers.
 
@@ -1085,7 +1085,7 @@ Si quieres tener más stickers, aquí tienes algunas ideas:
 
 2) Puedes navegar y buscar entre más de 20.000 stickers de Telegram desde el icono de '+' en tu panel de stickers.
 
-3) Si eso no es suficiente, puedes buscar en internet por “Stickers Telegram”. Obtendrás muchos resultados.
+3) Si eso no es suficiente, puedes buscar en internet por 'Stickers Telegram'. Obtendrás muchos resultados.
 
 
 {QUESTION}
@@ -1158,7 +1158,7 @@ Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes b
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, 'Grupos o canales Telegram de ingeniería'.
 
 {QUESTION}
 Where do I find new channels and groups? (Android, Android X)
@@ -1185,7 +1185,7 @@ Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes b
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, 'Grupos o canales Telegram de ingeniería'.
 
 {QUESTION}
 Where do I find new channels and groups? (Desktop)
@@ -1211,7 +1211,7 @@ Los grupos y canales públicos tienen un @username (nombre de usuario). Puedes b
 
 Una vez que encuentras el grupo o canal público, puedes unirte abriendo el chat y tocando en 'Unirme'  en la parte inferior de la pantalla. 
 
-Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, “Grupos o canales Telegram de ingeniería”.
+Telegram no tiene una lista pública de grupos o canales, pero puedes encontrar muchos buscando en internet. Por ejemplo, 'Grupos o canales Telegram de ingeniería'.
 
 {QUESTION}
 Where do I find bots?
@@ -1231,7 +1231,7 @@ No tenemos una tienda oficial de bots. La plataforma está abierta para todo aqu
 
 Los bots integrados son aún más fáciles de usar. No tienes que enviarles ningún mensaje o añadirlos a un grupo: escribe su @nombredeusuario en el campo de texto de cualquier chat, después algunas palabras clave y el bot te mostrará información relevante. Aquí tienes algunos ejemplos para que pruebes: @gif, @vid, @pic, @wiki, @imdb y @gamee.
 
-Si quieres encontrar más bots, prueba buscando en internet por “Bots Telegram”. Obtendrás muchos resultados.
+Si quieres encontrar más bots, prueba buscando en internet por 'Bots Telegram'. Obtendrás muchos resultados.
 
 {QUESTION}
 Where can I find / How can I use game bots?
@@ -1371,7 +1371,7 @@ themesdesktop
 {VALUE}
 Puedes elegir la apariencia de tu app de Telegram en Ajustes > Chats > Temas. También puedes crear nuevos temas ahí, basados en tus elecciones de color y fondo de chat, y luego afinarlos manualmente o compartirlos.
 
-Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en su enlace o archivo y una vista previa se abrirá. Si te gusta puedes hacer clic en “Aplicar este tema”. El tema se aplicará y, si quieres mantenerlo en la app, haz clic en “Mantener cambios”. Puedes probar algunos temas de aquí: @Themes.
+Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en su enlace o archivo y una vista previa se abrirá. Si te gusta puedes hacer clic en 'Aplicar este tema'. El tema se aplicará y, si quieres mantenerlo en la app, haz clic en 'Mantener cambios'. Puedes probar algunos temas de aquí: @Themes.
 
 {QUESTION}
 How do I use themes? (Android)
@@ -1383,7 +1383,7 @@ themesandroid
 {VALUE}
 Puedes elegir la apariencia de tu app de Telegram en Ajustes > Chats > Tema. También puedes crear nuevos temas ahí, basados en tus elecciones de color y fondo de chat, y luego afinarlos manualmente o compartirlos.
 
-Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en el enlace o archivo y una vista previa se abrirá. Si te gusta puedes tocar “Aplicar”. Puedes probar con https://t.me/addtheme/skyblue o con algunos temas de aquí: @AndroidThemes.
+Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en el enlace o archivo y una vista previa se abrirá. Si te gusta puedes tocar Aplicar. Puedes probar con https://t.me/addtheme/skyblue o con algunos temas de aquí: @AndroidThemes.
 
 {QUESTION}
 How do I use themes? (iOS)
@@ -1395,7 +1395,7 @@ themesios
 {VALUE}
 Puedes elegir la apariencia de tu app de Telegram en Ajustes > Apariencia. También puedes crear nuevos temas ahí, basados en tus elecciones de color y fondo de chat, y luego afinarlos manualmente o compartirlos.
 
-Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en el enlace o archivo y una vista previa se abrirá. Si te gusta puedes tocar “Aplicar”. Puedes probar con estos temas de ejemplo:
+Los temas personalizados pueden ser compartidos con un enlace corto o un archivo. Para establecer un tema, haz clic en el enlace o archivo y una vista previa se abrirá. Si te gusta puedes tocar Aplicar. Puedes probar con estos temas de ejemplo:
 https://t.me/addtheme/skyblue
 https://t.me/addtheme/desert
 
@@ -1607,7 +1607,7 @@ timerios
 selfdestructi
 selfdestructios
 {VALUE}
-El temporizador de autodestrucción está disponible para cualquier foto o vídeo en los chats individuales. Para configurar el temporizador, toca sobre el icono del cronómetro que aparece abajo en la vista previa a pantalla completa del vídeo o foto. La cuenta regresiva comienza cuando el destinatario abre la foto o el video que enviaste. Cuando el tiempo se acabe, la foto o video se eliminará de ambos dispositivos.
+El temporizador de autodestrucción está disponible para cualquier foto o vídeo en los chats individuales. Para configurar el temporizador, mantén pulsado el botón 'Enviar' en la vista previa a pantalla completa de la foto o vídeo, y luego elige 'Con autodestrucción'. La cuenta regresiva comienza cuando el destinatario abre la foto o vídeo que enviaste. Cuando el tiempo se acabe, la foto o vídeo se eliminará de ambos dispositivos.
 
 En los chats secretos puedes configurar un temporizador de autodestrucción para todo tipo de mensajes. Toca sobre el cronómetro que aparece dentro del espacio de escritura, pon el tiempo que quieres y toca en 'Hecho'. El temporizador se aplicará para todos los mensajes enviados en el chat tras haberlo configurado. La cuenta regresiva comienza cuando el destinatario lee el mensaje. Cuando el tiempo se acabe, los mensajes serán eliminados de ambos dispositivos. 
 
@@ -1894,7 +1894,7 @@ backgroundwp
 chatbackgroundwp
 changebackgroundwp
 {VALUE}
-Toca los “…” en la pantalla de chats, luego ve a Ajustes > Fondo de chat.
+Toca los '…' en la pantalla de chats, luego ve a Ajustes > Fondo de chat.
 
 {QUESTION}
 How do I change my profile picture? (iOS)
@@ -2176,7 +2176,7 @@ Existen dos formas de añadir miembros a tu grupo:
 
 2. Si quieres generar o ver un enlace de invitación para tu grupo, que puedes compartir con otros, puedes hacerlo tras seleccionar Añadir miembro > Invitar al grupo con un enlace.
 
-Por favor, ten en cuenta que si un usuario deja tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar al grupo por sí mismos.
+Por favor, ten en cuenta que si un usuario decide salir de tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar por sí mismos.
 
 {QUESTION}
 How do I add members to my group? (Desktop)
@@ -2192,7 +2192,7 @@ Existen dos formas de añadir miembros a tu grupo:
 
 2. Si quieres usar un enlace de invitación para tu grupo que pueda ser compartido con otros, haz clic en '…' en el encabezado del chat > 'Gestionar grupo' > 'Tipo de grupo', y podrás ver el enlace de invitación o generar uno nuevo debajo del título 'Enlace de invitación'.
 
-Por favor, ten en cuenta que si un usuario deja tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar al grupo por sí mismos.
+Por favor, ten en cuenta que si un usuario decide salir de tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar por sí mismos.
 
 {QUESTION}
 How do I create a Channel? (Android, Android X)
