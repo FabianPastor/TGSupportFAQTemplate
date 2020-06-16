@@ -1607,7 +1607,7 @@ timerios
 selfdestructi
 selfdestructios
 {VALUE}
-The self-destruct timer is available for any photos or videos in private chats. To set the timer, tap the stopwatch icon at the bottom of the full-screen preview. The countdown starts the moment your recipient opens the photo or video you sent — as soon as the time runs out, this photo or video is removed from both devices.
+The self-destruct timer is available for any photos or videos in private chats. To set the timer, press and hold the Send button when you're viewing the full-screen preview, then 'Send With Timer'. The countdown starts the moment your recipient opens the photo or video you sent — as soon as the time runs out, this photo or video is removed from both devices.
 
 In Secret Chats, you can set the timer for all kinds of messages. Tap the little stopwatch in the text input field, set the desired time and tap 'Done'. This timer will apply to every message sent in this chat, after it was set. Countdown starts as soon as the person on the other side reads the message — as soon as the time runs out, messages are removed from both devices.
 
