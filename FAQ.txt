@@ -985,7 +985,7 @@ Le persone che blocchi:
 
 - non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
 - non possono vedere la tua foto profilo
-- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa'.
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa.
 
 {QUESTION}
 Cosa sono le gif?
@@ -2309,7 +2309,7 @@ Le persone Bloccate:
 
 - non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
 - non possono vedere la tua foto profilo
-- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa'.
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa.
 
 {QUESTION}
 Come blocco un non-contatto? (Android, Android X)
@@ -2669,7 +2669,7 @@ Come mi disconnetto da Telegram?
 {KEYS}
 logout
 {VALUE}
-Generalmente, disconnettersi non è necessario quando usi Telegram, in quanto tutti i messaggi sono ovunque allo stesso tempo. Sapevi che quando ti riconetti, ricevi il codice in un'altra app di Telegram invece di un SMS? — ammesso che l'app fosse attiva di recente. Puoi fare questo per risparmiare tempo quando ti colleghi.
+Generalmente, disconnettersi non è necessario quando usi Telegram, in quanto tutti i messaggi sono ovunque allo stesso tempo. Sapevi che quando ti riconnetti, ricevi il codice in un'altra app di Telegram invece di un SMS? — ammesso che l'app fosse attiva di recente. Puoi fare questo per risparmiare tempo quando ti colleghi.
 
 Android, Android X: scorri verso destra nella lista di Chat per aprire il menu, quindi Impostazioni > premi su "..." in alto a destra > "Esci".
 
