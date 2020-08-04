@@ -1,5 +1,5 @@
 {URL}
-http://data.telegram.wiki/tl_general_es.txt
+https://data.telegram.wiki/tl_general_es.txt
 
 {COMMENT}
 Keys are case-insensitive but partly capitalized here to make them readable and memorizable.
@@ -50,7 +50,7 @@ deletebothsidesneg
 deletebothsidesnegative
 {COMMENT}
 This template is intended for negative feedback. Please adjust it accordingly if the user requests for more information or has particular concerns that can be resolved.
-- Si te preocupa perder datos en particular: Telegram Desktop permite hacer respaldos.
+- Si te preocupa perder datos en particular: Telegram Desktop permite hacer respaldos
 - Si te preocupa eliminar algo accidentalmente: hay una opción para deshacer esa acción antes de 5 segundos.
 - Si te preocupa que los mensajes se vuelvan ambiguos al no tener contexto: si alguien elimina algunos mensajes, tú puedes eliminar más — o incluso vaciar todo el chat para ambos; también ten en cuenta que las personas pueden reenviar mensajes que están fuera de contexto ya desde antes.
 {VALUE}
@@ -1686,7 +1686,7 @@ usernamesi
 usernameios
 usernamesios
 {VALUE}
-Para establecer un nombre de usuario público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes y toca sobre la opción de arriba que tiene tu información. Luego, toca 'Nombre de usuario'.
+Para establecer un nombre de usuario público, y que así cualquier usuario de Telegram te pueda contactar, ve a Ajustes > Editar > Nombre de usuario.
 
 Una vez establecido un nombre de usuario, también podrás usar un enlace personal de Telegram:
 t.me/YourUsername
@@ -1911,7 +1911,7 @@ changeprofilepicios
 changeprofilepicturei
 changeprofilepictureios
 {VALUE}
-Para cambiar tu foto de perfil, ve a los Ajustes de Telegram y toca sobre tus detalles en la parte superior. Luego toca sobre el icono de la cámara que aparece encima de tu foto para elegir una nueva.
+Para cambiar tu foto de perfil, ve a los Ajustes de Telegram > Editar > Establecer nueva foto o video.
 
 {QUESTION}
 How do I change my profile picture? (Android)
