@@ -1686,7 +1686,7 @@ usernamesi
 usernameios
 usernamesios
 {VALUE}
-To set up a public username so that any Telegram user can contact you, go to Settings and tap your details at the top. Then, tap "Username".
+To set up a public username so that any Telegram user can contact you, go to Settings > Edit > Username .
 
 Once you've set up a username, you will also be able to use your personal Telegram link:
 t.me/YourUsername
@@ -1911,7 +1911,7 @@ changeprofilepicios
 changeprofilepicturei
 changeprofilepictureios
 {VALUE}
-To change your profile picture, go to Telegram Settings and tap your details at the top - then tap the camera icon that appears over your current photo to choose a new one.
+To change your profile picture, go to Telegram Settings > Edit > Set New Photo or Video.
 
 {QUESTION}
 How do I change my profile picture? (Android)
