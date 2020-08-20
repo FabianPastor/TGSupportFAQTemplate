@@ -883,13 +883,24 @@ Ci sono anche bot non ufficiali progettati per entrare in contatto con altri ute
 Per favore ricorda: Puoi usare la ricerca di Telegram per trovare persone che conosci con i loro username – ma questo non è uno strumento per fare nuove amicizie. Le persone non amano quando gli sconosciuti li contattano tramite la ricerca degli username, quindi questo potrebbe portare gli utenti a segnalare il tuo account.
 
 {QUESTION}
-Avrete le video chiamate?
+Avete le videochiamate? Dov'è il pulsante per videochiamare?
 {KEYS}
 tel
+tela
+teli
 videocall
 videocalls
+videocalla
+videocalli
+videocallsa
+videocallsi
 {VALUE}
-Spiacenti, al momento questa funzione non è ancora disponibile, ma dovrebbe arrivare più avanti nell'arco del 2020. Per ora puoi utilizzare le nostre chiamate vocali o inviare un videomessaggio ai tuoi amici su Telegram. Per inviare un videomessaggio, tocca l'icona del microfono per passare alla modalità videocamera, quindi tieni premuto per registrare un messaggio.
+Telegram ha lanciato di recente la prima versione delle Videochiamate:
+https://telegram.org/blog/video-calls/it
+
+È possibile avviare una videochiamata dalla pagina del profilo del contatto e attivare o disattivare il video in qualsiasi momento durante le chiamate vocali.
+
+Tieni presente che è necessario che sia installata la versione più recente dell'app. Non vedrai il pulsante videochiamata se il destinatario non utilizza una versione di Telegram in grado di accettare una videochiamata o se non puoi chiamarlo a causa delle sue impostazioni sulla privacy.
 
 {QUESTION}
 Avete le chiamate?
@@ -1686,7 +1697,7 @@ usernamesi
 usernameios
 usernamesios
 {VALUE}
-Per impostare un username pubblico in modo che qualsiasi utente Telegram possa contattarti, vai in Impostazioni e tocca sui tuoi dettagli in alto. Quindi tocca "Username".
+Per impostare un username pubblico in modo che qualsiasi utente Telegram possa contattarti, vai in Impostazioni > Modifica > Username.
 
 Una volta che hai impostato uno username, sarai anche in grado di creare il tuo link personale di Telegram:
 t.me/YourUsername
@@ -1911,7 +1922,7 @@ changeprofilepicios
 changeprofilepicturei
 changeprofilepictureios
 {VALUE}
-Per cambiare la tua foto profilo, vai nelle Impostazioni di Telegram e tocca sui tuoi dettagli in alto - quindi tocca l'icona della fotocamera che appare sopra la tua foto profilo e scegline una nuova.
+Per cambiare la tua foto profilo, vai nelle Impostazioni di Telegram > Modifica >  Imposta nuova foto o video profilo.
 
 {QUESTION}
 Come cambio la mia foto profilo? (Android)
@@ -2719,6 +2730,30 @@ Maggiori info ed esempi qui: https://telegram.org/blog/passport
 ===================
 -RISOLUZIONE DEI PROBLEMI-
 ===================
+
+{QUESTION}
+Le videochiamate non funzioano
+{KEYS}
+videodebug
+videobroken
+videocalldebug
+videocallbroken
+{VALUE}
+Ci spiace. Le videochiamate sono ancora in fase di sviluppo e saranno migliorate nei nostri futuri aggiornamenti delle app.
+
+Puoi per favore aiutarci a indagare su questo problema? Ecco alcune domande importanti:
+
+1. Descrivi esattamente ciò che sta accadendo. (Ad esempio, hai sentito la tua voce, l'altra persona continuava a disconnettersi, il video era distorto, ecc.)
+2. Quale piattaforma (iOS, Android, ecc.) e app Telegram sta usando il destinatario?
+3. Puoi inviarci il log per la chiamata in cui si sono verificati problemi? 
+
+Ecco come fare: trova la chiamata nella cronologia della chat, quindi:
+Androide: Tocca accanto al messaggio "Videochiamata" > Valuta chiamata > Dai 1 stella e selezionare "Includi le informazioni tecniche" > tocca Invia. Questo invierà un file di log ad una chat chiamata "Supporto VOIP", se è possibile inoltra questo file da lì a questa chat "Volontari del supporto", questo ci aiuterebbe molto, grazie!
+iOS: Tocca e tieni premuto il messaggio "Videochiamata" > Condividi statistiche > scegli questa chat "Volontari del supporto".
+Desktop: Apri la cartella app > sottocartella DebugLogs > invia il file "last_call_log.txt".
+macOS: Apri il Finder > Vai > Vai alla cartella: inserisci ~/Libreria/Gruppo Containers/6N38VWS5BX.ru.keepcoder.Telegram, quindi apri /account/xxx/call e inviaci il file.
+
+Se puoi, chiedi anche al tuo interlocutore di inviarti il suo file di log per la chiamata. Poi, dovresti inoltrarlo a noi qui. Se qualcosa non è chiaro o se trovi qualche problema, faccelo sapere - saremo lieti di aiutarti!
 
 {QUESTION}
 I messaggi nella mia chat privata sono scomparsi.
