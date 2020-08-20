@@ -883,13 +883,24 @@ There are also unofficial bots designed for getting in touch with other users. T
 Please remember: You can use Telegram search to find people by their usernames – but this is not a tool for finding new friends. People don't like it when strangers contact them via username search, so it might result in people reporting you.
 
 {QUESTION}
-Will you have video calls?
+Do you have video calls? Where is the Video Call button?
 {KEYS}
 tel
+tela
+teli
 videocall
 videocalls
+videocalla
+videocalli
+videocallsa
+videocallsi
 {VALUE}
-Sorry, we don't currently have this feature. For now, you can use our voice calls or send video messages to your Telegram friends. To send a video message, tap the mic icon to switch to camera mode, then tap and hold the camera icon to record a message.
+Telegram has recently launched the first version of Video Calls:
+https://telegram.org/blog/video-calls
+
+You can start a video call from your contact's profile page, and switch video on or off at any time during voice calls.
+
+Note that both of you need to have the latest app version installed. You won't see the Video Call button if your recipient doesn't use any Telegram versions that can accept a video call, or if you cannot call them because of their privacy settings.
 
 {QUESTION}
 Do you have calls?
@@ -2719,6 +2730,30 @@ More info and examples here: https://telegram.org/blog/passport
 ===================
 -TROUBLESHOOTING-
 ===================
+
+{QUESTION}
+Video Calls are broken
+{KEYS}
+videodebug
+videobroken
+videocalldebug
+videocallbroken
+{VALUE}
+Sorry to hear about that. Video Calls are still under development, and will be improved as part of our future app updates.
+
+Can you please help us investigate this problem? Here are a few important questions:
+
+1. Describe exactly what is happening? (E.g. you heard your own voice, the other side kept dropping out, video was distorted, etc.)
+2. Which platform (iOS, Android, etc.) and Telegram app is your recipient using?
+3. Could you please send us the technical log for the call where you experienced issues? 
+
+Here's how to do this — find the call in your conversation history, then:
+Android: Tap next to the "Video Call" message > Rate Call >  Rate 1 Star and select "Include the technical information" > tap Send. This will send a log file to a chat called "VOIP Support", if you can also forward this file from there to this "Volunteer Support" chat, that would help us a lot, thanks!
+iOS: Tap and hold the "Video Call" message > Share Statistics > choose this "Volunteer Support" chat.
+Desktop: Open the app folder > DebugLogs subfolder > send us the "last_call_log.txt" file.
+macOS: Open Finder > Go > Go to folder: enter ~/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram, then open /account-xxx/calls and send us the file.
+
+If you can, please also ask your conversation partner to send you their log file for the call. Then, you should forward it to us here. If anything is unclear or you encounter any issues, please let us know — we'll be glad to help!
 
 {QUESTION}
 Messages in my private chat have disappeared.
