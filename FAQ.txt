@@ -883,13 +883,24 @@ También hay bots no oficiales diseñados para ponerse en contacto con otros usu
 Por favor, recuerda: puedes usar la búsqueda de Telegram para encontrar personas por sus nombres de usuario, pero esta herramienta no es para conocer nuevos amigos. A las personas no les gusta ser contactadas por extraños a través de la búsqueda de nombres de usuario, así que podrían reportarte.
 
 {QUESTION}
-Will you have video calls?
+Do you have video calls? Where is the Video Call button?
 {KEYS}
 tel
+tela
+teli
 videocall
 videocalls
+videocalla
+videocalli
+videocallsa
+videocallsi
 {VALUE}
-Lo sentimos, pero actualmente no tenemos esta característica. Por ahora, puedes usar nuestras llamadas de voz o enviar videomensajes a tus amigos de Telegram. Para enviar un videomensaje, toca sobre el icono del micrófono, para cambiar al modo de cámara, y luego toca y mantén sobre el icono de la cámara para grabar el mensaje.
+Telegram lanzó recientemente la primera versión de las videollamadas:
+https://telegram.org/blog/video-calls/es
+
+Puedes iniciar una videollamada desde la página de perfil de tu contacto y encender o apagar la cámara cuando quieras durante una llamada de voz.
+
+Ten en cuenta que ambas partes necesitan tener instalada la última versión de la app. No verás el botón de videollamada si la otra persona no usa una versión de Telegram que permita videollamadas o si no puedes llamarla por sus ajustes de privacidad de llamadas.
 
 {QUESTION}
 Do you have calls?
@@ -2269,13 +2280,13 @@ How can I pin a message?
 pin
 pinned
 {VALUE}
-Los administradores de los grupos y canales pueden anclar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. También puedes anclar mensajes en el chat de Mensajes guardados.
+Los administradores de los grupos y canales pueden fijar mensajes en la parte superior del chat para informar a los miembros sobre noticias importantes que de otra manera podrían perderse. También puedes fijar mensajes en el chat de Mensajes guardados.
 
-iOS, WP: Mantén pulsado un mensaje, luego selecciona la opción Anclar. Para desanclar el mensaje, pulsa el icono 'x' de su derecha.
+iOS, WP: Mantén pulsado un mensaje, luego selecciona la opción Fijar. Para desfijar el mensaje, pulsa el icono 'x' de su derecha.
 
-Android, Android X: Toca un mensaje, luego elige la opción Anclar. Para desanclar el mensaje, pulsa el icono 'x' de su derecha.
+Android, Android X: Toca un mensaje, luego elige la opción Fijar. Para desfijar el mensaje, pulsa el icono 'x' de su derecha.
 
-Desktop: Haz clic derecho en el mensaje, luego selecciona la opción Anclar. Para desanclar el mensaje, haz clic en el icono 'x' de su derecha.
+Desktop: Haz clic derecho en el mensaje, luego selecciona la opción Fijar. Para desfijar el mensaje, haz clic en el icono 'x' de su derecha.
 
 {QUESTION}
 How do I write a new message?
@@ -2719,6 +2730,30 @@ Puedes ver más información y ejemplos en: https://telegram.org/blog/passport
 ===================
 -TROUBLESHOOTING-
 ===================
+
+{QUESTION}
+Video Calls are broken
+{KEYS}
+videodebug
+videobroken
+videocalldebug
+videocallbroken
+{VALUE}
+Sentimos que tengas inconvenientes. Las videollamadas aún están en desarrollo y serán mejoradas en nuestras futuras actualizaciones de la app.
+
+¿Podrías, por favor, ayudarnos a investigar el problema? Aquí hay algunas preguntas importantes:
+
+1. ¿Podrías describir exactamente qué sucede? (Por ejemplo, sólo oyes tu propia voz, hay cortes para la otra persona, el vídeo se distorsiona, etc.).
+2. ¿Qué plataforma (iOS, Android, etc.) y qué app de Telegram usa la otra persona?
+3. ¿Podrías, por favor, enviarnos el registro técnico de la llamada en la que tuviste problemas?  
+
+Aquí tienes cómo hacerlo. Encuentra la llamada en tu historial de chat y luego:
+Android: Haz un toque al lado del mensaje de “Videollamada” > Evaluar llamada > Evalúala con 1 estrella y elige “Incluir información técnica” > toca Enviar. Esto enviará el archivo de registro a un chat llamado "VOIP Support". Si puedes reenviar el archivo desde ese chat hacia este chat de “Voluntarios de soporte” sería de gran ayuda. ¡Gracias!
+iOS: Mantén pulsado sobre el mensaje de “Videollamada” > Share Statistics > elige este chat de “Voluntarios de soporte”.
+Desktop: Abre la carpeta de la app > ve a la subcarpeta DebugLogs > envíanos el archivo “last_call_log.txt”.
+macOS: Abre Finder > Ir > Ir a la carpeta…: pon ~/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram, luego abre /account-xxx/calls y envíanos el archivo.
+
+Si puedes, por favor, pídele a la otra persona que te envíe su archivo de registro de la llamada. Luego, debes reenviarlo a este chat. Si hay algo que no te queda claro o si encuentras cualquier problema, por favor, dinos. Con gusto te ayudaremos.
 
 {QUESTION}
 Messages in my private chat have disappeared.
