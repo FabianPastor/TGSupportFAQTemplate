@@ -2738,6 +2738,8 @@ videodebug
 videobroken
 videocalldebug
 videocallbroken
+{COMMENT}
+More detailed instructions on gettng the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
 {VALUE}
 Sorry to hear about that. Video Calls are still under development, and will be improved as part of our future app updates.
 
@@ -2748,10 +2750,10 @@ Can you please help us investigate this problem? Here are a few important questi
 3. Could you please send us the technical log for the call where you experienced issues? 
 
 Here's how to do this — find the call in your conversation history, then:
-Android: Tap next to the "Video Call" message > Rate Call >  Rate 1 Star and select "Include the technical information" > tap Send. This will send a log file to a chat called "VOIP Support", if you can also forward this file from there to this "Volunteer Support" chat, that would help us a lot, thanks!
+Android: Tap next to the "Video Call" message > Rate Call >  Rate 1 Star and select "Include technical information" > tap Send. This will send a log file to a chat called "VOIP Support", if you can also forward this file from there to this "Volunteer Support" chat, that would help us a lot, thanks!
 iOS: Tap and hold the "Video Call" message > Share Statistics > choose this "Volunteer Support" chat.
 Desktop: Open the app folder > DebugLogs subfolder > send us the "last_call_log.txt" file.
-macOS: Open Finder > Go > Go to folder: enter ~/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram, then open /account-xxx/calls and send us the file.
+macOS: Right-click the "Video Call" message > Share Call Logs > choose this "Volunteer Support" chat.
 
 If you can, please also ask your conversation partner to send you their log file for the call. Then, you should forward it to us here. If anything is unclear or you encounter any issues, please let us know — we'll be glad to help!
 
