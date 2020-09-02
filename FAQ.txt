@@ -2667,7 +2667,7 @@ stolen
 stolenphone
 phonestolen
 {VALUE}
-Prima di tutto, ci spiace per il tuo telefono. Sfortunanatamente, il numero di telefono è l'unico identificativo per un utente Telegram al momento, per cui devi seguire questa procedura:
+Prima di tutto, ci spiace per il tuo telefono. Sfortunatamente, il numero di telefono è l'unico identificativo per un utente Telegram al momento, per cui devi seguire questa procedura:
 
 1. Prima di tutto, devi contattare il tuo operatore telefonico e farti bloccare la  vecchia SIM per fartene dare una nuova con lo stesso numero di telefono.
 2. Se sei collegato a Telegram in uno dei tuoi altri dispositivi, vai in Impostazioni > Privacy e sicurezza > Sessioni attive (o Impostazioni > Dispositivi dai dispositivi mobili) e termina tutte le altre sessioni. Questo disconetterà tutti gli altri dispositivi. Se la vecchia SIM è già stata bloccata, nessuno potrà accedere ai tuoi dati. Puoi riprendere il normale utilizzo di Telegram.
@@ -2738,6 +2738,8 @@ videodebug
 videobroken
 videocalldebug
 videocallbroken
+{COMMENT}
+Istruzioni dettagliate su come ottenere i log: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
 {VALUE}
 Ci spiace. Le videochiamate sono ancora in fase di sviluppo e saranno migliorate nei nostri futuri aggiornamenti delle app.
 
@@ -2748,10 +2750,10 @@ Puoi per favore aiutarci a indagare su questo problema? Ecco alcune domande impo
 3. Puoi inviarci il log per la chiamata in cui si sono verificati problemi? 
 
 Ecco come fare: trova la chiamata nella cronologia della chat, quindi:
-Androide: Tocca accanto al messaggio "Videochiamata" > Valuta chiamata > Dai 1 stella e selezionare "Includi le informazioni tecniche" > tocca Invia. Questo invierà un file di log ad una chat chiamata "Supporto VOIP", se è possibile inoltra questo file da lì a questa chat "Volontari del supporto", questo ci aiuterebbe molto, grazie!
+Android: Tocca accanto al messaggio "Videochiamata" > Valuta chiamata > Dai 1 stella e selezionare "Includi le informazioni tecniche" > tocca Invia. Questo invierà un file di log ad una chat chiamata "Supporto VOIP", se è possibile inoltra questo file da lì a questa chat "Volontari del supporto", questo ci aiuterebbe molto, grazie!
 iOS: Tocca e tieni premuto il messaggio "Videochiamata" > Condividi statistiche > scegli questa chat "Volontari del supporto".
 Desktop: Apri la cartella app > sottocartella DebugLogs > invia il file "last_call_log.txt".
-macOS: Apri il Finder > Vai > Vai alla cartella: inserisci ~/Libreria/Gruppo Containers/6N38VWS5BX.ru.keepcoder.Telegram, quindi apri /account/xxx/call e inviaci il file.
+macOS: Clic destro sul messaggio "Videochiamata" > Condividi statistiche > scegli questa chat "Volontari del supporto".
 
 Se puoi, chiedi anche al tuo interlocutore di inviarti il suo file di log per la chiamata. Poi, dovresti inoltrarlo a noi qui. Se qualcosa non è chiaro o se trovi qualche problema, faccelo sapere - saremo lieti di aiutarti!
 
