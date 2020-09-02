@@ -2738,6 +2738,8 @@ videodebug
 videobroken
 videocalldebug
 videocallbroken
+{COMMENT}
+More detailed instructions on gettng the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
 {VALUE}
 Sentimos que tengas inconvenientes. Las videollamadas aún están en desarrollo y serán mejoradas en nuestras futuras actualizaciones de la app.
 
@@ -2748,10 +2750,10 @@ Sentimos que tengas inconvenientes. Las videollamadas aún están en desarrollo 
 3. ¿Podrías, por favor, enviarnos el registro técnico de la llamada en la que tuviste problemas?  
 
 Aquí tienes cómo hacerlo. Encuentra la llamada en tu historial de chat y luego:
-Android: Haz un toque al lado del mensaje de “Videollamada” > Evaluar llamada > Evalúala con 1 estrella y elige “Incluir información técnica” > toca Enviar. Esto enviará el archivo de registro a un chat llamado "VOIP Support". Si puedes reenviar el archivo desde ese chat hacia este chat de “Voluntarios de soporte” sería de gran ayuda. ¡Gracias!
+Android: Haz un toque al lado del mensaje de “Videollamada” > Evaluar llamada > Evalúala con 1 estrella y elige “Incluir información técnica” > toca Enviar. Esto enviará el archivo de registro a un chat llamado “VOIP Support”. Si puedes reenviar el archivo desde ese chat hacia este chat de “Voluntarios de soporte” sería de gran ayuda. ¡Gracias!
 iOS: Mantén pulsado sobre el mensaje de “Videollamada” > Share Statistics > elige este chat de “Voluntarios de soporte”.
 Desktop: Abre la carpeta de la app > ve a la subcarpeta DebugLogs > envíanos el archivo “last_call_log.txt”.
-macOS: Abre Finder > Ir > Ir a la carpeta…: pon ~/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram, luego abre /account-xxx/calls y envíanos el archivo.
+macOS: Haz clic con el botón secundario sobre el mensaje de “Videollamada” > Compartir registros de llamada > elige este chat de “Voluntarios de soporte”.
 
 Si puedes, por favor, pídele a la otra persona que te envíe su archivo de registro de la llamada. Luego, debes reenviarlo a este chat. Si hay algo que no te queda claro o si encuentras cualquier problema, por favor, dinos. Con gusto te ayudaremos.
 
