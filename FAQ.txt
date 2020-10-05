@@ -407,6 +407,16 @@ Por favor, contacta con el departamento de abusos de Telegram en abuse@telegram.
 ¡Gracias!
 
 {QUESTION}
+When user reports scam or impersonation
+{KEYS}
+scam
+notoscam
+{VALUE}
+Lo sentimos, pero el soporte de Telegram está compuesto por voluntarios y no estamos capacitados para resolver casos como este.
+
+Por favor, contacta al departamento de abusos de Telegram en abuse@telegram.org con todos los detalles y enlaces, o usa la opción que está dentro de la aplicación para enviar un reporte. Para reportar a alguien que intenta estafar a otros usuarios, puedes enviar todos los detalles a @NoToScam en Telegram, incluyendo los mensajes reenviados del estafador si los tienes.
+
+{QUESTION}
 I see "this channel can’t be displayed because it was used to spread pornographic content" on iOS. Why and can I change this?
 {KEYS}
 sensitiveios
@@ -3069,6 +3079,8 @@ can'tseecontactios
 1. Cambia, temporalmente, el nombre del contacto perdido en la agenda del teléfono (no en Telegram): añade algunos símbolos, luego devuélvelo a la normalidad.
 2. Si eso no ayuda, prueba con el reinicio de sesión (en Telegram: ve a Ajustes > Editar > Cerrar sesión, luego inicia la sesión otra vez).
 
+Si no puedes encontrar a una persona en particular por su número de teléfono, también es posible que sus ajustes de privacidad no lo permitan. Puedes pedirles que te añadan a sus contactos de Telegram primero.
+
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (Android)
 {KEYS}
@@ -3088,7 +3100,9 @@ can'tseecontactandroid
 ¿Puedo pedirte que pruebes estos dos trucos?
 
 1. Por favor, vuelve a abrir la app. Para hacerlo, ve a la lista de aplicaciones que están en funcionamiento, en los ajustes de tu teléfono, y quita la aplicación de la lista.
-2. Cambia, temporalmente, el nombre del contacto en la agenda del teléfono (añádele algunos símbolos, luego devuélvelo a la normalidad).
+2. Cambia temporalmente el nombre del contacto en la agenda del teléfono (añádele algunos símbolos, luego devuélvelo a la normalidad).
+
+Si no puedes encontrar a una persona en particular por su número de teléfono, también es posible que sus ajustes de privacidad no lo permitan. Puedes pedirles que te añadan a sus contactos de Telegram primero.
 
 {QUESTION}
 I tried everything and still don't see my friend!
