@@ -407,6 +407,16 @@ Please contact the Telegram abuse department at abuse@telegram.org with all the 
 Thank you!
 
 {QUESTION}
+When user reports scam or impersonation
+{KEYS}
+scam
+notoscam
+{VALUE}
+I am very sorry, but Telegram support is done by volunteers and we aren't qualified to solve cases like this.
+
+Please contact the Telegram abuse department at abuse@telegram.org with all the details and links or use the in-app option to send a report. To report someone trying to scam other users, you can also send all the details to @NoToScam on Telegram, including messages forwarded from the scammer if you have them.
+
+{QUESTION}
 I see "this channel can’t be displayed because it was used to spread pornographic content" on iOS. Why and can I change this?
 {KEYS}
 sensitiveios
@@ -3069,6 +3079,8 @@ Could I ask you to try these two magic tricks?
 1. Temporarily change the name of the missing contact in Phone Contacts (not in Telegram) — add a few symbols, then change back again
 2. If that doesn’t help, try to re-login (in Telegram: go to Settings — Edit — Log out, then log in again).
 
+If you can't find a particular person by their phone number, it is also possible that their Privacy settings don't allow this. You can ask them to add you to their Telegram contacts first.
+
 {QUESTION}
 I can't see my friend on Telegram, but he must be here! (Android)
 {KEYS}
@@ -3088,7 +3100,9 @@ can'tseecontactandroid
 Could I ask you to try these two magic tricks?
 
 1. Please re-launch the app. To do this, go to the currently-running-apps list in your phone settings and swipe the app off the list.
-2. Temporarily change the name of the contact in phone contacts (add a few symbols, then change back again)
+2. Temporarily change the name of the contact in phone contacts (add a few symbols, then change back again).
+
+If you can't find a particular person by their phone number, it is also possible that their Privacy settings don't allow this. You can ask them to add you to their Telegram contacts first.
 
 {QUESTION}
 I tried everything and still don't see my friend!
