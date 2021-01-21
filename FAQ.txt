@@ -12,6 +12,21 @@ Should you have any questions or suggestions, please write to your local groups 
 -TRENDING-
 =================================
 
+{QUESTION}
+Do you have group calls?
+{KEYS}
+voicechat
+conference
+groupcall
+groupvoip
+{VALUE}
+With the recent update, any group can host a hop-on, hop-off conference call with up to several thousand participants:
+https://telegram.org/blog/voice-chats
+
+You can create a voice chat in any group where you're an admin.
+Android: Open the profile of the group, tap (⋮) and select Start Voice Chat.
+iOS: Open the profile of the group, tap (…) and select Start Voice Chat.
+Telegram Desktop: Open the group and click the Voice Chat icon near the chat title.
 
 {QUESTION}
 How do I use folders? (iOS)
@@ -63,33 +78,6 @@ By the way, as the Telegram Support Force is run by volunteers, we don't have th
 If you have any further questions about how the apps work or need help in solving issues you encounter, please let us know - we'll be glad to help!
 
 {QUESTION}
-What happened to the X app?
-{KEYS}
-iosx
-{VALUE}
-The default Telegram iOS App has been updated to the Swift version previously known as Telegram X. So if you have been using Telegram X, you can now enjoy it in the main version of Telegram for iOS.
-
-You can keep using Telegram X too, but since it has stopped receiving updates, we invite you to install the main version here:
-https://telegram.org/dl/ios
-
-{QUESTION}
-My phone doesn't support the new version (iOS)
-{KEYS}
-ios7
-ios6
-iosold
-{VALUE}
-The latest version of the Telegram app for iOS requires iOS 8.0 or higher. If your device only supports an older iOS version, you will be able to continue using the old app, but I'm afraid there will be no updates for you to install until you get a new device. Sorry about this! Time moves on, and the app needs to move with it, in order to bring modern features with each update.
-
-{QUESTION}
-Where is this feature on the new iOS version? Why did you remove it?
-{KEYS}
-featureios
-featureswift
-{VALUE}
-I'm afraid it is currently unavailable on the latest version of the Telegram app for iOS - but the app will be getting frequent updates with fixes and new functionality, so if something's missing right now, it should be back in future. Sorry for the trouble!
-
-{QUESTION}
 I've heard the Telegram team are planning to do something! Is this true?
 {KEYS}
 rumor
@@ -138,7 +126,6 @@ When an archived chat gets a notification, it will pop out of the folder and bac
 
 Note that you can hide the archive itself by swiping left on it and show it again by dragging the screen down.
 
-
 {QUESTION}
 How do I unarchive chats? (iOS, Android)
 {KEYS}
@@ -177,34 +164,38 @@ Open the "Archived Chats" folder > press and hold the chat, then move your finge
 
 If you don't see the "Archived Chats" folder at the top of your Chats List, drag the screen down for it to show up.
 
+{QUESTION}
+Does Telegram have Stories?
+{KEYS}
+stories
+statuswa
+{VALUE}
+There are many Telegram features that can be used for similar results:
+
+If you're looking for news, funny videos or anything else, try searching for Telegram channels about topics you like. You can also create your own channel to share your favorite moments with friends — or make it public and reach an unlimited audience. If you'd like an example, check out our official channel about Telegram features: @TelegramTips
+
+If you want to customize your profile, you can set multiple profile photos (or even profile videos!). You can also add a few words about yourself to your profile in Telegram Settings > Bio.
 
 {QUESTION}
-Why is my number visible to my contacts now?
+How do I find books/music/movies here?
 {KEYS}
-phoneprivacy
-phonedefault
-numberprivacy
-numberdefault
-phonenumberprivacy
-phonenumberdefault
+books
+music
+movies
 {VALUE}
-Throughout most of Telegram's history, your contacts could see your phone number, but this used to work in a less transparent way: after you sent any message to a person in your address book, your number became visible to them (just like with SMS).
- 
-We received many questions from users who didn't understand how this worked, so the team tried several different approaches. They finally settled on the current system: the apps now have a transparent setting, so you can choose the desired behavior in Settings > Privacy and Security > Phone number.
+I'm afraid we can't help you with this. Please note that we’ll be glad to guide you if you have questions about Telegram features, but we can’t recommend you any particular channels, bots or websites.
 
 {QUESTION}
-How do I send scheduled messages? (iOS, Android)
+Can't delete messages in channels and supergroups
 {KEYS}
-remind
-schedule
-reminder
-scheduled
+delmsg
+delmsgsg
+delmsgsuper
+delmsgsupergroups
 {VALUE}
-Hold the Send button and select "Schedule Message" to automatically send your message at a specified time.
+You can't delete received messages in channels and groups with unified chat history. If you want to free up memory, you can remove media files from your device's cache: Telegram Settings > Data and Storage > Storage Usage. The media will re-download from the cloud whenever you want to access it again.
 
-Once you've scheduled a message in a chat, a new "clock" icon will appear in your input field — pressing it opens the Scheduled Messages section for that particular chat. From there, you can adjust the timer, cancel scheduled messages or send them right away.
-
-Note that holding the Send button in the "Saved Messages" chat allows you to set reminders for yourself too.
+If you are looking for a way to mark important messages, you can forward them to your Saved Messages chat. When you do, you'll see an arrow next to the message — tapping that will bring you to that message in its original chat.
 
 {COMMENT}
 =================================
@@ -510,7 +501,7 @@ whatsappcomparison
 telegramvswhatsapp
 whatsappvstelegram
 {VALUE}
-Telegram is faster and way more secure - thanks to our multi-data center infrastructure and encryption. Besides, it is free and will stay free forever - no ads, no subscriptions.
+Telegram is faster and way more secure - thanks to our multi-data center infrastructure and encryption.
 
 To name a few unique features:
 - Access your Telegram messages from several devices at once, including tablets and computers.
@@ -571,13 +562,16 @@ Telegram is free — and will always stay free.
 
 But notice that Telegram requires an internet connection to work. Your mobile provider may charge you for sending and receiving data on your mobile phone.
 
+You can read more about our strategy for making Telegram financially sustainable here:
+https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
+
 {QUESTION}
 Can I make a donation to Telegram?
 {KEYS}
 donate
 donation
 {VALUE}
-Thank you very much for the offer. We're currently doing well thanks to a generous donation from our founder, Pavel Durov. The team will make an announcement if Telegram starts collecting donations, you can join our official channel for the latest updates:
+Thank you very much for the offer. The team will make an announcement if Telegram starts collecting donations, you can join our official channel for the latest updates:
 https://t.me/telegram
 
 {QUESTION}
@@ -1108,7 +1102,6 @@ If you'd like to get more stickers, there are a few ways:
 
 3) If that's not enough, you can try searching the web for 'Telegram Stickers' — you'll get many results.
 
-
 {QUESTION}
 How can I make my own stickers?
 {KEYS}
@@ -1262,9 +1255,11 @@ games
 gamebots
 werewolf
 {VALUE}
-There are many game bots on Telegram, made by developers from all over the world. Those that use our new Gaming Platform can be played in full-screen, with graphics and sounds. You can read more and find examples here: https://telegram.org/blog/games
+There are many game bots on Telegram, made by developers from all over the world. Those that use our new Gaming Platform can be played in full-screen, with graphics and sounds. Try @gamee or @gamebot for example.
 
 We'll be glad to guide you on how Telegram bots work in general, but if you need help with any game in particular, you'll have to ask your friends or search online.
+
+If you'd like to find more game bots, try searching the web for 'Telegram Game Bots' – you'll get many results.
 
 {QUESTION}
 Questions about third-party services
@@ -1481,9 +1476,9 @@ I want Telegram to store media on the SD card (Android)
 {KEYS}
 sdcard
 {VALUE}
-In general, it is possible to move the Telegram app to the SD card, but media files will still be stored on your phone. The specifics depend on your device.
+You can choose your SD card as a storage option for Telegram data: Settings > Data and Storage > Storage Path.
 
-If you are looking for a way to free up memory, you can instead remove Telegram temporary data from your device's  cache. It will re-download from the cloud whenever you want to access it again — so you won't lose anything and the app will always take the minimum amount of space.
+If you are looking for a way to free up memory, you can also remove Telegram temporary data from your device's cache. It will re-download from the cloud whenever you want to access it again — so you won't lose anything and the app will always take the minimum amount of space.
 
 To do this, go to Telegram Settings > Data and Storage > Storage Usage. You can configure how long unused media stays on your device or clear cached data manually from that menu. It is also possible to clear cached files from individual channels and public groups: tap and hold on them in the chats list > three dots in the top-right corner > 'Delete from cache'.
 
@@ -1516,7 +1511,7 @@ sharei
 sharepici
 sharephotoi
 {VALUE}
-To share a photo to another app, long tap on the photo in the chat and choose "More...". Then, use the share button at the bottom of the screen.
+To share a photo to another app, long tap on the photo in the chat and choose "Select". Then, use the share button at the bottom of the screen.
 
 
 {COMMENT}
@@ -1867,6 +1862,20 @@ Then, go to Telegram Settings > Privacy and Security > Passcode & Touch ID, and 
 ================================
 
 {QUESTION}
+How do I send scheduled messages? (iOS, Android)
+{KEYS}
+remind
+schedule
+reminder
+scheduled
+{VALUE}
+Hold the Send button and select "Schedule Message" to automatically send your message at a specified time.
+
+Once you've scheduled a message in a chat, a new "clock" icon will appear in your input field — pressing it opens the Scheduled Messages section for that particular chat. From there, you can adjust the timer, cancel scheduled messages or send them right away.
+
+Note that holding the Send button in the "Saved Messages" chat allows you to set reminders for yourself too.
+
+{QUESTION}
 How do I change my background? (iOS)
 {KEYS}
 bgi
@@ -2000,7 +2009,7 @@ deleteprofilepicios
 deleteprofilepicturei
 deleteprofilepictureios
 {VALUE}
-Go to Telegram Settings and tap your details at the top - then tap the camera icon that appears over your current photo and choose the "Delete Photo" option.
+Go to Telegram Settings > Edit, tap on your profile picture, swipe to choose the picture you want to delete, then tap on the trash icon.
 
 {QUESTION}
 How do I delete my profile picture? (Android, Android X)
@@ -2032,7 +2041,7 @@ deleteprofilepictureax
 deleteprofilepicandroidx
 deleteprofilepictureandroidx
 {VALUE}
-Swipe right in Chats list > Settings > tap on your profile picture > tap "..." > Delete.
+Swipe right in Chats list > Settings, tap on your profile picture, swipe to choose the picture you want to delete, then tap (⋯) > Delete.
 
 {QUESTION}
 How do I delete my profile picture? (Windows Phone)
@@ -2063,8 +2072,7 @@ hideprofilepic
 profilepicturehide
 hideprofilepicture
 {VALUE}
-You can choose who can see your profile photo in the latest version of our apps: Telegram Settings — Privacy and Security — Profile Photo.
-
+You can choose who can see your profile photo in Telegram Settings > Privacy and Security > Profile Photos.
 
 {QUESTION}
 Can I send a message to myself?
@@ -2290,13 +2298,11 @@ How can I pin a message?
 pin
 pinned
 {VALUE}
-Admins of groups and channels can pin a message to the top of the chat to inform its members about important news that might otherwise be missed. You can also pin messages in the Saved Messages chat.
+Admins of groups and channels can pin messages to the top of the chat to inform its members about important news that might otherwise be missed. You can also pin messages in one-on-ones chats and the Saved Messages chat.
 
-iOS, WP: press and hold on a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
-
-Android, Android X: tap a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
-
-Desktop: right-click a message, then select the "Pin" option. To unpin the message, just press the "x" icon to the right of it.
+iOS: press and hold on a message, then select the "Pin" option.
+Android, Android X: tap a message, then select the "Pin" option.
+Desktop: right-click a message, then select the "Pin" option.
 
 {QUESTION}
 How do I write a new message?
@@ -3426,6 +3432,33 @@ In plain words it says something like "If I had a key to your home, I could open
 So you needn't worry if you don't give away your keys. To keep your device safe, avoid clicking on suspicious links, always keep your system updated to the latest version — and don't root your device.
 
 And never trust people who try to scare you into buying their software.
+
+{QUESTION}
+What happened to the X app?
+{KEYS}
+iosx
+{VALUE}
+The default Telegram iOS App has been updated to the Swift version previously known as Telegram X. So if you have been using Telegram X, you can now enjoy it in the main version of Telegram for iOS.
+
+You can keep using Telegram X too, but since it has stopped receiving updates, we invite you to install the main version here:
+https://telegram.org/dl/ios
+
+{QUESTION}
+My phone doesn't support the new version (iOS)
+{KEYS}
+ios7
+ios6
+iosold
+{VALUE}
+The latest version of the Telegram app for iOS requires iOS 8.0 or higher. If your device only supports an older iOS version, you will be able to continue using the old app, but I'm afraid there will be no updates for you to install until you get a new device. Sorry about this! Time moves on, and the app needs to move with it, in order to bring modern features with each update.
+
+{QUESTION}
+Where is this feature on the new iOS version? Why did you remove it?
+{KEYS}
+featureios
+featureswift
+{VALUE}
+I'm afraid it is currently unavailable on the latest version of the Telegram app for iOS - but the app will be getting frequent updates with fixes and new functionality, so if something's missing right now, it should be back in future. Sorry for the trouble!
 
 {QUESTION}
 q_extra_1
