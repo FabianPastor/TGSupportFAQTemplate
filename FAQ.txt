@@ -2755,7 +2755,7 @@ videobroken
 videocalldebug
 videocallbroken
 {COMMENT}
-More detailed instructions on gettng the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
+More detailed instructions on getting the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
 {VALUE}
 Sorry to hear about that. Video Calls are still under development, and will be improved as part of our future app updates.
 
