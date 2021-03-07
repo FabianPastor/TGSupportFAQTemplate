@@ -940,7 +940,7 @@ videomessage
 audiomessages
 videomessages
 {VALUE}
-Per passare dalla modalità audio alla modalità video e viceversa, tocca l'icona in basso a destra nel campo di scrittura, in qualsiasi chat. Per registrare un videomessaggio o un messaggio vocale, tieni premuto sull'icona. Una volta terminato, smetti di premere per inviare il tuo messaggio.
+Per passare dalla modalità audio alla modalità video e viceversa, tocca l'icona sulla destra del campo di scrittura, nella stessa riga in cui si trova la graffetta per il menu degli allegati, in qualsiasi chat. Per registrare un videomessaggio o un messaggio vocale, tieni premuto sull'icona. Una volta terminato, smetti di premere per inviare il tuo messaggio.
 
 {QUESTION}
 Posso impostare uno stato?
@@ -1000,7 +1000,7 @@ Le persone che blocchi:
 
 - non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
 - non possono vedere la tua foto profilo
-- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa.
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come "ultimo accesso molto tempo fa".
 
 {QUESTION}
 Cosa sono le gif?
@@ -2336,7 +2336,7 @@ Le persone Bloccate:
 
 - non possono inviarti messaggi, iniziare chat segrete o chiamate con te e aggiungerti ai gruppi
 - non possono vedere la tua foto profilo
-- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come 'ultimo accesso molto tempo fa.
+- non possono vedere se sei in linea e l'ultimo accesso; apparirai sempre come "ultimo accesso molto tempo fa".
 
 {QUESTION}
 Come blocco un non-contatto? (Android, Android X)
