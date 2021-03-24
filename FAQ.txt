@@ -1736,7 +1736,7 @@ findusers
 addfriends
 searchuser
 findusername
-searchunsername
+searchusername
 {VALUE}
 Puoi cercare le altre persone su Telegram via username se ne hanno impostato uno. Devi scrivere almeno 5 caratteri per iniziare la ricerca. Scopri di più sugli username qui: https://telegram.org/faq/it#username-e-t-me
 
