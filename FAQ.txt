@@ -25,7 +25,7 @@ https://telegram.org/blog/voice-chats/es
 
 Puedes crear un chat de voz en cualquier grupo en el que seas administrador.
 Android: Abre el perfil del grupo, toca (⋮) y elige Iniciar chat de voz.
-iOS: Abre el perfil del grupo, toca (…) y elige Iniciar chat de voz.
+iOS: Abre el perfil del grupo, toca (⋯) y elige Iniciar chat de voz.
 Telegram Desktop: Abre el grupo y haz clic en el icono de chat de voz que está cerca del título.
 
 {QUESTION}
@@ -106,9 +106,9 @@ archiveiOS
 {VALUE}
 Puedes archivar chats para ordenar tus chats activos y los inactivos, separar tus cosas personales de las conversaciones de trabajo o limpiar tu lista de chats como tú quieras.
 
-Para archivar un chat, encuéntralo en tu lista de chats y deslízalo desde el borde derecho de la pantalla hacia la izquierda. Esto lo moverá a la carpeta de 'Chats archivados'.
+Para archivar un chat, encuéntralo en tu lista de chats y deslízalo desde el borde derecho de la pantalla hacia la izquierda. Esto lo moverá a la carpeta 'Chats archivados'.
 
-Cuando un chat archivado recibe una notificación, saldrá de la carpeta de chats archivados y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
+Cuando un chat archivado recibe una notificación, saldrá de la carpeta y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
 
 Ten en cuenta que puedes ocultar tu archivo deslizándolo hacia la izquierda en la lista de chats. Si quieres verlo de nuevo, arrastra la pantalla hacia abajo una vez que hayas llegado a su tope superior.
 
@@ -122,7 +122,7 @@ Puedes archivar chats para ordenar tus chats activos e inactivos, separar lo per
 
 Si estás usando carpetas, deslizar no funciona para archivar: en su lugar mantén pulsado el chat y luego selecciona el icono de Archivar.
 
-Cuando un chat archivado recibe una notificación, saldrá de la carpeta de chats archivados y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
+Cuando un chat archivado recibe una notificación, saldrá de la carpeta y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
 
 Ten en cuenta que puedes ocultar tu archivo deslizándolo hacia la izquierda en la lista de chats. Si quieres verlo de nuevo, arrastra la pantalla hacia abajo una vez que hayas llegado a su tope superior.
 
@@ -147,9 +147,9 @@ archiveandroidx
 {VALUE}
 Puedes archivar chats para ordenar tus chats activos y los inactivos, separar tus cosas personales de las conversaciones de trabajo o limpiar tu lista de chats como tú quieras.
 
-Para archivar un chat, mantén pulsado sobre él en la lista de chats y luego mueve tu dedo al icono de Archivar en la parte inferior de la vista previa del chat. Esto lo moverá a tu carpeta de 'Chats archivados'.
+Para archivar un chat, mantén pulsado sobre él en la lista de chats y luego mueve tu dedo al icono de Archivar en la parte inferior de la vista previa del chat. Esto lo moverá a tu carpeta 'Chats archivados'.
 
-Cuando un chat archivado recibe una notificación, saldrá de la carpeta de chats archivados y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
+Cuando un chat archivado recibe una notificación, saldrá de la carpeta y aparecerá de nuevo en tu lista de chats. Los chats silenciados permanecerán archivados.
 
 Ten en cuenta que puedes ocultar el propio archivo: mantén pulsado sobre él y luego mueve tu dedo al botón de la flecha.
 
@@ -160,7 +160,7 @@ unarchiveax
 unarchiveandroidx
 {VALUE}
 Para mover uno de tus chats archivados de vuelta a la lista principal de chats:
-Abre la carpeta de 'Chats archivados' > Mantén pulsado en el chat y luego mueve tu dedo al icono de Desarchivar.
+Abre la carpeta 'Chats archivados' > Mantén pulsado en el chat y luego mueve tu dedo hasta el icono Desarchivar.
 
 Si no ves la carpeta 'Chats archivados' en la parte de superior de la lista de chats, arrastra la pantalla hacia abajo para mostrarla.
 
@@ -417,7 +417,7 @@ adulti
 {VALUE}
 Los chats con contenido sensible de acceso público podrían estar restringidos debido a las estrictas normas del App Store de Apple al respecto.
 
-De todos modos, podrías considerar desactivar el filtro en los ajustes de la versión web de Telegram (también disponible para dispositivos móviles) o en la app para ordenadores: https://telegram.org/apps
+De todos modos, podrías considerar desactivar el filtro en los ajustes de la versión web de Telegram (también disponible para dispositivos móviles) o en la app para ordenadores: https://telegram.org/apps/es
 
 {QUESTION}
 When conversation is over
@@ -472,7 +472,7 @@ telegramcan
 whatistelegram
 {VALUE}
 Con Telegram puedes realizar llamadas, enviar mensajes, fotos, vídeos y archivos a tus amigos en cualquier parte, y gratis. Puedes usarla, simultáneamente, en todos tus dispositivos (móviles, tablets y ordenadores):
-https://telegram.org/apps
+https://telegram.org/apps/es
 
 Telegram está enfocada en la velocidad y seguridad. Todas las aplicaciones oficiales de Telegram son de código abierto y no tienen publicidad. Dime si quieres saber más sobre la seguridad en Telegram.
 
@@ -512,7 +512,7 @@ Por nombrar algunas características únicas:
 - Encuentra canales y bots personalizados sobre el tema que quieras. Puedes pedirme algunos ejemplos.
 
 Aquí tienes una lista de las aplicaciones de Telegram para todas las plataformas:
-https://telegram.org/apps
+https://telegram.org/apps/es
 Dime si quieres conocer más sobre Telegram. O mira este enlace, ya que una imagen vale más que 1000 palabras:
 https://telegram.org/#what-can-you-do-with-Telegram
 
@@ -533,9 +533,9 @@ Nuestra versión web oficial: https://web.telegram.org
 
 Nuestra aplicación oficial de escritorio para Windows, Linux y Mac: https://desktop.telegram.org
 
-Nuestra aplicación oficial nativa para macOS: https://telegram.org/dl/macOS
+Nuestra aplicación oficial nativa para macOS: https://telegram.org/dl/macos
 
-Siempre puedes consultar https://telegram.org/apps para ver los enlaces directos a cada una de las aplicaciones.
+Siempre puedes consultar https://telegram.org/apps/es para ver los enlaces directos a cada una de las aplicaciones.
 
 {QUESTION}
 How do you make money?
@@ -581,7 +581,7 @@ source
 github
 sourcecode
 {VALUE}
-Puedes acceder a https://telegram.org/apps#source-code para ver los enlaces al código fuente de cada una de nuestras aplicaciones.
+Puedes acceder a https://telegram.org/apps/es#codigo-fuente para ver los enlaces al código fuente de cada una de nuestras aplicaciones.
 
 {QUESTION}
 Why is Telegram fast?
@@ -806,7 +806,7 @@ hideonlinestatus
 {VALUE}
 Puedes seleccionar quién puede ver tu estado en línea y de última vez en los ajustes de Privacidad y seguridad > Última vez y en línea.
 
-Si no compartes tu última vez con alguien, sólo te verán 'en línea' durante un breve periodo de tiempo cuando es obvio que estás en línea:
+Si no compartes tu última vez con un usuario, ese usuario sólo te verá “En línea” por un corto periodo de tiempo cuando es obvio que estás en línea:
 - Cuando envías un mensaje a ellos o a un grupo donde ambos sois miembros.
 - Cuando lees un mensaje que te enviaron en un chat entre dos personas.
 - Cuando apareces como 'escribiendo…' para ellos o en un grupo donde ambos sois miembros.
@@ -1736,13 +1736,13 @@ findusers
 addfriends
 searchuser
 findusername
-searchunsername
+searchusername
 {VALUE}
 Puedes buscar a otros usuarios de Telegram por su nombre de usuario, si tienen configurado uno. Tienes que escribir al menos 5 caracteres para iniciar la búsqueda. Lee más sobre los nombres de usuario aquí: https://telegram.org/faq/es#nombres-de-usuario-y-t-me
 
-Android, Android X: Toca sobre el icono de la lupa de la esquina superior derecha, en la lista de chats, y escribe en la barra de búsqueda.
+Android, Android X: Toca sobre el icono de la lupa de la esquina superior derecha, en la pantalla de chats, y escribe en la barra de búsqueda.
 
-iOS: Deslízate hacia arriba en la lista de chats y luego toca en la caja de búsqueda superior.
+iOS: Deslízate hacia arriba en la pantalla de chats y luego toca en la caja de búsqueda superior.
 
 WP: Ve a Contactos, luego toca sobre el icono de la lupa y escribe en la barra de búsqueda.
 
@@ -1767,7 +1767,7 @@ verifyu
 verifyuser
 {VALUE}
 Lo siento, pero Telegram no tiene verificación de cuentas de usuarios por el momento. La verificación sólo está disponible para canales, bots o grupos que sean grandes, activos y oficiales:
-https://telegram.org/verify
+https://telegram.org/verify/es
 
 Ten en cuenta que la verificación no te da ninguna ventaja en Telegram. Sólo tiene utilidad si quieres demostrar que tu cuenta de Telegram es oficial. Si es ese tu caso, aquí tienes otra idea: podrías publicar tu nombre de usuario de Telegram en tu web oficial o en cualquier otra cuenta oficial que tengas en otros servicios. Así probarás que realmente eres tú para tu audiencia y les ayudarás a encontrarte aquí.
 
@@ -1783,7 +1783,7 @@ El equipo de Telegram generalmente verifica canales oficiales activos, bots o gr
 2. Facebook o Instagram (uno es suficiente)
 3. YouTube
 
-Si este es el caso, añade un enlace a tu canal de Telegram en tus perfiles en esos servicios, para que así podamos confirmar que efectivamente te pertenecen. Una vez hecho, contacta a nuestro @VerifyBot para la verificación. Más información sobre las reglas de verificación (en inglés): https://telegram.org/verify
+Si este es el caso, añade un enlace a tu canal de Telegram en tus perfiles en esos servicios, para que así podamos confirmar que efectivamente te pertenecen. Una vez hecho, contacta a nuestro @VerifyBot para la verificación. Más información sobre las reglas de verificación: https://telegram.org/verify/es
 
 Por favor, ten en cuenta que la verificación no te da opciones extra en Telegram. Es útil sólo si quieres demostrar que tu canal es oficial. Un enlace en tu sitio oficial o en cualquier otra cuenta oficial en otra parte puede lograr el mismo objetivo.
 
@@ -1958,7 +1958,7 @@ profilepictureandroid
 changeprofilepicandroid
 changeprofilepictureandroid
 {VALUE}
-Para cambiar tu foto de perfil, desliza hacia la derecha en la lista de chats > Ajustes > y toca sobre el icono de la cámara para poner una imagen nueva.
+Para cambiar tu foto de perfil, desliza hacia la derecha en la pantalla de chats > Ajustes > y toca sobre el icono de la cámara para poner una imagen nueva.
 
 {QUESTION}
 How do I change my profile picture? (Android X)
@@ -1975,7 +1975,7 @@ profilepictureandroidx
 changeprofilepicandroidx
 changeprofilepictureandroidx
 {VALUE}
-Para cambiar tu foto de perfil, desliza hacia la derecha en la lista de chats > Ajustes > toca sobre tu foto de perfil > y elige 'Cámara' o 'Galería'.
+Para cambiar tu foto de perfil, desliza hacia la derecha en la pantalla de chats > Ajustes > toca sobre tu foto de perfil > y elige 'Cámara' o 'Galería'.
 
 {QUESTION}
 How do I change my profile picture? (Windows Phone)
@@ -2009,7 +2009,7 @@ deleteprofilepicios
 deleteprofilepicturei
 deleteprofilepictureios
 {VALUE}
-Ve a los Ajustes de Telegram y toca sobre tus detalles en la parte superior. Luego toca sobre el icono de la cámara que aparece sobre de tu foto y elige la opción 'Eliminar foto'.
+Ve a los Ajustes de Telegram > Editar, toca tu foto de perfil, desliza para elegir la foto que quieras eliminar y luego toca el icono de la papelera.
 
 {QUESTION}
 How do I delete my profile picture? (Android, Android X)
@@ -2041,7 +2041,7 @@ deleteprofilepictureax
 deleteprofilepicandroidx
 deleteprofilepictureandroidx
 {VALUE}
-Desliza hacia la derecha en la lista de Chats > Ajustes > Toca tu foto de perfil > Toca (⋯) > Eliminar.
+Desliza hacia la derecha en la pantalla de chats > Ajustes > toca tu foto de perfil, desliza para elegir la foto que quieras eliminar y luego toca (⋯) > Eliminar.
 
 {QUESTION}
 How do I delete my profile picture? (Windows Phone)
@@ -2698,7 +2698,7 @@ logout
 {VALUE}
 Por lo general no es necesario cerrar sesión cuando estás usando Telegram, porque puedes tenerla funcionando en todos tus dispositivos al mismo tiempo. ¿Sabías que cuando inicias sesión de nuevo, puedes obtener el código en cualquier otra aplicación de Telegram en vez de en un SMS? Siempre que dicha aplicación haya estado activa recientemente. Puedes hacer esto cuando inicies la sesión y ahorrar tiempo.
 
-Android, Android X: Desliza hacia la derecha en la lista de chats para abrir el menú, luego ve a Ajustes > toca (⋮) en la esquina superior derecha > Cerrar sesión.
+Android, Android X: Desliza hacia la derecha en la pantalla de chats para abrir el menú, luego ve a Ajustes > toca (⋮) en la esquina superior derecha > Cerrar sesión.
 
 iOS, macOS: Ajustes > Editar > deslízate hasta abajo, y luego 'Cerrar sesión'.
 
@@ -2755,7 +2755,7 @@ videobroken
 videocalldebug
 videocallbroken
 {COMMENT}
-More detailed instructions on gettng the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
+More detailed instructions on getting the logs: https://trello.com/c/YqGvzA4L/342-how-to-obtain-call-and-video-call-logs
 {VALUE}
 Sentimos que tengas inconvenientes. Las videollamadas aún están en desarrollo y serán mejoradas en nuestras futuras actualizaciones de la app.
 
@@ -2768,7 +2768,7 @@ Sentimos que tengas inconvenientes. Las videollamadas aún están en desarrollo 
 Aquí tienes cómo hacerlo. Encuentra la llamada en tu historial de chat y luego:
 Android: Haz un toque al lado del mensaje de “Videollamada” > Evaluar llamada > Evalúala con 1 estrella y elige “Incluir información técnica” > toca Enviar. Esto enviará el archivo de registro a un chat llamado “VOIP Support”. Si puedes reenviar el archivo desde ese chat hacia este chat de “Voluntarios de soporte” sería de gran ayuda. ¡Gracias!
 iOS: Mantén pulsado sobre el mensaje de “Videollamada” > Share Statistics > elige este chat de “Voluntarios de soporte”.
-Desktop: Abre la carpeta de la app > ve a la subcarpeta DebugLogs > envíanos el archivo “last_call_log.txt”.
+Desktop: Abre la carpeta de la app > Ve a la subcarpeta DebugLogs > envíanos el archivo 'last_call_log.txt'.
 macOS: Haz clic con el botón secundario sobre el mensaje de “Videollamada” > Compartir registros de llamada > elige este chat de “Voluntarios de soporte”.
 
 Si puedes, por favor, pídele a la otra persona que te envíe su archivo de registro de la llamada. Luego, debes reenviarlo a este chat. Si hay algo que no te queda claro o si encuentras cualquier problema, por favor, dinos. Con gusto te ayudaremos.
@@ -3342,11 +3342,11 @@ activesessions
 terminatesession
 terminatesessions
 {VALUE}
-Cuando inicias sesión en Telegram, te enviamos un mensaje con un código para iniciar sesión. NO ENTREGUES ESTE CÓDIGO A NADIE. Si lo compartes, otras personas podrán iniciar sesión en tu cuenta.
+Cuando inicias sesión en Telegram te enviamos un mensaje con un código de activación. NO LE DES ESTE CÓDIGO A NADIE. Si entregas tu código a otras personas, podrán entrar en tu cuenta.
 
 Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Dispositivos. Si ves algo sospechoso, puedes finalizar la sesión allí.
 
-También puedes establecer una contraseña para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activado, necesitarás esa contraseña y el código que te enviemos para iniciar sesión en Telegram.
+Además, puedes configurar una contraseña adicional para tu cuenta. Para hacer esto, ve a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activada, necesitarás la contraseña Y un código para iniciar sesión en Telegram.
 
 {QUESTION}
 I think I was hacked, what do I do? (TDesktop)
@@ -3372,11 +3372,11 @@ activesessionsdesktop
 terminatesessiondesktop
 terminatesessionsdesktop
 {VALUE}
-Cuando inicias sesión en Telegram, te enviamos un mensaje con un código para iniciar sesión. NO ENTREGUES ESTE CÓDIGO A NADIE. Si lo compartes, otras personas podrán iniciar sesión en tu cuenta.
+Cuando inicias sesión en Telegram te enviamos un mensaje con un código de activación. NO LE DES ESTE CÓDIGO A NADIE. Si entregas tu código a otras personas, podrán entrar en tu cuenta.
 
-Para ver todas las sesiones activas en tu cuenta, ve a Ajustes > Privacidad y Seguridad > Sesiones Activas. Si ves algo sospechoso, puedes finalizar la sesión allí.
+Para ver todas las sesiones activas de tu cuenta de Telegram, ve a Ajustes > Dispositivos. Si ves algo sospechoso, puedes cerrar las sesiones desde ahí.
 
-También puedes establecer una contraseña para tu cuenta. Para hacerlo, accede a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activado, necesitarás esa contraseña y el código que te enviemos para iniciar sesión en Telegram.
+Además, puedes configurar una contraseña adicional para tu cuenta. Para hacer esto, ve a Ajustes > Privacidad y Seguridad > Verificación en dos pasos. Una vez activada, necesitarás la contraseña Y un código para iniciar sesión en Telegram.
 
 {QUESTION}
 I’ve read there’s a paper revealing several major exploits in Telegram!
