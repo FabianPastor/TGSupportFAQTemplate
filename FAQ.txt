@@ -13,20 +13,19 @@ TRENDING
 =================================
 
 {QUESTION}
-Avete le chiamate di gruppo?
+Come avvio una chat vocale?
 {KEYS}
 voicechat
 conference
 groupcall
 groupvoip
 {VALUE}
-Con l'ultimo aggiornamento, qualsiasi gruppo può ospitare una conferenza call accendi-spegni con diverse migliaia di partecipanti:
-https://telegram.org/blog/voice-chats/it
+Puoi creare una chat vocale in qualsiasi gruppo o canale in cui sei amministratore. 
+Android: Apri il profilo del tuo gruppo o canale, tocca (⋮) e scegli Avvia chat vocale.
+iOS: Apri il profilo del tuo gruppo o canale, tocca Chat vocale e scegli Avvia chat vocale.
+Telegram Desktop: Apri il profilo del tuo gruppo o canale e clicca l'icona Chat vocale di fianco al titolo della chat.
 
-Puoi creare una chat vocale in qualsiasi gruppo in cui sei amministratore.
-Android: Apri il profilo del gruppo, tocca (⋮) e scegli Avvia chat vocale.
-iOS: Apri il profilo del gruppo, tocca (…) e scegli Avvia chat vocale.
-Telegram Desktop: Apri il profilo del gruppo e clicca l'icona Chat vocale di fianco al titolo della chat.
+Se vuoi scoprire di più sulle chat vocali, dai un'occhiata al nostro blog: https://telegram.org/blog/voice-chats-on-steroids/it
 
 {QUESTION}
 Come uso le cartelle? (iOS)
@@ -253,16 +252,6 @@ Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiorna
 https://play.google.com/store/apps/details?id=org.thunderdog.challegram
 
 {QUESTION}
-L'utente usa una versione non aggiornata (Windows Phone)
-{KEYS}
-updwp
-updatewp
-updatewindowsphone
-{VALUE}
-Per favore aggiorna la tua app, abbiamo notato che usi una versione non aggiornata. Puoi trovare l'ultima versione di Telegram per Windows Phone qui:
-https://telegram.org/dl/wp
-
-{QUESTION}
 L'utente usa una versione non aggiornata (macOS)
 {KEYS}
 updosx
@@ -343,8 +332,7 @@ Per favore, ricorda che questa chat è usata per il supporto. I nostri volontari
 
 iOS: Impostazioni di Telegram > Messaggi salvati.
 Android, Android X: Menu principale > Tocca l'opzione Messaggi salvati.
-Windows Phone: Chat > Nuova chat > tocca su "Tu".
-Desktop: Clicca sul pulsante menù nell'angolo in alto a sinistra della lista chat > quindi clicca l'icona del segnalibro o la tua foto profilo.
+Desktop: Clicca sul pulsante menu nell'angolo in alto a sinistra della lista chat > quindi clicca l'icona del segnalibro.
 
 Puoi accedere a tutto quello che invii in questa chat archivio da qualsiasi dispositivo in cui ti connetti, incluso il tuo PC.
 
@@ -484,10 +472,7 @@ E qui una piccola panoramica di quello che puoi fare con Telegram:
 - Goditi bot personalizzati di Telegram per giochi, istruzione, qualsiasi tipo di informazione. Sentiti libero di chiedere qualche esempio.
 - Scegli un design alternativo per la tua app usando i temi personalizzati.
 
-Puoi trovare info sugli ultimi aggiornamenti qui:
-https://telegram.org/blog
-E seguirci su Twitter per essere il primo a sapere dei nostri aggiornamenti:
-https://twitter.com/telegram_it
+Per scoprire di più sulle funzioni di Telegram, dai un'occhiata a https://t.me/TelegramTipsIT/123
 
 {QUESTION}
 È uguale a WA?
@@ -622,8 +607,8 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram è usato da più di 400 milioni di persone in tutto il globo. 
-https://telegram.org/blog/400-million
+Telegram è usato da più di 500 milioni di persone in tutto il mondo:
+https://t.me/durov/147
 
 {QUESTION}
 Quando è stato rilasciato Telegram?
@@ -665,9 +650,11 @@ updatedate
 whennewfeatures
 whennextupdatecoming
 {VALUE}
-Mi spiace, ma non promettiamo mai date di rilascio precise, dato che potrebbero cambiare. È più semplice per te attivare gli aggiornamenti automatici del Google Play Store, dell'App Store di Apple o del Windows Phone Store rispettivamente. In questo modo sarai sempre uno dei primi a ricevere aggiornamenti.
+Ci dispiace, ma non promettiamo mai date di rilascio precise, perché potrebbe sempre succedere qualcosa di inaspettato.
 
-Puoi anche unirti al nostro canale ufficiale su Telegram o seguirci su Twitter:
+Tieni presente che è possibile attivare gli aggiornamenti automatici nel Play Store di Google o nell'App Store di Apple. Gli utenti Android possono anche scaricare Telegram direttamente dal nostro sito web per ottenere i nuovi aggiornamenti più velocemente: https://telegram.org/android
+
+Se vuoi essere il primo a conoscere i nostri aggiornamenti, puoi unirti al nostro canale ufficiale Telegram o seguirci su Twitter:
 https://t.me/telegram
 https://twitter.com/telegram_it
 Descriviamo sempre gli aggiornamenti importanti delle nostre app lì.
@@ -717,24 +704,6 @@ whytelegramname
 Il vecchio telegramma era il metodo più veloce, più sicuro e più economico per la comunicazione a lunga distanza; ha unito le persone nel mondo più di quanto sia mai stato fatto prima (dai un'occhiata http://it.wikipedia.org/wiki/Telegrafo).
 
 Quello ci assomiglia parecchio.
-
-{QUESTION}
-Vi servono più utenti. Fate più pubblicità!
-{KEYS}
-adverts
-outreach
-recommend
-moreusers
-advertise
-marketing
-advertising
-{VALUE}
-Telegram non è una società commerciale e noi non facciamo pubblicità o marketing.
-Questo non ci ha impedito di arrivare a 400 milioni di utenti attivi al mese.
-https://telegram.org/blog/400-million
-
-Se ti piace Telegram, consiglialo ai tuoi amici e alla tua famiglia.
-Porta una o due persone che ti sono vicine, quindi assisti alla reazione a catena.
 
 {QUESTION}
 Posso unirmi? Assumete persone?
@@ -899,12 +868,9 @@ videocalli
 videocallsa
 videocallsi
 {VALUE}
-Telegram ha lanciato di recente la prima versione delle Videochiamate:
-https://telegram.org/blog/video-calls/it
-
 È possibile avviare una videochiamata dalla pagina del profilo del contatto e attivare o disattivare il video in qualsiasi momento durante le chiamate vocali.
 
-Tieni presente che è necessario che sia installata la versione più recente dell'app. Non vedrai il pulsante videochiamata se il destinatario non utilizza una versione di Telegram in grado di accettare una videochiamata o se non puoi chiamarlo a causa delle sue impostazioni sulla privacy.
+Non vedrai il pulsante videochiamata se il destinatario non utilizza una versione di Telegram in grado di accettare una videochiamata o se non puoi chiamarlo a causa delle sue impostazioni sulla privacy.
 
 {QUESTION}
 Avete le chiamate?
@@ -1778,10 +1744,14 @@ verify
 verifych
 verifychannel
 {VALUE}
-Il team di Telegram generalmente verifica canali ufficiali attivi, bot o gruppi pubblici che hanno un account verificato su ciascuno di questi servizi:
-1. Twitter
-2. Facebook o Instagram (uno è sufficiente)
-3. YouTube
+Il team di Telegram generalmente verifica canali ufficiali attivi, bot o gruppi pubblici che hanno un account verificato su almeno due di questi servizi:
+1. TikTok
+2. Instagram
+3. Facebook
+4. YouTube
+5. Twitter
+6. VK
+7. Snapchat
 
 In tal caso, aggiungi un link al tuo canale Telegram sui tuoi profili su questi servizi, in modo che possiamo confermare che appartengono davvero a te. Una volta fatto, per favore contatta il nostro @VerifyBot per la verifica. Maggiori informazioni per le linee guida sulla verifica: https://telegram.org/verify
 
@@ -2408,7 +2378,7 @@ Telegram rimane sincronizzato con la tua rubrica telefonica, quindi se vuoi elim
 
 Per rimuovere un contatto su Telegram:
 1. Apri una chat con il contatto che vuoi eliminare.
-2. Tocca la foto o il titolo per aprire il profilo della chat.
+2. Tocca il titolo per aprire il profilo della chat.
 3. Tocca su "..." nell'angolo in alto a destra e scegli "Elimina".
 
 Ricorda: Se tieni il contatto sulla tua rubrica, Telegram lo aggiungerà di nuovo.
@@ -2666,13 +2636,18 @@ Se vuoi cambiare il numero di telefono su Telegram, devi prima di tutto assicura
 
 Ricorda: Se elimini l'account attualmente collegato al tuo nuovo numero, non potrà essere recuperato - quindi assicurati di non aver bisogno dell'account prima di eliminarlo.
 
-Se vuoi continuare, qui sotto ci sono i passi più semplici per effettuare questa operazione. Ti consigliamo inoltre di usare un browser non mobile per farlo.
+Se vuoi continuare, qui sotto ci sono i passi più semplici per effettuare questa operazione.
 
-1. Usa una qualunque delle nostre app per collegarti all'account associato al tuo nuovo numero - per esempio, vai su https://web.telegram.org, inserisci il tuo nuovo numero di telefono lì e accedi usando il codice ricevuto via SMS su quel numero.
+1. Usa un dispositivo mobile per accedere con l'account attualmente associato al tuo nuovo numero. Le app di Telegram ti permettono di rimanere collegato su diversi account contemporaneamente:
+Android: scorri verso destra nella lista di Chat per aprire il menu > Tocca la freccia verso il basso (di fianco al numero di telefono) > Aggiungi account.
+iOS: Vai nelle Impostazioni di Telegram > Modifica > Aggiungi un altro account.
+Disattiva "Sincronizza contatti", inserisci il tuo nuovo numero di telefono e accedi usando il codice che ricevi via SMS sul tuo numero.
 
-2. Una volta collegato con l'account del nuovo numero, vai su https://telegram.org/deactivate e inserisci il nuovo numero di telefono, nel formato internazionale. Riceverai quindi una password attraverso Telegram (tieni un'occhio sull'app con cui ti sei collegato nel punto 1). Inserisci la password ed elimina il tuo account.
+https://telegram.org/deactivate — copia questo link, aprilo nel tuo browser e inserisci il tuo nuovo numero, in formato internazionale. 
 
-3. Ora, apri il tuo account principale su un dispositivo mobile, vai nelle Impostazioni di Telegram > Numero di telefono > Cambia numero > inserisci il nuovo numero. Se necessario, inserisci il codice che ricevi via SMS nel nuovo numero
+3. Ora riceverai una password attraverso Telegram (tieni d'occhio l'app con cui ti sei collegato nel punto 1). Inserisci la password ed elimina il tuo account.
+
+4. Ora, apri il tuo account principale e vai nelle Impostazioni di Telegram > Numero di telefono > Cambia numero > inserisci il nuovo numero. Se necessario, inserisci il codice che ricevi via SMS nel nuovo numero
 
 Fatto!
 
@@ -3019,35 +2994,6 @@ Se le notifiche non funzionano per qualche motivo, controlla quanto segue:
 - Controlla se il contatto o il gruppo è silenziato.
 
 - Prova questo trucchetto: chiudi Telegram (vai nella home, doppio tap sul tasto home, scorri verso l'alto su Telegram per chiuderlo, quindi Impostazioni di iOS, imposta il tipo di notifica di Telegram su "Nessuno". Rilancia Telegram, vai nelle impostazioni del telefono, reimposta lo stile di notifica sui banner.
-
-{QUESTION}
-Le notifiche non funzionano (Windows Phone)
-{KEYS}
-notwp
-nonotificationswp
-brokennotificationswp
-notificationsdontworkwp
-nonotificationswindowsphone
-brokennotificationswindowsphone
-notificationsdontworkwindowsphone
-{COMMENT}
-Inoltre assicurati che l'utente abbia installato l'ultima versione di Telegram.
-{VALUE}
-Ci possono essere vari motivi per cui le notifiche non funzionano, per cui ci scusiamo in anticipo per il lungo messaggio.
-Per favore, controlla queste cose:
-
-- Vai nelle Impostazioni di Telegram > Notifiche e suoni, controlla che le notifiche siano ATTIVE.
-
-- Vai nelle impostazioni del telefono > Action Center > Telegram, e assicurati che le notifiche siano abilitate per Telegram.
-
-- Controlla se il contatto o il gruppo è silenziato.
-
-- Prova questo trucchetto: vai nelle Impostazioni di Telegram > Notifiche e Suoni > Ripristina Notifiche. Quindi chiudi Telegram (tieni premuto sulla freccia indietro, scorri verso il basso) e riaprilo.
-
-Durante l'installazione di Telegram, il sistema di chiede di accettare le notifiche push. Se hai rifiutato, le notifiche non funzioneranno. Dovrai reinstallare l'app per poterle attivare di nuovo — spiacenti, ma Windows Phone non offre alcuna alternativa al momento.
-Per favore ricorda che le chat segrete verranno perse reinstallando. Le altre chat sono archiviate criptate nel Cloud di Telegram, quindi le ritroverai se reinstalli Telegram.
-
-PS: Ricordati, non riceverai alcuna notifica se ti disconnetti da Telegram.
 
 {QUESTION}
 Non riesco a vedere i miei contatti (Android)
