@@ -13,20 +13,19 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
-Do you have group calls?
+How do I start a voice chat?
 {KEYS}
 voicechat
 conference
 groupcall
 groupvoip
 {VALUE}
-With the recent update, any group can host a hop-on, hop-off conference call with up to several thousand participants:
-https://telegram.org/blog/voice-chats
+You can create a voice chat in any group or channel where you're an admin. 
+Android: Open the profile of your group or channel, tap (⋮) and select Start Voice Chat.
+iOS: Open the profile of your group or channel, tap Voice chat and select Start Voice Chat.
+Telegram Desktop: Open your group or channel and click the Voice Chat icon near the chat title.
 
-You can create a voice chat in any group where you're an admin.
-Android: Open the profile of the group, tap (⋮) and select Start Voice Chat.
-iOS: Open the profile of the group, tap (…) and select Start Voice Chat.
-Telegram Desktop: Open the group and click the Voice Chat icon near the chat title.
+If you want to learn more about Voice Chats, please check out our blog: https://telegram.org/blog/voice-chats-on-steroids/
 
 {QUESTION}
 How do I use folders? (iOS)
@@ -253,16 +252,6 @@ Please update your app, we've noticed you're using an outdated version. You can 
 https://play.google.com/store/apps/details?id=org.thunderdog.challegram
 
 {QUESTION}
-User using outdated app (Windows phone)
-{KEYS}
-updwp
-updatewp
-updatewindowsphone
-{VALUE}
-Please update your app, we've noticed you're using an outdated version. You can find the latest Telegram for Windows Phone here:
-https://telegram.org/dl/wp
-
-{QUESTION}
 User using outdated app (macOS)
 {KEYS}
 updosx
@@ -343,8 +332,7 @@ Please note that this chat is used for support. Our volunteers read and view eve
 
 iOS: Telegram Settings > Saved Messages.
 Android, Android X: Main menu > Tap the Saved Messages option.
-Windows Phone: Chats > New chat > tap on "You".
-Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon or your profile picture.
+Desktop: Click on the menu button at the top-left of your Chats List > then click the bookmark icon.
 
 You can access everything you send to this storage chat on any number of devices you connect, including your PC.
 
@@ -484,10 +472,7 @@ And here's a brief overview of what else you can do with Telegram:
 - Enjoy custom Telegram bots for games, education or any sort of information. Feel free to ask me for some examples.
 - Choose an alternative design for your app using custom themes.
 
-You can read about our latest changes here:
-https://telegram.org/blog
-And follow us on Twitter to be the first to know about our updates:
-https://twitter.com/telegram
+To find out more about Telegram features, have a look at https://t.me/TelegramTips/233
 
 {QUESTION}
 Is this the same as WA?
@@ -622,8 +607,8 @@ useramount
 totalusers
 howmanyusers
 {VALUE}
-Telegram is used by over 400 million people around the world.
-https://telegram.org/blog/400-million
+Telegram is used by over 500 million people around the world:
+https://t.me/durov/147
 
 {QUESTION}
 When was Telegram released?
@@ -665,9 +650,11 @@ updatedate
 whennewfeatures
 whennextupdatecoming
 {VALUE}
-Sorry, but we never promise exact release dates, as life might get in the way. It's easiest if you turn automatic updates on in Google's Play Store, Apple's App Store, or Windows Phone Store respectively. This way, you'll always be one of the first to get updates.
+Sorry, but we never promise exact release dates, as life might get in the way.
 
-You can also join our official Telegram channel or follow us on Twitter:
+Note that you can turn automatic updates on in Google's Play Store or Apple's App Store respectively. Android users can also download Telegram directly from our website to get new updates faster: https://telegram.org/android
+
+If you want to be the first to know about our updates, you can join our official Telegram channel or follow us on Twitter:
 https://t.me/telegram
 https://twitter.com/telegram
 We always describe significant updates to our apps there.
@@ -717,24 +704,6 @@ whytelegramname
 The old-school telegram used to be the fastest, safest, and cheapest way for long-distance communication once; it brought people around the globe closer together than ever before (check out https://en.wikipedia.org/wiki/Telegraphy).
 
 That sounded a lot like us.
-
-{QUESTION}
-You need more users! Advertise more!
-{KEYS}
-adverts
-outreach
-recommend
-moreusers
-advertise
-marketing
-advertising
-{VALUE}
-Telegram isn't a commercial organization and we don't do advertising or marketing.
-This hasn't stopped us from reaching 400 million monthly active users.
-https://telegram.org/blog/400-million
-
-If you like Telegram, please recommend it to your friends and family.
-Bring one or two people you're close with, then watch the chain reaction.
 
 {QUESTION}
 Can I join you? Are you hiring?
@@ -899,12 +868,9 @@ videocalli
 videocallsa
 videocallsi
 {VALUE}
-Telegram has recently launched the first version of Video Calls:
-https://telegram.org/blog/video-calls
-
 You can start a video call from your contact's profile page, and switch video on or off at any time during voice calls.
 
-Note that both of you need to have the latest app version installed. You won't see the Video Call button if your recipient doesn't use any Telegram versions that can accept a video call, or if you cannot call them because of their privacy settings.
+You won't see the Video Call button if your recipient doesn't use any Telegram versions that can accept a video call, or if you cannot call them because of their privacy settings.
 
 {QUESTION}
 Do you have calls?
@@ -1778,10 +1744,14 @@ verify
 verifych
 verifychannel
 {VALUE}
-The Telegram team generally verifies active official channels, bots or public groups that have verified accounts on each of these services:
-1. Twitter
-2. Facebook or Instagram (one is enough)
-3. YouTube
+The Telegram team generally verifies active official channels, bots or public groups that have verified accounts on at least two of these services:
+1. TikTok
+2. Instagram
+3. Facebook
+4. YouTube
+5. Twitter
+6. VK
+7. Snapchat
 
 If this is the case, please add a link to your Telegram channel to your profiles on these services — so that we can confirm that they indeed belong to you. Once this is done, please contact our @VerifyBot for verification. More information about verification guidelines: https://telegram.org/verify
 
@@ -2408,7 +2378,7 @@ Telegram stays in sync with your phone contacts, so if you want to delete a cont
 
 To remove a contact on Telegram:
 1. Open a chat with the contact you want to delete.
-2. Tap the photo or title to open the chat profile.
+2. Tap the title to open the chat profile.
 3. Tap the "..." in the top-right corner and choose "Delete".
 
 Note: if you keep this contact in your phone book, Telegram will add it again.
@@ -2666,13 +2636,18 @@ If you want to change your current phone number in Telegram, you must first ensu
 
 Note: If you delete the account currently connected to your new number, it cannot be recovered - so please make sure you don't need the account before deleting it.
 
-If you wish to continue, below are the easiest steps to perform this process. We also recommend that you use a non-mobile browser to do this.
+If you wish to continue, below are the easiest steps to perform this process.
 
-1. Use any of our apps to log in with the account currently associated with your new number - e.g. go to https://web.telegram.org, enter your new phone number there and log in using the code you receive via SMS to the number.
+1. Use a mobile device to log in with the account currently associated with your new number. Telegram apps let you stay signed in on several accounts simultaneously:
+Android: Swipe right in the chat list to open the menu > Tap on the arrow down (next to your phone number) > Add Account.
+iOS: Go to Telegram Settings > Edit > Add Another Account.
+Turn off "Sync contacts" there, enter your new phone number and log in using the code you receive via SMS to the number.
 
-2. Once logged into the new number’s account, navigate to https://telegram.org/deactivate and enter your new phone number there, in international format. You will now receive a password through Telegram (keep an eye on the app you logged on to in step 1). Enter the password and delete the account.
+2. https://telegram.org/deactivate — copy this link, open it in your browser and enter your new phone number there, in international format. 
 
-3. Now, open your main account on a mobile device, go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number
+3. You will now receive a password through Telegram (keep an eye on the app you logged on to in step 1). Enter the password and delete the account.
+
+4. Now, open your main account and go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number.
 
 Done!
 
@@ -3019,35 +2994,6 @@ If notifications don't work for some reason, please check the following:
 - Check whether contact or group is muted.
 
 - Try this trick: shut down Telegram (go to home screen, double tap home button, swipe upwards on Telegram, then go to iOS Settings, set alert style for Telegram to NONE. Re-launch Telegram, go to phone settings, set alert style back to banners.
-
-{QUESTION}
-Notifications don't work (Windows Phone)
-{KEYS}
-notwp
-nonotificationswp
-brokennotificationswp
-notificationsdontworkwp
-nonotificationswindowsphone
-brokennotificationswindowsphone
-notificationsdontworkwindowsphone
-{COMMENT}
-Please also make sure the user has the latest version of Telegram installed.
-{VALUE}
-There can be several reasons why notifications may not work, so we apologize in advance for the long text.
-Please check the following:
-
-- Go to Telegram Settings > Notifications and Sounds, make sure that notifications are ON.
-
-- Go to your phone settings > Action Center > Telegram, make sure that notifications for Telegram are enabled.
-
-- Check whether the contact or group is muted.
-
-- Try this trick: go to Telegram Settings > Notifications and Sounds > Reset Notifications. Then shut down Telegram (long press on back arrow key, swipe downwards) and relaunch it.
-
-During the installation of Telegram, your system asked you to confirm push notifications. If you rejected, notifications won't work. You'll have to reinstall the app in order to enable them — sorry, but Windows Phone doesn't offer an alternative way at the moment.
-Please note that secret chats will be lost on reinstall. Other chats are stored encrypted in the Telegram Cloud, so you will safely keep them if you reinstall Telegram.
-
-PS: Remember, you will not get any notifications if you log out from Telegram.
 
 {QUESTION}
 I can’t see my contacts (Android)
