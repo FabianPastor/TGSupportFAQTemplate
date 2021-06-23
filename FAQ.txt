@@ -688,7 +688,7 @@ telegramcloud
 {VALUE}
 La Sicurezza è una delle principali attenzioni di Telegram; tutto ciò che invii e ricevi è fortemente criptato. I dati delle tue chat cloud sono archiviati e criptati nel Cloud di Telegram.
 
-Se non ti piace l'idea della sincronizzazione tra più dispositivi, puoi usare le Chat Segrete. I messaggi nelle chat segrete usano la crittografia end-to-end e possono essere decrifrati solo dal tuo dispositivo e da quello del destinatario. Non fanno parte del cloud e sono accessibili solamente dal device di partenza. E se ti disconnetti, sono perse per sempre.
+Se non ti piace l'idea della sincronizzazione tra più dispositivi, puoi usare le Chat Segrete. I messaggi nelle chat segrete usano la crittografia end-to-end e possono essere decifrati solo dal tuo dispositivo e da quello del destinatario. Non fanno parte del cloud e sono accessibili solamente dal device di partenza. E se ti disconnetti, sono perse per sempre.
 
 {QUESTION}
 Perché lo avete chiamato Telegram?
