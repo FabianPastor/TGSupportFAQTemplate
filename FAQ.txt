@@ -547,7 +547,7 @@ Telegram è gratis - e lo rimarrà per sempre.
 
 Tuttavia, tieni presente che Telegram richiede una connessione ad internet per funzionare. Il tuo gestore di telefonia mobile potrebbe addebitarti dei costi per l'invio e la recezione di dati sul tuo cellulare.
 
-Puoi di più sulla nostra strategia per rendere Telegram finanziariamente sostenibile qui:
+Puoi scoprire di più sulla nostra strategia per rendere Telegram finanziariamente sostenibile qui:
 https://telegram.org/faq/it#d-come-avete-intenzione-di-ricavarci-dei-soldi
 
 {QUESTION}
@@ -2721,6 +2721,28 @@ Maggiori info ed esempi qui: https://telegram.org/blog/passport
 ===================
 -RISOLUZIONE DEI PROBLEMI-
 ===================
+
+{QUESTION}
+Voglio acceder da desktop/web, come posso ricevere un codice via SMS?
+{KEYS}
+smsweb
+smsdesktop
+{VALUE}
+Puoi ricevere il codice di accesso tramite Telegram sui tuoi altri dispositivi o accedere tramite codice QR. Entrambi richiedono un dispositivo già connesso - quindi se non ne hai, accedi prima a Telegram sul tuo telefono o tablet.
+
+{QUESTION}
+Non ho uno smartphone. Come posso accedere a Telegram da desktop/web?
+{KEYS}
+smsweb2
+smsdesktop2
+nosmartphone
+{VALUE}
+Temo che tu non possa usare i codici SMS per accedere alle app di Telegram per desktop e web, quindi devi prima accedere a Telegram sul cellulare. Ci scusiamo per questo. Se non hai uno smartphone, possiamo suggerirti i seguenti rimedi:
+
+1. Chiedi a un amico o a un membro della famiglia di prestarti il suo telefono. Accedi a Telegram lì, quindi ricevi un codice di accesso per il tuo dispositivo desktop.
+Nota: disattiva "Sincronizza contatti" quando accedi a Telegram sul telefono di qualcun altro, in modo che l'app non sincronizzi i tuoi contatti con la loro rubrica.
+
+2. Usa un emulatore per eseguire Android sul tuo PC e installa Telegram per Android. Prova a cercare sul web "emulatori Android" - otterrai molti risultati.
 
 {QUESTION}
 Le videochiamate non funzioano
