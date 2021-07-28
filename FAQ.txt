@@ -1451,7 +1451,6 @@ To do this, go to Telegram Settings > Data and Storage > Storage Usage. You can 
 {QUESTION}
 Why do I see a warning about scam in bot’s messages?
 {KEYS}
-scam
 lara
 larabot
 scambot
@@ -2723,6 +2722,28 @@ More info and examples here: https://telegram.org/blog/passport
 ===================
 
 {QUESTION}
+I want to log in on desktop/web, how do I receive a code via SMS?
+{KEYS}
+smsweb
+smsdesktop
+{VALUE}
+You can receive the login code via Telegram on your other devices or log in via QR code. Both require an already connected device — so if you don't have any, please log in to Telegram on your phone or tablet first.
+
+{QUESTION}
+I don't have a smartphone. How do I log in to Telegram on desktop/web?
+{KEYS}
+smsweb2
+smsdesktop2
+nosmartphone
+{VALUE}
+I'm afraid you can't use SMS codes to log in to Telegram apps for desktop and web, so you need to log in to Telegram on mobile first. Sorry about this. If you don't have a smartphone, we can suggest the following workarounds:
+
+1. Ask a friend or family member to lend you their phone. Log in to Telegram there, then receive a login code for your desktop device.
+Note: turn off "Sync contacts" when logging in to Telegram on someone else's phone, so that the app doesn't sync your contacts with their phone book.
+
+2. Use an emulator to run Android on your PC and install Telegram for Android. Try searching the web for "Android emulators" — you'll get many results.
+
+{QUESTION}
 Video Calls are broken
 {KEYS}
 videodebug
@@ -3093,6 +3114,20 @@ resetcontactsi
 If you have contacts in your Telegram account which you don't recognise, perhaps you logged in on another person's phone and all their contacts were uploaded to your account.
 
 You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device. For this, go to Settings > Privacy and Security > Data Settings > Delete Synced Contacts.
+
+{QUESTION}
+I'm getting 'joined' notifications for people I don't recognize!
+{KEYS}
+resetcon
+resetcontact
+resetcontacts
+{VALUE}
+If you have contacts in your Telegram account which you don't recognise, perhaps you logged in on another person's phone and all their contacts were uploaded to your account.
+
+You can wipe all previously uploaded contacts from Telegram, and then upload the current phonebook from your device. 
+
+Android: Telegram Settings > Privacy and Security > Delete Synced Contacts.
+iOS: Telegram Settings > Privacy and Security > Data Settings > Delete Synced Contacts.
 
 {QUESTION}
 Telegram doesn't connect!
