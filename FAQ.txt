@@ -2189,7 +2189,7 @@ Existen dos formas de añadir miembros a tu grupo:
 
 1. Si quieres añadir a tus contactos, haz clic en (⋮) en el encabezado del chat de grupo > Añadir miembros. También puedes añadir a personas si conoces sus nombres de usuario, aunque no es recomendable si ellos no lo han solicitado.
 
-2. Si quieres usar un enlace de invitación para tu grupo que pueda ser compartido con otros, haz clic en (⋮) en el encabezado del chat > 'Gestionar grupo' > 'Tipo de grupo', y podrás ver el enlace de invitación o generar uno nuevo debajo del título 'Enlace de invitación'.
+2. Si quieres usar un enlace de invitación para que tu grupo pueda ser compartido con otros, haz clic en (⋮) en el encabezado del chat > 'Gestionar grupo' > 'Tipo de grupo', y podrás ver el enlace de invitación o generar uno nuevo debajo del título 'Gestionar enlaces de invitación'.
 
 Por favor, ten en cuenta que si un usuario decide salir de tu grupo, no podrás volverlo a añadir usando el primer método a no ser que seáis contactos mutuos. Como alternativa, podrán usar un enlace de invitación y regresar por sí mismos.
 
@@ -2723,6 +2723,28 @@ Puedes ver más información y ejemplos en: https://telegram.org/blog/passport
 ===================
 
 {QUESTION}
+I want to log in on desktop/web, how do I receive a code via SMS?
+{KEYS}
+smsweb
+smsdesktop
+{VALUE}
+Puedes recibir el código para iniciar sesión a través de Telegram en tus otros dispositivos o iniciar sesión con un código QR. Ambas opciones requieren un dispositivo ya conectado, así que si no tienes ninguno, por favor, inicia la sesión de Telegram en tu teléfono o tablet primero.
+
+{QUESTION}
+I don't have a smartphone. How do I log in to Telegram on desktop/web?
+{KEYS}
+smsweb2
+smsdesktop2
+nosmartphone
+{VALUE}
+Me temo que no puedes usar códigos SMS para iniciar sesión en apps de Telegram para ordenador o web, así que necesitas iniciar sesión en Telegram en un móvil primero. Lo sentimos. Si no tienes un teléfono inteligente, podemos sugerirte estas alternativas:
+
+1. Pídele a un amigo o familiar que te preste su teléfono. Inicia sesión en Telegram ahí, luego recibe el código de inicio de sesión para tu ordenador.
+Nota: desactiva la opción “Sincronizar contactos” al iniciar sesión en Telegram en el dispositivo de otra persona, para que así la app no importe sus contactos a tu cuenta de Telegram.
+
+2. Usa un emulador para ejecutar Android en tu PC e instala Telegram para Android. Prueba buscando “emuladores de Android” en la web y obtendrás muchos resultados.
+
+{QUESTION}
 Video Calls are broken
 {KEYS}
 videodebug
@@ -3081,7 +3103,7 @@ resetcontactsa
 {VALUE}
 Si tienes contactos en tu cuenta de Telegram que no reconoces, quizá iniciaste sesión en el teléfono de otra persona y todos sus contactos fueron importados a tu cuenta.
 
-Puedes eliminar todos los contactos importados previamente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo. Para hacer esto, ve a Ajustes > Privacidad y seguridad > Ajustes de datos > Eliminar contactos sincronizados.
+Puedes eliminar todos los contactos importados previamente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo. Para hacer esto, ve a Ajustes > Privacidad y seguridad > Eliminar contactos sincronizados.
 
 {QUESTION}
 I'm getting 'joined' notifications for people I don't recognize! (iOS)
@@ -3093,6 +3115,20 @@ resetcontactsi
 Si tienes contactos en tu cuenta de Telegram que no reconoces, quizá iniciaste sesión en el teléfono de otra persona y todos sus contactos fueron importados a tu cuenta.
 
 Puedes eliminar todos los contactos importados previamente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo. Para hacer esto, ve a Ajustes > Privacidad y seguridad > Ajustes de datos > Eliminar contactos sincronizados.
+
+{QUESTION}
+I'm getting 'joined' notifications for people I don't recognize!
+{KEYS}
+resetcon
+resetcontact
+resetcontacts
+{VALUE}
+Si tienes contactos en tu cuenta de Telegram que no reconoces, quizá iniciaste sesión en el teléfono de otra persona y todos sus contactos fueron importados a tu cuenta.
+
+Puedes limpiar todos los contactos importados anteriormente en Telegram, y luego importar tu agenda de contactos actual desde tu dispositivo. 
+
+Android: Ajustes de Telegram > Privacidad y seguridad > Eliminar contactos sincronizados.
+iOS: Ajustes de Telegram > Privacidad y seguridad > Ajustes de datos > Eliminar contactos sincronizados
 
 {QUESTION}
 Telegram doesn't connect!
