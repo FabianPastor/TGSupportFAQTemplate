@@ -589,7 +589,7 @@ crypto
 encrypted
 encryption
 {VALUE}
-Supportiamo due livelli di crittografia sicura (server-client e client-client). La nostra crittografia è basata sulla crittografia simmetraica AES 256-bit, crittografia RSA 2048 e scambio di chiavi sicure Diffie–Hellman.
+Supportiamo due livelli di crittografia sicura (server-client e client-client). La nostra crittografia è basata sulla crittografia simmetrica AES 256-bit, crittografia RSA 2048 e scambio di chiavi sicure Diffie–Hellman.
 
 Quando una chat segreta viene creata, i dispositivi dei partecipanti si scambiano le chiavi di crittografia usando il metodo Diffie-Hellman. Dopo che una connessione sicura end-to-end è stata stabilita, generiamo un'immagine che visualizza la chiave di crittografia per la tua chat.
 
@@ -906,7 +906,7 @@ videomessage
 audiomessages
 videomessages
 {VALUE}
-Per passare dalla modalità audio alla modalità video e viceversa, tocca l'icona sulla destra del campo di scrittura, nella stessa riga in cui si trova la graffetta per il menu degli allegati, in qualsiasi chat. Per registrare un videomessaggio o un messaggio vocale, tieni premuto sull'icona. Una volta terminato, smetti di premere per inviare il tuo messaggio.
+Per passare dai messaggi vocali ai videomessaggi e viceversa, tocca l'icona sulla destra del campo di scrittura (sarà un microfono o una videocamera, a seconda dell'ultima modalità utilizzata), nella stessa riga in cui si trova la graffetta per il menu degli allegati, in qualsiasi chat. Per registrare un videomessaggio o un messaggio vocale, tieni premuto sull'icona. Una volta terminato, rilascia per inviare il tuo messaggio.
 
 {QUESTION}
 Posso impostare uno stato?
@@ -1451,7 +1451,6 @@ Per farlo, vai su Impostazioni Telegram > Dati e archiviazione > Utilizzo memori
 {QUESTION}
 Perché vedo un messaggio di attenzione riguardo alle truffe nei messaggi del bot?
 {KEYS}
-scam
 lara
 larabot
 scambot
@@ -1732,7 +1731,7 @@ Come posso verificare il mio account?
 verifyu
 verifyuser
 {VALUE}
-Sono spiacente, ma al momento Telegram non verifica gli account degli utenti. La verifica è disponibile solo per i canali grandi e attivi, i bot e i canali pubblici.
+Sono spiacente, ma al momento Telegram non verifica gli account degli utenti. La verifica è disponibile solo per canali, bot e gruppi pubblici attivi e di grandi dimensioni.
 https://telegram.org/verify
 
 Per favore ricorda che la verifica non aggiunge alcuna abilità speciale a Telegram. È utile solamente se vuoi dimostrare che il tuo account qui è ufficiale. Se questo è il tuo caso, ecco un'altra idea: puoi pubblicare il tuo username di Telegram sul tuo sito ufficiale, o nei tuoi altri account — questo proverà al tuo pubblico che sei tu e li aiuterà a trovarti qui.
@@ -3115,6 +3114,20 @@ resetcontactsi
 Se hai dei contatti nel tuo account Telegram che non riconosci, forse hai eseguito l'accesso in un dispositivo di un'altra persona e tutti i suoi contatti sono stati caricati nel tuo account.
 
 Puoi cancellare tutti i contatti caricati in precedenza da Telegram, e quindi caricare la tua rubrica attuale dal tuo dispositivo. Per farlo, vai in Impostazioni > Privacy e sicurezza > Impostazioni dati > Elimina contatti sincronizzati.
+
+{QUESTION}
+Ricevo notifiche di iscrizione per contatti che non riconosco 
+{KEYS}
+resetcon
+resetcontact
+resetcontacts
+{VALUE}
+Se hai dei contatti nel tuo account Telegram che non riconosci, forse hai eseguito l'accesso in un dispositivo di un'altra persona e tutti i suoi contatti sono stati caricati nel tuo account.
+
+Puoi cancellare tutti i contatti caricati in precedenza da Telegram, e quindi caricare la tua rubrica attuale dal tuo dispositivo. 
+
+Android: Impostazioni di Telegram > Privacy e sicurezza > Elimina i contatti sincronizzati.
+iOS: Impostazioni di Telegram > Privacy e sicurezza > Impostazioni dati > Elimina i contatti sincronizzati.
 
 {QUESTION}
 Telegram non si connette!
