@@ -13,19 +13,24 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
-How do I start a voice chat?
+How do I start a video chat?
 {KEYS}
 voicechat
 conference
 groupcall
 groupvoip
+videochat
+livestream
 {VALUE}
-You can create a voice chat in any group or channel where you're an admin. 
-Android: Open the profile of your group or channel, tap (⋮) and select Start Voice Chat.
-iOS: Open the profile of your group or channel, tap Voice chat and select Start Voice Chat.
-Telegram Desktop: Open your group or channel and click the Voice Chat icon near the chat title.
+You can create a video chat in any group or channel where you're an admin. 
 
-If you want to learn more about Voice Chats, please check out our blog: https://telegram.org/blog/voice-chats-on-steroids/
+iOS, Android: tap 'Video Chat' (in Groups) or 'Live Stream' (in Channels) on the profile page of a community where you are an admin.
+
+Telegram Desktop: click on the Live Stream button in the title bar of a community where you are an admin.
+
+If you want to learn more about Video Chats, please check out our blog:
+https://telegram.org/blog/group-video-calls
+https://telegram.org/blog/live-streams-forwarding-next-channel#unlimited-live-streams
 
 {QUESTION}
 How do I use folders? (iOS)
