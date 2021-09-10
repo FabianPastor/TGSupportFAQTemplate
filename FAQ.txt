@@ -13,19 +13,24 @@ Should you have any questions or suggestions, please write to your local groups 
 =================================
 
 {QUESTION}
-How do I start a voice chat?
+How do I start a video chat?
 {KEYS}
 voicechat
 conference
 groupcall
 groupvoip
+videochat
+livestream
 {VALUE}
-Puedes crear un chat de voz en cualquier grupo o canal en el que seas administrador. 
-Android: Abre el perfil del grupo o canal > toca (⋮) y elige Iniciar chat de voz.
-iOS: Abre el perfil del grupo o canal, toca Chat de voz y elige Iniciar chat de voz
-Telegram Desktop: Abre el grupo o canal y haz clic en el icono de Chat de voz que está cerca del título.
+Puedes crear un videochat en cualquier grupo o canal en el que seas administrador. 
 
-Si quieres saber más sobre los chats de voz, mira nuestro blog: https://telegram.org/blog/voice-chats-on-steroids/es
+iOS, Android: toca 'Videochat' (en grupos) o 'Stream' (en canales) en el perfil de una comunidad en la que seas administrador.
+
+Telegram Desktop: haz clic en el botón de Stream en directo en la barra de título de una comunidad en la que seas administrador.
+
+Si quieres saber más sobre los videochats, mira nuestro blog:
+https://telegram.org/blog/group-video-calls/es
+https://telegram.org/blog/live-streams-forwarding-next-channel/es?ln=a#streams-en-directo-sin-limites
 
 {QUESTION}
 How do I use folders? (iOS)
@@ -1451,7 +1456,6 @@ Para hacer esto, ve a Ajustes de Telegram > Datos y almacenamiento > Uso de alma
 {QUESTION}
 Why do I see a warning about scam in bot’s messages?
 {KEYS}
-scam
 lara
 larabot
 scambot
