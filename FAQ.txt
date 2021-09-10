@@ -13,19 +13,24 @@ TRENDING
 =================================
 
 {QUESTION}
-Come avvio una chat vocale?
+Come avvio una chat video?
 {KEYS}
 voicechat
 conference
 groupcall
 groupvoip
+videochat
+livestream
 {VALUE}
-Puoi creare una chat vocale in qualsiasi gruppo o canale in cui sei amministratore. 
-Android: Apri il profilo del tuo gruppo o canale, tocca (⋮) e scegli Avvia chat vocale.
-iOS: Apri il profilo del tuo gruppo o canale, tocca Chat vocale e scegli Avvia chat vocale.
-Telegram Desktop: Apri il profilo del tuo gruppo o canale e clicca l'icona Chat vocale di fianco al titolo della chat.
+Puoi creare una chat video in qualsiasi gruppo o canale in cui sei amministratore. 
 
-Se vuoi scoprire di più sulle chat vocali, dai un'occhiata al nostro blog: https://telegram.org/blog/voice-chats-on-steroids/it
+iOS, Android: tocca “Chat video” (nei gruppi) o “Diretta streaming” (nei canali) sulla pagina profilo di una community in cui sei amministratore.
+
+Telegram Desktop: clicca sul pulsante Diretta streaming nella barra del titolo di una community di cui sei amministratore.
+
+Se vuoi scoprire di più sulle Chat Video, per favore controlla il nostro blog:
+https://telegram.org/blog/group-video-calls/it
+https://telegram.org/blog/live-streams-forwarding-next-channel/it?ln=a#dirette-streaming-illimitate
 
 {QUESTION}
 Come uso le cartelle? (iOS)
