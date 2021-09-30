@@ -22,11 +22,11 @@ groupvoip
 videochat
 livestream
 {VALUE}
-You can create a video chat in any group or channel where you're an admin. 
+You can start a video chat in any group or channel where you're an admin.
 
-iOS, Android: tap 'Video Chat' (in Groups) or 'Live Stream' (in Channels) on the profile page of a community where you are an admin.
+iOS, Android: tap 'Video Chat' or 'Live Stream' on the chat profile page.
 
-Telegram Desktop: click on the Live Stream button in the title bar of a community where you are an admin.
+Desktop: click the Live Stream button at the top-right of the chat.
 
 If you want to learn more about Video Chats, please check out our blog:
 https://telegram.org/blog/group-video-calls
@@ -905,7 +905,6 @@ How do I send audio and video messages?
 {KEYS}
 audio
 button
-videochat
 audiomessage
 videomessage
 audiomessages
