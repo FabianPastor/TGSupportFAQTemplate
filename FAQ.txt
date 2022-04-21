@@ -22,11 +22,11 @@ groupvoip
 videochat
 livestream
 {VALUE}
-Puoi creare una chat video in qualsiasi gruppo o canale in cui sei amministratore. 
+Puoi creare una chat video in qualsiasi gruppo o canale in cui sei amministratore.
 
-iOS, Android: tocca “Chat video” (nei gruppi) o “Diretta streaming” (nei canali) sulla pagina profilo di una community in cui sei amministratore.
+iOS, Android: tocca 'Chat video' o 'Diretta streaming' nella pagina di info della chat.
 
-Telegram Desktop: clicca sul pulsante Diretta streaming nella barra del titolo di una community di cui sei amministratore.
+Desktop: clicca il pulsante Diretta streaming nell'angolo in alto a destra della chat.
 
 Se vuoi scoprire di più sulle Chat Video, per favore controlla il nostro blog:
 https://telegram.org/blog/group-video-calls/it
@@ -905,7 +905,6 @@ Come invio messaggi vocali e videomessaggi?
 {KEYS}
 audio
 button
-videochat
 audiomessage
 videomessage
 audiomessages
@@ -3360,7 +3359,7 @@ terminatesessionsdesktop
 {VALUE}
 Quando accedi a Telegram, ti inviamo un messaggio con un codice di accesso. NON FORNIRE QUESTO CODICE A NESSUNO. Se dai questo codice a qualcuno, sarà in grado di accedere al tuo account di Telegram.
 
-Per vedere tutte le sessioni attive del tuo Account, vai nelle Impostazioni — Privacy e Sicuerzza —  Sessioni attive. Se vedi qualcosa di sospetto, puoi terminare la sessione da lì.
+Per vedere tutte le sessioni attive del tuo Account, vai nelle Impostazioni — Privacy e Sicurezza —  Sessioni attive. Se vedi qualcosa di sospetto, puoi terminare la sessione da lì.
 
 Puoi impostare una password aggiuntiva per il tuo account. Per fare questo, vai nelle Impostazioni — Privacy e Sicurezza — Verifica in due passaggi. Una volta abilitata, avrai bisogno di una password E di un codice di accesso su Telegram.
 
@@ -3426,7 +3425,7 @@ iosx
 {VALUE}
 La normale app di Telegram per iOS è stata aggiornata alla versione in Swift precedentemente conosciuta come Telegram X. Quindi se stai usando Telegram X, puoi goderti le sue funzioni nella versione principale di Telegram per iOS.
 
-Potrai continuare a usare anche Telegram X, ma dato che ha smesso di ricevere aggiornamenti e non è più disponibile nell'App Store, ti consigliamo di scaricare l'app normale da qui:
+L’app Telegram X è obsoleta e smettera di funzionare a breve. Per continuare a usare Telegram, scarica l’ultima versione dell’app da qui:
 https://telegram.org/dl/ios
 
 {QUESTION}
