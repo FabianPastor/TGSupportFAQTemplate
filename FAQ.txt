@@ -2663,8 +2663,8 @@ phonestolen
 {VALUE}
 Prima di tutto, ci spiace per il tuo telefono. Sfortunatamente, il numero di telefono è l'unico identificativo per un utente Telegram al momento, per cui devi seguire questa procedura:
 
-1. Prima di tutto, devi contattare il tuo operatore telefonico e farti bloccare la  vecchia SIM per fartene dare una nuova con lo stesso numero di telefono.
-2. Se sei collegato a Telegram in uno dei tuoi altri dispositivi, vai in Impostazioni > Privacy e sicurezza > Sessioni attive (o Impostazioni > Dispositivi dai dispositivi mobili) e termina tutte le altre sessioni. Questo disconetterà tutti gli altri dispositivi. Se la vecchia SIM è già stata bloccata, nessuno potrà accedere ai tuoi dati. Puoi riprendere il normale utilizzo di Telegram.
+1. Prima di tutto, devi contattare il tuo operatore telefonico e farti bloccare la vecchia SIM per fartene dare una nuova con lo stesso numero di telefono.
+2. Se sei collegato a Telegram in uno dei tuoi altri dispositivi, vai in Impostazioni > Privacy e sicurezza > Sessioni attive (o Impostazioni > Dispositivi da mobile) e termina tutte le altre sessioni. Questo disconnetterà tutti gli altri dispositivi. Se la vecchia SIM è già stata bloccata, nessuno potrà accedere ai tuoi dati. Puoi riprendere il normale utilizzo di Telegram.
 3. Se non sei collegato su Telegram, attendi di ricevere la nuova SIM con il vecchio numero, collegati su Telegram, quindi vai nelle Impostazioni — Termina le altre sessioni. Quindi potrai riprendere il normale utilizzo di Telegram.
 
 Per favore, ricorda che gli account Telegram hanno un timer di autodistruzione attivato in automatico. Questo significa che gli account Teelgram sono eliminati automaticamente dopo 6 mesi di inattività (puoi cambiare questo nelle Impostazioni — Privacy e Sicurezza, con opzioni che vanno da 1 mese a 1 anno).
