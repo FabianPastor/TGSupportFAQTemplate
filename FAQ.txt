@@ -3334,7 +3334,7 @@ Per vedere tutte le sessioni attive del tuo Account, vai in Impostazioni — Dis
 Puoi impostare una password aggiuntiva per il tuo account. Per fare questo, vai nelle Impostazioni — Privacy e Sicurezza — Verifica in due passaggi. Una volta abilitata, avrai bisogno di una password E di un codice di accesso su Telegram.
 
 {QUESTION}
-Penso di essere stato hackerata, cosa devo fare? (TDesktop)
+Penso di essere stato hackerato, cosa devo fare? (TDesktop)
 {COMMENT}
 Alcuni ingegneri sociali stanno ingannando gli utenti e chiedendo loro di inviare screenshot con il codice di accesso, etc.
 {KEYS}
